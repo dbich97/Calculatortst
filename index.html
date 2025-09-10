@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculator</title>
+
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="The all-in-one calculator hub. From age to health metrics, find all the calculators you need in one place. Simple, fast, and accurate." />
+    <meta name="keywords" content="calculator, age calculator, health calculator, free online calculator" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://aistudio.google.com/">
+    <meta property="og:title" content="Calculator - Your All-in-One Calculator Hub">
+    <meta property="og:description" content="From age to health metrics, find all the calculators you need in one place. Simple, fast, and accurate.">
+    <meta property="og:image" content="https://storage.googleapis.com/aistudio-bucket/social-share/age_calculator_social_card.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://aistudio.google.com/">
+    <meta property="twitter:title" content="Calculator - Your All-in-One Calculator Hub">
+    <meta property="twitter:description" content="From age to health metrics, find all the calculators you need in one place. Simple, fast, and accurate.">
+    <meta property="twitter:image" content="https://storage.googleapis.com/aistudio-bucket/social-share/age_calculator_social_card.png">
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              primary: '#1e40af',
+              secondary: '#3b82f6',
+              accent: '#9333ea',
+              neutral: '#1f2937',
+              'base-100': '#ffffff',
+              'base-200': '#f3f4f6',
+              'base-300': '#e5e7eb',
+            },
+          },
+        },
+      }
+    </script>
+  <script type="importmap">
+{
+  "imports": {
+    "react": "https://aistudiocdn.com/react@^19.1.1",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.1.1/",
+    "react/": "https://aistudiocdn.com/react@^19.1.1/",
+    "react-router-dom": "https://aistudiocdn.com/react-router-dom@^7.8.2",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.17.0"
+  }
+}
+</script>
+</head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="./index.tsx"></script>
+  </body>
+</html>

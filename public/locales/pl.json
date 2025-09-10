@@ -1,0 +1,414 @@
+{
+  "title": "Kalkulator",
+  "selectLanguage": "Wybierz język",
+  "days": "Dni",
+  "weeks": "Tygodnie",
+  "navHome": "Strona główna",
+  "navCalculator": "Kalkulator Wieku",
+  "navTimeAndDate": "Czas i Data",
+  "navHealthCalculators": "Kalkulatory Zdrowia",
+  "navPregnancyCalculator": "Ciąża",
+  "navOvulationCalculator": "Owulacja",
+  "navMenstrualCycleCalculator": "Cykl Miesiączkowy",
+  "navCalorieCalculator": "Kalkulator Kalorii",
+  "navTimeCalculator": "Kalkulator Czasu",
+  "navAbout": "O nas",
+  "footerRights": "© {year} Kalkulator. Wszelkie prawa zastrzeżone.",
+  "footerPrivacyPolicy": "Polityka Prywatności",
+  "footerContactUs": "Kontakt",
+  "homeTitle": "Twoje Centrum Kalkulatorów All-in-One",
+  "homeDescription": "Od wieku po wskaźniki zdrowotne, znajdź wszystkie potrzebne kalkulatory w jednym miejscu. Prosto, szybko i dokładnie.",
+  "homeCTAText": "Oblicz Swój Wiek",
+  "homeBasicCalculatorTitle": "Prosty Kalkulator",
+  "homeHealthCalculatorsTitle": "Odkryj Kalkulatory Zdrowia",
+  "homePregnancyCalculatorDescription": "Oszacuj termin porodu i śledź swoją podróż ciążową.",
+  "homeOvulationCalculatorDescription": "Określ swoje najbardziej płodne dni, aby pomóc w planowaniu rodziny.",
+  "homeMenstrualCycleCalculatorDescription": "Śledź swój cykl i z łatwością przewiduj następną miesiączkę.",
+  "homeCalorieCalculatorDescription": "Oblicz swoje dzienne zapotrzebowanie kaloryczne, aby osiągnąć swoje cele fitness.",
+  "homeTimeCalculatorDescription": "Dodawaj lub odejmuj okresy czasu na potrzeby pracy, projektów lub hobby.",
+  "seoTitle": "Darmowy Kalkulator Wieku Online - Oblicz Swój Wiek na podstawie Daty Urodzenia",
+  "seoDescription": "Łatwo oblicz swój wiek w latach, miesiącach i dniach za pomocą naszego darmowego i dokładnego kalkulatora wieku online. Dowiedz się więcej o swojej dacie urodzenia, w tym o dniu tygodnia i odliczaniu do następnych urodzin. Obsługuje wiele języków.",
+  "seoKeywords": "kalkulator wieku, oblicz wiek, kalkulator daty urodzenia, ile mam lat, kalkulator wieku online, kalkulator urodzin, darmowy kalkulator wieku",
+  "h1": "Kalkulator Wieku Online",
+  "h2": "Wprowadź swoją datę urodzenia",
+  "dateOfBirthLabel": "Data urodzenia",
+  "dayLabel": "Dzień",
+  "monthLabel": "Miesiąc",
+  "yearLabel": "Rok",
+  "calculateButton": "Oblicz Wiek",
+  "errorInvalidDate": "Proszę wprowadzić prawidłową datę.",
+  "errorFutureDate": "Data urodzenia nie może być w przyszłości.",
+  "resultPrefix": "Masz",
+  "resultSuffix": ".",
+  "years": "Lat",
+  "months": "Miesięcy",
+  "moreInfoTitle": "Więcej o Twoich Urodzinach",
+  "dayOfWeekLabel": "Dzień tygodnia, w którym się urodziłeś/aś",
+  "seasonLabel": "Pora roku Twojego urodzenia (półkula północna)",
+  "nextBirthdayLabel": "Dni do Twoich następnych urodzin",
+  "shareResultTitle": "Udostępnij Swój Wynik",
+  "shareResultText": "Właśnie dowiedziałem/am się, że mam {years} lat, {months} miesięcy i {days} dni, używając tego fajnego kalkulatora wieku!",
+  "copyResultButton": "Kopiuj wynik",
+  "resultCopiedTooltip": "Skopiowano!",
+  "calendarType": "Typ Kalendarza",
+  "gregorian": "Gregoriański",
+  "hijri": "Hidżry",
+  "monthsArray": ["Styczeń", "Luty", "Marzec", "Kwiecień", "Maj", "Czerwiec", "Lipiec", "Sierpień", "Wrzesień", "Październik", "Listopad", "Grudzień"],
+  "hijriMonthsArray": ["Muharram", "Safar", "Rabi' al-awwal", "Rabi' al-thani", "Dżumada al-ula", "Dżumada al-akhira", "Radżab", "Szaban", "Ramadan", "Szawwal", "Zulkada", "Zulhidżdża"],
+  "daysOfWeekArray": ["Niedziela", "Poniedziałek", "Wtorek", "Środa", "Czwartek", "Piątek", "Sobota"],
+  "seasonsArray": ["Zima", "Wiosna", "Lato", "Jesień"],
+  "seoSections": [
+    {
+      "heading": "Jak Działa Nasz Kalkulator Wieku",
+      "paragraphs": [
+        "Nasz Kalkulator Wieku oblicza Twój wiek z dużą precyzją, porównując Twoją datę urodzenia z bieżącą datą. Narzędzie oblicza całkowity upływający czas i dzieli go na lata, miesiące i dni. Uwzględnia lata przestępne, aby zapewnić dokładny wynik, co czyni go niezawodnym narzędziem dla każdego, kto pyta 'ile mam lat?'. Wystarczy wpisać datę urodzenia, a kalkulator natychmiast wyświetli Twój wiek chronologiczny."
+      ]
+    },
+    {
+      "heading": "Dlaczego Warto Korzystać z Kalkulatora Wieku Online?",
+      "paragraphs": [
+        "Podczas gdy obliczanie wieku w latach jest proste, znalezienie dokładnej liczby miesięcy i dni może być trudne. Kalkulator wieku online upraszcza ten proces, dostarczając natychmiastowych i dokładnych wyników. Jest to przydatne do:",
+        "Wypełniania formularzy i wniosków, które wymagają podania dokładnego wieku.",
+        "Planowania obchodów urodzin i kamieni milowych.",
+        "Badań genealogicznych i tworzenia osi czasu rodziny.",
+        "Po prostu zaspokojenia ciekawości na temat swojego wieku w szczegółach."
+      ],
+      "list": [
+        "Dokładność: Eliminuje błędy w obliczeniach ręcznych, zwłaszcza w przypadku lat przestępnych.",
+        "Szybkość: Uzyskaj swój wiek w kilka sekund.",
+        "Wygoda: Dostępny o każdej porze, w każdym miejscu i na każdym urządzeniu."
+      ]
+    }
+  ],
+  "shareTitle": "Udostępnij ten Kalkulator",
+  "copyLinkButton": "Kopiuj Link",
+  "copiedTooltip": "Skopiowano!",
+  "aboutTitle": "O Nas",
+  "aboutHeading": "Nasza Misja",
+  "aboutContent": [
+    "Witamy w Kalkulatorze, Twoim miejscu docelowym dla szerokiej gamy darmowych, łatwych w użyciu kalkulatorów online. Naszą misją jest dostarczanie prostych, szybkich i niezawodnych narzędzi, które ułatwiają codzienne obliczenia dla każdego.",
+    "Zaczęliśmy od prostego Kalkulatora Wieku, a od tego czasu rozszerzyliśmy naszą ofertę o różne kalkulatory zdrowotne i ogólnego przeznaczenia. Wierzymy w udostępnianie informacji i przetłumaczyliśmy nasze narzędzia na wiele języków, aby służyć globalnej publiczności.",
+    "Nasz zespół jest oddany dokładności i doświadczeniu użytkownika. Nieustannie pracujemy nad ulepszaniem naszych istniejących narzędzi i opracowywaniem nowych, aby sprostać Twoim potrzebom. Dziękujemy za wybranie Kalkulatora!"
+  ],
+  "privacyTitle": "Polityka Prywatności",
+  "privacyHeading": "Twoja prywatność jest dla nas ważna.",
+  "privacyContent": [
+    {
+      "heading": "1. Informacje, które zbieramy",
+      "paragraphs": ["Nie zbieramy ani nie przechowujemy żadnych danych osobowych wprowadzanych do naszych kalkulatorów. Wszystkie obliczenia są wykonywane bezpośrednio w Twojej przeglądarce i nie są wysyłane na nasze serwery. Twoja data urodzenia ani żadne inne informacje nigdy nie są zapisywane."]
+    },
+    {
+      "heading": "2. Ciasteczka i Analityka",
+      "paragraphs": ["Możemy używać anonimowych narzędzi analitycznych, aby zrozumieć, w jaki sposób używana jest nasza strona internetowa. Pomaga nam to poprawić doświadczenie użytkownika. Dane te są agregowane i nie mogą być użyte do identyfikacji poszczególnych użytkowników. Nie używamy ciasteczek śledzących."]
+    },
+    {
+      "heading": "3. Usługi Stron Trzecich",
+      "paragraphs": ["Ta strona internetowa nie integruje się z żadnymi usługami stron trzecich, które mogłyby naruszyć Twoją prywatność. Nie udostępniamy żadnych danych stronom trzecim."]
+    }
+  ],
+  "contactTitle": "Kontakt",
+  "contactHeading": "Skontaktuj się",
+  "contactIntro": "Masz pytania, uwagi lub sugestie? Chętnie je usłyszymy. Wyślij nam e-mail, a my skontaktujemy się z Tobą jak najszybciej.",
+  "contactEmail": "wsparcie@multikalkulator.com",
+  "seoPregnancyTitle": "Darmowy Kalkulator Terminu Porodu",
+  "seoPregnancyDescription": "Oblicz przewidywany termin porodu na podstawie ostatniej miesiączki (OM), daty poczęcia lub daty transferu IVF. Uzyskaj kluczowe etapy ciąży.",
+  "pregnancyTitle": "Kalkulator Terminu Porodu",
+  "pregnancySubheading": "Oszacuj termin porodu dziecka i kluczowe etapy ciąży.",
+  "calculationMethodLabel": "Oblicz na podstawie:",
+  "lmpMethod": "Ostatnia Miesiączka",
+  "conceptionMethod": "Poczęcie",
+  "ivfMethod": "IVF",
+  "lmpDateLabel": "Pierwszy Dzień Ostatniej Miesiączki (OM)",
+  "conceptionDateLabel": "Data Poczęcia",
+  "transferDateLabel": "Data Transferu IVF",
+  "ivfCycleTypeLabel": "Typ Transferu",
+  "day3Transfer": "3-dniowy Zarodek",
+  "day5Transfer": "5-dniowa Blastocysta",
+  "calculateDueDateButton": "Oblicz Termin Porodu",
+  "pregnancyHeading": "Twoja Oś Czasu Ciąży",
+  "dueDateResultLabel": "Przewidywany Termin Porodu",
+  "gestationalAgeResultLabel": "Obecny Wiek Ciążowy",
+  "trimesterResultLabel": "Obecny Trymestr",
+  "trimester1": "Pierwszy Trymestr",
+  "trimester2": "Drugi Trymestr",
+  "trimester3": "Trzeci Trymestr",
+  "seoPregnancySections": [
+    {
+      "heading": "Jak Działa Nasz Kalkulator Terminu Porodu",
+      "paragraphs": [
+        "Nasz Kalkulator Terminu Porodu szacuje przewidywaną datę porodu przy użyciu kilku metod. Najpopularniejsza metoda opiera się na pierwszym dniu ostatniej miesiączki (OM). To podejście, znane jako reguła Naegelego, dodaje 280 dni (40 tygodni) do daty OM w celu przewidzenia terminu porodu. Oferujemy również obliczenia na podstawie daty poczęcia lub daty transferu zarodka w ramach IVF dla większej dokładności, zwłaszcza jeśli masz nieregularne cykle lub znasz dokładną datę poczęcia.",
+        "Ważne jest, aby pamiętać, że ta data jest szacunkowa. Tylko około 5% dzieci rodzi się dokładnie w przewidywanym terminie. To narzędzie stanowi wiarygodną wskazówkę, która pomoże Tobie i Twojemu lekarzowi zaplanować przyjście na świat dziecka."
+      ],
+      "list": [
+        "Metoda OM: Standardowe obliczenie na podstawie 28-dniowego cyklu.",
+        "Metoda Daty Poczęcia: Dokładniejsza, jeśli znasz dokładną datę poczęcia.",
+        "Metoda IVF: Dostosowana do ciąż uzyskanych metodą IVF, oparta na dacie i wieku transferu zarodka."
+      ]
+    },
+    {
+      "heading": "Zrozumienie Osi Czasu Ciąży: Trymestry i Kamienie Milowe",
+      "paragraphs": [
+        "Ciąża donoszona podzielona jest na trzy trymestry, z których każdy ma unikalne kamienie milowe rozwoju płodu. Nasz kalkulator nie tylko podaje termin porodu, ale także pomaga zrozumieć, w którym miejscu tej podróży się znajdujesz, obliczając Twój obecny wiek ciążowy.",
+        "Pierwszy trymestr (tygodnie 1-13) to krytyczny okres rozwoju narządów dziecka. Drugi trymestr (tygodnie 14-27) często nazywany jest „złotym okresem”, ponieważ wiele wczesnych objawów ciąży ustępuje i możesz zacząć odczuwać ruchy dziecka. Trzeci trymestr (tygodnie 28-40+) koncentruje się na gwałtownym wzroście i przybieraniu na wadze dziecka, które przygotowuje się do narodzin. Regularna opieka prenatalna na wszystkich tych etapach jest niezbędna dla zdrowej ciąży."
+      ]
+    }
+  ],
+  "seoOvulationTitle": "Darmowy Kalkulator Owulacji i Okna Płodności",
+  "seoOvulationDescription": "Oszacuj datę owulacji i najbardziej płodne dni na podstawie ostatniej miesiączki i długości cyklu. Zaplanuj ciążę z naszym dokładnym kalkulatorem.",
+  "ovulationTitle": "Kalkulator Owulacji",
+  "ovulationSubheading": "Przewiduj swoje najbardziej płodne dni, aby zwiększyć szansę na poczęcie.",
+  "lmpDateLabelOvulation": "Pierwszy Dzień Ostatniej Miesiączki",
+  "cycleLengthLabel": "Średnia Długość Cyklu",
+  "calculateOvulationButton": "Oblicz Owulację",
+  "ovulationHeading": "Twoje Okno Płodności",
+  "resultOvulationDate": "Przewidywana Data Owulacji",
+  "resultFertileWindow": "Najbardziej Płodne Okno",
+  "fertileWindowDescription": "Od {startDate} do {endDate}",
+  "resultNextPeriod": "Przewidywana Data Następnej Miesiączki",
+  "seoOvulationSections": [
+    {
+      "heading": "Jak przewidzieć swoje najbardziej płodne dni",
+      "paragraphs": [
+        "Nasz Kalkulator Owulacji to proste narzędzie zaprojektowane, aby pomóc Ci przewidzieć najbardziej płodne dni w miesiącu. Wprowadzając pierwszy dzień ostatniej miesiączki i średnią długość cyklu, kalkulator szacuje prawdopodobną datę owulacji. Owulacja to uwolnienie komórki jajowej z jajnika, co zwykle dzieje się około 14 dni przed rozpoczęciem następnej miesiączki.",
+        "Twoje „okno płodności” obejmuje dzień owulacji i pięć dni poprzedzających ją. Dzieje się tak, ponieważ plemniki mogą przetrwać w żeńskim układzie rozrodczym do pięciu dni. Stosunek w tym oknie znacznie zwiększa szanse na poczęcie."
+      ],
+      "list": [
+        "Wprowadź swoje dane: Zacznij od daty ostatniej miesiączki i długości cyklu.",
+        "Uzyskaj swoje oszacowanie: Kalkulator identyfikuje Twoje kluczowe dni płodne.",
+        "Zaplanuj odpowiednio: Wykorzystaj te informacje, aby pomóc w realizacji celów planowania rodziny."
+      ]
+    },
+    {
+      "heading": "Poza kalkulatorem: inne oznaki owulacji",
+      "paragraphs": [
+        "Chociaż kalkulator owulacji jest świetnym punktem wyjścia, Twoje ciało również dostarcza wskazówek, że owulacja się zbliża. Połączenie oszacowania kalkulatora z tymi fizycznymi objawami może dać Ci dokładniejszy obraz Twojego okna płodności. Do tych objawów należą:",
+        "Zmiany w śluzie szyjkowym: W miarę zbliżania się do owulacji, śluz szyjkowy może stać się bardziej przezroczysty, rzadszy i bardziej śliski, przypominając konsystencję białka jaja.",
+        "Podstawowa temperatura ciała (BBT): Codzienne śledzenie BBT może wykazać niewielki, ale trwały wzrost temperatury po wystąpieniu owulacji.",
+        "Testy owulacyjne (OPK): Te dostępne bez recepty zestawy wykrywają gwałtowny wzrost hormonu luteinizującego (LH), który ma miejsce 24-36 godzin przed owulacją."
+      ]
+    }
+  ],
+  "seoMenstrualTitle": "Kalkulator Cyklu Miesiączkowego i Okresu",
+  "seoMenstrualDescription": "Śledź swój cykl miesiączkowy i przewiduj daty następnego okresu za pomocą naszego prostego i darmowego kalkulatora online.",
+  "menstrualCycleTitle": "Kalkulator Cyklu Miesiączkowego",
+  "menstrualCycleSubheading": "Przewiduj swój następny okres za pomocą tego łatwego w użyciu kalkulatora.",
+  "calculateMenstrualButton": "Oblicz Następny Okres",
+  "menstrualCycleHeading": "Daty Twojego Następnego Okresu",
+  "resultNextPeriod1": "Następny Przewidywany Okres",
+  "resultNextPeriod2": "Kolejny Przewidywany Okres",
+  "seoMenstrualSections": [
+    {
+      "heading": "Jak działa nasz kalkulator okresu",
+      "paragraphs": [
+        "Nasz Kalkulator Cyklu Miesiączkowego pomaga przewidzieć datę rozpoczęcia następnego okresu na podstawie tylko dwóch informacji: pierwszego dnia ostatniego okresu i średniej długości cyklu miesiączkowego. Dodając średnią długość cyklu do daty rozpoczęcia ostatniego okresu, narzędzie podaje szacunkową datę dwóch następnych okresów.",
+        "Śledzenie cyklu to coś więcej niż tylko wygoda; to kluczowy wskaźnik ogólnego stanu zdrowia. Regularne, przewidywalne cykle często oznaczają, że hormony w Twoim ciele działają prawidłowo."
+      ],
+      "list": [
+        "Proste dane wejściowe: Wprowadź datę rozpoczęcia ostatniego okresu i długość cyklu.",
+        "Natychmiastowe prognozy: Natychmiast zobacz szacunkowe daty następnych okresów.",
+        "Planuj z wyprzedzeniem: Użyj prognoz, aby zaplanować wydarzenia, wakacje lub po prostu być przygotowaną."
+      ]
+    },
+    {
+      "heading": "Zrozumienie cyklu miesiączkowego",
+      "paragraphs": [
+        "Cykl miesiączkowy liczy się od pierwszego dnia jednego okresu do pierwszego dnia następnego. Chociaż średni cykl trwa 28 dni, cykle trwające od 21 do 35 dni są również uważane za normalne dla dorosłych. Wiele czynników może wpływać na długość i regularność cyklu, w tym stres, dieta, ćwiczenia i niektóre schorzenia.",
+        "Jeśli Twoje cykle są stale nieregularne, znacznie krótsze lub dłuższe niż normalny zakres, lub jeśli odczuwasz silny ból, warto skonsultować się z lekarzem. Nasz kalkulator działa najlepiej dla osób z względnie regularnymi cyklami, ale może również dostarczyć przydatnych szacunków dla innych."
+      ]
+    }
+  ],
+  "seoCalorieTitle": "Darmowy Kalkulator Kalorii - TDEE i BMR",
+  "seoCalorieDescription": "Oblicz swoje dzienne zapotrzebowanie na kalorie w celu utraty, utrzymania lub przyrostu wagi. Znajdź swoje BMR i TDEE oraz uzyskaj spersonalizowane cele makroskładników.",
+  "calorieTitle": "Kalkulator Kalorii",
+  "calorieSubheading": "Oblicz swoje dzienne zapotrzebowanie, aby osiągnąć swoje cele wagowe.",
+  "step": "Krok",
+  "stepOf": "z",
+  "step1_personalia": "Twój Profil",
+  "step2_activity": "Poziom Aktywności",
+  "step3_goal": "Twój Cel",
+  "step4_results": "Wyniki Kaloryczne",
+  "step5_macros": "Plan Makroskładników",
+  "step6_macro_results": "Wyniki Makro",
+  "step7_meal_plan": "Przykładowy Jadłospis",
+  "step8_summary": "Podsumowanie",
+  "nextButton": "Dalej",
+  "backButton": "Wstecz",
+  "calculateCaloriesButton": "Oblicz Kalorie",
+  "recalculate": "Oblicz ponownie",
+  "unitSystemLabel": "System Jednostek",
+  "metric": "Metryczny",
+  "imperial": "Imperialny",
+  "genderLabel": "Płeć",
+  "male": "Mężczyzna",
+  "female": "Kobieta",
+  "ageLabel": "Wiek",
+  "ageUnit": "lat",
+  "heightLabel": "Wzrost",
+  "weightLabel": "Waga",
+  "cm": "cm",
+  "ft": "ft",
+  "in": "in",
+  "kg": "kg",
+  "lbs": "funty",
+  "activityLevelLabel": "Jak bardzo jesteś aktywny/a?",
+  "sedentary": "Siedzący tryb życia: mało lub brak ćwiczeń",
+  "lightlyActive": "Lekko aktywny: ćwiczenia 1-3 dni/tydzień",
+  "moderatelyActive": "Umiarkowanie aktywny: ćwiczenia 3-5 dni/tydzień",
+  "veryActive": "Bardzo aktywny: ćwiczenia 6-7 dni/tydzień",
+  "extraActive": "Ekstra aktywny: bardzo ciężkie ćwiczenia i praca fizyczna",
+  "goalLabel": "Jaki jest Twój główny cel?",
+  "maintainWeight": "Utrzymanie obecnej wagi",
+  "mildWeightLoss": "Łagodna utrata wagi (0,25 kg/tydzień)",
+  "weightLoss": "Utrata wagi (0,5 kg/tydzień)",
+  "extremeWeightLoss": "Ekstremalna utrata wagi (1 kg/tydzień)",
+  "mildWeightGain": "Łagodny przyrost wagi (0,25 kg/tydzień)",
+  "weightGain": "Przyrost wagi (0,5 kg/tydzień)",
+  "fastWeightGain": "Szybki przyrost wagi (1 kg/tydzień)",
+  "calorieResultsTitle": "Twoje Zapotrzebowanie Kaloryczne",
+  "caloriesPerDay": "Kalorii/dzień",
+  "yourBMR": "Podstawowa Przemiana Materii (BMR)",
+  "bmrDescription": "Kalorie, których Twój organizm potrzebuje w spoczynku.",
+  "maintenanceCalories": "Kalorie Utrzymania",
+  "goalResultText": {
+    "maintainWeight": "Aby utrzymać wagę",
+    "mildWeightLoss": "Dla łagodnej utraty wagi",
+    "weightLoss": "Dla utraty wagi",
+    "extremeWeightLoss": "Dla ekstremalnej utraty wagi",
+    "mildWeightGain": "Dla łagodnego przyrostu wagi",
+    "weightGain": "Dla przyrostu wagi",
+    "fastWeightGain": "Dla szybkiego przyrostu wagi",
+    "sedentary": "Siedzący tryb życia: mało lub brak ćwiczeń",
+    "lightlyActive": "Lekko aktywny: ćwiczenia 1-3 dni/tydzień",
+    "moderatelyActive": "Umiarkowanie aktywny: ćwiczenia 3-5 dni/tydzień",
+    "veryActive": "Bardzo aktywny: ćwiczenia 6-7 dni/tydzień",
+    "extraActive": "Ekstra aktywny: bardzo ciężkie ćwiczenia i praca fizyczna"
+  },
+  "macronutrientPlan": "Wybierz Plan Makroskładników",
+  "balanced": "Zbilansowany (40% Węglowodany, 30% Białko, 30% Tłuszcze)",
+  "lowCarb": "Niskowęglowodanowy (20% Węglowodany, 40% Białko, 40% Tłuszcze)",
+  "highProtein": "Wysokobiałkowy (30% Węglowodany, 45% Białko, 25% Tłuszcze)",
+  "macronutrients": "Dzienne Makroskładniki",
+  "protein": "Białko",
+  "carbs": "Węglowodany",
+  "fat": "Tłuszcze",
+  "grams": "g",
+  "getMealPlan": "Uzyskaj Przykładowy Jadłospis",
+  "generatingMealPlan": "Generowanie jadłospisu",
+  "mealPlanError": "Przepraszamy, nie udało się wygenerować jadłospisu. Spróbuj ponownie później.",
+  "mealPlanTitle": "Twój Przykładowy Jadłospis na Jeden Dzień",
+  "breakfast": "Śniadanie",
+  "lunch": "Obiad",
+  "dinner": "Kolacja",
+  "snacks": "Przekąski",
+  "summaryTitle": "Podsumowanie Obliczeń",
+  "summaryYourProfile": "Twój Profil",
+  "summaryYourResults": "Twoje Wyniki",
+  "summaryCalculatedMealPlan": "Obliczony Jadłospis",
+  "printResults": "Drukuj Wyniki",
+  "calorieShareResultTitle": "Udostępnij Swoje Wyniki",
+  "calorieShareResultText": "Właśnie obliczyłem/am swoje dzienne zapotrzebowanie! Aby osiągnąć mój cel, potrzebuję {calories} kalorii, w tym {protein}g białka, {carbs}g węglowodanów i {fat}g tłuszczu. Sprawdź ten niesamowity kalkulator!",
+  "errorNumber": "Proszę wprowadzić prawidłową liczbę.",
+  "errorHeight": "Proszę wprowadzić prawidłowy wzrost (min 100cm / 3'3\").",
+  "errorWeight": "Proszę wprowadzić prawidłową wagę (min 20kg / 45lbs).",
+  "errorAge": "Proszę wprowadzić prawidłowy wiek (15-80).",
+  "seoCalorieSections": [
+    {
+      "heading": "Zrozumienie dziennego zapotrzebowania na kalorie",
+      "paragraphs": [
+        "Kaloria to jednostka energii. W żywieniu kalorie odnoszą się do energii, którą ludzie czerpią z jedzenia i napojów, które spożywają, oraz energii, którą zużywają podczas aktywności fizycznej. Zrozumienie dziennego zapotrzebowania na kalorie to pierwszy krok do osiągnięcia celów wagowych, niezależnie od tego, czy jest to utrata, przyrost czy utrzymanie obecnej wagi.",
+        "Nasz kalkulator zaczyna od określenia Twojej podstawowej przemiany materii (BMR), czyli liczby kalorii, których organizm potrzebuje do wykonywania podstawowych funkcji życiowych w spoczynku, takich jak oddychanie, krążenie i produkcja komórek. Do tego obliczenia używamy powszechnie akceptowanego wzoru Mifflin-St Jeor. Następnie uwzględniamy Twój poziom aktywności, aby obliczyć całkowite dzienne zapotrzebowanie energetyczne (TDEE), które jest dokładniejszym oszacowaniem dziennego spalania kalorii."
+      ]
+    },
+    {
+      "heading": "Ustalanie celów: utrata, przyrost lub utrzymanie wagi",
+      "paragraphs": [
+        "Gdy znasz już swoje TDEE (kalorie utrzymania), możesz dostosować spożycie, aby osiągnąć swoje cele:",
+        "Aby schudnąć, musisz spożywać mniej kalorii niż Twoje TDEE, tworząc deficyt kaloryczny. Bezpieczny i zrównoważony deficyt to zazwyczaj około 500 kalorii dziennie, aby stracić około 1 funta (0,5 kg) tygodniowo.",
+        "Aby przybrać na wadze, musisz spożywać więcej kalorii niż Twoje TDEE, tworząc nadwyżkę kaloryczną. Nadwyżka 300-500 kalorii dziennie to dobry punkt wyjścia do stałego przyrostu masy mięśniowej przy minimalnym przyroście tkanki tłuszczowej.",
+        "Aby utrzymać wagę, powinieneś dążyć do spożywania liczby kalorii równej Twojemu TDEE."
+      ]
+    },
+    {
+      "heading": "A co z makroskładnikami?",
+      "paragraphs": [
+        "Kalorie pochodzą z trzech głównych makroskładników: białka, węglowodanów i tłuszczów. Zrównoważenie tych „makro” jest kluczem do zdrowej diety.",
+        "Białko jest kluczowe do budowy i naprawy tkanek, w tym mięśni.",
+        "Węglowodany są głównym źródłem energii dla Twojego organizmu.",
+        "Tłuszcze są niezbędne do produkcji hormonów i wchłaniania witamin.",
+        "Nasz kalkulator pomaga podzielić całkowite dzienne kalorie na gramy białka, węglowodanów i tłuszczów w oparciu o popularne plany dietetyczne. Daje to praktyczne ramy do budowania posiłków zgodnych z Twoimi celami zdrowotnymi i fitness."
+      ]
+    }
+  ],
+  "seoTimeTitle": "Kalkulator Czasu - Dodawaj i Odejmuj Okresy Czasu",
+  "seoTimeDescription": "Darmowe narzędzie online do łatwego dodawania lub odejmowania okresów czasu. Obliczaj dni, godziny, minuty i sekundy z precyzją. Idealny do zarządzania projektami, śledzenia czasu i codziennych obliczeń.",
+  "timeTitle": "Kalkulator Czasu",
+  "timeSubheading": "Dodawaj lub odejmuj okresy czasu z łatwością.",
+  "time1Label": "Czas 1",
+  "time2Label": "Czas 2",
+  "operationLabel": "Operacja",
+  "add": "Dodaj (+)",
+  "subtract": "Odejmij (-)",
+  "calculateTimeButton": "Oblicz",
+  "resetButton": "Resetuj",
+  "resultLabel": "Wynik",
+  "hours": "Godziny",
+  "minutes": "Minuty",
+  "seconds": "Sekundy",
+  "errorInvalidTime": "Proszę wprowadzić prawidłową, nieujemną liczbę we wszystkich polach czasu.",
+  "seoTimeSections": [
+    {
+      "heading": "Jak używać kalkulatora czasu",
+      "paragraphs": [
+        "Nasz kalkulator czasu upraszcza proces dodawania i odejmowania czasu. Niezależnie od tego, czy śledzisz godziny pracy, rejestrujesz sesje treningowe, czy planujesz wydarzenie, to narzędzie zapewnia szybkie i dokładne rozwiązanie. Wystarczy wprowadzić dwa okresy czasu, wybrać, czy chcesz je dodać, czy odjąć, i natychmiast uzyskać wynik.",
+        "Kalkulator dzieli czas na dni, godziny, minuty i sekundy. W przypadku odejmowania upewnij się, że pierwszy okres czasu jest większy lub równy drugiemu, aby uniknąć wyników ujemnych."
+      ]
+    },
+    {
+      "heading": "Praktyczne zastosowania",
+      "paragraphs": [
+        "To narzędzie jest niezwykle wszechstronne i może być używane w różnych scenariuszach:",
+        "Zarządzanie projektami: Oblicz całkowity czas spędzony na różnych zadaniach.",
+        "Lotnictwo i nawigacja: Rejestruj czasy lotów lub czas trwania podróży.",
+        "Montaż wideo: Zsumuj długości klipów lub oblicz pozostały czas.",
+        "Osobiste śledzenie czasu: Monitoruj czas spędzony na hobby, nauce lub ćwiczeniach."
+      ],
+      "list": [
+        "Łatwy w użyciu interfejs.",
+        "Obsługuje dni, godziny, minuty i sekundy.",
+        "Zapewnia natychmiastowe, precyzyjne obliczenia."
+      ]
+    }
+  ],
+  "navHoursCalculator": "Kalkulator Godzin",
+  "homeHoursCalculatorDescription": "Oblicz czas trwania między dwiema godzinami w godzinach i minutach.",
+  "seoHoursTitle": "Kalkulator Godzin - Oblicz Czas Trwania Między Dwiema Godzinami",
+  "seoHoursDescription": "Darmowe narzędzie do obliczania różnicy czasu między godziną początkową a końcową w godzinach i minutach. Idealne do godzin pracy i śledzenia aktywności.",
+  "hoursTitle": "Kalkulator Godzin",
+  "hoursSubheading": "Oblicz czas trwania między godziną początkową a końcową.",
+  "startTimeLabel": "Godzina Początkowa",
+  "endTimeLabel": "Godzina Końcowa",
+  "hourLabel": "Godzina",
+  "minuteLabel": "Minuta",
+  "calculateHoursButton": "Oblicz Czas Trwania",
+  "resultDurationLabel": "Obliczony Czas Trwania",
+  "resultInMinutes": "w sumie minut",
+  "resultHours": "godzin",
+  "resultMinutes": "minut",
+  "seoHoursSections": [
+    {
+      "heading": "Jak Korzystać z Kalkulatora Godzin",
+      "paragraphs": [
+        "Nasz Kalkulator Godzin został zaprojektowany, aby uprościć obliczanie czasu trwania między dwoma punktami w czasie. Niezależnie od tego, czy obliczasz godziny pracy, czas trwania wydarzenia, czy czas spędzony na zadaniu, to narzędzie zapewnia szybki i dokładny wynik. Wystarczy wprowadzić czas początkowy i końcowy, a kalkulator zajmie się resztą, obsługując przypadki przekraczające północ."
+      ]
+    },
+    {
+      "heading": "Praktyczne Zastosowania",
+      "paragraphs": [
+        "To narzędzie jest niezwykle przydatne w różnych scenariuszach:",
+        "Obliczanie Godzin Pracy: Łatwo oblicz dzienne lub tygodniowe godziny pracy do kart czasu pracy.",
+        "Planowanie Wydarzeń: Określ czas trwania spotkań, wizyt i wydarzeń.",
+        "Śledzenie Aktywności: Monitoruj czas, który spędzasz na hobby, nauce lub ćwiczeniach."
+      ]
+    }
+  ]
+}

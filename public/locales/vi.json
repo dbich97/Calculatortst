@@ -1,0 +1,415 @@
+
+{
+  "title": "Máy tính",
+  "selectLanguage": "Chọn Ngôn ngữ",
+  "days": "Ngày",
+  "weeks": "Tuần",
+  "navHome": "Trang chủ",
+  "navCalculator": "Tính Tuổi",
+  "navTimeAndDate": "Thời gian & Ngày tháng",
+  "navHealthCalculators": "Tính toán Sức khỏe",
+  "navPregnancyCalculator": "Thai kỳ",
+  "navOvulationCalculator": "Rụng trứng",
+  "navMenstrualCycleCalculator": "Chu kỳ Kinh nguyệt",
+  "navCalorieCalculator": "Tính Calo",
+  "navTimeCalculator": "Tính Thời gian",
+  "navAbout": "Giới thiệu",
+  "footerRights": "© {year} Máy tính. Bảo lưu mọi quyền.",
+  "footerPrivacyPolicy": "Chính sách Bảo mật",
+  "footerContactUs": "Liên hệ Chúng tôi",
+  "homeTitle": "Trung tâm Máy tính Tất cả trong Một của bạn",
+  "homeDescription": "Từ tuổi tác đến các chỉ số sức khỏe, tìm tất cả các máy tính bạn cần ở một nơi. Đơn giản, nhanh chóng và chính xác.",
+  "homeCTAText": "Tính Tuổi của bạn",
+  "homeBasicCalculatorTitle": "Máy tính cơ bản",
+  "homeHealthCalculatorsTitle": "Khám phá các Máy tính Sức khỏe",
+  "homePregnancyCalculatorDescription": "Ước tính ngày dự sinh và theo dõi hành trình mang thai của bạn.",
+  "homeOvulationCalculatorDescription": "Xác định những ngày dễ thụ thai nhất để giúp kế hoạch hóa gia đình.",
+  "homeMenstrualCycleCalculatorDescription": "Theo dõi chu kỳ của bạn và dự đoán kỳ kinh nguyệt tiếp theo một cách dễ dàng.",
+  "homeCalorieCalculatorDescription": "Tính toán nhu cầu calo hàng ngày của bạn để đạt được mục tiêu thể chất.",
+  "homeTimeCalculatorDescription": "Cộng hoặc trừ các khoảng thời gian cho công việc, dự án hoặc sở thích.",
+  "seoTitle": "Máy tính Tuổi Trực tuyến Miễn phí - Tính Tuổi của bạn theo Ngày sinh",
+  "seoDescription": "Dễ dàng tính tuổi của bạn theo năm, tháng và ngày bằng máy tính tuổi trực tuyến miễn phí và chính xác của chúng tôi. Tìm hiểu thêm về ngày sinh của bạn, bao gồm ngày trong tuần và đếm ngược đến sinh nhật tiếp theo. Hỗ trợ nhiều ngôn ngữ.",
+  "seoKeywords": "máy tính tuổi, tính tuổi, máy tính ngày sinh, tôi bao nhiêu tuổi, máy tính tuổi trực tuyến, máy tính sinh nhật, máy tính tuổi miễn phí",
+  "h1": "Máy tính Tuổi Trực tuyến",
+  "h2": "Nhập Ngày sinh của bạn",
+  "dateOfBirthLabel": "Ngày sinh",
+  "dayLabel": "Ngày",
+  "monthLabel": "Tháng",
+  "yearLabel": "Năm",
+  "calculateButton": "Tính Tuổi",
+  "errorInvalidDate": "Vui lòng nhập một ngày hợp lệ.",
+  "errorFutureDate": "Ngày sinh không thể ở trong tương lai.",
+  "resultPrefix": "Bạn",
+  "resultSuffix": "tuổi.",
+  "years": "Năm",
+  "months": "Tháng",
+  "moreInfoTitle": "Thông tin thêm về Sinh nhật của bạn",
+  "dayOfWeekLabel": "Ngày trong tuần bạn được sinh ra",
+  "seasonLabel": "Mùa sinh của bạn (Bắc bán cầu)",
+  "nextBirthdayLabel": "Số ngày cho đến sinh nhật tiếp theo của bạn",
+  "shareResultTitle": "Chia sẻ Kết quả của bạn",
+  "shareResultText": "Tôi vừa phát hiện ra mình đã {years} tuổi, {months} tháng và {days} ngày bằng máy tính tuổi thú vị này!",
+  "copyResultButton": "Sao chép kết quả",
+  "resultCopiedTooltip": "Đã sao chép!",
+  "calendarType": "Loại Lịch",
+  "gregorian": "Dương lịch",
+  "hijri": "Hồi lịch",
+  "monthsArray": ["Tháng 1", "Tháng 2", "Tháng 3", "Tháng 4", "Tháng 5", "Tháng 6", "Tháng 7", "Tháng 8", "Tháng 9", "Tháng 10", "Tháng 11", "Tháng 12"],
+  "hijriMonthsArray": ["Muharram", "Safar", "Rabi' al-awwal", "Rabi' al-thani", "Jumada al-ula", "Jumada al-akhirah", "Rajab", "Sha'ban", "Ramadan", "Shawwal", "Dhu al-Qi'dah", "Dhu al-Hijjah"],
+  "daysOfWeekArray": ["Chủ nhật", "Thứ hai", "Thứ ba", "Thứ tư", "Thứ năm", "Thứ sáu", "Thứ bảy"],
+  "seasonsArray": ["Mùa đông", "Mùa xuân", "Mùa hè", "Mùa thu"],
+  "seoSections": [
+    {
+      "heading": "Cách hoạt động của Máy tính Tuổi của chúng tôi",
+      "paragraphs": [
+        "Máy tính Tuổi của chúng tôi tính toán tuổi của bạn với độ chính xác cao bằng cách so sánh ngày sinh của bạn với ngày hiện tại. Công cụ tính toán tổng thời gian đã trôi qua và chia thành năm, tháng và ngày. Nó tính đến cả năm nhuận để cung cấp kết quả chính xác, làm cho nó trở thành một công cụ đáng tin cậy cho bất kỳ ai hỏi 'tôi bao nhiêu tuổi?'. Chỉ cần nhập ngày sinh của bạn và máy tính sẽ ngay lập tức hiển thị tuổi theo thời gian của bạn."
+      ]
+    },
+    {
+      "heading": "Tại sao nên sử dụng Máy tính Tuổi Trực tuyến?",
+      "paragraphs": [
+        "Mặc dù việc tính tuổi theo năm là đơn giản, nhưng việc tìm ra số tháng và ngày chính xác có thể phức tạp. Một máy tính tuổi trực tuyến giúp đơn giản hóa quá trình này, cung cấp kết quả tức thì và chính xác. Nó hữu ích cho:",
+        "Điền vào các biểu mẫu và đơn đăng ký yêu cầu tuổi chính xác của bạn.",
+        "Lên kế hoạch cho các lễ kỷ niệm sinh nhật và các cột mốc quan trọng.",
+        "Nghiên cứu phả hệ và tạo dòng thời gian gia đình.",
+        "Đơn giản là thỏa mãn sự tò mò của bạn về tuổi của mình một cách chi tiết."
+      ],
+      "list": [
+        "Độ chính xác: Loại bỏ các lỗi tính toán thủ công, đặc biệt là với các năm nhuận.",
+        "Tốc độ: Nhận tuổi của bạn chỉ trong vài giây.",
+        "Tiện lợi: Có thể truy cập mọi lúc, mọi nơi, trên mọi thiết bị."
+      ]
+    }
+  ],
+  "shareTitle": "Chia sẻ Máy tính này",
+  "copyLinkButton": "Sao chép Liên kết",
+  "copiedTooltip": "Đã sao chép!",
+  "aboutTitle": "Về Chúng tôi",
+  "aboutHeading": "Sứ mệnh của chúng tôi",
+  "aboutContent": [
+    "Chào mừng bạn đến với Máy tính, điểm đến của bạn cho một loạt các máy tính trực tuyến miễn phí, dễ sử dụng. Sứ mệnh của chúng tôi là cung cấp các công cụ đơn giản, nhanh chóng và đáng tin cậy giúp mọi người thực hiện các phép tính hàng ngày một cách dễ dàng.",
+    "Chúng tôi bắt đầu với một Máy tính Tuổi đơn giản và từ đó đã mở rộng để bao gồm các máy tính sức khỏe và đa dụng khác. Chúng tôi tin tưởng vào việc làm cho thông tin có thể truy cập được và đã dịch các công cụ của mình sang nhiều ngôn ngữ để phục vụ khán giả toàn cầu.",
+    "Đội ngũ của chúng tôi tận tâm với độ chính xác và trải nghiệm người dùng. Chúng tôi không ngừng làm việc để cải thiện các công cụ hiện có và phát triển các công cụ mới để đáp ứng nhu cầu của bạn. Cảm ơn bạn đã chọn Máy tính!"
+  ],
+  "privacyTitle": "Chính sách Bảo mật",
+  "privacyHeading": "Sự riêng tư của bạn rất quan trọng đối với chúng tôi.",
+  "privacyContent": [
+    {
+      "heading": "1. Thông tin chúng tôi thu thập",
+      "paragraphs": ["Chúng tôi không thu thập hoặc lưu trữ bất kỳ dữ liệu cá nhân nào bạn nhập vào máy tính của chúng tôi. Mọi tính toán đều được thực hiện trực tiếp trong trình duyệt của bạn và không được gửi đến máy chủ của chúng tôi. Ngày sinh của bạn hoặc bất kỳ thông tin nào khác không bao giờ được ghi lại."]
+    },
+    {
+      "heading": "2. Cookie và Phân tích",
+      "paragraphs": ["Chúng tôi có thể sử dụng các công cụ phân tích ẩn danh để hiểu cách trang web của chúng tôi được sử dụng. Điều này giúp chúng tôi cải thiện trải nghiệm người dùng. Dữ liệu này được tổng hợp và không thể được sử dụng để nhận dạng người dùng cá nhân. Chúng tôi không sử dụng cookie theo dõi."]
+    },
+    {
+      "heading": "3. Dịch vụ của bên thứ ba",
+      "paragraphs": ["Trang web này không tích hợp với bất kỳ dịch vụ của bên thứ ba nào có thể ảnh hưởng đến quyền riêng tư của bạn. Chúng tôi không chia sẻ bất kỳ dữ liệu nào với các bên thứ ba."]
+    }
+  ],
+  "contactTitle": "Liên hệ Chúng tôi",
+  "contactHeading": "Liên lạc",
+  "contactIntro": "Bạn có câu hỏi, phản hồi hoặc đề xuất? Chúng tôi rất muốn nghe từ bạn. Vui lòng gửi email cho chúng tôi và chúng tôi sẽ trả lời bạn sớm nhất có thể.",
+  "contactEmail": "hotro@maytinhdanang.com",
+  "seoPregnancyTitle": "Máy tính Ngày dự sinh Miễn phí",
+  "seoPregnancyDescription": "Tính ngày dự sinh ước tính của bạn dựa trên kỳ kinh cuối (LMP), ngày thụ thai hoặc ngày chuyển phôi IVF. Nhận các mốc quan trọng của thai kỳ.",
+  "pregnancyTitle": "Máy tính Ngày dự sinh",
+  "pregnancySubheading": "Ước tính ngày dự sinh của bé và các mốc quan trọng của thai kỳ.",
+  "calculationMethodLabel": "Tính toán dựa trên:",
+  "lmpMethod": "Kỳ kinh cuối",
+  "conceptionMethod": "Thụ thai",
+  "ivfMethod": "IVF",
+  "lmpDateLabel": "Ngày đầu tiên của Kỳ kinh cuối (LMP)",
+  "conceptionDateLabel": "Ngày thụ thai",
+  "transferDateLabel": "Ngày chuyển phôi IVF",
+  "ivfCycleTypeLabel": "Loại chuyển phôi",
+  "day3Transfer": "Phôi ngày 3",
+  "day5Transfer": "Phôi nang ngày 5",
+  "calculateDueDateButton": "Tính Ngày dự sinh",
+  "pregnancyHeading": "Mốc thời gian Thai kỳ của bạn",
+  "dueDateResultLabel": "Ngày dự sinh ước tính",
+  "gestationalAgeResultLabel": "Tuổi thai hiện tại",
+  "trimesterResultLabel": "Tam cá nguyệt hiện tại",
+  "trimester1": "Tam cá nguyệt thứ nhất",
+  "trimester2": "Tam cá nguyệt thứ hai",
+  "trimester3": "Tam cá nguyệt thứ ba",
+  "seoPregnancySections": [
+    {
+      "heading": "Cách hoạt động của Máy tính Ngày dự sinh của chúng tôi",
+      "paragraphs": [
+        "Máy tính Ngày dự sinh của chúng tôi ước tính ngày sinh dự kiến của bạn bằng nhiều phương pháp. Phương pháp phổ biến nhất dựa trên ngày đầu tiên của kỳ kinh nguyệt cuối cùng (LMP). Cách tiếp cận này, được gọi là quy tắc Naegele, cộng thêm 280 ngày (40 tuần) vào LMP của bạn để dự đoán ngày dự sinh. Chúng tôi cũng cung cấp các phép tính dựa trên ngày thụ thai hoặc ngày chuyển phôi IVF của bạn để có độ chính xác cao hơn, đặc biệt nếu bạn có chu kỳ không đều hoặc biết ngày thụ thai chính xác.",
+        "Điều quan trọng cần nhớ là ngày này là một ước tính. Chỉ có khoảng 5% trẻ sơ sinh được sinh ra đúng vào ngày dự sinh. Công cụ này cung cấp một hướng dẫn đáng tin cậy để giúp bạn và nhà cung cấp dịch vụ chăm sóc sức khỏe của bạn lên kế hoạch cho sự chào đời của em bé."
+      ],
+      "list": [
+        "Phương pháp LMP: Phép tính tiêu chuẩn dựa trên chu kỳ 28 ngày.",
+        "Phương pháp Ngày thụ thai: Chính xác hơn nếu bạn biết ngày thụ thai chính xác.",
+        "Phương pháp IVF: Được thiết kế riêng cho các trường hợp mang thai bằng phương pháp IVF, dựa trên ngày và tuổi chuyển phôi."
+      ]
+    },
+    {
+      "heading": "Hiểu về Mốc thời gian Mang thai của bạn: Tam cá nguyệt và các Cột mốc",
+      "paragraphs": [
+        "Một thai kỳ đủ tháng được chia thành ba tam cá nguyệt, mỗi tam cá nguyệt có những cột mốc phát triển của thai nhi riêng biệt. Máy tính của chúng tôi không chỉ cung cấp ngày dự sinh mà còn giúp bạn hiểu mình đang ở đâu trong hành trình này bằng cách tính tuổi thai hiện tại.",
+        "Tam cá nguyệt thứ nhất (Tuần 1-13) là giai đoạn phát triển quan trọng đối với các cơ quan của em bé. Tam cá nguyệt thứ hai (Tuần 14-27) thường được gọi là 'thời kỳ vàng' vì nhiều triệu chứng mang thai sớm giảm bớt và bạn có thể bắt đầu cảm nhận được em bé cử động. Tam cá nguyệt thứ ba (Tuần 28-40+) tập trung vào sự phát triển nhanh chóng và tăng cân của em bé khi chuẩn bị chào đời. Việc chăm sóc trước sinh thường xuyên trong suốt các giai đoạn này là điều cần thiết để có một thai kỳ khỏe mạnh."
+      ]
+    }
+  ],
+  "seoOvulationTitle": "Máy tính Rụng trứng & Cửa sổ Thụ thai Miễn phí",
+  "seoOvulationDescription": "Ước tính ngày rụng trứng và những ngày dễ thụ thai nhất dựa trên kỳ kinh cuối và độ dài chu kỳ của bạn. Lên kế hoạch mang thai với máy tính chính xác của chúng tôi.",
+  "ovulationTitle": "Máy tính Rụng trứng",
+  "ovulationSubheading": "Dự đoán những ngày dễ thụ thai nhất để có cơ hội thụ thai cao hơn.",
+  "lmpDateLabelOvulation": "Ngày đầu tiên của Kỳ kinh cuối",
+  "cycleLengthLabel": "Độ dài chu kỳ trung bình",
+  "calculateOvulationButton": "Tính Rụng trứng",
+  "ovulationHeading": "Cửa sổ Thụ thai của bạn",
+  "resultOvulationDate": "Ngày rụng trứng ước tính",
+  "resultFertileWindow": "Cửa sổ Dễ thụ thai nhất",
+  "fertileWindowDescription": "Từ {startDate} đến {endDate}",
+  "resultNextPeriod": "Ngày kinh nguyệt tiếp theo ước tính",
+  "seoOvulationSections": [
+    {
+      "heading": "Cách dự đoán những ngày dễ thụ thai nhất của bạn",
+      "paragraphs": [
+        "Máy tính Rụng trứng của chúng tôi là một công cụ đơn giản được thiết kế để giúp bạn dự đoán những ngày dễ thụ thai nhất trong tháng. Bằng cách nhập ngày đầu tiên của kỳ kinh nguyệt cuối cùng và độ dài chu kỳ trung bình, máy tính sẽ ước tính ngày rụng trứng có thể xảy ra của bạn. Rụng trứng là sự giải phóng một quả trứng từ buồng trứng của bạn, thường xảy ra khoảng 14 ngày trước khi bắt đầu kỳ kinh tiếp theo.",
+        "Cửa sổ thụ thai của bạn bao gồm ngày rụng trứng và năm ngày trước đó. Điều này là do tinh trùng có thể tồn tại trong đường sinh sản của phụ nữ tới năm ngày. Quan hệ tình dục trong cửa sổ này làm tăng đáng kể cơ hội thụ thai của bạn."
+      ],
+      "list": [
+        "Nhập dữ liệu của bạn: Bắt đầu với ngày kinh cuối cùng và độ dài chu kỳ của bạn.",
+        "Nhận ước tính của bạn: Máy tính xác định những ngày dễ thụ thai quan trọng của bạn.",
+        "Lên kế hoạch phù hợp: Sử dụng thông tin này để giúp đạt được mục tiêu kế hoạch hóa gia đình của bạn."
+      ]
+    },
+    {
+      "heading": "Ngoài máy tính: Các dấu hiệu khác của sự rụng trứng",
+      "paragraphs": [
+        "Mặc dù máy tính rụng trứng là một điểm khởi đầu tuyệt vời, cơ thể bạn cũng cung cấp các manh mối cho thấy sự rụng trứng đang đến gần. Việc kết hợp ước tính của máy tính với các dấu hiệu thể chất này có thể cung cấp cho bạn một bức tranh chính xác hơn về cửa sổ thụ thai của mình. Các dấu hiệu này bao gồm:",
+        "Thay đổi chất nhầy cổ tử cung: Khi bạn đến gần ngày rụng trứng, chất nhầy cổ tử cung của bạn có thể trở nên trong hơn, loãng hơn và trơn hơn, giống như độ đặc của lòng trắng trứng.",
+        "Nhiệt độ cơ thể cơ bản (BBT): Theo dõi BBT hàng ngày của bạn có thể cho thấy nhiệt độ tăng nhẹ nhưng duy trì sau khi rụng trứng đã xảy ra.",
+        "Bộ dụng cụ dự đoán rụng trứng (OPK): Các bộ dụng cụ không kê đơn này phát hiện sự gia tăng hormone luteinizing (LH) xảy ra 24-36 giờ trước khi rụng trứng."
+      ]
+    }
+  ],
+  "seoMenstrualTitle": "Máy tính Chu kỳ Kinh nguyệt & Kỳ kinh",
+  "seoMenstrualDescription": "Theo dõi chu kỳ kinh nguyệt của bạn và dự đoán ngày có kinh tiếp theo bằng máy tính trực tuyến đơn giản và miễn phí của chúng tôi.",
+  "menstrualCycleTitle": "Máy tính Chu kỳ Kinh nguyệt",
+  "menstrualCycleSubheading": "Dự đoán kỳ kinh nguyệt tiếp theo của bạn bằng máy tính dễ sử dụng này.",
+  "calculateMenstrualButton": "Tính Kỳ kinh tiếp theo",
+  "menstrualCycleHeading": "Ngày có kinh tiếp theo của bạn",
+  "resultNextPeriod1": "Kỳ kinh dự kiến tiếp theo",
+  "resultNextPeriod2": "Kỳ kinh dự kiến sau đó",
+  "seoMenstrualSections": [
+    {
+      "heading": "Cách hoạt động của Máy tính Kỳ kinh của chúng tôi",
+      "paragraphs": [
+        "Máy tính Chu kỳ Kinh nguyệt của chúng tôi giúp bạn dự đoán ngày bắt đầu kỳ kinh tiếp theo chỉ với hai thông tin: ngày đầu tiên của kỳ kinh cuối cùng và độ dài trung bình của chu kỳ kinh nguyệt. Bằng cách cộng độ dài chu kỳ trung bình của bạn vào ngày bắt đầu kỳ kinh cuối cùng, công cụ sẽ cung cấp ngày ước tính cho hai kỳ kinh tiếp theo của bạn.",
+        "Theo dõi chu kỳ của bạn không chỉ là sự tiện lợi; đó là một chỉ số quan trọng về sức khỏe tổng thể của bạn. Các chu kỳ đều đặn, có thể dự đoán được thường cho thấy rằng các hormone trong cơ thể bạn đang hoạt động chính xác."
+      ],
+      "list": [
+        "Nhập liệu đơn giản: Nhập ngày bắt đầu kỳ kinh cuối cùng và độ dài chu kỳ của bạn.",
+        "Dự đoán tức thì: Xem ngay ngày ước tính cho các kỳ kinh tiếp theo của bạn.",
+        "Lên kế hoạch trước: Sử dụng các dự đoán để lên kế hoạch cho các sự kiện, kỳ nghỉ hoặc đơn giản là để chuẩn bị."
+      ]
+    },
+    {
+      "heading": "Hiểu về Chu kỳ Kinh nguyệt của bạn",
+      "paragraphs": [
+        "Một chu kỳ kinh nguyệt được tính từ ngày đầu tiên của một kỳ kinh đến ngày đầu tiên của kỳ kinh tiếp theo. Mặc dù chu kỳ trung bình là 28 ngày, các chu kỳ kéo dài từ 21 đến 35 ngày cũng được coi là bình thường đối với người lớn. Nhiều yếu tố có thể ảnh hưởng đến độ dài và sự đều đặn của chu kỳ, bao gồm căng thẳng, chế độ ăn uống, tập thể dục và một số tình trạng sức khỏe.",
+        "Nếu chu kỳ của bạn không đều một cách nhất quán, ngắn hơn hoặc dài hơn nhiều so với phạm vi bình thường, hoặc nếu bạn bị đau dữ dội, bạn nên tham khảo ý kiến của nhà cung cấp dịch vụ chăm sóc sức khỏe. Máy tính của chúng tôi hoạt động tốt nhất cho những người có chu kỳ tương đối đều đặn nhưng vẫn có thể cung cấp một ước tính hữu ích cho những người khác."
+      ]
+    }
+  ],
+  "seoCalorieTitle": "Máy tính Calo Miễn phí - TDEE & BMR",
+  "seoCalorieDescription": "Tính toán nhu cầu calo hàng ngày của bạn để giảm cân, duy trì hoặc tăng cân. Tìm BMR và TDEE của bạn và nhận các mục tiêu dinh dưỡng đa lượng được cá nhân hóa.",
+  "calorieTitle": "Máy tính Calo",
+  "calorieSubheading": "Tính toán nhu cầu hàng ngày của bạn để đạt được mục tiêu cân nặng.",
+  "step": "Bước",
+  "stepOf": "trên",
+  "step1_personalia": "Hồ sơ của bạn",
+  "step2_activity": "Mức độ hoạt động",
+  "step3_goal": "Mục tiêu của bạn",
+  "step4_results": "Kết quả Calo",
+  "step5_macros": "Kế hoạch Dinh dưỡng Đa lượng",
+  "step6_macro_results": "Kết quả Macro",
+  "step7_meal_plan": "Kế hoạch Bữa ăn Mẫu",
+  "step8_summary": "Tóm tắt",
+  "nextButton": "Tiếp theo",
+  "backButton": "Quay lại",
+  "calculateCaloriesButton": "Tính Calo",
+  "recalculate": "Tính lại",
+  "unitSystemLabel": "Hệ thống Đơn vị",
+  "metric": "Hệ mét",
+  "imperial": "Hệ Anh",
+  "genderLabel": "Giới tính",
+  "male": "Nam",
+  "female": "Nữ",
+  "ageLabel": "Tuổi",
+  "ageUnit": "tuổi",
+  "heightLabel": "Chiều cao",
+  "weightLabel": "Cân nặng",
+  "cm": "cm",
+  "ft": "ft",
+  "in": "in",
+  "kg": "kg",
+  "lbs": "lbs",
+  "activityLevelLabel": "Bạn hoạt động ở mức nào?",
+  "sedentary": "Ít vận động: ít hoặc không tập thể dục",
+  "lightlyActive": "Hoạt động nhẹ: tập thể dục 1-3 ngày/tuần",
+  "moderatelyActive": "Hoạt động vừa phải: tập thể dục 3-5 ngày/tuần",
+  "veryActive": "Rất năng động: tập thể dục 6-7 ngày/tuần",
+  "extraActive": "Cực kỳ năng động: tập thể dục rất nặng và công việc thể chất",
+  "goalLabel": "Mục tiêu chính của bạn là gì?",
+  "maintainWeight": "Duy trì cân nặng hiện tại",
+  "mildWeightLoss": "Giảm cân nhẹ (0.25 kg/tuần)",
+  "weightLoss": "Giảm cân (0.5 kg/tuần)",
+  "extremeWeightLoss": "Giảm cân cấp tốc (1 kg/tuần)",
+  "mildWeightGain": "Tăng cân nhẹ (0.25 kg/tuần)",
+  "weightGain": "Tăng cân (0.5 kg/tuần)",
+  "fastWeightGain": "Tăng cân nhanh (1 kg/tuần)",
+  "calorieResultsTitle": "Nhu cầu Calo của bạn",
+  "caloriesPerDay": "Calo/ngày",
+  "yourBMR": "Tỷ lệ Trao đổi chất Cơ bản (BMR)",
+  "bmrDescription": "Lượng calo cơ thể bạn cần khi nghỉ ngơi.",
+  "maintenanceCalories": "Calo Duy trì",
+  "goalResultText": {
+    "maintainWeight": "Để duy trì cân nặng của bạn",
+    "mildWeightLoss": "Để giảm cân nhẹ",
+    "weightLoss": "Để giảm cân",
+    "extremeWeightLoss": "Để giảm cân cấp tốc",
+    "mildWeightGain": "Để tăng cân nhẹ",
+    "weightGain": "Để tăng cân",
+    "fastWeightGain": "Để tăng cân nhanh",
+    "sedentary": "Ít vận động: ít hoặc không tập thể dục",
+    "lightlyActive": "Hoạt động nhẹ: tập thể dục 1-3 ngày/tuần",
+    "moderatelyActive": "Hoạt động vừa phải: tập thể dục 3-5 ngày/tuần",
+    "veryActive": "Rất năng động: tập thể dục 6-7 ngày/tuần",
+    "extraActive": "Cực kỳ năng động: tập thể dục rất nặng và công việc thể chất"
+  },
+  "macronutrientPlan": "Chọn Kế hoạch Dinh dưỡng Đa lượng",
+  "balanced": "Cân bằng (40% Carb, 30% Protein, 30% Béo)",
+  "lowCarb": "Ít Carb (20% Carb, 40% Protein, 40% Béo)",
+  "highProtein": "Giàu Protein (30% Carb, 45% Protein, 25% Béo)",
+  "macronutrients": "Dinh dưỡng Đa lượng Hàng ngày",
+  "protein": "Protein",
+  "carbs": "Carb",
+  "fat": "Chất béo",
+  "grams": "g",
+  "getMealPlan": "Lấy Kế hoạch Bữa ăn Mẫu",
+  "generatingMealPlan": "Đang tạo Kế hoạch Bữa ăn",
+  "mealPlanError": "Xin lỗi, chúng tôi không thể tạo kế hoạch bữa ăn vào lúc này. Vui lòng thử lại sau.",
+  "mealPlanTitle": "Kế hoạch Bữa ăn Mẫu Một ngày của bạn",
+  "breakfast": "Bữa sáng",
+  "lunch": "Bữa trưa",
+  "dinner": "Bữa tối",
+  "snacks": "Bữa phụ",
+  "summaryTitle": "Tóm tắt Tính toán",
+  "summaryYourProfile": "Hồ sơ của bạn",
+  "summaryYourResults": "Kết quả của bạn",
+  "summaryCalculatedMealPlan": "Kế hoạch Bữa ăn đã Tính toán",
+  "printResults": "In Kết quả",
+  "calorieShareResultTitle": "Chia sẻ Kết quả của bạn",
+  "calorieShareResultText": "Tôi vừa tính toán nhu cầu hàng ngày của mình! Để đạt được mục tiêu, tôi cần {calories} calo, với {protein}g protein, {carbs}g carbohydrate và {fat}g chất béo. Hãy xem thử máy tính tuyệt vời này!",
+  "errorNumber": "Vui lòng nhập một số hợp lệ.",
+  "errorHeight": "Vui lòng nhập chiều cao hợp lệ (tối thiểu 100cm / 3'3\").",
+  "errorWeight": "Vui lòng nhập cân nặng hợp lệ (tối thiểu 20kg / 45lbs).",
+  "errorAge": "Vui lòng nhập tuổi hợp lệ (15-80).",
+  "seoCalorieSections": [
+    {
+      "heading": "Hiểu về Nhu cầu Calo Hàng ngày của bạn",
+      "paragraphs": [
+        "Calo là một đơn vị năng lượng. Trong dinh dưỡng, calo đề cập đến năng lượng mà mọi người nhận được từ thực phẩm và đồ uống họ tiêu thụ, và năng lượng họ sử dụng trong hoạt động thể chất. Hiểu về nhu cầu calo hàng ngày của bạn là bước đầu tiên để đạt được mục tiêu cân nặng của bạn, cho dù đó là giảm cân, tăng cân hay duy trì cân nặng hiện tại.",
+        "Máy tính của chúng tôi bắt đầu bằng cách xác định Tỷ lệ Trao đổi chất Cơ bản (BMR) của bạn, là số calo mà cơ thể bạn cần để thực hiện các chức năng duy trì sự sống cơ bản khi nghỉ ngơi, chẳng hạn như thở, lưu thông và sản xuất tế bào. Chúng tôi sử dụng phương trình Mifflin-St Jeor được chấp nhận rộng rãi cho phép tính này. Sau đó, chúng tôi tính đến mức độ hoạt động của bạn để tính toán Tổng Chi tiêu Năng lượng Hàng ngày (TDEE) của bạn, đây là một ước tính chính xác hơn về lượng calo bạn đốt cháy hàng ngày."
+      ]
+    },
+    {
+      "heading": "Đặt mục tiêu: Giảm cân, Tăng cân hoặc Duy trì",
+      "paragraphs": [
+        "Một khi bạn biết TDEE (calo duy trì) của mình, bạn có thể điều chỉnh lượng calo nạp vào để đạt được mục tiêu của mình:",
+        "Để giảm cân, bạn cần tiêu thụ ít calo hơn TDEE của mình, tạo ra thâm hụt calo. Một mức thâm hụt an toàn và bền vững thường là khoảng 500 calo mỗi ngày để giảm khoảng 1 pound (0,5 kg) mỗi tuần.",
+        "Để tăng cân, bạn cần tiêu thụ nhiều calo hơn TDEE của mình, tạo ra thặng dư calo. Thặng dư 300-500 calo mỗi ngày là một điểm khởi đầu tốt để tăng cơ đều đặn với mức tăng mỡ tối thiểu.",
+        "Để duy trì cân nặng, bạn nên đặt mục tiêu tiêu thụ một lượng calo bằng với TDEE của mình."
+      ]
+    },
+    {
+      "heading": "Còn về các chất dinh dưỡng đa lượng thì sao?",
+      "paragraphs": [
+        "Calo đến từ ba chất dinh dưỡng đa lượng chính: protein, carbohydrate và chất béo. Cân bằng các 'macro' này là chìa khóa cho một chế độ ăn uống lành mạnh.",
+        "Protein rất quan trọng để xây dựng và sửa chữa các mô, bao gồm cả cơ bắp.",
+        "Carbohydrate là nguồn năng lượng chính của cơ thể bạn.",
+        "Chất béo cần thiết cho sản xuất hormone và hấp thụ vitamin.",
+        "Máy tính của chúng tôi giúp bạn chia nhỏ tổng lượng calo hàng ngày thành gam protein, carbohydrate và chất béo dựa trên các kế hoạch ăn kiêng phổ biến. Điều này cung cấp cho bạn một khuôn khổ thực tế để xây dựng các bữa ăn phù hợp với mục tiêu sức khỏe và thể chất của bạn."
+      ]
+    }
+  ],
+  "seoTimeTitle": "Máy tính Thời gian - Cộng và Trừ Khoảng thời gian",
+  "seoTimeDescription": "Một công cụ trực tuyến miễn phí để dễ dàng cộng hoặc trừ các khoảng thời gian. Tính toán ngày, giờ, phút và giây một cách chính xác. Lý tưởng cho việc quản lý dự án, theo dõi thời gian và các phép tính hàng ngày.",
+  "timeTitle": "Máy tính Thời gian",
+  "timeSubheading": "Cộng hoặc trừ các khoảng thời gian một cách dễ dàng.",
+  "time1Label": "Thời gian 1",
+  "time2Label": "Thời gian 2",
+  "operationLabel": "Phép toán",
+  "add": "Cộng (+)",
+  "subtract": "Trừ (-)",
+  "calculateTimeButton": "Tính toán",
+  "resetButton": "Đặt lại",
+  "resultLabel": "Kết quả",
+  "hours": "Giờ",
+  "minutes": "Phút",
+  "seconds": "Giây",
+  "errorInvalidTime": "Vui lòng nhập một số hợp lệ, không âm cho tất cả các trường thời gian.",
+  "seoTimeSections": [
+    {
+      "heading": "Cách sử dụng Máy tính Thời gian",
+      "paragraphs": [
+        "Máy tính Thời gian của chúng tôi đơn giản hóa quá trình cộng và trừ thời gian. Cho dù bạn đang theo dõi giờ làm việc, ghi lại các buổi tập thể dục hay lên kế hoạch cho một sự kiện, công cụ này đều cung cấp một giải pháp nhanh chóng và chính xác. Chỉ cần nhập hai khoảng thời gian, chọn cộng hoặc trừ chúng và nhận kết quả ngay lập tức.",
+        "Máy tính chia nhỏ thời gian thành ngày, giờ, phút và giây. Đối với phép trừ, hãy đảm bảo khoảng thời gian đầu tiên lớn hơn hoặc bằng khoảng thời gian thứ hai để tránh kết quả âm."
+      ]
+    },
+    {
+      "heading": "Các ứng dụng thực tế",
+      "paragraphs": [
+        "Công cụ này cực kỳ linh hoạt và có thể được sử dụng trong nhiều tình huống khác nhau:",
+        "Quản lý dự án: Tính tổng thời gian dành cho các nhiệm vụ khác nhau.",
+        "Hàng không và hàng hải: Ghi lại thời gian bay hoặc thời gian di chuyển.",
+        "Chỉnh sửa video: Cộng dồn độ dài của các clip hoặc tính toán thời gian còn lại.",
+        "Theo dõi thời gian cá nhân: Theo dõi thời gian dành cho sở thích, học tập hoặc tập thể dục."
+      ],
+      "list": [
+        "Giao diện dễ sử dụng.",
+        "Xử lý ngày, giờ, phút và giây.",
+        "Cung cấp các phép tính tức thì, chính xác."
+      ]
+    }
+  ],
+  "navHoursCalculator": "Tính Giờ",
+  "homeHoursCalculatorDescription": "Tính khoảng thời gian giữa hai thời điểm bằng giờ và phút.",
+  "seoHoursTitle": "Máy tính Giờ - Tính Khoảng thời gian giữa hai thời điểm",
+  "seoHoursDescription": "Một công cụ miễn phí để tính toán chênh lệch thời gian giữa thời gian bắt đầu và kết thúc bằng giờ và phút. Hoàn hảo cho giờ làm việc và theo dõi hoạt động.",
+  "hoursTitle": "Máy tính Giờ",
+  "hoursSubheading": "Tính khoảng thời gian giữa thời gian bắt đầu và thời gian kết thúc.",
+  "startTimeLabel": "Thời gian Bắt đầu",
+  "endTimeLabel": "Thời gian Kết thúc",
+  "hourLabel": "Giờ",
+  "minuteLabel": "Phút",
+  "calculateHoursButton": "Tính Khoảng thời gian",
+  "resultDurationLabel": "Khoảng thời gian đã tính",
+  "resultInMinutes": "tổng số phút",
+  "resultHours": "giờ",
+  "resultMinutes": "phút",
+  "seoHoursSections": [
+    {
+      "heading": "Cách sử dụng Máy tính Giờ",
+      "paragraphs": [
+        "Máy tính Giờ của chúng tôi được thiết kế để đơn giản hóa việc tính toán khoảng thời gian giữa hai điểm thời gian. Cho dù bạn đang tính giờ làm việc, thời lượng của một sự kiện, hay thời gian dành cho một nhiệm vụ, công cụ này đều cung cấp một kết quả nhanh chóng và chính xác. Chỉ cần nhập thời gian bắt đầu và kết thúc, và máy tính sẽ lo phần còn lại, xử lý cả các trường hợp qua nửa đêm."
+      ]
+    },
+    {
+      "heading": "Các ứng dụng thực tế",
+      "paragraphs": [
+        "Công cụ này cực kỳ hữu ích trong nhiều tình huống khác nhau:",
+        "Tính giờ làm việc: Dễ dàng tính toán giờ làm việc hàng ngày hoặc hàng tuần cho bảng chấm công.",
+        "Lập kế hoạch sự kiện: Xác định thời lượng của các cuộc họp, cuộc hẹn và sự kiện.",
+        "Theo dõi hoạt động: Theo dõi thời gian bạn dành cho sở thích, học tập hoặc tập thể dục."
+      ]
+    }
+  ]
+}

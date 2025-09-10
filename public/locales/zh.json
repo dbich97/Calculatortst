@@ -1,0 +1,414 @@
+{
+  "title": "计算器",
+  "selectLanguage": "选择语言",
+  "days": "天",
+  "weeks": "周",
+  "navHome": "首页",
+  "navCalculator": "年龄计算器",
+  "navTimeAndDate": "时间和日期",
+  "navHealthCalculators": "健康计算器",
+  "navPregnancyCalculator": "怀孕",
+  "navOvulationCalculator": "排卵",
+  "navMenstrualCycleCalculator": "月经周期",
+  "navCalorieCalculator": "卡路里计算器",
+  "navTimeCalculator": "时间计算器",
+  "navAbout": "关于",
+  "footerRights": "© {year} 计算器. 版权所有。",
+  "footerPrivacyPolicy": "隐私政策",
+  "footerContactUs": "联系我们",
+  "homeTitle": "您的一站式计算器中心",
+  "homeDescription": "从年龄到健康指标，在一个地方找到您需要的所有计算器。简单、快速、准确。",
+  "homeCTAText": "计算您的年龄",
+  "homeBasicCalculatorTitle": "基础计算器",
+  "homeHealthCalculatorsTitle": "探索健康计算器",
+  "homePregnancyCalculatorDescription": "估算您的预产期并跟踪您的怀孕历程。",
+  "homeOvulationCalculatorDescription": "确定您最易受孕的日子，以帮助计划生育。",
+  "homeMenstrualCycleCalculatorDescription": "轻松跟踪您的周期并预测您的下一次月经。",
+  "homeCalorieCalculatorDescription": "计算您每日所需的卡路里以实现您的健身目标。",
+  "homeTimeCalculatorDescription": "为工作、项目或爱好添加或减去时间段。",
+  "seoTitle": "免费在线年龄计算器 - 根据出生日期计算您的年龄",
+  "seoDescription": "使用我们免费且准确的在线年龄计算器，轻松计算您的年龄（年、月、日）。了解更多关于您出生的信息，包括星期几和下一个生日的倒计时。支持多种语言。",
+  "seoKeywords": "年龄计算器, 计算年龄, 出生日期计算器, 我多大了, 在线年龄计算器, 生日计算器, 免费年龄计算器",
+  "h1": "在线年龄计算器",
+  "h2": "输入您的出生日期",
+  "dateOfBirthLabel": "出生日期",
+  "dayLabel": "日",
+  "monthLabel": "月",
+  "yearLabel": "年",
+  "calculateButton": "计算年龄",
+  "errorInvalidDate": "请输入一个有效的日期。",
+  "errorFutureDate": "出生日期不能是未来的日期。",
+  "resultPrefix": "您现在",
+  "resultSuffix": "。",
+  "years": "岁",
+  "months": "个月",
+  "moreInfoTitle": "关于您生日的更多信息",
+  "dayOfWeekLabel": "您出生的星期",
+  "seasonLabel": "您出生的季节（北半球）",
+  "nextBirthdayLabel": "距离您下一个生日还有",
+  "shareResultTitle": "分享您的结果",
+  "shareResultText": "我刚用这个很酷的年龄计算器发现我现在是{years}岁{months}个月{days}天！",
+  "copyResultButton": "复制结果",
+  "resultCopiedTooltip": "已复制！",
+  "calendarType": "日历类型",
+  "gregorian": "公历",
+  "hijri": "回历",
+  "monthsArray": ["一月", "二月", "三月", "四月", "五月", "六月", "七月", "八月", "九月", "十月", "十一月", "十二月"],
+  "hijriMonthsArray": ["穆哈兰姆", "色法尔", "赖比尔·敖外鲁", "赖比尔·阿色尼", "主马达·敖外鲁", "主马达·阿色尼", "赖哲卜", "舍尔邦", "赖买丹", "闪瓦鲁", "都尔喀尔德", "都尔黑哲"],
+  "daysOfWeekArray": ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"],
+  "seasonsArray": ["冬季", "春季", "夏季", "秋季"],
+  "seoSections": [
+    {
+      "heading": "我们的年龄计算器如何工作",
+      "paragraphs": [
+        "我们的年龄计算器通过将您的出生日期与当前日期进行比较，以高精度计算您的年龄。该工具计算总经过时间，并将其分解为年、月和日。它会考虑闰年以提供准确的结果，使其成为任何询问“我多大了？”的人的可靠工具。只需输入您的出生日期，计算器就会立即显示您的实足年龄。"
+      ]
+    },
+    {
+      "heading": "为什么使用在线年龄计算器？",
+      "paragraphs": [
+        "虽然以年为单位计算您的年龄很简单，但要找到确切的月数和天数可能会很棘手。在线年龄计算器简化了此过程，提供即时准确的结果。它对于以下方面很有用：",
+        "填写需要您确切年龄的表格和申请。",
+        "计划生日庆祝活动和里程碑。",
+        "家谱研究和创建家庭时间表。",
+        "只是为了满足您对年龄的详细好奇心。"
+      ],
+      "list": [
+        "准确性：消除手动计算错误，尤其是在有闰年的情况下。",
+        "速度：在几秒钟内获取您的年龄。",
+        "方便：随时随地，在任何设备上均可访问。"
+      ]
+    }
+  ],
+  "shareTitle": "分享此计算器",
+  "copyLinkButton": "复制链接",
+  "copiedTooltip": "已复制！",
+  "aboutTitle": "关于我们",
+  "aboutHeading": "我们的使命",
+  "aboutContent": [
+    "欢迎来到计算器，这里是您获取各种免费、易于使用的在线计算器的一站式目的地。我们的使命是提供简单、快速、可靠的工具，让每个人的日常计算变得轻而易举。",
+    "我们从一个简单的年龄计算器开始，此后扩展到包括各种健康和通用计算器。我们坚信让信息易于获取，并已将我们的工具翻译成多种语言，以服务全球用户。",
+    "我们的团队致力于准确性和用户体验。我们不断努力改进现有工具并开发新工具以满足您的需求。感谢您选择计算器！"
+  ],
+  "privacyTitle": "隐私政策",
+  "privacyHeading": "我们重视您的隐私。",
+  "privacyContent": [
+    {
+      "heading": "1. 我们收集的信息",
+      "paragraphs": ["我们不收集或存储您在我们计算器中输入的任何个人数据。所有计算都在您的浏览器中直接执行，不会发送到我们的服务器。您的出生日期或任何其他信息绝不会被记录。"]
+    },
+    {
+      "heading": "2. Cookie 和分析",
+      "paragraphs": ["我们可能会使用匿名分析工具来了解我们网站的使用情况。这有助于我们改善用户体验。这些数据是汇总的，不能用于识别个人用户。我们不使用跟踪 cookie。"]
+    },
+    {
+      "heading": "3. 第三方服务",
+      "paragraphs": ["本网站不与任何可能损害您隐私的第三方服务集成。我们不与任何第三方共享任何数据。"]
+    }
+  ],
+  "contactTitle": "联系我们",
+  "contactHeading": "取得联系",
+  "contactIntro": "有任何问题、反馈或建议吗？我们很乐意听取您的意见。请给我们发送电子邮件，我们会尽快回复您。",
+  "contactEmail": "support@multicalculator.com",
+  "seoPregnancyTitle": "免费怀孕预产期计算器",
+  "seoPregnancyDescription": "根据您的末次月经（LMP）、受孕日期或体外受精（IVF）移植日期计算您的预计预产期。获取关键的怀孕里程碑。",
+  "pregnancyTitle": "怀孕预产期计算器",
+  "pregnancySubheading": "估算宝宝的预产期和关键的怀孕里程碑。",
+  "calculationMethodLabel": "计算依据：",
+  "lmpMethod": "末次月经",
+  "conceptionMethod": "受孕",
+  "ivfMethod": "体外受精",
+  "lmpDateLabel": "末次月经的第一天（LMP）",
+  "conceptionDateLabel": "受孕日期",
+  "transferDateLabel": "体外受精移植日期",
+  "ivfCycleTypeLabel": "移植类型",
+  "day3Transfer": "第3天胚胎",
+  "day5Transfer": "第5天囊胚",
+  "calculateDueDateButton": "计算预产期",
+  "pregnancyHeading": "您的怀孕时间线",
+  "dueDateResultLabel": "预计预产期",
+  "gestationalAgeResultLabel": "当前孕龄",
+  "trimesterResultLabel": "当前孕期",
+  "trimester1": "孕早期",
+  "trimester2": "孕中期",
+  "trimester3": "孕晚期",
+  "seoPregnancySections": [
+    {
+      "heading": "我们的预产期计算器如何工作",
+      "paragraphs": [
+        "我们的怀孕预产期计算器使用多种方法估算您的预期分娩日期。最常用的方法是根据您末次月经（LMP）的第一天。这种方法被称为内格勒法则，它会在您的LMP上增加280天（40周）来预测预产期。我们还提供基于受孕日期或IVF移植日期的计算，以提高准确性，特别是如果您的周期不规律或知道确切的受孕日期。",
+        "请务必记住，此日期为估算值。只有约5%的婴儿在确切的预产期出生。此工具为您和您的医疗保健提供者规划宝宝的到来提供了可靠的指导。"
+      ],
+      "list": [
+        "LMP方法：基于28天周期的标准计算。",
+        "受孕日期方法：如果您知道确切的受孕日期，则更准确。",
+        "IVF方法：专为IVF怀孕量身定制，基于胚胎移植日期和年龄。"
+      ]
+    },
+    {
+      "heading": "了解您的怀孕时间线：孕期和里程碑",
+      "paragraphs": [
+        "足月妊娠分为三个孕期，每个孕期都有独特的胎儿发育里程碑。我们的计算器不仅提供预产期，还通过计算您当前的孕龄来帮助您了解您在此过程中的位置。",
+        "孕早期（1-13周）是宝宝器官发育的关键时期。孕中期（14-27周）通常被称为“黄金时期”，因为许多早孕症状会减轻，您可能会开始感觉到宝宝的胎动。孕晚期（28-40周以上）侧重于宝宝在为出生做准备时的快速生长和体重增加。在所有这些阶段进行定期的产前护理对于健康怀孕至关重要。"
+      ]
+    }
+  ],
+  "seoOvulationTitle": "免费排卵和受孕窗口计算器",
+  "seoOvulationDescription": "根据您的末次月经和周期长度估算您的排卵日和最易受孕的日子。使用我们准确的计算器计划您的怀孕。",
+  "ovulationTitle": "排卵计算器",
+  "ovulationSubheading": "预测您最易受孕的日子，以提高受孕机会。",
+  "lmpDateLabelOvulation": "末次月经的第一天",
+  "cycleLengthLabel": "平均周期长度",
+  "calculateOvulationButton": "计算排卵期",
+  "ovulationHeading": "您的受孕窗口",
+  "resultOvulationDate": "预计排卵日",
+  "resultFertileWindow": "最易受孕窗口",
+  "fertileWindowDescription": "从{startDate}到{endDate}",
+  "resultNextPeriod": "预计下次月经日期",
+  "seoOvulationSections": [
+    {
+      "heading": "如何预测您最易受孕的日子",
+      "paragraphs": [
+        "我们的排卵计算器是一个简单的工具，旨在帮助您预测一个月中最易受孕的日子。通过输入您末次月经的第一天和您的平均周期长度，计算器会估算出您可能的排卵日期。排卵是卵巢释放卵子的过程，通常发生在下次月经开始前约14天。",
+        "您的“受孕窗口”包括排卵日及其前的五天。这是因为精子可以在女性生殖道中存活长达五天。在此窗口期间进行性交会显著增加您受孕的机会。"
+      ],
+      "list": [
+        "输入您的数据：从您的末次月经日期和周期长度开始。",
+        "获取您的估算：计算器会确定您的关键受孕日。",
+        "相应地进行计划：利用此信息帮助您实现计划生育目标。"
+      ]
+    },
+    {
+      "heading": "除了计算器：排卵的其他迹象",
+      "paragraphs": [
+        "虽然排卵计算器是一个很好的起点，但您的身体也会提供排卵即将到来的线索。将计算器的估算与这些身体迹象相结合，可以为您提供更准确的受孕窗口图像。这些迹象包括：",
+        "宫颈粘液的变化：随着排卵的临近，您的宫颈粘液可能会变得更清澈、更稀薄、更滑，类似于蛋清的稠度。",
+        "基础体温（BBT）：每天跟踪您的BBT可以显示排卵发生后体温轻微但持续的升高。",
+        "排卵预测试纸（OPK）：这些非处方试纸可检测排卵前24-36小时发生的黄体生成素（LH）激增。"
+      ]
+    }
+  ],
+  "seoMenstrualTitle": "月经周期和经期计算器",
+  "seoMenstrualDescription": "使用我们简单免费的在线计算器跟踪您的月经周期并预测您的下一次经期日期。",
+  "menstrualCycleTitle": "月经周期计算器",
+  "menstrualCycleSubheading": "使用这个易于使用的计算器预测您的下一次月经。",
+  "calculateMenstrualButton": "计算下一次月经",
+  "menstrualCycleHeading": "您的下一次月经日期",
+  "resultNextPeriod1": "下一次预计月经",
+  "resultNextPeriod2": "再下一次预计月经",
+  "seoMenstrualSections": [
+    {
+      "heading": "我们的经期计算器如何工作",
+      "paragraphs": [
+        "我们的月经周期计算器仅需两条信息即可帮助您预测下次月经的开始日期：您末次月经的第一天和您的平均月经周期长度。通过将您的平均周期长度添加到您末次月经的开始日期，该工具可为您提供接下来两次月经的预计日期。",
+        "跟踪您的周期不仅仅是为了方便；它是您整体健康状况的关键指标。规律、可预测的周期通常意味着您身体的荷尔蒙功能正常。"
+      ],
+      "list": [
+        "简单输入：输入您末次月经的开始日期和周期长度。",
+        "即时预测：立即查看您接下来几次月经的预计日期。",
+        "提前计划：使用预测来计划活动、假期，或者只是做好准备。"
+      ]
+    },
+    {
+      "heading": "了解您的月经周期",
+      "paragraphs": [
+        "月经周期从一次月经的第一天算到下一次月经的第一天。虽然平均周期为28天，但21至35天的周期对于成年人来说也被认为是正常的。许多因素会影响您周期的长度和规律性，包括压力、饮食、运动和某些健康状况。",
+        "如果您的周期持续不规律，比正常范围短得多或长得多，或者您感到剧烈疼痛，最好咨询医疗保健提供者。我们的计算器最适合周期相对规律的人，但也可以为其他人提供有用的估算。"
+      ]
+    }
+  ],
+  "seoCalorieTitle": "免费卡路里计算器 - TDEE和BMR",
+  "seoCalorieDescription": "计算您每日减重、维持或增重所需的卡路里。查找您的BMR和TDEE，并获取个性化的宏量营养素目标。",
+  "calorieTitle": "卡路里计算器",
+  "calorieSubheading": "计算您的每日需求以实现您的体重目标。",
+  "step": "步骤",
+  "stepOf": "之",
+  "step1_personalia": "您的个人资料",
+  "step2_activity": "活动水平",
+  "step3_goal": "您的目标",
+  "step4_results": "卡路里结果",
+  "step5_macros": "宏量营养素计划",
+  "step6_macro_results": "宏量结果",
+  "step7_meal_plan": "示例膳食计划",
+  "step8_summary": "摘要",
+  "nextButton": "下一步",
+  "backButton": "返回",
+  "calculateCaloriesButton": "计算卡路里",
+  "recalculate": "重新计算",
+  "unitSystemLabel": "单位系统",
+  "metric": "公制",
+  "imperial": "英制",
+  "genderLabel": "性别",
+  "male": "男性",
+  "female": "女性",
+  "ageLabel": "年龄",
+  "ageUnit": "岁",
+  "heightLabel": "身高",
+  "weightLabel": "体重",
+  "cm": "厘米",
+  "ft": "英尺",
+  "in": "英寸",
+  "kg": "公斤",
+  "lbs": "磅",
+  "activityLevelLabel": "您的活动量如何？",
+  "sedentary": "久坐：很少或没有运动",
+  "lightlyActive": "轻度活跃：每周运动1-3天",
+  "moderatelyActive": "中度活跃：每周运动3-5天",
+  "veryActive": "非常活跃：每周运动6-7天",
+  "extraActive": "极度活跃：非常艰苦的运动和体力工作",
+  "goalLabel": "您的主要目标是什么？",
+  "maintainWeight": "维持当前体重",
+  "mildWeightLoss": "轻度减重（0.25公斤/周）",
+  "weightLoss": "减重（0.5公斤/周）",
+  "extremeWeightLoss": "极度减重（1公斤/周）",
+  "mildWeightGain": "轻度增重（0.25公斤/周）",
+  "weightGain": "增重（0.5公斤/周）",
+  "fastWeightGain": "快速增重（1公斤/周）",
+  "calorieResultsTitle": "您的卡路里需求",
+  "caloriesPerDay": "卡路里/天",
+  "yourBMR": "基础代谢率（BMR）",
+  "bmrDescription": "您的身体在休息时需要的卡路里。",
+  "maintenanceCalories": "维持卡路里",
+  "goalResultText": {
+    "maintainWeight": "维持您的体重",
+    "mildWeightLoss": "轻度减重",
+    "weightLoss": "减重",
+    "extremeWeightLoss": "极度减重",
+    "mildWeightGain": "轻度增重",
+    "weightGain": "增重",
+    "fastWeightGain": "快速增重",
+    "sedentary": "久坐：很少或没有运动",
+    "lightlyActive": "轻度活跃：每周运动1-3天",
+    "moderatelyActive": "中度活跃：每周运动3-5天",
+    "veryActive": "非常活跃：每周运动6-7天",
+    "extraActive": "极度活跃：非常艰苦的运动和体力工作"
+  },
+  "macronutrientPlan": "选择一个宏量营养素计划",
+  "balanced": "均衡（40%碳水，30%蛋白质，30%脂肪）",
+  "lowCarb": "低碳水（20%碳水，40%蛋白质，40%脂肪）",
+  "highProtein": "高蛋白（30%碳水，45%蛋白质，25%脂肪）",
+  "macronutrients": "每日宏量营养素",
+  "protein": "蛋白质",
+  "carbs": "碳水化合物",
+  "fat": "脂肪",
+  "grams": "克",
+  "getMealPlan": "获取示例膳食计划",
+  "generatingMealPlan": "正在生成膳食计划",
+  "mealPlanError": "抱歉，我们目前无法生成膳食计划。请稍后再试。",
+  "mealPlanTitle": "您的一日示例膳食计划",
+  "breakfast": "早餐",
+  "lunch": "午餐",
+  "dinner": "晚餐",
+  "snacks": "零食",
+  "summaryTitle": "计算摘要",
+  "summaryYourProfile": "您的个人资料",
+  "summaryYourResults": "您的结果",
+  "summaryCalculatedMealPlan": "计算的膳食计划",
+  "printResults": "打印结果",
+  "calorieShareResultTitle": "分享您的结果",
+  "calorieShareResultText": "我刚计算出我的每日需求！为了达到我的目标，我需要{calories}卡路里，其中包含{protein}克蛋白质，{carbs}克碳水化合物和{fat}克脂肪。快来看看这个超棒的计算器！",
+  "errorNumber": "请输入一个有效的数字。",
+  "errorHeight": "请输入一个有效的身高（最低100厘米/3英尺3英寸）。",
+  "errorWeight": "请输入一个有效的体重（最低20公斤/45磅）。",
+  "errorAge": "请输入一个有效的年龄（15-80岁）。",
+  "seoCalorieSections": [
+    {
+      "heading": "了解您的每日卡路里需求",
+      "paragraphs": [
+        "卡路里是能量的单位。在营养学中，卡路里是指人们从他们食用的食物和饮料中获得的能量，以及他们在体育活动中使用的能量。了解您的每日卡路里需求是实现您体重目标的第一步，无论是减肥、增重还是维持当前体重。",
+        "我们的计算器首先确定您的基础代谢率（BMR），即您的身体在休息时执行基本生命维持功能（如呼吸、循环和细胞生成）所需的卡路里数量。我们使用广为接受的Mifflin-St Jeor方程进行此计算。然后，我们考虑您的活动水平来计算您的每日总能量消耗（TDEE），这是您每日卡路里消耗的更准确估计。"
+      ]
+    },
+    {
+      "heading": "设定目标：减肥、增重或维持体重",
+      "paragraphs": [
+        "一旦您知道了您的TDEE（维持卡路里），您就可以调整摄入量以实现您的目标：",
+        "要减肥，您需要摄入比您的TDEE少的卡路里，从而产生卡路里赤字。安全且可持续的赤字通常是每天约500卡路里，以每周减掉约1磅（0.5公斤）。",
+        "要增重，您需要摄入比您的TDEE多的卡路里，从而产生卡路里盈余。每天300-500卡路里的盈余是稳定增加肌肉而脂肪增加最少的一个良好起点。",
+        "要维持您的体重，您应该目标摄入与您的TDEE相等的卡路里数量。"
+      ]
+    },
+    {
+      "heading": "关于宏量营养素呢？",
+      "paragraphs": [
+        "卡路里来自三种主要的宏量营养素：蛋白质、碳水化合物和脂肪。平衡这些“宏量”是健康饮食的关键。",
+        "蛋白质对于建立和修复组织（包括肌肉）至关重要。",
+        "碳水化合物是您身体的主要能量来源。",
+        "脂肪对于激素产生和吸收维生素至关重要。",
+        "我们的计算器可帮助您根据流行的饮食计划将每日总卡路里分解为蛋白质、碳水化合物和脂肪的克数。这为您提供了一个实用的框架，以构建符合您健康和健身目标的膳食。"
+      ]
+    }
+  ],
+  "seoTimeTitle": "时间计算器 - 加减时间段",
+  "seoTimeDescription": "一个免费的在线工具，可以轻松地加减时间段。精确计算天、小时、分钟和秒。非常适合项目管理、时间跟踪和日常计算。",
+  "timeTitle": "时间计算器",
+  "timeSubheading": "轻松加减时间段。",
+  "time1Label": "时间 1",
+  "time2Label": "时间 2",
+  "operationLabel": "运算",
+  "add": "加 (+)",
+  "subtract": "减 (-)",
+  "calculateTimeButton": "计算",
+  "resetButton": "重置",
+  "resultLabel": "结果",
+  "hours": "小时",
+  "minutes": "分钟",
+  "seconds": "秒",
+  "errorInvalidTime": "请为所有时间字段输入一个有效的非负数。",
+  "seoTimeSections": [
+    {
+      "heading": "如何使用时间计算器",
+      "paragraphs": [
+        "我们的时间计算器简化了时间的加减过程。无论您是跟踪工作时间、记录锻炼课程还是计划活动，此工具都能提供快速准确的解决方案。只需输入两个时间段，选择是加还是减，然后立即获得结果。",
+        "计算器将时间分解为天、小时、分钟和秒。对于减法，请确保第一个时间段大于或等于第二个时间段，以避免出现负数结果。"
+      ]
+    },
+    {
+      "heading": "实际应用",
+      "paragraphs": [
+        "该工具用途极其广泛，可用于各种场景：",
+        "项目管理：计算不同任务所花费的总时间。",
+        "航空和导航：记录飞行时间或旅行时长。",
+        "视频编辑：将剪辑长度相加或计算剩余时间。",
+        "个人时间跟踪：监控花在爱好、学习或锻炼上的时间。"
+      ],
+      "list": [
+        "易于使用的界面。",
+        "处理天、小时、分钟和秒。",
+        "提供即时、精确的计算。"
+      ]
+    }
+  ],
+  "navHoursCalculator": "小时计算器",
+  "homeHoursCalculatorDescription": "计算两个时间点之间的小时和分钟数。",
+  "seoHoursTitle": "小时计算器 - 计算两个时间点之间的时长",
+  "seoHoursDescription": "一个免费工具，用于计算开始时间和结束时间之间的小时和分钟差。非常适合计算工作时间和活动跟踪。",
+  "hoursTitle": "小时计算器",
+  "hoursSubheading": "计算开始时间和结束时间之间的时长。",
+  "startTimeLabel": "开始时间",
+  "endTimeLabel": "结束时间",
+  "hourLabel": "时",
+  "minuteLabel": "分",
+  "calculateHoursButton": "计算时长",
+  "resultDurationLabel": "计算出的时长",
+  "resultInMinutes": "总分钟数",
+  "resultHours": "小时",
+  "resultMinutes": "分钟",
+  "seoHoursSections": [
+    {
+      "heading": "如何使用小时计算器",
+      "paragraphs": [
+        "我们的小时计算器旨在简化计算两个时间点之间时长的过程。无论您是计算工作时间、活动时长还是任务花费的时间，此工具都能提供快速准确的结果。只需输入开始和结束时间，计算器将完成剩下的工作，处理跨越午夜的情况。"
+      ]
+    },
+    {
+      "heading": "实际应用",
+      "paragraphs": [
+        "该工具在各种场景中非常有用：",
+        "计算工作时间：轻松计算工时表的每日或每周工作时间。",
+        "活动策划：确定会议、约会和活动的时长。",
+        "活动跟踪：监控您花在爱好、学习或锻炼上的时间。"
+      ]
+    }
+  ]
+}

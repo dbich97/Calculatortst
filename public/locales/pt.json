@@ -1,0 +1,414 @@
+{
+  "title": "Calculadora",
+  "selectLanguage": "Selecionar Idioma",
+  "days": "Dias",
+  "weeks": "Semanas",
+  "navHome": "Início",
+  "navCalculator": "Calculadora de Idade",
+  "navTimeAndDate": "Data e Hora",
+  "navHealthCalculators": "Calculadoras de Saúde",
+  "navPregnancyCalculator": "Gravidez",
+  "navOvulationCalculator": "Ovulação",
+  "navMenstrualCycleCalculator": "Ciclo Menstrual",
+  "navCalorieCalculator": "Calculadora de Calorias",
+  "navTimeCalculator": "Calculadora de Tempo",
+  "navAbout": "Sobre",
+  "footerRights": "© {year} Calculadora. Todos os direitos reservados.",
+  "footerPrivacyPolicy": "Política de Privacidade",
+  "footerContactUs": "Fale Conosco",
+  "homeTitle": "Seu Centro de Calculadoras Tudo-em-Um",
+  "homeDescription": "Da idade às métricas de saúde, encontre todas as calculadoras que você precisa em um só lugar. Simples, rápido e preciso.",
+  "homeCTAText": "Calcule Sua Idade",
+  "homeBasicCalculatorTitle": "Calculadora Básica",
+  "homeHealthCalculatorsTitle": "Explore as Calculadoras de Saúde",
+  "homePregnancyCalculatorDescription": "Estime sua data de parto e acompanhe sua jornada de gravidez.",
+  "homeOvulationCalculatorDescription": "Identifique seus dias mais férteis para ajudar no planejamento familiar.",
+  "homeMenstrualCycleCalculatorDescription": "Acompanhe seu ciclo e preveja seu próximo período com facilidade.",
+  "homeCalorieCalculatorDescription": "Calcule suas necessidades calóricas diárias para atingir seus objetivos de fitness.",
+  "homeTimeCalculatorDescription": "Adicione ou subtraia durações de tempo para trabalho, projetos ou hobbies.",
+  "seoTitle": "Calculadora de Idade Online Grátis - Calcule Sua Idade por Data de Nascimento",
+  "seoDescription": "Calcule facilmente sua idade em anos, meses e dias usando nossa calculadora de idade online grátis e precisa. Saiba mais sobre sua data de nascimento, incluindo o dia da semana e a contagem regressiva para seu próximo aniversário. Suporta varios idiomas.",
+  "seoKeywords": "calculadora de idade, calcular idade, calculadora de data de nascimento, quantos anos eu tenho, calculadora de idade online, calculadora de aniversário, calculadora de idade grátis",
+  "h1": "Calculadora de Idade Online",
+  "h2": "Digite Sua Data de Nascimento",
+  "dateOfBirthLabel": "Data de Nascimento",
+  "dayLabel": "Dia",
+  "monthLabel": "Mês",
+  "yearLabel": "Ano",
+  "calculateButton": "Calcular Idade",
+  "errorInvalidDate": "Por favor, insira uma data válida.",
+  "errorFutureDate": "A data de nascimento não pode ser no futuro.",
+  "resultPrefix": "Você tem",
+  "resultSuffix": "de idade.",
+  "years": "Anos",
+  "months": "Meses",
+  "moreInfoTitle": "Mais Sobre o Seu Aniversário",
+  "dayOfWeekLabel": "Dia da semana em que você nasceu",
+  "seasonLabel": "Estação do seu nascimento (Hemisfério Norte)",
+  "nextBirthdayLabel": "Dias até o seu próximo aniversário",
+  "shareResultTitle": "Compartilhe Seu Resultado",
+  "shareResultText": "Acabei de descobrir que tenho {years} anos, {months} meses e {days} dias usando esta calculadora de idade incrível!",
+  "copyResultButton": "Copiar resultado",
+  "resultCopiedTooltip": "Copiado!",
+  "calendarType": "Tipo de Calendário",
+  "gregorian": "Gregoriano",
+  "hijri": "Hijri",
+  "monthsArray": ["Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"],
+  "hijriMonthsArray": ["Muharram", "Safar", "Rabi' al-awwal", "Rabi' al-thani", "Jumada al-ula", "Jumada al-akhirah", "Rajab", "Sha'ban", "Ramadan", "Shawwal", "Dhu al-Qi'dah", "Dhu al-Hijjah"],
+  "daysOfWeekArray": ["Domingo", "Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira", "Sábado"],
+  "seasonsArray": ["Inverno", "Primavera", "Verão", "Outono"],
+  "seoSections": [
+    {
+      "heading": "Como a Nossa Calculadora de Idade Funciona",
+      "paragraphs": [
+        "A nossa Calculadora de Idade calcula a sua idade com alta precisão comparando a sua data de nascimento com a data atual. A ferramenta calcula o tempo total decorrido e divide-o em anos, meses e dias. Tem em conta os anos bissextos para fornecer um resultado preciso, tornando-a uma ferramenta fiável para quem pergunta 'quantos anos tenho?'. Basta inserir a sua data de nascimento e a calculadora exibe instantaneamente a sua idade cronológica."
+      ]
+    },
+    {
+      "heading": "Porquê Usar uma Calculadora de Idade Online?",
+      "paragraphs": [
+        "Embora calcular a sua idade em anos seja simples, encontrar o número exato de meses e dias pode ser complicado. Uma calculadora de idade online simplifica este processo, fornecendo resultados instantâneos e precisos. É útil para:",
+        "Preencher formulários e candidaturas que exigem a sua idade exata.",
+        "Planear celebrações de aniversário e marcos importantes.",
+        "Pesquisa de genealogia e criação de linhas de tempo familiares.",
+        "Simplesmente satisfazer a sua curiosidade sobre a sua idade em termos detalhados."
+      ],
+      "list": [
+        "Precisão: Elimina erros de cálculo manual, especialmente com anos bissextos.",
+        "Rapidez: Obtenha a sua idade em segundos.",
+        "Conveniência: Acessível a qualquer hora, em qualquer lugar, em qualquer dispositivo."
+      ]
+    }
+  ],
+  "shareTitle": "Compartilhe esta Calculadora",
+  "copyLinkButton": "Copiar Link",
+  "copiedTooltip": "Copiado!",
+  "aboutTitle": "Sobre Nós",
+  "aboutHeading": "Nossa Missão",
+  "aboutContent": [
+    "Bem-vindo à Calculadora, o seu destino para uma vasta gama de calculadoras online gratuitas e fáceis de usar. A nossa missão é fornecer ferramentas simples, rápidas e fiáveis que tornam os cálculos do dia a dia fáceis para todos.",
+    "Começámos com uma simples Calculadora de Idade e desde então expandimos para incluir várias calculadoras de saúde e de uso geral. Acreditamos em tornar a informação acessível e traduzimos as nossas ferramentas para vários idiomas para servir um público global.",
+    "A nossa equipa dedica-se à precisão e à experiência do utilizador. Estamos constantemente a trabalhar para melhorar as nossas ferramentas existentes e a desenvolver novas para satisfazer as suas necessidades. Obrigado por escolher a Calculadora!"
+  ],
+  "privacyTitle": "Política de Privacidade",
+  "privacyHeading": "A sua privacidade é importante para nós.",
+  "privacyContent": [
+    {
+      "heading": "1. Informações que Coletamos",
+      "paragraphs": ["Não coletamos nem armazenamos quaisquer dados pessoais que você insira nas nossas calculadoras. Todos os cálculos são realizados diretamente no seu navegador e não são enviados para os nossos servidores. A sua data de nascimento ou qualquer outra informação nunca é registada."]
+    },
+    {
+      "heading": "2. Cookies e Análises",
+      "paragraphs": ["Podemos usar ferramentas de análise anónimas para entender como o nosso site é usado. Isso ajuda-nos a melhorar a experiência do utilizador. Estes dados são agregados e não podem ser usados para identificar utilizadores individuais. Não usamos cookies de rastreamento."]
+    },
+    {
+      "heading": "3. Serviços de Terceiros",
+      "paragraphs": ["Este site não se integra com quaisquer serviços de terceiros que possam comprometer a sua privacidade. Não partilhamos quaisquer dados com terceiros."]
+    }
+  ],
+  "contactTitle": "Fale Conosco",
+  "contactHeading": "Entre em Contato",
+  "contactIntro": "Tem perguntas, feedback ou sugestões? Gostaríamos muito de ouvir de você. Por favor, envie-nos um e-mail e responderemos o mais breve possível.",
+  "contactEmail": "suporte@calculadoramultipla.com",
+  "seoPregnancyTitle": "Calculadora Gratuita da Data Provável do Parto",
+  "seoPregnancyDescription": "Calcule a sua data provável do parto com base na sua última menstruação (DUM), data da concepção ou data da transferência de FIV. Obtenha os marcos principais da gravidez.",
+  "pregnancyTitle": "Calculadora da Data do Parto",
+  "pregnancySubheading": "Estime a data do parto do seu bebê e os principais marcos da gravidez.",
+  "calculationMethodLabel": "Calcular com base em:",
+  "lmpMethod": "Última Menstruação",
+  "conceptionMethod": "Concepção",
+  "ivfMethod": "FIV",
+  "lmpDateLabel": "Primeiro Dia da Última Menstruação (DUM)",
+  "conceptionDateLabel": "Data da Concepção",
+  "transferDateLabel": "Data da Transferência de FIV",
+  "ivfCycleTypeLabel": "Tipo de Transferência",
+  "day3Transfer": "Embrião de 3 Dias",
+  "day5Transfer": "Blastocisto de 5 Dias",
+  "calculateDueDateButton": "Calcular Data do Parto",
+  "pregnancyHeading": "Sua Linha do Tempo da Gravidez",
+  "dueDateResultLabel": "Data Estimada do Parto",
+  "gestationalAgeResultLabel": "Idade Gestacional Atual",
+  "trimesterResultLabel": "Trimestre Atual",
+  "trimester1": "Primeiro Trimestre",
+  "trimester2": "Segundo Trimestre",
+  "trimester3": "Terceiro Trimestre",
+  "seoPregnancySections": [
+    {
+      "heading": "Como Funciona a Nossa Calculadora de Data do Parto",
+      "paragraphs": [
+        "A nossa Calculadora da Data Provável do Parto estima a sua data de parto esperada usando vários métodos. O método mais comum baseia-se no primeiro dia da sua última menstruação (DUM). Esta abordagem, conhecida como regra de Naegele, adiciona 280 dias (40 semanas) à sua DUM para prever a data do parto. Também oferecemos cálculos baseados na data da concepção ou na data da sua transferência de FIV para maior precisão, especialmente se você tiver ciclos irregulares ou souber a data exata da concepção.",
+        "É importante lembrar que esta data é uma estimativa. Apenas cerca de 5% dos bebês nascem na data exata do parto. Esta ferramenta fornece uma orientação confiável para ajudar você e seu profissional de saúde a planejar a chegada do seu bebê."
+      ],
+      "list": [
+        "Método DUM: O cálculo padrão baseado num ciclo de 28 dias.",
+        "Método da Data da Concepção: Mais preciso se você souber a data exata da concepção.",
+        "Método FIV: Adaptado para gestações de FIV, baseado na data de transferência do embrião e na sua idade."
+      ]
+    },
+    {
+      "heading": "Entendendo a Linha do Tempo da Sua Gravidez: Trimestres e Marcos",
+      "paragraphs": [
+        "Uma gravidez a termo é dividida em três trimestres, cada um com marcos únicos de desenvolvimento fetal. A nossa calculadora não só fornece uma data provável do parto, mas também ajuda a entender onde você está nesta jornada, calculando a sua idade gestacional atual.",
+        "O Primeiro Trimestre (Semanas 1-13) é um período crítico de desenvolvimento para os órgãos do seu bebê. O Segundo Trimestre (Semanas 14-27) é muitas vezes chamado de 'período dourado', pois muitos sintomas iniciais da gravidez diminuem e você pode começar a sentir o seu bebê a mexer. O Terceiro Trimestre (Semanas 28-40+) foca-se no crescimento rápido e ganho de peso do bebê enquanto se prepara para o nascimento. O cuidado pré-natal regular ao longo destas fases é essencial para uma gravidez saudável."
+      ]
+    }
+  ],
+  "seoOvulationTitle": "Calculadora Gratuita de Ovulação e Janela Fértil",
+  "seoOvulationDescription": "Estime a sua data de ovulação e os seus dias mais férteis com base na sua última menstruação e na duração do ciclo. Planeie a sua gravidez com a nossa calculadora precisa.",
+  "ovulationTitle": "Calculadora de Ovulação",
+  "ovulationSubheading": "Preveja os seus dias mais férteis para uma maior chance de concepção.",
+  "lmpDateLabelOvulation": "Primeiro Dia da Última Menstruação",
+  "cycleLengthLabel": "Duração Média do Ciclo",
+  "calculateOvulationButton": "Calcular Ovulação",
+  "ovulationHeading": "Sua Janela Fértil",
+  "resultOvulationDate": "Data Estimada de Ovulação",
+  "resultFertileWindow": "Janela Mais Fértil",
+  "fertileWindowDescription": "De {startDate} a {endDate}",
+  "resultNextPeriod": "Data Estimada da Próxima Menstruação",
+  "seoOvulationSections": [
+    {
+      "heading": "Como Prever Seus Dias Mais Férteis",
+      "paragraphs": [
+        "Nossa Calculadora de Ovulação é uma ferramenta simples projetada para ajudá-la a prever seus dias mais férteis do mês. Ao inserir o primeiro dia de sua última menstruação e a duração média de seu ciclo, a calculadora estima sua provável data de ovulação. A ovulação é a liberação de um óvulo de seu ovário, o que geralmente acontece cerca de 14 dias antes do início de sua próxima menstruação.",
+        "Sua 'janela fértil' inclui o dia da ovulação e os cinco dias que o antecedem. Isso ocorre porque o esperma pode sobreviver no trato reprodutivo feminino por até cinco dias. Ter relações sexuais durante essa janela aumenta significativamente suas chances de concepção."
+      ],
+      "list": [
+        "Insira Seus Dados: Comece com a data de sua última menstruação e a duração de seu ciclo.",
+        "Obtenha Sua Estimativa: A calculadora identifica seus principais dias férteis.",
+        "Planeje de Acordo: Use essas informações para ajudar em seus objetivos de planejamento familiar."
+      ]
+    },
+    {
+      "heading": "Além da Calculadora: Outros Sinais de Ovulação",
+      "paragraphs": [
+        "Embora uma calculadora de ovulação seja um ótimo ponto de partida, seu corpo também fornece pistas de que a ovulação está se aproximando. Combinar a estimativa da calculadora com esses sinais físicos pode lhe dar uma imagem mais precisa de sua janela fértil. Esses sinais incluem:",
+        "Alterações no Muco Cervical: À medida que você se aproxima da ovulação, seu muco cervical pode se tornar mais claro, mais fino e mais escorregadio, semelhante à consistência de clara de ovo.",
+        "Temperatura Corporal Basal (TCB): Acompanhar sua TCB diariamente pode mostrar um aumento de temperatura leve, mas sustentado, após a ocorrência da ovulação.",
+        "Kits de Previsão de Ovulação (OPKs): Esses kits de venda livre detectam o pico do hormônio luteinizante (LH) que ocorre de 24 a 36 horas antes da ovulação."
+      ]
+    }
+  ],
+  "seoMenstrualTitle": "Calculadora de Ciclo Menstrual e Período",
+  "seoMenstrualDescription": "Acompanhe seu ciclo menstrual e preveja as datas de seu próximo período com nossa calculadora online simples e gratuita.",
+  "menstrualCycleTitle": "Calculadora de Ciclo Menstrual",
+  "menstrualCycleSubheading": "Preveja seu próximo período com esta calculadora fácil de usar.",
+  "calculateMenstrualButton": "Calcular Próximo Período",
+  "menstrualCycleHeading": "Datas de Seu Próximo Período",
+  "resultNextPeriod1": "Próximo Período Estimado",
+  "resultNextPeriod2": "Período Estimado Seguinte",
+  "seoMenstrualSections": [
+    {
+      "heading": "Como Funciona Nossa Calculadora de Período",
+      "paragraphs": [
+        "Nossa Calculadora de Ciclo Menstrual ajuda você a prever a data de início de seu próximo período com apenas duas informações: o primeiro dia de seu último período e a duração média de seu ciclo menstrual. Ao adicionar a duração média de seu ciclo à data de início de seu último período, a ferramenta fornece uma data estimada para seus próximos dois períodos.",
+        "Acompanhar seu ciclo é mais do que apenas conveniência; é um indicador-chave de sua saúde geral. Ciclos regulares e previsíveis geralmente significam que os hormônios de seu corpo estão funcionando corretamente."
+      ],
+      "list": [
+        "Entradas Simples: Insira a data de início de seu último período e a duração do ciclo.",
+        "Previsões Instantâneas: Veja imediatamente as datas estimadas para seus próximos períodos.",
+        "Planeje com Antecedência: Use as previsões para planejar eventos, férias ou simplesmente para estar preparada."
+      ]
+    },
+    {
+      "heading": "Entendendo Seu Ciclo Menstrual",
+      "paragraphs": [
+        "Um ciclo menstrual é contado do primeiro dia de um período ao primeiro dia do próximo. Embora o ciclo médio seja de 28 dias, ciclos que variam de 21 a 35 dias também são considerados normais para adultos. Muitos fatores podem influenciar a duração e a regularidade de seu ciclo, incluindo estresse, dieta, exercícios e certas condições de saúde.",
+        "Se seus ciclos são consistentemente irregulares, muito mais curtos ou mais longos que o normal, ou se você sente dor intensa, é uma boa ideia consultar um profissional de saúde. Nossa calculadora funciona melhor para quem tem ciclos relativamente regulares, mas ainda pode fornecer uma estimativa útil para outras pessoas."
+      ]
+    }
+  ],
+  "seoCalorieTitle": "Calculadora de Calorias Gratuita - TDEE & BMR",
+  "seoCalorieDescription": "Calcule suas necessidades calóricas diárias para perda, manutenção ou ganho de peso. Encontre seu BMR e TDEE e obtenha metas de macronutrientes personalizadas.",
+  "calorieTitle": "Calculadora de Calorias",
+  "calorieSubheading": "Calcule suas necessidades diárias para atingir seus objetivos de peso.",
+  "step": "Passo",
+  "stepOf": "de",
+  "step1_personalia": "Seu Perfil",
+  "step2_activity": "Nível de Atividade",
+  "step3_goal": "Seu Objetivo",
+  "step4_results": "Resultados de Calorias",
+  "step5_macros": "Plano de Macronutrientes",
+  "step6_macro_results": "Resultados de Macros",
+  "step7_meal_plan": "Plano de Refeições de Exemplo",
+  "step8_summary": "Resumo",
+  "nextButton": "Próximo",
+  "backButton": "Voltar",
+  "calculateCaloriesButton": "Calcular Calorias",
+  "recalculate": "Recalcular",
+  "unitSystemLabel": "Sistema de Unidades",
+  "metric": "Métrico",
+  "imperial": "Imperial",
+  "genderLabel": "Gênero",
+  "male": "Masculino",
+  "female": "Feminino",
+  "ageLabel": "Idade",
+  "ageUnit": "anos",
+  "heightLabel": "Altura",
+  "weightLabel": "Peso",
+  "cm": "cm",
+  "ft": "pés",
+  "in": "pol",
+  "kg": "kg",
+  "lbs": "lbs",
+  "activityLevelLabel": "Qual seu nível de atividade?",
+  "sedentary": "Sedentário: pouco ou nenhum exercício",
+  "lightlyActive": "Levemente ativo: exercício 1-3 dias/semana",
+  "moderatelyActive": "Moderadamente ativo: exercício 3-5 dias/semana",
+  "veryActive": "Muito ativo: exercício 6-7 dias/semana",
+  "extraActive": "Extra ativo: exercício muito pesado e trabalho físico",
+  "goalLabel": "Qual é o seu objetivo principal?",
+  "maintainWeight": "Manter o peso atual",
+  "mildWeightLoss": "Perda de peso leve (0.25 kg/semana)",
+  "weightLoss": "Perda de peso (0.5 kg/semana)",
+  "extremeWeightLoss": "Perda de peso extrema (1 kg/semana)",
+  "mildWeightGain": "Ganho de peso leve (0.25 kg/semana)",
+  "weightGain": "Ganho de peso (0.5 kg/semana)",
+  "fastWeightGain": "Ganho de peso rápido (1 kg/semana)",
+  "calorieResultsTitle": "Suas Necessidades Calóricas",
+  "caloriesPerDay": "Calorias/dia",
+  "yourBMR": "Taxa Metabólica Basal (TMB)",
+  "bmrDescription": "As calorias que seu corpo precisa em repouso.",
+  "maintenanceCalories": "Calorias de Manutenção",
+  "goalResultText": {
+    "maintainWeight": "Para manter seu peso",
+    "mildWeightLoss": "Para perda de peso leve",
+    "weightLoss": "Para perda de peso",
+    "extremeWeightLoss": "Para perda de peso extrema",
+    "mildWeightGain": "Para ganho de peso leve",
+    "weightGain": "Para ganho de peso",
+    "fastWeightGain": "Para ganho de peso rápido",
+    "sedentary": "Sedentário: pouco ou nenhum exercício",
+    "lightlyActive": "Levemente ativo: exercício 1-3 dias/semana",
+    "moderatelyActive": "Moderadamente ativo: exercício 3-5 dias/semana",
+    "veryActive": "Muito ativo: exercício 6-7 dias/semana",
+    "extraActive": "Extra ativo: exercício muito pesado e trabalho físico"
+  },
+  "macronutrientPlan": "Escolha um Plano de Macronutrientes",
+  "balanced": "Equilibrado (40% Carboidratos, 30% Proteínas, 30% Gorduras)",
+  "lowCarb": "Baixo Carboidrato (20% Carboidratos, 40% Proteínas, 40% Gorduras)",
+  "highProtein": "Alta Proteína (30% Carboidratos, 45% Proteínas, 25% Gorduras)",
+  "macronutrients": "Macronutrientes Diários",
+  "protein": "Proteínas",
+  "carbs": "Carboidratos",
+  "fat": "Gorduras",
+  "grams": "g",
+  "getMealPlan": "Obter Plano de Refeições",
+  "generatingMealPlan": "Gerando Plano de Refeições",
+  "mealPlanError": "Desculpe, não foi possível gerar um plano de refeições no momento. Por favor, tente novamente mais tarde.",
+  "mealPlanTitle": "Seu Plano de Refeições de Exemplo para Um Dia",
+  "breakfast": "Café da Manhã",
+  "lunch": "Almoço",
+  "dinner": "Jantar",
+  "snacks": "Lanches",
+  "summaryTitle": "Resumo do Cálculo",
+  "summaryYourProfile": "Seu Perfil",
+  "summaryYourResults": "Seus Resultados",
+  "summaryCalculatedMealPlan": "Plano de Refeições Calculado",
+  "printResults": "Imprimir Resultados",
+  "calorieShareResultTitle": "Compartilhe Seus Resultados",
+  "calorieShareResultText": "Acabei de calcular minhas necessidades diárias! Para atingir meu objetivo, preciso de {calories} calorias, com {protein}g de proteína, {carbs}g de carboidratos e {fat}g de gordura. Confira esta calculadora incrível!",
+  "errorNumber": "Por favor, insira um número válido.",
+  "errorHeight": "Por favor, insira uma altura válida (mín. 100cm / 3'3\").",
+  "errorWeight": "Por favor, insira um peso válido (mín. 20kg / 45lbs).",
+  "errorAge": "Por favor, insira uma idade válida (15-80).",
+  "seoCalorieSections": [
+    {
+      "heading": "Compreendendo Suas Necessidades Calóricas Diárias",
+      "paragraphs": [
+        "Uma caloria é uma unidade de energia. Na nutrição, as calorias referem-se à energia que as pessoas obtêm dos alimentos e bebidas que consomem, e a energia que usam na atividade física. Compreender suas necessidades calóricas diárias é o primeiro passo para alcançar seus objetivos de peso, seja perder, ganhar ou manter seu peso atual.",
+        "Nossa calculadora começa determinando sua Taxa Metabólica Basal (TMB), que é o número de calorias que seu corpo precisa para realizar funções básicas de sustentação da vida em repouso, como respiração, circulação e produção de células. Usamos a equação de Mifflin-St Jeor, amplamente aceita, para este cálculo. Em seguida, levamos em conta seu nível de atividade para calcular seu Gasto Energético Diário Total (GET), que é uma estimativa mais precisa de sua queima de calorias diária."
+      ]
+    },
+    {
+      "heading": "Definindo Metas: Perda, Ganho ou Manutenção de Peso",
+      "paragraphs": [
+        "Depois de saber seu GET (calorias de manutenção), você pode ajustar sua ingestão para atingir suas metas:",
+        "Para perder peso, você precisa consumir menos calorias do que seu GET, criando um déficit calórico. Um déficit seguro e sustentável geralmente é de cerca de 500 calorias por dia para perder cerca de meio quilo por semana.",
+        "Para ganhar peso, você precisa consumir mais calorias do que seu GET, criando um superávit calórico. Um superávit de 300-500 calorias por dia é um bom ponto de partida para um ganho muscular constante com ganho mínimo de gordura.",
+        "Para manter seu peso, você deve visar consumir um número de calorias igual ao seu GET."
+      ]
+    },
+    {
+      "heading": "E Quanto aos Macronutrientes?",
+      "paragraphs": [
+        "As calorias vêm de três macronutrientes principais: proteínas, carboidratos e gorduras. Equilibrar esses 'macros' é a chave para uma dieta saudável.",
+        "A proteína é crucial para construir e reparar tecidos, incluindo músculos.",
+        "Os carboidratos são a principal fonte de energia do seu corpo.",
+        "As gorduras são essenciais para a produção de hormônios e a absorção de vitaminas.",
+        "Nossa calculadora ajuda você a dividir suas calorias diárias totais em gramas de proteína, carboidratos e gordura com base em planos alimentares populares. Isso lhe dá uma estrutura prática para construir refeições que se alinham com seus objetivos de saúde и fitness."
+      ]
+    }
+  ],
+  "seoTimeTitle": "Calculadora de Tempo - Adicionar e Subtrair Durações de Tempo",
+  "seoTimeDescription": "Uma ferramenta online gratuita para adicionar ou subtrair facilmente durações de tempo. Calcule dias, horas, minutos e segundos com precisão. Ideal para gerenciamento de projetos, controle de tempo e cálculos diários.",
+  "timeTitle": "Calculadora de Tempo",
+  "timeSubheading": "Adicione ou subtraia durações de tempo com facilidade.",
+  "time1Label": "Tempo 1",
+  "time2Label": "Tempo 2",
+  "operationLabel": "Operação",
+  "add": "Adicionar (+)",
+  "subtract": "Subtrair (-)",
+  "calculateTimeButton": "Calcular",
+  "resetButton": "Resetar",
+  "resultLabel": "Resultado",
+  "hours": "Horas",
+  "minutes": "Minutos",
+  "seconds": "Segundos",
+  "errorInvalidTime": "Por favor, insira um número válido e não negativo para todos os campos de tempo.",
+  "seoTimeSections": [
+    {
+      "heading": "Como Usar a Calculadora de Tempo",
+      "paragraphs": [
+        "Nossa Calculadora de Tempo simplifica o processo de adicionar e subtrair tempo. Se você está acompanhando horas de trabalho, registrando sessões de exercício ou planejando um evento, esta ferramenta fornece uma solução rápida e precisa. Simplesmente insira duas durações de tempo, selecione se deseja adicioná-las ou subtraí-las e obtenha o resultado instantaneamente.",
+        "A calculadora divide o tempo em dias, horas, minutos e segundos. Para subtração, certifique-se de que a primeira duração de tempo seja maior ou igual à segunda para evitar resultados negativos."
+      ]
+    },
+    {
+      "heading": "Aplicações Práticas",
+      "paragraphs": [
+        "Esta ferramenta é incrivelmente versátil e pode ser usada em vários cenários:",
+        "Gerenciamento de Projetos: Calcule o tempo total gasto em diferentes tarefas.",
+        "Aviação e Navegação: Registre tempos de voo ou durações de viagem.",
+        "Edição de Vídeo: Some a duração dos clipes ou calcule o tempo restante.",
+        "Controle de Tempo Pessoal: Monitore o tempo gasto em hobbies, estudos ou exercícios."
+      ],
+      "list": [
+        "Interface fácil de usar.",
+        "Lida com dias, horas, minutos e segundos.",
+        "Fornece cálculos instantâneos e precisos."
+      ]
+    }
+  ],
+  "navHoursCalculator": "Calculadora de Horas",
+  "homeHoursCalculatorDescription": "Calcule a duração entre dois horários em horas e minutos.",
+  "seoHoursTitle": "Calculadora de Horas - Calcule a Duração Entre Dois Horários",
+  "seoHoursDescription": "Uma ferramenta gratuita para calcular a diferença de tempo entre um horário de início e fim em horas e minutos. Perfeita para horas de trabalho e acompanhamento de atividades.",
+  "hoursTitle": "Calculadora de Horas",
+  "hoursSubheading": "Calcule a duração entre um horário de início e um horário de fim.",
+  "startTimeLabel": "Hora de Início",
+  "endTimeLabel": "Hora de Fim",
+  "hourLabel": "Hora",
+  "minuteLabel": "Minuto",
+  "calculateHoursButton": "Calcular Duração",
+  "resultDurationLabel": "Duração Calculada",
+  "resultInMinutes": "em minutos totais",
+  "resultHours": "horas",
+  "resultMinutes": "minutos",
+  "seoHoursSections": [
+    {
+      "heading": "Como Usar a Calculadora de Horas",
+      "paragraphs": [
+        "Nossa Calculadora de Horas foi projetada para simplificar o cálculo da duração entre dois pontos no tempo. Seja para calcular horas de trabalho, a duração de um evento ou o tempo gasto em uma tarefa, esta ferramenta fornece um resultado rápido e preciso. Basta inserir os horários de início e fim, e a calculadora fará o resto, lidando com casos que ultrapassam a meia-noite."
+      ]
+    },
+    {
+      "heading": "Aplicações Práticas",
+      "paragraphs": [
+        "Esta ferramenta é extremamente útil em vários cenários:",
+        "Cálculo de Horas de Trabalho: Calcule facilmente as horas de trabalho diárias ou semanais para folhas de ponto.",
+        "Planejamento de Eventos: Determine a duração de reuniões, compromissos e eventos.",
+        "Acompanhamento de Atividades: Monitore o tempo que você gasta em hobbies, estudos ou exercícios."
+      ]
+    }
+  ]
+}

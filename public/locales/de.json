@@ -1,0 +1,406 @@
+{
+  "title": "Rechner",
+  "selectLanguage": "Sprache wählen",
+  "days": "Tage",
+  "weeks": "Wochen",
+  "navHome": "Startseite",
+  "navCalculator": "Altersrechner",
+  "navTimeAndDate": "Zeit & Datum",
+  "navHealthCalculators": "Gesundheitsrechner",
+  "navPregnancyCalculator": "Schwangerschaft",
+  "navOvulationCalculator": "Eisprung",
+  "navMenstrualCycleCalculator": "Menstruationszyklus",
+  "navCalorieCalculator": "Kalorienrechner",
+  "navTimeCalculator": "Zeitrechner",
+  "navAbout": "Über uns",
+  "footerRights": "© {year} Rechner. Alle Rechte vorbehalten.",
+  "footerPrivacyPolicy": "Datenschutzerklärung",
+  "footerContactUs": "Kontakt",
+  "homeTitle": "Ihr All-in-One-Rechner-Hub",
+  "homeDescription": "Von Alter bis zu Gesundheitskennzahlen, finden Sie alle Rechner, die Sie benötigen, an einem Ort. Einfach, schnell und genau.",
+  "homeCTAText": "Berechnen Sie Ihr Alter",
+  "homeBasicCalculatorTitle": "Einfacher Rechner",
+  "homeHealthCalculatorsTitle": "Entdecken Sie Gesundheitsrechner",
+  "homePregnancyCalculatorDescription": "Schätzen Sie Ihren Geburtstermin und verfolgen Sie Ihre Schwangerschaft.",
+  "homeOvulationCalculatorDescription": "Bestimmen Sie Ihre fruchtbarsten Tage zur Familienplanung.",
+  "homeMenstrualCycleCalculatorDescription": "Verfolgen Sie Ihren Zyklus und sagen Sie Ihre nächste Periode einfach voraus.",
+  "homeCalorieCalculatorDescription": "Berechnen Sie Ihren täglichen Kalorienbedarf, um Ihre Fitnessziele zu erreichen.",
+  "homeTimeCalculatorDescription": "Addieren oder subtrahieren Sie Zeitdauern für Arbeit, Projekte oder Hobbys.",
+  "seoTitle": "Kostenloser Online-Altersrechner - Berechnen Sie Ihr Alter nach Geburtsdatum",
+  "seoDescription": "Berechnen Sie einfach Ihr Alter in Jahren, Monaten und Tagen mit unserem kostenlosen und genauen Online-Altersrechner. Erfahren Sie mehr über Ihr Geburtsdatum, einschließlich des Wochentags und des Countdowns bis zu Ihrem nächsten Geburtstag. Unterstützt mehrere Sprachen.",
+  "seoKeywords": "Altersrechner, Alter berechnen, Geburtsdatumsrechner, wie alt bin ich, Online-Altersrechner, Geburtstagsrechner, kostenloser Altersrechner",
+  "h1": "Online-Altersrechner",
+  "h2": "Geben Sie Ihr Geburtsdatum ein",
+  "dateOfBirthLabel": "Geburtsdatum",
+  "dayLabel": "Tag",
+  "monthLabel": "Monat",
+  "yearLabel": "Jahr",
+  "calculateButton": "Alter berechnen",
+  "errorInvalidDate": "Bitte geben Sie ein gültiges Datum ein.",
+  "errorFutureDate": "Das Geburtsdatum kann nicht in der Zukunft liegen.",
+  "resultPrefix": "Sie sind",
+  "resultSuffix": "alt.",
+  "years": "Jahre",
+  "months": "Monate",
+  "moreInfoTitle": "Mehr über Ihren Geburtstag",
+  "dayOfWeekLabel": "Wochentag, an dem Sie geboren wurden",
+  "seasonLabel": "Jahreszeit Ihrer Geburt (Nordhalbkugel)",
+  "nextBirthdayLabel": "Tage bis zu Ihrem nächsten Geburtstag",
+  "shareResultTitle": "Teilen Sie Ihr Ergebnis",
+  "shareResultText": "Ich habe gerade herausgefunden, dass ich {years} Jahre, {months} Monate und {days} Tage alt bin, mit diesem coolen Altersrechner!",
+  "copyResultButton": "Ergebnis kopieren",
+  "resultCopiedTooltip": "Kopiert!",
+  "calendarType": "Kalendertyp",
+  "gregorian": "Gregorianisch",
+  "hijri": "Hijri",
+  "monthsArray": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
+  "hijriMonthsArray": ["Muharram", "Safar", "Rabi' al-awwal", "Rabi' al-thani", "Jumada al-ula", "Jumada al-akhirah", "Rajab", "Sha'ban", "Ramadan", "Shawwal", "Dhu al-Qi'dah", "Dhu al-Hijjah"],
+  "daysOfWeekArray": ["Sonntag", "Montag", "Dienstag", "Mittwoch", "Donnerstag", "Freitag", "Samstag"],
+  "seasonsArray": ["Winter", "Frühling", "Sommer", "Herbst"],
+  "seoSections": [
+    {
+      "heading": "Wie unser Altersrechner funktioniert",
+      "paragraphs": [
+        "Unser Altersrechner berechnet Ihr Alter mit hoher Präzision, indem er Ihr Geburtsdatum mit dem aktuellen Datum vergleicht. Das Tool berechnet die gesamte vergangene Zeit und unterteilt sie in Jahre, Monate und Tage. Es berücksichtigt Schaltjahre, um ein genaues Ergebnis zu liefern, was es zu einem zuverlässigen Werkzeug für jeden macht, der sich fragt: 'Wie alt bin ich?'. Geben Sie einfach Ihr Geburtsdatum ein, und der Rechner zeigt sofort Ihr chronologisches Alter an."
+      ]
+    },
+    {
+      "heading": "Warum einen Online-Altersrechner verwenden?",
+      "paragraphs": [
+        "Während die Berechnung Ihres Alters in Jahren einfach ist, kann die Ermittlung der genauen Anzahl von Monaten und Tagen knifflig sein. Ein Online-Altersrechner vereinfacht diesen Prozess und liefert sofortige und genaue Ergebnisse. Er ist nützlich für:",
+        "Das Ausfüllen von Formularen und Anträgen, die Ihr genaues Alter erfordern.",
+        "Die Planung von Geburtstagsfeiern und Meilensteinen.",
+        "Genealogische Forschung und die Erstellung von Familienchroniken.",
+        "Einfach nur die Befriedigung Ihrer Neugier über Ihr Alter in detaillierten Begriffen."
+      ],
+      "list": [
+        "Genauigkeit: Beseitigt manuelle Berechnungsfehler, insbesondere bei Schaltjahren.",
+        "Geschwindigkeit: Erhalten Sie Ihr Alter in Sekunden.",
+        "Bequemlichkeit: Jederzeit, überall und auf jedem Gerät zugänglich."
+      ]
+    }
+  ],
+  "shareTitle": "Diesen Rechner teilen",
+  "copyLinkButton": "Link kopieren",
+  "copiedTooltip": "Kopiert!",
+  "aboutTitle": "Über Uns",
+  "aboutHeading": "Unsere Mission",
+  "aboutContent": [
+    "Willkommen bei Rechner, Ihrer Anlaufstelle für eine breite Palette von kostenlosen, einfach zu bedienenden Online-Rechnern. Unsere Mission ist es, einfache, schnelle und zuverlässige Werkzeuge bereitzustellen, die alltägliche Berechnungen für jedermann mühelos machen.",
+    "Wir begannen mit einem einfachen Altersrechner und haben seitdem unser Angebot um verschiedene Gesundheits- und Allzweckrechner erweitert. Wir glauben daran, Informationen zugänglich zu machen, und haben unsere Werkzeuge in zahlreiche Sprachen übersetzt, um ein globales Publikum zu bedienen.",
+    "Unser Team widmet sich der Genauigkeit und der Benutzererfahrung. Wir arbeiten ständig daran, unsere bestehenden Werkzeuge zu verbessern und neue zu entwickeln, um Ihren Bedürfnissen gerecht zu werden. Vielen Dank, dass Sie sich für Rechner entschieden haben!"
+  ],
+  "privacyTitle": "Datenschutzerklärung",
+  "privacyHeading": "Ihre Privatsphäre ist uns wichtig.",
+  "privacyContent": [
+    {
+      "heading": "1. Informationen, die wir sammeln",
+      "paragraphs": ["Wir sammeln oder speichern keine persönlichen Daten, die Sie in unsere Rechner eingeben. Alle Berechnungen werden direkt in Ihrem Browser durchgeführt und nicht an unsere Server gesendet. Ihr Geburtsdatum oder andere Informationen werden niemals aufgezeichnet."]
+    },
+    {
+      "heading": "2. Cookies und Analysen",
+      "paragraphs": ["Wir können anonyme Analysetools verwenden, um zu verstehen, wie unsere Website genutzt wird. Dies hilft uns, die Benutzererfahrung zu verbessern. Diese Daten werden aggregiert und können nicht zur Identifizierung einzelner Benutzer verwendet werden. Wir verwenden keine Tracking-Cookies."]
+    },
+    {
+      "heading": "3. Dienste von Drittanbietern",
+      "paragraphs": ["Diese Website integriert keine Dienste von Drittanbietern, die Ihre Privatsphäre gefährden würden. Wir geben keine Daten an Dritte weiter."]
+    }
+  ],
+  "contactTitle": "Kontakt",
+  "contactHeading": "Nehmen Sie Kontakt auf",
+  "contactIntro": "Haben Sie Fragen, Feedback oder Vorschläge? Wir würden uns freuen, von Ihnen zu hören. Bitte senden Sie uns eine E-Mail und wir werden uns so schnell wie möglich bei Ihnen melden.",
+  "contactEmail": "support@multicalculator.com",
+  "seoPregnancyTitle": "Kostenloser Schwangerschafts-Geburtsterminrechner",
+  "seoPregnancyDescription": "Berechnen Sie Ihren voraussichtlichen Geburtstermin basierend auf Ihrer letzten Menstruation (LMP), dem Empfängnisdatum oder dem IVF-Transferdatum. Erhalten Sie wichtige Meilensteine der Schwangerschaft.",
+  "pregnancyTitle": "Schwangerschafts-Geburtsterminrechner",
+  "pregnancySubheading": "Schätzen Sie den Geburtstermin Ihres Babys und wichtige Meilensteine der Schwangerschaft.",
+  "calculationMethodLabel": "Berechnen basierend auf:",
+  "lmpMethod": "Letzte Periode",
+  "conceptionMethod": "Empfängnis",
+  "ivfMethod": "IVF",
+  "lmpDateLabel": "Erster Tag der letzten Menstruation (LMP)",
+  "conceptionDateLabel": "Datum der Empfängnis",
+  "transferDateLabel": "IVF-Transferdatum",
+  "ivfCycleTypeLabel": "Transfer-Typ",
+  "day3Transfer": "Tag 3 Embryo",
+  "day5Transfer": "Tag 5 Blastozyste",
+  "calculateDueDateButton": "Geburtstermin berechnen",
+  "pregnancyHeading": "Ihre Schwangerschafts-Zeitleiste",
+  "dueDateResultLabel": "Voraussichtlicher Geburtstermin",
+  "gestationalAgeResultLabel": "Aktuelles Gestationsalter",
+  "trimesterResultLabel": "Aktuelles Trimester",
+  "trimester1": "Erstes Trimester",
+  "trimester2": "Zweites Trimester",
+  "trimester3": "Drittes Trimester",
+  "seoPregnancySections": [
+    {
+      "heading": "Wie unser Geburtsterminrechner funktioniert",
+      "paragraphs": [
+        "Unser Schwangerschafts-Geburtsterminrechner schätzt Ihren voraussichtlichen Entbindungstermin mit verschiedenen Methoden. Die gebräuchlichste Methode basiert auf dem ersten Tag Ihrer letzten Menstruation (LMP). Dieser Ansatz, bekannt als Naegele-Regel, addiert 280 Tage (40 Wochen) zu Ihrer LMP, um den Geburtstermin vorherzusagen. Wir bieten auch Berechnungen basierend auf dem Empfängnisdatum oder Ihrem IVF-Transferdatum für eine höhere Genauigkeit an, insbesondere wenn Sie unregelmäßige Zyklen haben oder das genaue Empfängnisdatum kennen. Es ist wichtig zu bedenken, dass dieses Datum eine Schätzung ist. Nur etwa 5% der Babys werden an ihrem genauen Geburtstermin geboren. Dieses Tool bietet eine zuverlässige Richtlinie, um Ihnen und Ihrem Gesundheitsdienstleister bei der Planung der Ankunft Ihres Babys zu helfen."
+      ],
+      "list": [
+        "LMP-Methode: Die Standardberechnung basierend auf einem 28-Tage-Zyklus.",
+        "Empfängnisdatum-Methode: Genauer, wenn Sie das genaue Empfängnisdatum kennen.",
+        "IVF-Methode: Maßgeschneidert für IVF-Schwangerschaften, basierend auf dem Embryotransferdatum und -alter."
+      ]
+    },
+    {
+      "heading": "Ihre Schwangerschafts-Zeitleiste verstehen: Trimester und Meilensteine",
+      "paragraphs": [
+        "Eine Vollzeitschwangerschaft ist in drei Trimester unterteilt, von denen jedes einzigartige Meilensteine der fötalen Entwicklung aufweist. Unser Rechner liefert nicht nur einen Geburtstermin, sondern hilft Ihnen auch zu verstehen, wo Sie sich auf dieser Reise befinden, indem er Ihr aktuelles Gestationsalter berechnet. Das erste Trimester (Wochen 1-13) ist eine kritische Entwicklungsphase für die Organe Ihres Babys. Das zweite Trimester (Wochen 14-27) wird oft als die 'goldene Zeit' bezeichnet, da viele frühe Schwangerschaftssymptome nachlassen und Sie vielleicht beginnen, Ihr Baby zu spüren. Das dritte Trimester (Wochen 28-40+) konzentriert sich auf schnelles Wachstum und Gewichtszunahme des Babys, während es sich auf die Geburt vorbereitet. Regelmäßige Schwangerschaftsvorsorge in all diesen Phasen ist für eine gesunde Schwangerschaft unerlässlich."
+      ]
+    }
+  ],
+  "seoOvulationTitle": "Kostenloser Eisprung- & Fruchtbarkeitsfenster-Rechner",
+  "seoOvulationDescription": "Schätzen Sie Ihr Eisprungdatum und Ihre fruchtbarsten Tage basierend auf Ihrer letzten Menstruation und Zykluslänge. Planen Sie Ihre Schwangerschaft mit unserem genauen Rechner.",
+  "ovulationTitle": "Eisprungrechner",
+  "ovulationSubheading": "Sagen Sie Ihre fruchtbarsten Tage für eine höhere Empfängnischance voraus.",
+  "lmpDateLabelOvulation": "Erster Tag der letzten Menstruation",
+  "cycleLengthLabel": "Durchschnittliche Zykluslänge",
+  "calculateOvulationButton": "Eisprung berechnen",
+  "ovulationHeading": "Ihr Fruchtbarkeitsfenster",
+  "resultOvulationDate": "Voraussichtliches Eisprungdatum",
+  "resultFertileWindow": "Fruchtbarstes Fenster",
+  "fertileWindowDescription": "Vom {startDate} bis zum {endDate}",
+  "resultNextPeriod": "Voraussichtliches Datum der nächsten Periode",
+  "seoOvulationSections": [
+    {
+      "heading": "Wie Sie Ihre fruchtbarsten Tage vorhersagen",
+      "paragraphs": [
+        "Unser Eisprungrechner ist ein einfaches Werkzeug, das Ihnen hilft, Ihre fruchtbarsten Tage des Monats vorherzusagen. Durch Eingabe des ersten Tages Ihrer letzten Menstruation und Ihrer durchschnittlichen Zykluslänge schätzt der Rechner Ihr wahrscheinliches Eisprungdatum. Der Eisprung ist die Freisetzung einer Eizelle aus Ihrem Eierstock, was normalerweise etwa 14 Tage vor Beginn Ihrer nächsten Periode geschieht. Ihr 'fruchtbares Fenster' umfasst den Tag des Eisprungs und die fünf Tage davor. Dies liegt daran, dass Spermien bis zu fünf Tage im weiblichen Fortpflanzungstrakt überleben können. Geschlechtsverkehr während dieses Fensters erhöht Ihre Chancen auf eine Empfängnis erheblich."
+      ],
+      "list": [
+        "Geben Sie Ihre Daten ein: Beginnen Sie mit dem Datum Ihrer letzten Periode und Ihrer Zykluslänge.",
+        "Erhalten Sie Ihre Schätzung: Der Rechner identifiziert Ihre wichtigsten fruchtbaren Tage.",
+        "Planen Sie entsprechend: Nutzen Sie diese Informationen zur Unterstützung Ihrer Familienplanungsziele."
+      ]
+    },
+    {
+      "heading": "Über den Rechner hinaus: Andere Anzeichen des Eisprungs",
+      "paragraphs": [
+        "Während ein Eisprungrechner ein guter Ausgangspunkt ist, gibt Ihr Körper auch Hinweise darauf, dass der Eisprung bevorsteht. Die Kombination der Schätzung des Rechners mit diesen körperlichen Anzeichen kann Ihnen ein genaueres Bild Ihres fruchtbaren Fensters geben. Zu diesen Anzeichen gehören: Veränderungen des Zervixschleims: Wenn Sie sich dem Eisprung nähern, kann Ihr Zervixschleim klarer, dünner und glitschiger werden und der Konsistenz von Eiweiß ähneln. Basale Körpertemperatur (BBT): Das tägliche Messen Ihrer BBT kann einen leichten, aber anhaltenden Temperaturanstieg nach dem Eisprung zeigen. Ovulations-Vorhersage-Kits (OPKs): Diese rezeptfreien Kits erkennen den Anstieg des luteinisierenden Hormons (LH), der 24-36 Stunden vor dem Eisprung auftritt."
+      ]
+    }
+  ],
+  "seoMenstrualTitle": "Menstruationszyklus- & Periodenrechner",
+  "seoMenstrualDescription": "Verfolgen Sie Ihren Menstruationszyklus und sagen Sie Ihre nächsten Periodentermine mit unserem einfachen und kostenlosen Online-Rechner voraus.",
+  "menstrualCycleTitle": "Menstruationszyklus-Rechner",
+  "menstrualCycleSubheading": "Sagen Sie Ihre nächste Periode mit diesem benutzerfreundlichen Rechner voraus.",
+  "calculateMenstrualButton": "Nächste Periode berechnen",
+  "menstrualCycleHeading": "Ihre nächsten Periodentermine",
+  "resultNextPeriod1": "Nächste voraussichtliche Periode",
+  "resultNextPeriod2": "Darauffolgende voraussichtliche Periode",
+  "seoMenstrualSections": [
+    {
+      "heading": "Wie unser Periodenrechner funktioniert",
+      "paragraphs": [
+        "Unser Menstruationszyklus-Rechner hilft Ihnen, das Startdatum Ihrer nächsten Periode mit nur zwei Informationen vorherzusagen: dem ersten Tag Ihrer letzten Periode und der durchschnittlichen Länge Ihres Menstruationszyklus. Indem Sie Ihre durchschnittliche Zykluslänge zum Startdatum Ihrer letzten Periode addieren, liefert das Tool ein geschätztes Datum für Ihre nächsten beiden Perioden. Das Verfolgen Ihres Zyklus ist mehr als nur Bequemlichkeit; es ist ein wichtiger Indikator für Ihre allgemeine Gesundheit. Regelmäßige, vorhersagbare Zyklen deuten oft darauf hin, dass die Hormone Ihres Körpers korrekt funktionieren."
+      ],
+      "list": [
+        "Einfache Eingaben: Geben Sie das Startdatum Ihrer letzten Periode und die Zykluslänge ein.",
+        "Sofortige Vorhersagen: Sehen Sie sofort geschätzte Daten für Ihre nächsten Perioden.",
+        "Vorausplanen: Nutzen Sie die Vorhersagen, um für Veranstaltungen, Urlaube zu planen oder einfach vorbereitet zu sein."
+      ]
+    },
+    {
+      "heading": "Ihren Menstruationszyklus verstehen",
+      "paragraphs": [
+        "Ein Menstruationszyklus wird vom ersten Tag einer Periode bis zum ersten Tag der nächsten gezählt. Während der durchschnittliche Zyklus 28 Tage lang ist, gelten Zyklen zwischen 21 und 35 Tagen auch für Erwachsene als normal. Viele Faktoren können die Länge und Regelmäßigkeit Ihres Zyklus beeinflussen, darunter Stress, Ernährung, Bewegung und bestimmte Gesundheitszustände. Wenn Ihre Zyklen durchweg unregelmäßig sind, viel kürzer oder länger als der normale Bereich sind oder wenn Sie starke Schmerzen haben, ist es eine gute Idee, einen Gesundheitsdienstleister zu konsultieren. Unser Rechner funktioniert am besten für diejenigen mit relativ regelmäßigen Zyklen, kann aber auch für andere eine nützliche Schätzung liefern."
+      ]
+    }
+  ],
+  "seoCalorieTitle": "Kostenloser Kalorienrechner - TDEE & BMR",
+  "seoCalorieDescription": "Berechnen Sie Ihren täglichen Kalorienbedarf zum Abnehmen, Halten oder Zunehmen. Finden Sie Ihren BMR und TDEE und erhalten Sie personalisierte Makronährstoffziele.",
+  "calorieTitle": "Kalorienrechner",
+  "calorieSubheading": "Berechnen Sie Ihren täglichen Bedarf, um Ihre Gewichtsziele zu erreichen.",
+  "step": "Schritt",
+  "stepOf": "von",
+  "step1_personalia": "Ihr Profil",
+  "step2_activity": "Aktivitätslevel",
+  "step3_goal": "Ihr Ziel",
+  "step4_results": "Kalorienergebnisse",
+  "step5_macros": "Makronährstoffplan",
+  "step6_macro_results": "Makro-Ergebnisse",
+  "step7_meal_plan": "Beispiel-Speiseplan",
+  "step8_summary": "Zusammenfassung",
+  "nextButton": "Weiter",
+  "backButton": "Zurück",
+  "calculateCaloriesButton": "Kalorien berechnen",
+  "recalculate": "Neu berechnen",
+  "unitSystemLabel": "Einheitensystem",
+  "metric": "Metrisch",
+  "imperial": "Imperial",
+  "genderLabel": "Geschlecht",
+  "male": "Männlich",
+  "female": "Weiblich",
+  "ageLabel": "Alter",
+  "ageUnit": "Jahre",
+  "heightLabel": "Größe",
+  "weightLabel": "Gewicht",
+  "cm": "cm",
+  "ft": "ft",
+  "in": "in",
+  "kg": "kg",
+  "lbs": "lbs",
+  "activityLevelLabel": "Wie aktiv sind Sie?",
+  "sedentary": "Sitzend: wenig oder keine Bewegung",
+  "lightlyActive": "Leicht aktiv: Training 1-3 Tage/Woche",
+  "moderatelyActive": "Mäßig aktiv: Training 3-5 Tage/Woche",
+  "veryActive": "Sehr aktiv: Training 6-7 Tage/Woche",
+  "extraActive": "Extrem aktiv: sehr hartes Training & körperliche Arbeit",
+  "goalLabel": "Was ist Ihr Hauptziel?",
+  "maintainWeight": "Aktuelles Gewicht halten",
+  "mildWeightLoss": "Leichte Gewichtsabnahme (0,25 kg/Woche)",
+  "weightLoss": "Gewichtsabnahme (0,5 kg/Woche)",
+  "extremeWeightLoss": "Extreme Gewichtsabnahme (1 kg/Woche)",
+  "mildWeightGain": "Leichte Gewichtszunahme (0,25 kg/Woche)",
+  "weightGain": "Gewichtszunahme (0,5 kg/Woche)",
+  "fastWeightGain": "Schnelle Gewichtszunahme (1 kg/Woche)",
+  "calorieResultsTitle": "Ihr Kalorienbedarf",
+  "caloriesPerDay": "Kalorien/Tag",
+  "yourBMR": "Grundumsatz (BMR)",
+  "bmrDescription": "Die Kalorien, die Ihr Körper in Ruhe benötigt.",
+  "maintenanceCalories": "Erhaltungskalorien",
+  "goalResultText": {
+    "maintainWeight": "Um Ihr Gewicht zu halten",
+    "mildWeightLoss": "Für eine leichte Gewichtsabnahme",
+    "weightLoss": "Zur Gewichtsabnahme",
+    "extremeWeightLoss": "Für eine extreme Gewichtsabnahme",
+    "mildWeightGain": "Für eine leichte Gewichtszunahme",
+    "weightGain": "Zur Gewichtszunahme",
+    "fastWeightGain": "Für eine schnelle Gewichtszunahme",
+    "sedentary": "Sitzend: wenig oder keine Bewegung",
+    "lightlyActive": "Leicht aktiv: Training 1-3 Tage/Woche",
+    "moderatelyActive": "Mäßig aktiv: Training 3-5 Tage/Woche",
+    "veryActive": "Sehr aktiv: Training 6-7 Tage/Woche",
+    "extraActive": "Extrem aktiv: sehr hartes Training & körperliche Arbeit"
+  },
+  "macronutrientPlan": "Wählen Sie einen Makronährstoffplan",
+  "balanced": "Ausgeglichen (40% Kohlenhydrate, 30% Protein, 30% Fett)",
+  "lowCarb": "Low Carb (20% Kohlenhydrate, 40% Protein, 40% Fett)",
+  "highProtein": "High Protein (30% Kohlenhydrate, 45% Protein, 25% Fett)",
+  "macronutrients": "Tägliche Makronährstoffe",
+  "protein": "Protein",
+  "carbs": "Kohlenhydrate",
+  "fat": "Fett",
+  "grams": "g",
+  "getMealPlan": "Beispiel-Speiseplan erhalten",
+  "generatingMealPlan": "Speiseplan wird generiert",
+  "mealPlanError": "Entschuldigung, wir konnten im Moment keinen Speiseplan erstellen. Bitte versuchen Sie es später erneut.",
+  "mealPlanTitle": "Ihr Beispiel-Speiseplan für einen Tag",
+  "breakfast": "Frühstück",
+  "lunch": "Mittagessen",
+  "dinner": "Abendessen",
+  "snacks": "Snacks",
+  "summaryTitle": "Berechnungszusammenfassung",
+  "summaryYourProfile": "Ihr Profil",
+  "summaryYourResults": "Ihre Ergebnisse",
+  "summaryCalculatedMealPlan": "Berechneter Speiseplan",
+  "printResults": "Ergebnisse drucken",
+  "calorieShareResultTitle": "Teilen Sie Ihre Ergebnisse",
+  "calorieShareResultText": "Ich habe gerade meinen täglichen Bedarf berechnet! Um mein Ziel zu erreichen, benötige ich {calories} Kalorien, mit {protein}g Protein, {carbs}g Kohlenhydraten und {fat}g Fett. Schau dir diesen tollen Rechner an!",
+  "errorNumber": "Bitte geben Sie eine gültige Zahl ein.",
+  "errorHeight": "Bitte geben Sie eine gültige Größe ein (mind. 100cm / 3'3\").",
+  "errorWeight": "Bitte geben Sie ein gültiges Gewicht ein (mind. 20kg / 45lbs).",
+  "errorAge": "Bitte geben Sie ein gültiges Alter ein (15-80).",
+  "seoCalorieSections": [
+    {
+      "heading": "Ihren täglichen Kalorienbedarf verstehen",
+      "paragraphs": [
+        "Eine Kalorie ist eine Energieeinheit. In der Ernährung beziehen sich Kalorien auf die Energie, die Menschen aus den von ihnen konsumierten Lebensmitteln und Getränken erhalten, und die Energie, die sie bei körperlicher Aktivität verbrauchen. Das Verständnis Ihres täglichen Kalorienbedarfs ist der erste Schritt zur Erreichung Ihrer Gewichtsziele, sei es Abnehmen, Zunehmen oder Halten Ihres aktuellen Gewichts.",
+        "Unser Rechner beginnt mit der Bestimmung Ihres Grundumsatzes (BMR), d. h. der Anzahl der Kalorien, die Ihr Körper benötigt, um grundlegende lebenserhaltende Funktionen im Ruhezustand auszuführen, wie z. B. Atmung, Kreislauf und Zellproduktion. Wir verwenden für diese Berechnung die weithin anerkannte Mifflin-St-Jeor-Gleichung. Anschließend berücksichtigen wir Ihr Aktivitätsniveau, um Ihren täglichen Gesamtenergieverbrauch (TDEE) zu berechnen, der eine genauere Schätzung Ihres täglichen Kalorienverbrauchs darstellt."
+      ]
+    },
+    {
+      "heading": "Ziele setzen: Gewichtsverlust, -zunahme oder -erhaltung",
+      "paragraphs": [
+        "Sobald Sie Ihren TDEE (Erhaltungskalorien) kennen, können Sie Ihre Aufnahme anpassen, um Ihre Ziele zu erreichen:",
+        "Um Gewicht zu verlieren, müssen Sie weniger Kalorien zu sich nehmen als Ihr TDEE, wodurch ein Kaloriendefizit entsteht. Ein sicheres und nachhaltiges Defizit beträgt in der Regel etwa 500 Kalorien pro Tag, um etwa 1 Pfund (0,5 kg) pro Woche zu verlieren.",
+        "Um an Gewicht zuzunehmen, müssen Sie mehr Kalorien zu sich nehmen als Ihr TDEE, wodurch ein Kalorienüberschuss entsteht. Ein Überschuss von 300–500 Kalorien pro Tag ist ein guter Ausgangspunkt für einen stetigen Muskelaufbau bei minimalem Fettzuwachs.",
+        "Um Ihr Gewicht zu halten, sollten Sie anstreben, eine Kalorienmenge zu sich zu nehmen, die Ihrem TDEE entspricht."
+      ]
+    },
+    {
+      "heading": "Was ist mit Makronährstoffen?",
+      "paragraphs": [
+        "Kalorien stammen aus drei Hauptmakronährstoffen: Protein, Kohlenhydrate und Fett. Das Ausbalancieren dieser „Makros“ ist der Schlüssel zu einer gesunden Ernährung.",
+        "Protein ist entscheidend für den Aufbau und die Reparatur von Gewebe, einschließlich Muskeln.",
+        "Kohlenhydrate sind die primäre Energiequelle Ihres Körpers.",
+        "Fette sind für die Hormonproduktion und die Aufnahme von Vitaminen unerlässlich.",
+        "Unser Rechner hilft Ihnen, Ihre täglichen Gesamtkalorien basierend auf beliebten Ernährungsplänen in Gramm Protein, Kohlenhydrate und Fett aufzuteilen. Dies gibt Ihnen einen praktischen Rahmen für die Zusammenstellung von Mahlzeiten, die Ihren Gesundheits- und Fitnesszielen entsprechen."
+      ]
+    }
+  ],
+  "seoTimeTitle": "Zeitrechner - Zeitdauern addieren und subtrahieren",
+  "seoTimeDescription": "Ein kostenloses Online-Tool zum einfachen Addieren oder Subtrahieren von Zeitdauern. Berechnen Sie Tage, Stunden, Minuten und Sekunden mit Präzision. Ideal für Projektmanagement, Zeiterfassung und alltägliche Berechnungen.",
+  "timeTitle": "Zeitrechner",
+  "timeSubheading": "Addieren oder subtrahieren Sie Zeitdauern mit Leichtigkeit.",
+  "time1Label": "Zeit 1",
+  "time2Label": "Zeit 2",
+  "operationLabel": "Operation",
+  "add": "Addieren (+)",
+  "subtract": "Subtrahieren (-)",
+  "calculateTimeButton": "Berechnen",
+  "resetButton": "Zurücksetzen",
+  "resultLabel": "Ergebnis",
+  "hours": "Stunden",
+  "minutes": "Minuten",
+  "seconds": "Sekunden",
+  "errorInvalidTime": "Bitte geben Sie eine gültige, nicht-negative Zahl für alle Zeitfelder ein.",
+  "seoTimeSections": [
+    {
+      "heading": "Wie man den Zeitrechner benutzt",
+      "paragraphs": [
+        "Unser Zeitrechner vereinfacht das Addieren und Subtrahieren von Zeit. Egal, ob Sie Arbeitsstunden verfolgen, Trainingseinheiten protokollieren oder eine Veranstaltung planen, dieses Tool bietet eine schnelle und genaue Lösung. Geben Sie einfach zwei Zeitdauern ein, wählen Sie, ob Sie sie addieren oder subtrahieren möchten, und erhalten Sie das Ergebnis sofort.",
+        "Der Rechner unterteilt die Zeit in Tage, Stunden, Minuten und Sekunden. Stellen Sie bei der Subtraktion sicher, dass die erste Zeitdauer größer oder gleich der zweiten ist, um negative Ergebnisse zu vermeiden."
+      ]
+    },
+    {
+      "heading": "Praktische Anwendungen",
+      "paragraphs": [
+        "Dieses Tool ist unglaublich vielseitig und kann in verschiedenen Szenarien verwendet werden:",
+        "Projektmanagement: Berechnen Sie die Gesamtzeit, die für verschiedene Aufgaben aufgewendet wird.",
+        "Luftfahrt und Navigation: Protokollieren Sie Flugzeiten oder Reisedauern.",
+        "Videobearbeitung: Addieren Sie Clip-Längen oder berechnen Sie die verbleibende Zeit.",
+        "Persönliche Zeiterfassung: Überwachen Sie die Zeit, die für Hobbys, Lernen oder Sport aufgewendet wird."
+      ],
+      "list": [
+        "Einfach zu bedienende Oberfläche.",
+        "Verarbeitet Tage, Stunden, Minuten und Sekunden.",
+        "Liefert sofortige, präzise Berechnungen."
+      ]
+    }
+  ],
+  "navHoursCalculator": "Stundenrechner",
+  "homeHoursCalculatorDescription": "Berechnen Sie die Dauer zwischen zwei Uhrzeiten in Stunden und Minuten.",
+  "seoHoursTitle": "Stundenrechner - Dauer zwischen zwei Uhrzeiten berechnen",
+  "seoHoursDescription": "Ein kostenloses Werkzeug zur Berechnung der Zeitdifferenz zwischen einer Start- und Endzeit in Stunden und Minuten. Perfekt für Arbeitszeiten und Aktivitätsverfolgung.",
+  "hoursTitle": "Stundenrechner",
+  "hoursSubheading": "Berechnen Sie die Dauer zwischen einer Start- und einer Endzeit.",
+  "startTimeLabel": "Startzeit",
+  "endTimeLabel": "Endzeit",
+  "hourLabel": "Stunde",
+  "minuteLabel": "Minute",
+  "calculateHoursButton": "Dauer berechnen",
+  "resultDurationLabel": "Berechnete Dauer",
+  "resultInMinutes": "in Minuten insgesamt",
+  "resultHours": "Stunden",
+  "resultMinutes": "Minuten",
+  "seoHoursSections": [
+    {
+      "heading": "Wie man den Stundenrechner benutzt",
+      "paragraphs": [
+        "Unser Stundenrechner wurde entwickelt, um die Berechnung der Dauer zwischen zwei Zeitpunkten zu vereinfachen. Egal, ob Sie Arbeitszeiten, die Dauer einer Veranstaltung oder die für eine Aufgabe aufgewendete Zeit ermitteln, dieses Tool liefert ein schnelles und genaues Ergebnis. Geben Sie einfach die Start- und Endzeiten ein, und der Rechner erledigt den Rest, auch bei Fällen, die über Mitternacht hinausgehen."
+      ]
+    },
+    {
+      "heading": "Praktische Anwendungen",
+      "paragraphs": [
+        "Dieses Werkzeug ist in verschiedenen Szenarien äußerst nützlich:",
+        "Arbeitszeiten berechnen: Ermitteln Sie einfach die täglichen oder wöchentlichen Arbeitszeiten für Stundenzettel.",
+        "Veranstaltungsplanung: Bestimmen Sie die Dauer von Meetings, Terminen und Veranstaltungen.",
+        "Aktivitätsverfolgung: Überwachen Sie die Zeit, die Sie mit Hobbys, Lernen oder Sport verbringen."
+      ]
+    }
+  ]
+}

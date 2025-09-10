@@ -1,0 +1,417 @@
+
+{
+  "title": "Calculatrice",
+  "selectLanguage": "Sélectionner la langue",
+  "days": "Jours",
+  "weeks": "Semaines",
+  "navHome": "Accueil",
+  "navCalculator": "Calculateur d'Âge",
+  "navTimeAndDate": "Heure et Date",
+  "navHealthCalculators": "Calculateurs de Santé",
+  "navPregnancyCalculator": "Grossesse",
+  "navOvulationCalculator": "Ovulation",
+  "navMenstrualCycleCalculator": "Cycle Menstruel",
+  "navCalorieCalculator": "Calculateur de Calories",
+  "navTimeCalculator": "Calculateur de Temps",
+  "navAbout": "À propos",
+  "footerRights": "© {year} Calculatrice. Tous droits réservés.",
+  "footerPrivacyPolicy": "Politique de Confidentialité",
+  "footerContactUs": "Contactez-nous",
+  "homeTitle": "Votre Hub de Calculateurs Tout-en-Un",
+  "homeDescription": "De l'âge aux métriques de santé, trouvez tous les calculateurs dont vous avez besoin en un seul endroit. Simple, rapide et précis.",
+  "homeCTAText": "Calculez Votre Âge",
+  "homeBasicCalculatorTitle": "Calculatrice de Base",
+  "homeHealthCalculatorsTitle": "Découvrez les Calculateurs de Santé",
+  "homePregnancyCalculatorDescription": "Estimez votre date d'accouchement et suivez votre parcours de grossesse.",
+  "homeOvulationCalculatorDescription": "Identifiez vos jours les plus fertiles pour aider à la planification familiale.",
+  "homeMenstrualCycleCalculatorDescription": "Suivez votre cycle et prédisez vos prochaines règles avec facilité.",
+  "homeCalorieCalculatorDescription": "Calculez vos besoins caloriques quotidiens pour atteindre vos objectifs de fitness.",
+  "homeTimeCalculatorDescription": "Additionnez ou soustrayez des durées pour le travail, les projets ou les loisirs.",
+  "seoTitle": "Calculateur d'Âge en Ligne Gratuit - Calculez Votre Âge par Date de Naissance",
+  "seoDescription": "Calculez facilement votre âge en années, mois et jours à l'aide de notre calculateur d'âge en ligne gratuit et précis. Apprenez-en plus sur votre date de naissance, y compris le jour de la semaine et le compte à rebours de votre prochain anniversaire. Disponible en plusieurs langues.",
+  "seoKeywords": "calculateur d'âge, calculer l'âge, calculatrice de date de naissance, quel âge ai-je, calculateur d'âge en ligne, calculatrice d'anniversaire, calculateur d'âge gratuit",
+  "h1": "Calculateur d'Âge en Ligne",
+  "h2": "Entrez Votre Date de Naissance",
+  "dateOfBirthLabel": "Date de Naissance",
+  "dayLabel": "Jour",
+  "monthLabel": "Mois",
+  "yearLabel": "Année",
+  "calculateButton": "Calculer l'Âge",
+  "errorInvalidDate": "Veuillez entrer une date valide.",
+  "errorFutureDate": "La date de naissance ne peut pas être dans le futur.",
+  "resultPrefix": "Vous avez",
+  "resultSuffix": ".",
+  "years": "Ans",
+  "months": "Mois",
+  "moreInfoTitle": "En Savoir Plus Sur Votre Anniversaire",
+  "dayOfWeekLabel": "Jour de la semaine de votre naissance",
+  "seasonLabel": "Saison de votre naissance (Hémisphère Nord)",
+  "nextBirthdayLabel": "Jours jusqu'à votre prochain anniversaire",
+  "shareResultTitle": "Partagez Votre Résultat",
+  "shareResultText": "Je viens de découvrir que j'ai {years} ans, {months} mois et {days} jours grâce à ce super calculateur d'âge !",
+  "copyResultButton": "Copier le résultat",
+  "resultCopiedTooltip": "Copié !",
+  "calendarType": "Type de Calendrier",
+  "gregorian": "Grégorien",
+  "hijri": "Hégirien",
+  "monthsArray": ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"],
+  "hijriMonthsArray": ["Mouharram", "Safar", "Rabi' al-awwal", "Rabi' al-thani", "Joumada al-oula", "Joumada al-akhira", "Rajab", "Chaabane", "Ramadan", "Chawwal", "Dhou al-qi'da", "Dhou al-hijja"],
+  "daysOfWeekArray": ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"],
+  "seasonsArray": ["Hiver", "Printemps", "Été", "Automne"],
+  "seoSections": [
+    {
+      "heading": "Comment Fonctionne Notre Calculateur d'Âge",
+      "paragraphs": [
+        "Notre Calculateur d'Âge calcule votre âge avec une grande précision en comparant votre date de naissance à la date actuelle. L'outil calcule le temps total écoulé et le décompose en années, mois et jours. Il tient compte des années bissextiles pour fournir un resultado preciso, ce qui en fait un outil fiable pour quiconque se demande 'quel âge ai-je ?'. Entrez simplement votre date de naissance, et le calculateur affiche instantanément votre âge chronologique."
+      ]
+    },
+    {
+      "heading": "Pourquoi Utiliser un Calculateur d'Âge en Ligne ?",
+      "paragraphs": [
+        "Bien que calculer son âge en années soit simple, trouver le nombre exact de mois et de jours peut être délicat. Un calculateur d'âge en ligne simplifie ce processus en fournissant des résultats instantanés et précis. C'est utile pour :",
+        "Remplir des formulaires et des demandes qui exigent votre âge exact.",
+        "Planifier des célébrations d'anniversaire et des événements marquants.",
+        "La recherche généalogique et la création de chronologies familiales.",
+        "Simplement satisfaire votre curiosité sur votre âge en termes détaillés."
+      ],
+      "list": [
+        "Précision : Élimine les erreurs de calcul manuel, surtout avec les années bissextiles.",
+        "Rapidité : Obtenez votre âge en quelques secondes.",
+        "Commodité : Accessible à tout moment, n'importe où, sur n'importe quel appareil."
+      ]
+    }
+  ],
+  "shareTitle": "Partagez ce Calculateur",
+  "copyLinkButton": "Copier le Lien",
+  "copiedTooltip": "Copié !",
+  "aboutTitle": "À Propos de Nous",
+  "aboutHeading": "Notre Mission",
+  "aboutContent": [
+    "Bienvenue sur Calculatrice, votre destination de choix pour une large gamme de calculateurs en ligne gratuits et faciles à utiliser. Notre mission est de fournir des outils simples, rapides et fiables qui rendent les calculs quotidiens sans effort pour tout le monde.",
+    "Nous avons commencé avec un simple calculateur d'âge et nous nous sommes depuis étendus pour inclure divers calculateurs de santé et à usage général. Nous croyons en l'accessibilité de l'information et avons traduit nos outils dans de nombreuses langues pour servir un public mondial.",
+    "Notre équipe est dédiée à la précision et à l'expérience utilisateur. Nous travaillons constamment à améliorer nos outils existants et à en développer de nouveaux pour répondre à vos besoins. Merci d'avoir choisi Calculatrice !"
+  ],
+  "privacyTitle": "Politique de Confidentialité",
+  "privacyHeading": "Votre vie privée est importante pour nous.",
+  "privacyContent": [
+    {
+      "heading": "1. Informations que nous collectons",
+      "paragraphs": ["Nous ne collectons ni ne stockons aucune donnée personnelle que vous saisissez dans nos calculateurs. Tous les calculs sont effectués directement dans votre navigateur et ne sont pas envoyés à nos serveurs. Votre date de naissance ou toute autre information n'est jamais enregistrée."]
+    },
+    {
+      "heading": "2. Cookies et analyses",
+      "paragraphs": ["Nous pouvons utiliser des outils d'analyse anonymes pour comprendre comment notre site web est utilisé. Cela nous aide à améliorer l'expérience utilisateur. Ces données sont agrégées et ne pueden pas être utilisées pour identifier des utilisateurs individuels. Nous n'utilisons pas de cookies de suivi."]
+    },
+    {
+      "heading": "3. Services tiers",
+      "paragraphs": ["Ce site web ne s'intègre à aucun service tiers qui pourrait compromettre votre vie privée. Nous ne partageons aucune donnée avec des tiers."]
+    }
+  ],
+  "contactTitle": "Contactez-nous",
+  "contactHeading": "Prenez Contact",
+  "contactIntro": "Vous avez des questions, des commentaires ou des suggestions ? Nous serions ravis de vous entendre. Veuillez nous envoyer un e-mail et nous vous répondrons dès que possible.",
+  "contactEmail": "support@multicalculator.com",
+  "seoPregnancyTitle": "Calculateur de Date d'Accouchement Gratuit",
+  "seoPregnancyDescription": "Calculez votre date d'accouchement estimée en fonction de vos dernières règles (DDR), de la date de conception ou de la date de transfert de FIV. Obtenez les étapes clés de la grossesse.",
+  "pregnancyTitle": "Calculateur de Date d'Accouchement",
+  "pregnancySubheading": "Estimez la date d'accouchement de votre bébé et les étapes clés de la grossesse.",
+  "calculationMethodLabel": "Calculer en fonction de :",
+  "lmpMethod": "Dernières Règles",
+  "conceptionMethod": "Conception",
+  "ivfMethod": "FIV",
+  "lmpDateLabel": "Premier Jour des Dernières Règles (DDR)",
+  "conceptionDateLabel": "Date de Conception",
+  "transferDateLabel": "Date de Transfert de FIV",
+  "ivfCycleTypeLabel": "Type de Transfert",
+  "day3Transfer": "Embryon J3",
+  "day5Transfer": "Blastocyste J5",
+  "calculateDueDateButton": "Calculer la Date d'Accouchement",
+  "pregnancyHeading": "Votre Chronologie de Grossesse",
+  "dueDateResultLabel": "Date d'Accouchement Estimée",
+  "gestationalAgeResultLabel": "Âge Gestationnel Actuel",
+  "trimesterResultLabel": "Trimestre Actuel",
+  "trimester1": "Premier Trimestre",
+  "trimester2": "Deuxième Trimestre",
+  "trimester3": "Troisième Trimestre",
+  "seoPregnancySections": [
+    {
+      "heading": "Comment fonctionne notre calculateur de date d'accouchement",
+      "paragraphs": [
+        "Notre calculateur de date d'accouchement estime votre date de naissance prévue en utilisant plusieurs méthodes. La méthode la plus courante est basée sur le premier jour de vos dernières règles (DDR). Cette approche, connue sous le nom de règle de Naegele, ajoute 280 jours (40 semaines) à votre DDR pour prédire la date d'accouchement. Nous proposons également des calculs basés sur la date de conception ou la date de votre transfert de FIV pour une plus grande précision, surtout si vous avez des cycles irréguliers ou si vous connaissez la date exacte de la conception.",
+        "Il est important de se souvenir que cette date est une estimation. Seulement environ 5% des bébés naissent à leur date d'accouchement exacte. Cet outil fournit une ligne directrice fiable pour vous aider, vous et votre professionnel de la santé, à planifier l'arrivée de votre bébé."
+      ],
+      "list": [
+        "Méthode DDR : Le calcul standard basé sur un cycle de 28 jours.",
+        "Méthode de la date de conception : Plus précise si vous connaissez la date exacte de la conception.",
+        "Méthode FIV : Adaptée aux grossesses par FIV, basée sur la date de transfert de l'embryon et son âge."
+      ]
+    },
+    {
+      "heading": "Comprendre votre chronologie de grossesse : Trimestres et étapes",
+      "paragraphs": [
+        "Une grossesse à terme est divisée en trois trimestres, chacun avec des étapes de développement fœtal uniques. Notre calculateur ne fournit pas seulement une date d'accouchement, mais vous aide également à comprendre où vous en êtes dans ce voyage en calculant votre âge gestationnel actuel.",
+        "Le premier trimestre (semaines 1 à 13) est une période critique de développement pour les organes de votre bébé. Le deuxième trimestre (semaines 14 à 27) est souvent appelé la 'période dorée' car de nombreux symptômes de début de grossesse s'atténuent et vous pouvez commencer à sentir votre bébé bouger. Le troisième trimestre (semaines 28 à 40+) est axé sur la croissance rapide et la prise de poids du bébé alors qu'il se prépare à naître. Des soins prénataux réguliers tout au long de ces étapes sont essentiels pour une grossesse en bonne santé."
+      ]
+    }
+  ],
+  "seoOvulationTitle": "Calculateur d'Ovulation et de Fenêtre de Fertilité Gratuit",
+  "seoOvulationDescription": "Estimez votre date d'ovulation et vos jours les plus fertiles en fonction de vos dernières règles et de la durée de votre cycle. Planifiez votre grossesse avec notre calculateur précis.",
+  "ovulationTitle": "Calculateur d'Ovulation",
+  "ovulationSubheading": "Prédisez vos jours les plus fertiles pour une meilleure chance de conception.",
+  "lmpDateLabelOvulation": "Premier Jour des Dernières Règles",
+  "cycleLengthLabel": "Durée Moyenne du Cycle",
+  "calculateOvulationButton": "Calculer l'Ovulation",
+  "ovulationHeading": "Votre Fenêtre de Fertilité",
+  "resultOvulationDate": "Date d'Ovulation Estimée",
+  "resultFertileWindow": "Fenêtre la Plus Fertile",
+  "fertileWindowDescription": "Du {startDate} au {endDate}",
+  "resultNextPeriod": "Date Estimée des Prochaines Règles",
+  "seoOvulationSections": [
+    {
+      "heading": "Comment prédire vos jours les plus fertiles",
+      "paragraphs": [
+        "Notre Calculateur d'Ovulation est un outil simple conçu pour vous aider à prédire vos jours les plus fertiles du mois. En saisissant le premier jour de vos dernières règles et la durée moyenne de votre cycle, le calculateur estime votre date d'ovulation probable. L'ovulation est la libération d'un ovule par votre ovaire, ce qui se produit généralement environ 14 jours avant le début de vos prochaines règles.",
+        "Votre 'fenêtre de fertilité' comprend le jour de l'ovulation et les cinq jours qui la précèdent. C'est parce que les spermatozoïdes peuvent survivre dans l'appareil reproducteur féminin jusqu'à cinq jours. Avoir des rapports sexuels pendant cette fenêtre augmente considérablement vos chances de conception."
+      ],
+      "list": [
+        "Saisissez vos données : Commencez par la date de vos dernières règles et la durée de votre cycle.",
+        "Obtenez votre estimation : Le calculateur identifie vos jours clés de fertilité.",
+        "Planifiez en conséquence : Utilisez ces informations pour vous aider dans vos objectifs de planification familiale."
+      ]
+    },
+    {
+      "heading": "Au-delà du calculateur : Autres signes d'ovulation",
+      "paragraphs": [
+        "Bien qu'un calculateur d'ovulation soit un excellent point de départ, votre corps fournit également des indices que l'ovulation approche. Combiner l'estimation du calculateur avec ces signes physiques peut vous donner une image plus précise de votre fenêtre de fertilité. Ces signes incluent :",
+        "Changements dans la glaire cervicale : À l'approche de l'ovulation, votre glaire cervicale peut devenir plus claire, plus fine et plus glissante, ressemblant à la consistance du blanc d'œuf.",
+        "Température corporelle basale (TCB) : Le suivi quotidien de votre TCB peut montrer une augmentation de température légère mais soutenue après l'ovulation.",
+        "Kits de prédiction d'ovulation (OPK) : Ces kits en vente libre détectent le pic d'hormone lutéinisante (LH) qui se produit 24 à 36 heures avant l'ovulation."
+      ]
+    }
+  ],
+  "seoMenstrualTitle": "Calculateur de Cycle Menstruel et de Règles",
+  "seoMenstrualDescription": "Suivez votre cycle menstruel et prédisez les dates de vos prochaines règles avec notre calculateur en ligne simple et gratuit.",
+  "menstrualCycleTitle": "Calculateur de Cycle Menstruel",
+  "menstrualCycleSubheading": "Prédisez vos prochaines règles avec ce calculateur facile à utiliser.",
+  "calculateMenstrualButton": "Calculer les Prochaines Règles",
+  "menstrualCycleHeading": "Dates de Vos Prochaines Règles",
+  "resultNextPeriod1": "Prochaines Règles Estimées",
+  "resultNextPeriod2": "Règles Suivantes Estimées",
+  "seoMenstrualSections": [
+    {
+      "heading": "Comment fonctionne notre calculateur de règles",
+      "paragraphs": [
+        "Notre Calculateur de Cycle Menstruel vous aide à prédire la date de début de vos prochaines règles avec seulement deux informations : le premier jour de vos dernières règles et la durée moyenne de votre cycle menstruel. En ajoutant la durée moyenne de votre cycle à la date de début de vos dernières règles, l'outil fournit une date estimée pour vos deux prochaines périodes.",
+        "Le suivi de votre cycle est plus qu'une simple commodité ; c'est un indicateur clé de votre santé globale. Des cycles réguliers et prévisibles signifient souvent que les hormones de votre corps fonctionnent correctement."
+      ],
+      "list": [
+        "Entrées simples : Saisissez la date de début de vos dernières règles et la durée de votre cycle.",
+        "Prédictions instantanées : Voyez immédiatement les dates estimées de vos prochaines règles.",
+        "Planifiez à l'avance : Utilisez les prédictions pour planifier des événements, des vacances, ou simplemente pour être préparée."
+      ]
+    },
+    {
+      "heading": "Comprendre votre cycle menstruel",
+      "paragraphs": [
+        "Un cycle menstruel est compté du premier jour d'une période au premier jour de la suivante. Bien que le cycle moyen soit de 28 jours, les cycles allant de 21 à 35 jours sont également considérés comme normaux pour les adultes. De nombreux facteurs pueden influencer la durée et la régularité de votre cycle, notamment le stress, l'alimentation, l'exercice et certaines conditions de santé.",
+        "Si vos cycles sont constamment irréguliers, beaucoup plus courts ou plus longs que la normale, ou si vous ressentez une douleur intense, il est conseillé de consulter un professionnel de la santé. Notre calculateur fonctionne mieux pour celles qui ont des cycles relativement réguliers, mais peut tout de même fournir une estimation utile pour les autres."
+      ]
+    }
+  ],
+  "seoCalorieTitle": "Calculateur de Calories Gratuit - TDEE & BMR",
+  "seoCalorieDescription": "Calculez vos besoins caloriques quotidiens pour la perte, le maintien ou le gain de poids. Trouvez votre BMR et TDEE, et obtenez des objectifs de macronutriments personnalisés.",
+  "calorieTitle": "Calculateur de Calories",
+  "calorieSubheading": "Calculez vos besoins quotidiens pour atteindre vos objectifs de poids.",
+  "step": "Étape",
+  "stepOf": "sur",
+  "step1_personalia": "Votre Profil",
+  "step2_activity": "Niveau d'Activité",
+  "step3_goal": "Votre Objectif",
+  "step4_results": "Résultats Caloriques",
+  "step5_macros": "Plan de Macronutriments",
+  "step6_macro_results": "Résultats des Macros",
+  "step7_meal_plan": "Exemple de Plan de Repas",
+  "step8_summary": "Résumé",
+  "nextButton": "Suivant",
+  "backButton": "Retour",
+  "calculateCaloriesButton": "Calculer les Calories",
+  "recalculate": "Recalculer",
+  "unitSystemLabel": "Système d'Unités",
+  "metric": "Métrique",
+  "imperial": "Impérial",
+  "genderLabel": "Sexe",
+  "male": "Homme",
+  "female": "Femme",
+  "ageLabel": "Âge",
+  "ageUnit": "ans",
+  "heightLabel": "Taille",
+  "weightLabel": "Poids",
+  "cm": "cm",
+  "ft": "pi",
+  "in": "po",
+  "kg": "kg",
+  "lbs": "lbs",
+  "activityLevelLabel": "Quel est votre niveau d'activité ?",
+  "sedentary": "Sédentaire : peu ou pas d'exercice",
+  "lightlyActive": "Légèrement actif : exercice 1-3 jours/semaine",
+  "moderatelyActive": "Modérément actif : exercice 3-5 jours/semaine",
+  "veryActive": "Très actif : exercice 6-7 jours/semaine",
+  "extraActive": "Extrêmement actif : exercice très intense et travail physique",
+  "goalLabel": "Quel est votre objectif principal ?",
+  "maintainWeight": "Maintenir le poids actuel",
+  "mildWeightLoss": "Perte de poids légère (0.25 kg/semaine)",
+  "weightLoss": "Perte de poids (0.5 kg/semaine)",
+  "extremeWeightLoss": "Perte de poids extrême (1 kg/semaine)",
+  "mildWeightGain": "Prise de poids légère (0.25 kg/semaine)",
+  "weightGain": "Prise de poids (0.5 kg/semaine)",
+  "fastWeightGain": "Prise de poids rapide (1 kg/semaine)",
+  "calorieResultsTitle": "Vos Besoins Caloriques",
+  "caloriesPerDay": "Calories/jour",
+  "yourBMR": "Taux Métabolique de Base (TMB)",
+  "bmrDescription": "Les calories dont votre corps a besoin au repos.",
+  "maintenanceCalories": "Calories de Maintien",
+  "goalResultText": {
+    "maintainWeight": "Pour maintenir votre poids",
+    "mildWeightLoss": "Pour une perte de poids légère",
+    "weightLoss": "Pour une perte de poids",
+    "extremeWeightLoss": "Pour une perte de poids extrême",
+    "mildWeightGain": "Pour une prise de poids légère",
+    "weightGain": "Pour une prise de poids",
+    "fastWeightGain": "Pour une prise de poids rapide",
+    "sedentary": "Sédentaire : peu ou pas d'exercice",
+    "lightlyActive": "Légèrement actif : exercice 1-3 jours/semaine",
+    "moderatelyActive": "Modérément actif : exercice 3-5 jours/semaine",
+    "veryActive": "Très actif : exercice 6-7 jours/semaine",
+    "extraActive": "Extrêmement actif : exercice très intense et travail physique"
+  },
+  "macronutrientPlan": "Choisissez un Plan de Macronutriments",
+  "balanced": "Équilibré (40% Glucides, 30% Protéines, 30% Lipides)",
+  "lowCarb": "Faible en Glucides (20% Glucides, 40% Protéines, 40% Lipides)",
+  "highProtein": "Riche en Protéines (30% Glucides, 45% Protéines, 25% Lipides)",
+  "macronutrients": "Macronutriments Quotidiens",
+  "protein": "Protéines",
+  "carbs": "Glucides",
+  "fat": "Lipides",
+  "grams": "g",
+  "getMealPlan": "Obtenir un Plan de Repas",
+  "generatingMealPlan": "Génération du plan de repas",
+  "mealPlanError": "Désolé, nous n'avons pas pu générer de plan de repas pour le moment. Veuillez réessayer plus tard.",
+  "mealPlanTitle": "Votre Exemple de Plan de Repas pour une Journée",
+  "breakfast": "Petit-déjeuner",
+  "lunch": "Déjeuner",
+  "dinner": "Dîner",
+  "snacks": "Collations",
+  "summaryTitle": "Résumé du Calcul",
+  "summaryYourProfile": "Votre Profil",
+  "summaryYourResults": "Vos Résultats",
+  "summaryCalculatedMealPlan": "Plan de Repas Calculé",
+  "printResults": "Imprimer les Résultats",
+  "calorieShareResultTitle": "Partagez Vos Résultats",
+  "calorieShareResultText": "Je viens de calculer mes besoins quotidiens ! Pour atteindre mon objectif, j'ai besoin de {calories} calories, avec {protein}g de protéines, {carbs}g de glucides et {fat}g de lipides. Découvrez ce super calculateur !",
+  "errorNumber": "Veuillez entrer un nombre valide.",
+  "errorHeight": "Veuillez entrer une taille valide (min 100cm / 3'3\").",
+  "errorWeight": "Veuillez entrer un poids valide (min 20kg / 45lbs).",
+  "errorAge": "Veuillez entrer un âge valide (15-80).",
+  "seoCalorieSections": [
+    {
+      "heading": "Comprendre vos besoins caloriques quotidiens",
+      "paragraphs": [
+        "Une calorie est une unité d'énergie. En nutrition, les calories désignent l'énergie que les gens tirent des aliments et des boissons qu'ils consomment, et l'énergie qu'ils dépensent lors d'une activité physique. Comprendre vos besoins caloriques quotidiens est la première étape pour atteindre vos objectifs de poids, qu'il s'agisse de perdre, de prendre ou de maintenir votre poids actuel.",
+        "Notre calculateur commence par déterminer votre Taux Métabolique de Base (TMB), qui est le nombre de calories dont votre corps a besoin pour accomplir les fonctions vitales de base au repos, telles que la respiration, la circulation et la production cellulaire. Nous utilisons l'équation de Mifflin-St Jeor, largement acceptée, pour ce calcul. Ensuite, nous prenons en compte votre niveau d'activité pour calculer votre Dépense Énergétique Journalière Totale (DEJT), qui est une estimation plus précise de votre dépense calorique quotidienne."
+      ]
+    },
+    {
+      "heading": "Fixer des objectifs : perte, gain ou maintien de poids",
+      "paragraphs": [
+        "Une fois que vous connaissez votre DEJT (calories de maintien), vous pouvez ajuster votre apport pour atteindre vos objectifs :",
+        "Pour perdre du poids, vous devez consommer moins de calories que votre DEJT, créant ainsi un déficit calorique. Un déficit sûr et durable est généralement d'environ 500 calories par jour pour perdre environ 1 livre (0,5 kg) par semaine.",
+        "Pour prendre du poids, vous devez consommer plus de calories que votre DEJT, créant ainsi un excédent calorique. Un excédent de 300 à 500 calories par jour est un bon point de départ pour un gain musculaire régulier avec un gain de graisse minimal.",
+        "Pour maintenir votre poids, vous devriez viser à consommer un nombre de calories égal à votre DEJT."
+      ]
+    },
+    {
+      "heading": "Qu'en est-il des macronutriments ?",
+      "paragraphs": [
+        "Les calories proviennent de trois macronutriments principaux : les protéines, les glucides et les lipides. L'équilibre de ces « macros » est la clé d'une alimentation saine.",
+        "Les protéines sont cruciales pour la construction et la réparation des tissus, y compris les muscles.",
+        "Les glucides sont la principale source d'énergie de votre corps.",
+        "Les lipides sont essentiels à la production d'hormones et à l'absorption des vitamines.",
+        "Notre calculateur vous aide à décomposer vos calories quotidiennes totales en grammes de protéines, de glucides et de lipides en fonction des régimes alimentaires populaires. Cela vous donne un cadre pratique pour élaborer des repas qui correspondent à vos objectifs de santé et de forme physique."
+      ]
+    }
+  ],
+  "seoTimeTitle": "Calculateur de Temps - Additionner et Soustraire des Durées",
+  "seoTimeDescription": "Un outil en ligne gratuit pour additionner ou soustraire facilement des durées. Calculez les jours, heures, minutes et secondes avec précision. Idéal pour la gestion de projet, le suivi du temps et les calculs quotidiens.",
+  "timeTitle": "Calculateur de Temps",
+  "timeSubheading": "Additionnez ou soustrayez des durées avec facilité.",
+  "time1Label": "Temps 1",
+  "time2Label": "Temps 2",
+  "operationLabel": "Opération",
+  "add": "Ajouter (+)",
+  "subtract": "Soustraire (-)",
+  "calculateTimeButton": "Calculer",
+  "resetButton": "Réinitialiser",
+  "resultLabel": "Résultat",
+  "hours": "Heures",
+  "minutes": "Minutes",
+  "seconds": "Secondes",
+  "errorInvalidTime": "Veuillez entrer un nombre valide et non négatif pour tous les champs de temps.",
+  "seoTimeSections": [
+    {
+      "heading": "Comment utiliser le Calculateur de Temps",
+      "paragraphs": [
+        "Notre Calculateur de Temps simplifie le processus d'addition et de soustraction de temps. Que vous suiviez des heures de travail, enregistriez des sessions d'exercice ou planifiez un événement, cet outil offre une solution rapide et précise. Saisissez simplement deux durées, sélectionnez si vous souhaitez les additionner ou les soustraire, et obtenez le résultat instantanément.",
+        "Le calculateur décompose le temps en jours, heures, minutes et secondes. Pour la soustraction, assurez-vous que la première durée est supérieure ou égale à la seconde pour éviter les résultats négatifs."
+      ]
+    },
+    {
+      "heading": "Applications Pratiques",
+      "paragraphs": [
+        "Cet outil est incroyablement polyvalent et peut être utilisé dans divers scénarios :",
+        "Gestion de Projet : Calculez le temps total consacré à différentes tâches.",
+        "Aviation et Navigation : Enregistrez les temps de vol ou les durées de voyage.",
+        "Montage Vidéo : Additionnez la durée des clips ou calculez le temps restant.",
+        "Suivi du Temps Personnel : Surveillez le temps consacré aux loisirs, aux études ou à l'exercice."
+      ],
+      "list": [
+        "Interface facile à utiliser.",
+        "Gère les jours, les heures, les minutes et les secondes.",
+        "Fournit des calculs instantanés et précis."
+      ]
+    }
+  ],
+  "navHoursCalculator": "Calculateur d'Heures",
+  "homeHoursCalculatorDescription": "Calculez la durée entre deux heures en heures et minutes.",
+  "seoHoursTitle": "Calculateur d'Heures - Calculez la Durée Entre Deux Heures",
+  "seoHoursDescription": "Un outil gratuit pour calculer la différence de temps entre une heure de début et une heure de fin en heures et minutes. Parfait pour les heures de travail et le suivi d'activités.",
+  "hoursTitle": "Calculateur d'Heures",
+  "hoursSubheading": "Calculez la durée entre une heure de début et une heure de fin.",
+  "startTimeLabel": "Heure de Début",
+  "endTimeLabel": "Heure de Fin",
+  "hourLabel": "Heure",
+  "minuteLabel": "Minute",
+  "calculateHoursButton": "Calculer la Durée",
+  "resultDurationLabel": "Durée Calculée",
+  "resultInMinutes": "en minutes totales",
+  "resultHours": "heures",
+  "resultMinutes": "minutes",
+  "seoHoursSections": [
+    {
+      "heading": "Comment Utiliser le Calculateur d'Heures",
+      "paragraphs": [
+        "Notre Calculateur d'Heures est conçu pour simplifier le calcul de la durée entre deux moments. Que vous calculiez des heures de travail, la durée d'un événement ou le temps passé sur une tâche, cet outil fournit un résultat rapide et précis. Entrez simplement les heures de début et de fin, et le calculateur s'occupera du reste, gérant les cas qui dépassent minuit."
+      ],
+      "list": []
+    },
+    {
+      "heading": "Applications Pratiques",
+      "paragraphs": [
+        "Cet outil est extrêmement utile dans divers scénarios :",
+        "Calcul des Heures de Travail : Calculez facilement les heures de travail quotidiennes ou hebdomadaires pour les feuilles de temps.",
+        "Planification d'Événements : Déterminez la durée des réunions, des rendez-vous et des événements.",
+        "Suivi d'Activités : Surveillez le temps que vous consacrez à vos loisirs, à vos études ou à l'exercice."
+      ],
+      "list": []
+    }
+  ]
+}

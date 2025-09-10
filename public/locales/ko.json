@@ -1,0 +1,413 @@
+{
+  "title": "계산기",
+  "selectLanguage": "언어 선택",
+  "days": "일",
+  "weeks": "주",
+  "navHome": "홈",
+  "navCalculator": "나이 계산기",
+  "navTimeAndDate": "시간 및 날짜",
+  "navHealthCalculators": "건강 계산기",
+  "navPregnancyCalculator": "임신",
+  "navOvulationCalculator": "배란일",
+  "navMenstrualCycleCalculator": "생리 주기",
+  "navCalorieCalculator": "칼로리 계산기",
+  "navTimeCalculator": "시간 계산기",
+  "navAbout": "소개",
+  "footerRights": "© {year} 계산기. 모든 권리 보유.",
+  "footerPrivacyPolicy": "개인정보 처리방침",
+  "footerContactUs": "문의하기",
+  "homeTitle": "당신의 올인원 계산기 허브",
+  "homeDescription": "나이부터 건강 지표까지, 필요한 모든 계산기를 한 곳에서 찾아보세요. 간단하고, 빠르고, 정확합니다.",
+  "homeCTAText": "나이 계산하기",
+  "homeBasicCalculatorTitle": "기본 계산기",
+  "homeHealthCalculatorsTitle": "건강 계산기 살펴보기",
+  "homePregnancyCalculatorDescription": "예정일을 추정하고 임신 과정을 추적하세요.",
+  "homeOvulationCalculatorDescription": "가족 계획을 돕기 위해 가장 임신 가능성이 높은 날을 찾아보세요.",
+  "homeMenstrualCycleCalculatorDescription": "주기를 추적하고 다음 생리를 쉽게 예측하세요.",
+  "homeCalorieCalculatorDescription": "피트니스 목표를 달성하기 위해 일일 칼로리 필요량을 계산하세요.",
+  "homeTimeCalculatorDescription": "업무, 프로젝트, 취미를 위한 시간 기간을 더하거나 뺍니다.",
+  "seoTitle": "무료 온라인 나이 계산기 - 생년월일로 만나이 계산",
+  "seoDescription": "무료이며 정확한 온라인 나이 계산기를 사용하여 연, 월, 일 단위로 나이를 쉽게 계산하세요. 요일 및 다음 생일까지의 카운트다운을 포함한 생년월일에 대한 자세한 정보를 알아보세요. 다국어를 지원합니다.",
+  "seoKeywords": "나이 계산기, 만나이 계산기, 생년월일 계산기, 몇 살, 온라인 나이 계산기, 생일 계산기, 무료 나이 계산기",
+  "h1": "온라인 나이 계산기",
+  "h2": "생년월일을 입력하세요",
+  "dateOfBirthLabel": "생년월일",
+  "dayLabel": "일",
+  "monthLabel": "월",
+  "yearLabel": "년",
+  "calculateButton": "나이 계산",
+  "errorInvalidDate": "유효한 날짜를 입력하세요.",
+  "errorFutureDate": "생년월일은 미래 날짜일 수 없습니다.",
+  "resultPrefix": "당신은 만",
+  "resultSuffix": "세입니다.",
+  "years": "년",
+  "months": "개월",
+  "moreInfoTitle": "당신의 생일에 대한 추가 정보",
+  "dayOfWeekLabel": "태어난 요일",
+  "seasonLabel": "태어난 계절(북반구)",
+  "nextBirthdayLabel": "다음 생일까지 남은 일수",
+  "shareResultTitle": "결과 공유하기",
+  "shareResultText": "이 멋진 나이 계산기를 사용하여 제가 만 {years}세 {months}개월 {days}일 되었다는 것을 알게 되었습니다!",
+  "copyResultButton": "결과 복사",
+  "resultCopiedTooltip": "복사됨!",
+  "calendarType": "달력 유형",
+  "gregorian": "양력",
+  "hijri": "히즈리력",
+  "monthsArray": ["1월", "2월", "3월", "4월", "5월", "6월", "7월", "8월", "9월", "10월", "11월", "12월"],
+  "hijriMonthsArray": ["무하람", "사파르", "라비 알-아왈", "라비 알-타니", "주마다 알-울라", "주마다 알-아키라", "라자브", "샤반", "라마단", "샤왈", "둘카다", "둘히자"],
+  "daysOfWeekArray": ["일요일", "월요일", "화요일", "수요일", "목요일", "금요일", "토요일"],
+  "seasonsArray": ["겨울", "봄", "여름", "가을"],
+  "seoSections": [
+    {
+      "heading": "나이 계산기 작동 방식",
+      "paragraphs": [
+        "저희 나이 계산기는 생년월일을 현재 날짜와 비교하여 매우 정밀하게 나이를 계산합니다. 이 도구는 총 경과 시간을 계산하여 년, 월, 일로 나눕니다. 정확한 결과를 제공하기 위해 윤년을 고려하므로 '나는 몇 살일까?'라고 묻는 모든 사람에게 신뢰할 수 있는 도구입니다. 생년월일을 입력하기만 하면 계산기가 즉시 만 나이를 표시합니다."
+      ]
+    },
+    {
+      "heading": "온라인 나이 계산기를 사용하는 이유",
+      "paragraphs": [
+        "나이를 년 단위로 계산하는 것은 간단하지만 정확한 월과 일 수를 찾는 것은 까다로울 수 있습니다. 온라인 나이 계산기는 이 과정을 단순화하여 즉각적이고 정확한 결과를 제공합니다. 다음과 같은 경우에 유용합니다.",
+        "정확한 나이를 요구하는 양식 및 신청서 작성.",
+        "생일 축하 및 기념일 계획.",
+        "족보 연구 및 가족 연대표 작성.",
+        "단순히 상세한 용어로 나이에 대한 호기심을 충족시키기 위해."
+      ],
+      "list": [
+        "정확성: 특히 윤년과 관련된 수동 계산 오류를 제거합니다.",
+        "속도: 몇 초 만에 나이를 알 수 있습니다.",
+        "편의성: 언제 어디서나 모든 기기에서 접근할 수 있습니다."
+      ]
+    }
+  ],
+  "shareTitle": "이 계산기 공유하기",
+  "copyLinkButton": "링크 복사",
+  "copiedTooltip": "복사됨!",
+  "aboutTitle": "소개",
+  "aboutHeading": "우리의 미션",
+  "aboutContent": [
+    "계산기에 오신 것을 환영합니다. 여기는 다양하고 무료이며 사용하기 쉬운 온라인 계산기를 제공하는 곳입니다. 우리의 임무는 모든 사람이 일상적인 계산을 쉽게 할 수 있도록 간단하고 빠르며 신뢰할 수 있는 도구를 제공하는 것입니다.",
+    "우리는 간단한 나이 계산기로 시작하여 이후 다양한 건강 및 범용 계산기를 포함하도록 확장했습니다. 우리는 정보에 대한 접근성을 믿으며 전 세계 사용자에게 서비스를 제공하기 위해 도구를 여러 언어로 번역했습니다.",
+    "우리 팀은 정확성과 사용자 경험에 전념하고 있습니다. 우리는 기존 도구를 개선하고 사용자의 요구를 충족시키기 위해 새로운 도구를 개발하기 위해 끊임없이 노력하고 있습니다. 계산기를 선택해 주셔서 감사합니다!"
+  ],
+  "privacyTitle": "개인정보 처리방침",
+  "privacyHeading": "귀하의 개인정보는 우리에게 중요합니다.",
+  "privacyContent": [
+    {
+      "heading": "1. 수집하는 정보",
+      "paragraphs": ["우리는 귀하가 계산기에 입력하는 어떠한 개인 데이터도 수집하거나 저장하지 않습니다. 모든 계산은 귀하의 브라우저에서 직접 수행되며 당사 서버로 전송되지 않습니다. 귀하의 생년월일이나 기타 정보는 절대 기록되지 않습니다."]
+    },
+    {
+      "heading": "2. 쿠키 및 분석",
+      "paragraphs": ["우리는 당사 웹사이트가 어떻게 사용되는지 이해하기 위해 익명의 분석 도구를 사용할 수 있습니다. 이는 사용자 경험을 개선하는 데 도움이 됩니다. 이 데이터는 집계되며 개별 사용자를 식별하는 데 사용할 수 없습니다. 우리는 추적 쿠키를 사용하지 않습니다."]
+    },
+    {
+      "heading": "3. 제3자 서비스",
+      "paragraphs": ["이 웹사이트는 귀하의 개인 정보를 침해할 수 있는 어떠한 제3자 서비스와도 통합되지 않습니다. 우리는 어떠한 데이터도 제3자와 공유하지 않습니다."]
+    }
+  ],
+  "contactTitle": "문의하기",
+  "contactHeading": "연락처",
+  "contactIntro": "질문, 피드백 또는 제안이 있으신가요? 여러분의 의견을 듣고 싶습니다. 이메일을 보내주시면 최대한 빨리 답변해 드리겠습니다.",
+  "contactEmail": "support@multicalculator.com",
+  "seoPregnancyTitle": "무료 임신 예정일 계산기",
+  "seoPregnancyDescription": "마지막 생리일(LMP), 임신일 또는 체외 수정(IVF) 이식일을 기준으로 예상 출산 예정일을 계산합니다. 주요 임신 이정표를 확인하세요.",
+  "pregnancyTitle": "임신 예정일 계산기",
+  "pregnancySubheading": "아기의 출산 예정일과 주요 임신 이정표를 추정합니다.",
+  "calculationMethodLabel": "계산 기준:",
+  "lmpMethod": "마지막 생리",
+  "conceptionMethod": "임신일",
+  "ivfMethod": "체외 수정",
+  "lmpDateLabel": "마지막 생리 시작일(LMP)",
+  "conceptionDateLabel": "임신일",
+  "transferDateLabel": "체외 수정 이식일",
+  "ivfCycleTypeLabel": "이식 유형",
+  "day3Transfer": "3일 배아",
+  "day5Transfer": "5일 배반포",
+  "calculateDueDateButton": "예정일 계산",
+  "pregnancyHeading": "임신 타임라인",
+  "dueDateResultLabel": "예상 출산 예정일",
+  "gestationalAgeResultLabel": "현재 임신 주수",
+  "trimesterResultLabel": "현재 임신 분기",
+  "trimester1": "임신 1분기",
+  "trimester2": "임신 2분기",
+  "trimester3": "임신 3분기",
+  "seoPregnancySections": [
+    {
+      "heading": "출산 예정일 계산기 작동 방식",
+      "paragraphs": [
+        "저희 임신 예정일 계산기는 여러 방법을 사용하여 예상 출산일을 추정합니다. 가장 일반적인 방법은 마지막 생리일(LMP)의 첫날을 기준으로 합니다. 네겔레 법칙으로 알려진 이 방법은 LMP에 280일(40주)을 더하여 출산 예정일을 예측합니다. 또한 불규칙한 주기를 가졌거나 정확한 임신 날짜를 아는 경우를 대비하여 임신일 또는 IVF 이식일을 기반으로 한 계산도 제공합니다.",
+        "이 날짜는 추정치라는 점을 기억하는 것이 중요합니다. 아기의 약 5%만이 정확한 출산 예정일에 태어납니다. 이 도구는 귀하와 귀하의 의료 서비스 제공자가 아기의 도착을 계획하는 데 도움이 되는 신뢰할 수 있는 지침을 제공합니다."
+      ],
+      "list": [
+        "LMP 방법: 28일 주기를 기반으로 한 표준 계산입니다.",
+        "임신일 방법: 정확한 임신 날짜를 아는 경우 더 정확합니다.",
+        "IVF 방법: IVF 임신에 맞춰 배아 이식 날짜와 나이를 기준으로 합니다."
+      ]
+    },
+    {
+      "heading": "임신 타임라인 이해하기: 삼분기와 이정표",
+      "paragraphs": [
+        "만삭 임신은 세 개의 삼분기로 나뉘며, 각 삼분기에는 독특한 태아 발달 이정표가 있습니다. 저희 계산기는 출산 예정일을 제공할 뿐만 아니라 현재 임신 주수를 계산하여 이 여정에서 귀하가 어디에 있는지 이해하는 데 도움을 줍니다.",
+        "첫 번째 삼분기(1-13주)는 아기 장기 발달에 중요한 시기입니다. 두 번째 삼분기(14-27주)는 많은 초기 임신 증상이 가라앉고 아기의 움직임을 느끼기 시작할 수 있으므로 종종 '황금기'라고 불립니다. 세 번째 삼분기(28-40주 이상)는 아기가 태어날 준비를 하면서 빠른 성장과 체중 증가에 중점을 둡니다. 이 모든 단계에 걸친 정기적인 산전 관리는 건강한 임신을 위해 필수적입니다."
+      ]
+    }
+  ],
+  "seoOvulationTitle": "무료 배란 및 가임기 계산기",
+  "seoOvulationDescription": "마지막 생리일과 주기 길이를 기준으로 배란일과 가장 임신 가능성이 높은 날을 추정합니다. 정확한 계산기로 임신을 계획하세요.",
+  "ovulationTitle": "배란일 계산기",
+  "ovulationSubheading": "임신 가능성을 높이기 위해 가장 가임 가능성이 높은 날을 예측합니다.",
+  "lmpDateLabelOvulation": "마지막 생리 시작일",
+  "cycleLengthLabel": "평균 주기 길이",
+  "calculateOvulationButton": "배란일 계산",
+  "ovulationHeading": "가임 기간",
+  "resultOvulationDate": "예상 배란일",
+  "resultFertileWindow": "가장 임신 가능성이 높은 기간",
+  "fertileWindowDescription": "{startDate}부터 {endDate}까지",
+  "resultNextPeriod": "다음 예상 생리일",
+  "seoOvulationSections": [
+    {
+      "heading": "가장 임신 가능성이 높은 날을 예측하는 방법",
+      "paragraphs": [
+        "저희 배란일 계산기는 한 달 중 가장 임신 가능성이 높은 날을 예측하는 데 도움이 되는 간단한 도구입니다. 마지막 생리 시작일과 평균 주기 길이를 입력하면 계산기가 예상 배란일을 추정합니다. 배란은 난소에서 난자가 배출되는 것으로, 일반적으로 다음 생리가 시작되기 약 14일 전에 발생합니다.",
+        "귀하의 '가임 기간'에는 배란일과 그 전 5일이 포함됩니다. 이는 정자가 여성 생식 기관에서 최대 5일 동안 생존할 수 있기 때문입니다. 이 기간 동안 성관계를 가지면 임신 가능성이 크게 높아집니다."
+      ],
+      "list": [
+        "데이터 입력: 마지막 생리 날짜와 주기 길이부터 시작하세요.",
+        "예상치 확인: 계산기가 주요 가임일을 식별합니다.",
+        "계획 세우기: 이 정보를 가족 계획 목표에 활용하세요."
+      ]
+    },
+    {
+      "heading": "계산기 너머: 배란의 다른 징후",
+      "paragraphs": [
+        "배란일 계산기는 훌륭한 출발점이지만, 신체는 배란이 다가오고 있다는 단서를 제공하기도 합니다. 계산기의 추정치와 이러한 신체적 징후를 결합하면 가임 기간에 대한 더 정확한 그림을 얻을 수 있습니다. 이러한 징후는 다음과 같습니다.",
+        "자궁경부 점액의 변화: 배란이 가까워지면 자궁경부 점액이 더 맑고 묽어지며 미끄러워져 계란 흰자와 비슷한 농도가 될 수 있습니다.",
+        "기초 체온(BBT): 매일 BBT를 추적하면 배란이 일어난 후 체온이 약간이지만 지속적으로 상승하는 것을 볼 수 있습니다.",
+        "배란 예측 키트(OPK): 이러한 일반의약품 키트는 배란 24-36시간 전에 발생하는 황체형성호르몬(LH)의 급증을 감지합니다."
+      ]
+    }
+  ],
+  "seoMenstrualTitle": "생리 주기 및 월경 계산기",
+  "seoMenstrualDescription": "간단하고 무료인 온라인 계산기로 생리 주기를 추적하고 다음 생리 날짜를 예측하세요.",
+  "menstrualCycleTitle": "생리 주기 계산기",
+  "menstrualCycleSubheading": "사용하기 쉬운 이 계산기로 다음 생리를 예측하세요.",
+  "calculateMenstrualButton": "다음 생리일 계산",
+  "menstrualCycleHeading": "다음 생리 예정일",
+  "resultNextPeriod1": "다음 예상 생리일",
+  "resultNextPeriod2": "그 다음 예상 생리일",
+  "seoMenstrualSections": [
+    {
+      "heading": "생리일 계산기 작동 방식",
+      "paragraphs": [
+        "저희 생리 주기 계산기는 단 두 가지 정보, 즉 마지막 생리 시작일과 평균 생리 주기 길이만으로 다음 생리 시작일을 예측하는 데 도움을 줍니다. 마지막 생리 시작일에 평균 주기 길이를 더하면 이 도구는 다음 두 번의 생리에 대한 예상 날짜를 제공합니다.",
+        "주기를 추적하는 것은 단순한 편의성 이상의 의미를 갖습니다. 이는 전반적인 건강 상태의 핵심 지표입니다. 규칙적이고 예측 가능한 주기는 종종 신체 호르몬이 제대로 기능하고 있음을 의미합니다."
+      ],
+      "list": [
+        "간단한 입력: 마지막 생리 시작일과 주기 길이를 입력합니다.",
+        "즉각적인 예측: 다음 생리 예정일을 즉시 확인합니다.",
+        "미리 계획: 예측을 사용하여 행사, 휴가를 계획하거나 단순히 대비합니다."
+      ]
+    },
+    {
+      "heading": "생리 주기 이해하기",
+      "paragraphs": [
+        "생리 주기는 한 생리의 첫날부터 다음 생리의 첫날까지를 계산합니다. 평균 주기는 28일이지만, 성인의 경우 21일에서 35일 사이의 주기도 정상으로 간주됩니다. 스트레스, 식단, 운동 및 특정 건강 상태를 포함한 많은 요인이 주기의 길이와 규칙성에 영향을 미칠 수 있습니다.",
+        "주기가 지속적으로 불규칙하거나 정상 범위보다 훨씬 짧거나 길거나 심한 통증을 경험하는 경우 의료 서비스 제공자와 상담하는 것이 좋습니다. 저희 계산기는 비교적 규칙적인 주기를 가진 사람들에게 가장 효과적이지만 다른 사람들에게도 유용한 추정치를 제공할 수 있습니다."
+      ]
+    }
+  ],
+  "seoCalorieTitle": "무료 칼로리 계산기 - 총 에너지 소비량(TDEE) & 기초 대사량(BMR)",
+  "seoCalorieDescription": "체중 감량, 유지 또는 증가를 위한 일일 칼로리 필요량을 계산합니다. 기초 대사량(BMR)과 총 에너지 소비량(TDEE)을 찾고 개인화된 다량 영양소 목표를 얻으세요.",
+  "calorieTitle": "칼로리 계산기",
+  "calorieSubheading": "체중 목표를 달성하기 위해 일일 필요량을 계산하세요.",
+  "step": "단계",
+  "stepOf": " / ",
+  "step1_personalia": "프로필",
+  "step2_activity": "활동 수준",
+  "step3_goal": "목표",
+  "step4_results": "칼로리 결과",
+  "step5_macros": "다량 영양소 계획",
+  "step6_macro_results": "매크로 결과",
+  "step7_meal_plan": "샘플 식단 계획",
+  "step8_summary": "요약",
+  "nextButton": "다음",
+  "backButton": "뒤로",
+  "calculateCaloriesButton": "칼로리 계산",
+  "recalculate": "재계산",
+  "unitSystemLabel": "단위 시스템",
+  "metric": "미터법",
+  "imperial": "야드파운드법",
+  "genderLabel": "성별",
+  "male": "남성",
+  "female": "여성",
+  "ageLabel": "나이",
+  "ageUnit": "세",
+  "heightLabel": "키",
+  "weightLabel": "체중",
+  "cm": "cm",
+  "ft": "ft",
+  "in": "in",
+  "kg": "kg",
+  "lbs": "lbs",
+  "activityLevelLabel": "활동 수준은 어느 정도인가요?",
+  "sedentary": "좌식: 거의 또는 전혀 운동하지 않음",
+  "lightlyActive": "가벼운 활동: 주 1-3일 운동",
+  "moderatelyActive": "중간 활동: 주 3-5일 운동",
+  "veryActive": "매우 활동적: 주 6-7일 운동",
+  "extraActive": "매우 격렬한 활동: 격렬한 운동 및 육체 노동",
+  "goalLabel": "주요 목표는 무엇인가요?",
+  "maintainWeight": "현재 체중 유지",
+  "mildWeightLoss": "가벼운 체중 감량 (주 0.25kg)",
+  "weightLoss": "체중 감량 (주 0.5kg)",
+  "extremeWeightLoss": "급격한 체중 감량 (주 1kg)",
+  "mildWeightGain": "가벼운 체중 증가 (주 0.25kg)",
+  "weightGain": "체중 증가 (주 0.5kg)",
+  "fastWeightGain": "빠른 체중 증가 (주 1kg)",
+  "calorieResultsTitle": "칼로리 필요량",
+  "caloriesPerDay": "칼로리/일",
+  "yourBMR": "기초 대사량 (BMR)",
+  "maintenanceCalories": "유지 칼로리",
+  "goalResultText": {
+    "maintainWeight": "체중 유지를 위해",
+    "mildWeightLoss": "가벼운 체중 감량을 위해",
+    "weightLoss": "체중 감량을 위해",
+    "extremeWeightLoss": "급격한 체중 감량을 위해",
+    "mildWeightGain": "가벼운 체중 증가를 위해",
+    "weightGain": "체중 증가를 위해",
+    "fastWeightGain": "빠른 체중 증가를 위해",
+    "sedentary": "좌식: 거의 또는 전혀 운동하지 않음",
+    "lightlyActive": "가벼운 활동: 주 1-3일 운동",
+    "moderatelyActive": "중간 활동: 주 3-5일 운동",
+    "veryActive": "매우 활동적: 주 6-7일 운동",
+    "extraActive": "매우 격렬한 활동: 격렬한 운동 및 육체 노동"
+  },
+  "macronutrientPlan": "다량 영양소 계획 선택",
+  "balanced": "균형 잡힌 식단 (탄수화물 40%, 단백질 30%, 지방 30%)",
+  "lowCarb": "저탄수화물 식단 (탄수화물 20%, 단백질 40%, 지방 40%)",
+  "highProtein": "고단백질 식단 (탄수화물 30%, 단백질 45%, 지방 25%)",
+  "macronutrients": "일일 다량 영양소",
+  "protein": "단백질",
+  "carbs": "탄수화물",
+  "fat": "지방",
+  "grams": "g",
+  "getMealPlan": "샘플 식단 받기",
+  "generatingMealPlan": "식단 계획 생성 중",
+  "mealPlanError": "죄송합니다. 현재 식단 계획을 생성할 수 없습니다. 나중에 다시 시도해 주세요.",
+  "mealPlanTitle": "하루 샘플 식단 계획",
+  "breakfast": "아침",
+  "lunch": "점심",
+  "dinner": "저녁",
+  "snacks": "간식",
+  "summaryTitle": "계산 요약",
+  "summaryYourProfile": "프로필",
+  "summaryYourResults": "결과",
+  "summaryCalculatedMealPlan": "계산된 식단 계획",
+  "printResults": "결과 인쇄",
+  "calorieShareResultTitle": "결과 공유하기",
+  "calorieShareResultText": "방금 제 하루 필요량을 계산했어요! 제 목표를 달성하려면 {calories} 칼로리, 단백질 {protein}g, 탄수화물 {carbs}g, 지방 {fat}g이 필요해요. 이 멋진 계산기를 확인해보세요!",
+  "errorNumber": "유효한 숫자를 입력하세요.",
+  "errorHeight": "유효한 키를 입력하세요 (최소 100cm / 3'3\").",
+  "errorWeight": "유효한 체중을 입력하세요 (최소 20kg / 45lbs).",
+  "errorAge": "유효한 나이를 입력하세요 (15-80세).",
+  "seoCalorieSections": [
+    {
+      "heading": "일일 칼로리 필요량 이해하기",
+      "paragraphs": [
+        "칼로리는 에너지 단위입니다. 영양학에서 칼로리는 사람들이 섭취하는 음식과 음료에서 얻는 에너지와 신체 활동에서 사용하는 에너지를 의미합니다. 체중 감량, 증가 또는 현재 체중 유지 등 체중 목표를 달성하기 위한 첫 번째 단계는 일일 칼로리 필요량을 이해하는 것입니다.",
+        "저희 계산기는 기초 대사량(BMR)을 결정하는 것으로 시작합니다. 이는 호흡, 순환, 세포 생성과 같은 기본적인 생명 유지 기능을 수행하기 위해 신체가 휴식 상태에서 필요로 하는 칼로리 수입니다. 저희는 이 계산에 널리 인정받는 미플린-세인트 제오 방정식을 사용합니다. 그런 다음 활동 수준을 고려하여 일일 총 에너지 소비량(TDEE)을 계산하는데, 이는 일일 칼로리 소모량의 더 정확한 추정치입니다."
+      ]
+    },
+    {
+      "heading": "목표 설정: 체중 감량, 증가 또는 유지",
+      "paragraphs": [
+        "TDEE(유지 칼로리)를 알게 되면 목표에 맞게 섭취량을 조절할 수 있습니다.",
+        "체중을 감량하려면 TDEE보다 적은 칼로리를 섭취하여 칼로리 부족 상태를 만들어야 합니다. 안전하고 지속 가능한 부족량은 일반적으로 주당 약 1파운드(0.5kg)를 감량하기 위해 하루에 약 500칼로리입니다.",
+        "체중을 늘리려면 TDEE보다 많은 칼로리를 섭취하여 칼로리 잉여 상태를 만들어야 합니다. 최소한의 지방 증가로 꾸준한 근육 증가를 위해서는 하루 300-500칼로리의 잉여가 좋은 출발점입니다.",
+        "체중을 유지하려면 TDEE와 동일한 양의 칼로리를 섭취하는 것을 목표로 해야 합니다."
+      ]
+    },
+    {
+      "heading": "다량 영양소는 어떤가요?",
+      "paragraphs": [
+        "칼로리는 단백질, 탄수화물, 지방의 세 가지 주요 다량 영양소에서 나옵니다. 이러한 '매크로'의 균형을 맞추는 것이 건강한 식단의 핵심입니다.",
+        "단백질은 근육을 포함한 조직을 만들고 복구하는 데 중요합니다.",
+        "탄수화물은 신체의 주요 에너지원입니다.",
+        "지방은 호르몬 생성과 비타민 흡수에 필수적입니다.",
+        "저희 계산기는 인기 있는 식단 계획에 따라 총 일일 칼로리를 단백질, 탄수화물, 지방의 그램 단위로 나누는 데 도움을 줍니다. 이는 건강 및 피트니스 목표에 부합하는 식사를 구성하기 위한 실용적인 틀을 제공합니다."
+      ]
+    }
+  ],
+  "seoTimeTitle": "시간 계산기 - 시간 더하기 및 빼기",
+  "seoTimeDescription": "시간을 쉽게 더하거나 뺄 수 있는 무료 온라인 도구입니다. 일, 시간, 분, 초를 정확하게 계산합니다. 프로젝트 관리, 시간 추적 및 일상 계산에 이상적입니다.",
+  "timeTitle": "시간 계산기",
+  "timeSubheading": "시간을 쉽게 더하거나 뺄 수 있습니다.",
+  "time1Label": "시간 1",
+  "time2Label": "시간 2",
+  "operationLabel": "연산",
+  "add": "더하기 (+)",
+  "subtract": "빼기 (-)",
+  "calculateTimeButton": "계산",
+  "resetButton": "초기화",
+  "resultLabel": "결과",
+  "hours": "시간",
+  "minutes": "분",
+  "seconds": "초",
+  "errorInvalidTime": "모든 시간 필드에 유효한 음수가 아닌 숫자를 입력하십시오.",
+  "seoTimeSections": [
+    {
+      "heading": "시간 계산기 사용법",
+      "paragraphs": [
+        "저희 시간 계산기는 시간 더하기와 빼기 과정을 단순화합니다. 근무 시간을 추적하든, 운동 세션을 기록하든, 이벤트를 계획하든, 이 도구는 빠르고 정확한 솔루션을 제공합니다. 두 개의 시간 기간을 입력하고 더할지 뺄지 선택한 다음 즉시 결과를 얻으십시오.",
+        "계산기는 시간을 일, 시간, 분, 초로 나눕니다. 빼기의 경우, 음수 결과를 피하기 위해 첫 번째 시간 기간이 두 번째 시간 기간보다 크거나 같은지 확인하십시오."
+      ]
+    },
+    {
+      "heading": "실용적인 응용",
+      "paragraphs": [
+        "이 도구는 매우 다재다능하며 다양한 시나리오에서 사용할 수 있습니다.",
+        "프로젝트 관리: 다양한 작업에 소요된 총 시간을 계산합니다.",
+        "항공 및 항법: 비행 시간 또는 이동 시간을 기록합니다.",
+        "비디오 편집: 클립 길이를 합산하거나 남은 시간을 계산합니다.",
+        "개인 시간 추적: 취미, 공부 또는 운동에 소요된 시간을 모니터링합니다."
+      ],
+      "list": [
+        "사용하기 쉬운 인터페이스.",
+        "일, 시간, 분, 초를 처리합니다.",
+        "즉각적이고 정확한 계산을 제공합니다."
+      ]
+    }
+  ],
+  "navHoursCalculator": "시간 계산기",
+  "homeHoursCalculatorDescription": "두 시간 사이의 기간을 시간과 분 단위로 계산합니다.",
+  "seoHoursTitle": "시간 계산기 - 두 시간 사이의 기간 계산",
+  "seoHoursDescription": "시작 시간과 종료 시간 사이의 시간 차이를 시간과 분 단위로 계산하는 무료 도구입니다. 근무 시간 및 활동 추적에 적합합니다.",
+  "hoursTitle": "시간 계산기",
+  "hoursSubheading": "시작 시간과 종료 시간 사이의 기간을 계산합니다.",
+  "startTimeLabel": "시작 시간",
+  "endTimeLabel": "종료 시간",
+  "hourLabel": "시",
+  "minuteLabel": "분",
+  "calculateHoursButton": "기간 계산",
+  "resultDurationLabel": "계산된 기간",
+  "resultInMinutes": "총 분",
+  "resultHours": "시간",
+  "resultMinutes": "분",
+  "seoHoursSections": [
+    {
+      "heading": "시간 계산기 사용법",
+      "paragraphs": [
+        "저희 시간 계산기는 두 시점 사이의 기간 계산을 단순화하도록 설계되었습니다. 근무 시간, 이벤트 기간 또는 작업에 소요된 시간을 계산하든 이 도구는 빠르고 정확한 결과를 제공합니다. 시작 시간과 종료 시간을 입력하기만 하면 계산기가 나머지 작업을 수행하며 자정을 넘는 경우도 처리합니다."
+      ]
+    },
+    {
+      "heading": "실용적인 응용",
+      "paragraphs": [
+        "이 도구는 다양한 시나리오에서 매우 유용합니다.",
+        "근무 시간 계산: 근무 시간표의 일일 또는 주간 근무 시간을 쉽게 계산합니다.",
+        "이벤트 계획: 회의, 약속 및 이벤트 기간을 결정합니다.",
+        "활동 추적: 취미, 공부 또는 운동에 소요되는 시간을 모니터링합니다."
+      ]
+    }
+  ]
+}

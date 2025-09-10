@@ -1,0 +1,414 @@
+{
+  "title": "Calculator",
+  "selectLanguage": "Select Language",
+  "days": "Days",
+  "weeks": "Weeks",
+  "navHome": "Home",
+  "navCalculator": "Age Calculator",
+  "navTimeAndDate": "Time & Date",
+  "navHealthCalculators": "Health Calculators",
+  "navPregnancyCalculator": "Pregnancy",
+  "navOvulationCalculator": "Ovulation",
+  "navMenstrualCycleCalculator": "Menstrual Cycle",
+  "navCalorieCalculator": "Calorie Calculator",
+  "navTimeCalculator": "Time Calculator",
+  "navAbout": "About",
+  "footerRights": "© {year} Calculator. All rights reserved.",
+  "footerPrivacyPolicy": "Privacy Policy",
+  "footerContactUs": "Contact Us",
+  "homeTitle": "Your All-in-One Calculator Hub",
+  "homeDescription": "From age to health metrics, find all the calculators you need in one place. Simple, fast, and accurate.",
+  "homeCTAText": "Calculate Your Age",
+  "homeBasicCalculatorTitle": "Basic Calculator",
+  "homeHealthCalculatorsTitle": "Explore Health Calculators",
+  "homePregnancyCalculatorDescription": "Estimate your due date and track your pregnancy journey.",
+  "homeOvulationCalculatorDescription": "Pinpoint your most fertile days to help with family planning.",
+  "homeMenstrualCycleCalculatorDescription": "Track your cycle and predict your next period with ease.",
+  "homeCalorieCalculatorDescription": "Calculate your daily calorie needs to meet your fitness goals.",
+  "homeTimeCalculatorDescription": "Add or subtract time durations for work, projects, or hobbies.",
+  "seoTitle": "Free Online Age Calculator - Calculate Your Age by Date of Birth",
+  "seoDescription": "Easily calculate your age in years, months, and days using our free and accurate online age calculator. Find out more about your birth date, including the day of the week and your next birthday countdown. Supports multiple languages.",
+  "seoKeywords": "age calculator, calculate age, date of birth calculator, how old am i, online age calculator, birthday calculator, free age calculator",
+  "h1": "Online Age Calculator",
+  "h2": "Enter Your Date of Birth",
+  "dateOfBirthLabel": "Date of Birth",
+  "dayLabel": "Day",
+  "monthLabel": "Month",
+  "yearLabel": "Year",
+  "calculateButton": "Calculate Age",
+  "errorInvalidDate": "Please enter a valid date.",
+  "errorFutureDate": "Date of birth cannot be in the future.",
+  "resultPrefix": "You are",
+  "resultSuffix": "old.",
+  "years": "Years",
+  "months": "Months",
+  "moreInfoTitle": "More About Your Birthday",
+  "dayOfWeekLabel": "Day of the week you were born on",
+  "seasonLabel": "Season of your birth (Northern Hemisphere)",
+  "nextBirthdayLabel": "Days until your next birthday",
+  "shareResultTitle": "Share Your Result",
+  "shareResultText": "I just found out I am {years} years, {months} months, and {days} days old using this cool age calculator!",
+  "copyResultButton": "Copy result text",
+  "resultCopiedTooltip": "Copied!",
+  "calendarType": "Calendar Type",
+  "gregorian": "Gregorian",
+  "hijri": "Hijri",
+  "monthsArray": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+  "hijriMonthsArray": ["Muharram", "Safar", "Rabi' al-awwal", "Rabi' al-thani", "Jumada al-ula", "Jumada al-akhirah", "Rajab", "Sha'ban", "Ramadan", "Shawwal", "Dhu al-Qi'dah", "Dhu al-Hijjah"],
+  "daysOfWeekArray": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+  "seasonsArray": ["Winter", "Spring", "Summer", "Autumn"],
+  "seoSections": [
+    {
+      "heading": "How Our Age Calculator Works",
+      "paragraphs": [
+        "Our Age Calculator computes your age with high precision by comparing your date of birth to the current date. The tool calculates the total elapsed time and breaks it down into years, months, and days. It accounts for leap years to provide an accurate result, making it a reliable tool for anyone asking 'how old am i?'. Simply enter your birthdate, and the calculator instantly displays your chronological age."
+      ]
+    },
+    {
+      "heading": "Why Use an Online Age Calculator?",
+      "paragraphs": [
+        "While calculating your age in years is straightforward, finding the exact number of months and days can be tricky. An online age calculator simplifies this process, providing instant and accurate results. It's useful for:",
+        "Filling out forms and applications that require your exact age.",
+        "Planning birthday celebrations and milestones.",
+        "Genealogy research and creating family timelines.",
+        "Simply satisfying your curiosity about your age in detailed terms."
+      ],
+      "list": [
+        "Accuracy: Eliminates manual calculation errors, especially with leap years.",
+        "Speed: Get your age in seconds.",
+        "Convenience: Accessible anytime, anywhere, on any device."
+      ]
+    }
+  ],
+  "shareTitle": "Share this Calculator",
+  "copyLinkButton": "Copy Link",
+  "copiedTooltip": "Copied!",
+  "aboutTitle": "About Us",
+  "aboutHeading": "Our Mission",
+  "aboutContent": [
+    "Welcome to Calculator, your go-to destination for a wide range of free, easy-to-use online calculators. Our mission is to provide simple, fast, and reliable tools that make everyday calculations effortless for everyone.",
+    "We started with a simple Age Calculator and have since expanded to include various health and general-purpose calculators. We believe in making information accessible and have translated our tools into numerous languages to serve a global audience.",
+    "Our team is dedicated to accuracy and user experience. We are constantly working to improve our existing tools and develop new ones to meet your needs. Thank you for choosing Calculator!"
+  ],
+  "privacyTitle": "Privacy Policy",
+  "privacyHeading": "Your privacy is important to us.",
+  "privacyContent": [
+    {
+      "heading": "1. Information We Collect",
+      "paragraphs": ["We do not collect or store any personal data you enter into our calculators. All calculations are performed directly in your browser and are not sent to our servers. Your date of birth or any other information is never recorded."]
+    },
+    {
+      "heading": "2. Cookies and Analytics",
+      "paragraphs": ["We may use anonymous analytics tools to understand how our website is used. This helps us improve the user experience. This data is aggregated and cannot be used to identify individual users. We do not use tracking cookies."]
+    },
+    {
+      "heading": "3. Third-Party Services",
+      "paragraphs": ["This website does not integrate with any third-party services that would compromise your privacy. We do not share any data with third parties."]
+    }
+  ],
+  "contactTitle": "Contact Us",
+  "contactHeading": "Get in Touch",
+  "contactIntro": "Have questions, feedback, or suggestions? We'd love to hear from you. Please send us an email and we'll get back to you as soon as possible.",
+  "contactEmail": "support@multicalculator.com",
+  "seoPregnancyTitle": "Free Pregnancy Due Date Calculator",
+  "seoPregnancyDescription": "Calculate your estimated due date based on your last menstrual period (LMP), conception date, or IVF transfer date. Get key pregnancy milestones.",
+  "pregnancyTitle": "Pregnancy Due Date Calculator",
+  "pregnancySubheading": "Estimate your baby's due date and key pregnancy milestones.",
+  "calculationMethodLabel": "Calculate based on:",
+  "lmpMethod": "Last Period",
+  "conceptionMethod": "Conception",
+  "ivfMethod": "IVF",
+  "lmpDateLabel": "First Day of Last Menstrual Period (LMP)",
+  "conceptionDateLabel": "Date of Conception",
+  "transferDateLabel": "IVF Transfer Date",
+  "ivfCycleTypeLabel": "Transfer Type",
+  "day3Transfer": "Day 3 Embryo",
+  "day5Transfer": "Day 5 Blastocyst",
+  "calculateDueDateButton": "Calculate Due Date",
+  "pregnancyHeading": "Your Pregnancy Timeline",
+  "dueDateResultLabel": "Estimated Due Date",
+  "gestationalAgeResultLabel": "Current Gestational Age",
+  "trimesterResultLabel": "Current Trimester",
+  "trimester1": "First Trimester",
+  "trimester2": "Second Trimester",
+  "trimester3": "Third Trimester",
+  "seoPregnancySections": [
+    {
+      "heading": "How Our Due Date Calculator Works",
+      "paragraphs": [
+        "Our Pregnancy Due Date Calculator estimates your expected delivery date using several methods. The most common method is based on the first day of your last menstrual period (LMP). This approach, known as Naegele's rule, adds 280 days (40 weeks) to your LMP to predict the due date. We also offer calculations based on the date of conception or your IVF transfer date for greater accuracy, especially if you have irregular cycles or know the exact date of conception.",
+        "It's important to remember that this date is an estimate. Only about 5% of babies are born on their exact due date. This tool provides a reliable guideline to help you and your healthcare provider plan for your baby's arrival."
+      ],
+      "list": [
+        "LMP Method: The standard calculation based on a 28-day cycle.",
+        "Conception Date Method: More precise if you know the exact date of conception.",
+        "IVF Method: Tailored for IVF pregnancies, based on the embryo transfer date and age."
+      ]
+    },
+    {
+      "heading": "Understanding Your Pregnancy Timeline: Trimesters and Milestones",
+      "paragraphs": [
+        "A full-term pregnancy is divided into three trimesters, each with unique fetal development milestones. Our calculator not only provides a due date but also helps you understand where you are in this journey by calculating your current gestational age.",
+        "The First Trimester (Weeks 1-13) is a critical period of development for your baby's organs. The Second Trimester (Weeks 14-27) is often called the 'golden period' as many early pregnancy symptoms subside, and you may begin to feel your baby move. The Third Trimester (Weeks 28-40+) is focused on rapid growth and weight gain for the baby as they prepare for birth. Regular prenatal care throughout these stages is essential for a healthy pregnancy."
+      ]
+    }
+  ],
+  "seoOvulationTitle": "Free Ovulation & Fertile Window Calculator",
+  "seoOvulationDescription": "Estimate your ovulation date and most fertile days based on your last menstrual period and cycle length. Plan your pregnancy with our accurate calculator.",
+  "ovulationTitle": "Ovulation Calculator",
+  "ovulationSubheading": "Predict your most fertile days for a better chance of conception.",
+  "lmpDateLabelOvulation": "First Day of Last Menstrual Period",
+  "cycleLengthLabel": "Average Cycle Length",
+  "calculateOvulationButton": "Calculate Ovulation",
+  "ovulationHeading": "Your Fertile Window",
+  "resultOvulationDate": "Estimated Ovulation Date",
+  "resultFertileWindow": "Most Fertile Window",
+  "fertileWindowDescription": "From {startDate} to {endDate}",
+  "resultNextPeriod": "Estimated Next Period Date",
+  "seoOvulationSections": [
+    {
+      "heading": "How to Predict Your Most Fertile Days",
+      "paragraphs": [
+        "Our Ovulation Calculator is a simple tool designed to help you predict your most fertile days of the month. By entering the first day of your last menstrual period and your average cycle length, the calculator estimates your probable ovulation date. Ovulation is the release of an egg from your ovary, which typically happens about 14 days before your next period begins.",
+        "Your 'fertile window' includes the day of ovulation and the five days leading up to it. This is because sperm can survive in the female reproductive tract for up to five days. Having intercourse during this window significantly increases your chances of conception."
+      ],
+      "list": [
+        "Input Your Data: Start with your last period date and cycle length.",
+        "Get Your Estimate: The calculator identifies your key fertile days.",
+        "Plan Accordingly: Use this information to help with your family planning goals."
+      ]
+    },
+    {
+      "heading": "Beyond the Calculator: Other Signs of Ovulation",
+      "paragraphs": [
+        "While an ovulation calculator is a great starting point, your body also provides clues that ovulation is approaching. Combining the calculator's estimate with these physical signs can give you a more accurate picture of your fertile window. These signs include:",
+        "Changes in Cervical Mucus: As you approach ovulation, your cervical mucus may become clearer, thinner, and more slippery, resembling the consistency of egg whites.",
+        "Basal Body Temperature (BBT): Tracking your BBT daily can show a slight but sustained temperature increase after ovulation has occurred.",
+        "Ovulation Predictor Kits (OPKs): These over-the-counter kits detect the surge in luteinizing hormone (LH) that happens 24-36 hours before ovulation."
+      ]
+    }
+  ],
+  "seoMenstrualTitle": "Menstrual Cycle & Period Calculator",
+  "seoMenstrualDescription": "Track your menstrual cycle and predict your next period dates with our simple and free online calculator.",
+  "menstrualCycleTitle": "Menstrual Cycle Calculator",
+  "menstrualCycleSubheading": "Predict your next period with this easy-to-use calculator.",
+  "calculateMenstrualButton": "Calculate Next Period",
+  "menstrualCycleHeading": "Your Next Period Dates",
+  "resultNextPeriod1": "Next Estimated Period",
+  "resultNextPeriod2": "Following Estimated Period",
+  "seoMenstrualSections": [
+    {
+      "heading": "How Our Period Calculator Works",
+      "paragraphs": [
+        "Our Menstrual Cycle Calculator helps you predict the start date of your next period with just two pieces of information: the first day of your last period and the average length of your menstrual cycle. By adding your average cycle length to your last period's start date, the tool provides an estimated date for your next two periods.",
+        "Tracking your cycle is about more than just convenience; it's a key indicator of your overall health. Regular, predictable cycles often signify that your body's hormones are functioning correctly."
+      ],
+      "list": [
+        "Simple Inputs: Enter your last period start date and cycle length.",
+        "Instant Predictions: Immediately see estimated dates for your next periods.",
+        "Plan Ahead: Use the predictions to plan for events, vacations, or simply be prepared."
+      ]
+    },
+    {
+      "heading": "Understanding Your Menstrual Cycle",
+      "paragraphs": [
+        "A menstrual cycle is counted from the first day of one period to the first day of the next. While the average cycle is 28 days long, cycles ranging from 21 to 35 days are also considered normal for adults. Many factors can influence the length and regularity of your cycle, including stress, diet, exercise, and certain health conditions.",
+        "If your cycles are consistently irregular, much shorter or longer than the normal range, or if you experience severe pain, it's a good idea to consult a healthcare provider. Our calculator works best for those with relatively regular cycles but can still provide a useful estimate for others."
+      ]
+    }
+  ],
+  "seoCalorieTitle": "Free Calorie Calculator - TDEE & BMR",
+  "seoCalorieDescription": "Calculate your daily calorie needs for weight loss, maintenance, or gain. Find your BMR and TDEE, and get personalized macronutrient targets.",
+  "calorieTitle": "Calorie Calculator",
+  "calorieSubheading": "Calculate your daily needs to achieve your weight goals.",
+  "step": "Step",
+  "stepOf": "of",
+  "step1_personalia": "Your Profile",
+  "step2_activity": "Activity Level",
+  "step3_goal": "Your Goal",
+  "step4_results": "Calorie Results",
+  "step5_macros": "Macronutrient Plan",
+  "step6_macro_results": "Macro Results",
+  "step7_meal_plan": "Sample Meal Plan",
+  "step8_summary": "Summary",
+  "nextButton": "Next",
+  "backButton": "Back",
+  "calculateCaloriesButton": "Calculate Calories",
+  "recalculate": "Recalculate",
+  "unitSystemLabel": "Unit System",
+  "metric": "Metric",
+  "imperial": "Imperial",
+  "genderLabel": "Gender",
+  "male": "Male",
+  "female": "Female",
+  "ageLabel": "Age",
+  "ageUnit": "years",
+  "heightLabel": "Height",
+  "weightLabel": "Weight",
+  "cm": "cm",
+  "ft": "ft",
+  "in": "in",
+  "kg": "kg",
+  "lbs": "lbs",
+  "activityLevelLabel": "How active are you?",
+  "sedentary": "Sedentary: little or no exercise",
+  "lightlyActive": "Lightly active: exercise 1-3 days/week",
+  "moderatelyActive": "Moderately active: exercise 3-5 days/week",
+  "veryActive": "Very active: exercise 6-7 days/week",
+  "extraActive": "Extra active: very hard exercise & physical job",
+  "goalLabel": "What is your primary goal?",
+  "maintainWeight": "Maintain current weight",
+  "mildWeightLoss": "Mild weight loss (0.25 kg/week)",
+  "weightLoss": "Weight loss (0.5 kg/week)",
+  "extremeWeightLoss": "Extreme weight loss (1 kg/week)",
+  "mildWeightGain": "Mild weight gain (0.25 kg/week)",
+  "weightGain": "Weight gain (0.5 kg/week)",
+  "fastWeightGain": "Fast weight gain (1 kg/week)",
+  "calorieResultsTitle": "Your Calorie Needs",
+  "caloriesPerDay": "Calories/day",
+  "yourBMR": "Basal Metabolic Rate (BMR)",
+  "bmrDescription": "The calories your body needs at rest.",
+  "maintenanceCalories": "Maintenance Calories",
+  "goalResultText": {
+    "maintainWeight": "To maintain your weight",
+    "mildWeightLoss": "For mild weight loss",
+    "weightLoss": "For weight loss",
+    "extremeWeightLoss": "For extreme weight loss",
+    "mildWeightGain": "For mild weight gain",
+    "weightGain": "For weight gain",
+    "fastWeightGain": "For fast weight gain",
+    "sedentary": "Sedentary: little or no exercise",
+    "lightlyActive": "Lightly active: exercise 1-3 days/week",
+    "moderatelyActive": "Moderately active: exercise 3-5 days/week",
+    "veryActive": "Very active: exercise 6-7 days/week",
+    "extraActive": "Extra active: very hard exercise & physical job"
+  },
+  "macronutrientPlan": "Choose a Macronutrient Plan",
+  "balanced": "Balanced (40% Carbs, 30% Protein, 30% Fat)",
+  "lowCarb": "Low Carb (20% Carbs, 40% Protein, 40% Fat)",
+  "highProtein": "High Protein (30% Carbs, 45% Protein, 25% Fat)",
+  "macronutrients": "Daily Macronutrients",
+  "protein": "Protein",
+  "carbs": "Carbs",
+  "fat": "Fat",
+  "grams": "g",
+  "getMealPlan": "Get Sample Meal Plan",
+  "generatingMealPlan": "Generating Meal Plan",
+  "mealPlanError": "Sorry, we couldn't generate a meal plan at this time. Please try again later.",
+  "mealPlanTitle": "Your Sample One-Day Meal Plan",
+  "breakfast": "Breakfast",
+  "lunch": "Lunch",
+  "dinner": "Dinner",
+  "snacks": "Snacks",
+  "summaryTitle": "Calculation Summary",
+  "summaryYourProfile": "Your Profile",
+  "summaryYourResults": "Your Results",
+  "summaryCalculatedMealPlan": "Calculated Meal Plan",
+  "printResults": "Print Results",
+  "calorieShareResultTitle": "Share Your Results",
+  "calorieShareResultText": "I just calculated my daily needs! To reach my goal, I need {calories} calories, with {protein}g protein, {carbs}g carbs, and {fat}g fat. Check out this awesome calculator!",
+  "errorNumber": "Please enter a valid number.",
+  "errorHeight": "Please enter a valid height (min 100cm / 3'3\").",
+  "errorWeight": "Please enter a valid weight (min 20kg / 45lbs).",
+  "errorAge": "Please enter a valid age (15-80).",
+  "seoCalorieSections": [
+    {
+      "heading": "Understanding Your Daily Calorie Needs",
+      "paragraphs": [
+        "A calorie is a unit of energy. In nutrition, calories refer to the energy people get from the food and drink they consume, and the energy they use in physical activity. Understanding your daily calorie needs is the first step towards achieving your weight goals, whether it's losing, gaining, or maintaining your current weight.",
+        "Our calculator starts by determining your Basal Metabolic Rate (BMR), which is the number of calories your body needs to perform basic life-sustaining functions at rest, such as breathing, circulation, and cell production. We use the widely accepted Mifflin-St Jeor equation for this calculation. Then, we factor in your activity level to calculate your Total Daily Energy Expenditure (TDEE), which is a more accurate estimate of your daily calorie burn."
+      ]
+    },
+    {
+      "heading": "Setting Goals: Weight Loss, Gain, or Maintenance",
+      "paragraphs": [
+        "Once you know your TDEE (maintenance calories), you can adjust your intake to meet your goals:",
+        "To lose weight, you need to consume fewer calories than your TDEE, creating a calorie deficit. A safe and sustainable deficit is typically around 500 calories per day to lose about 1 pound (0.5 kg) per week.",
+        "To gain weight, you need to consume more calories than your TDEE, creating a calorie surplus. A surplus of 300-500 calories per day is a good starting point for steady muscle gain with minimal fat gain.",
+        "To maintain your weight, you should aim to consume a number of calories equal to your TDEE."
+      ]
+    },
+    {
+      "heading": "What About Macronutrients?",
+      "paragraphs": [
+        "Calories come from three main macronutrients: protein, carbohydrates, and fat. Balancing these 'macros' is key to a healthy diet.",
+        "Protein is crucial for building and repairing tissues, including muscle.",
+        "Carbohydrates are your body's primary source of energy.",
+        "Fats are essential for hormone production and absorbing vitamins.",
+        "Our calculator helps you break down your total daily calories into grams of protein, carbs, and fat based on popular dietary plans. This gives you a practical framework for building meals that align with your health and fitness objectives."
+      ]
+    }
+  ],
+  "seoTimeTitle": "Time Calculator - Add and Subtract Time Durations",
+  "seoTimeDescription": "A free online tool to easily add or subtract time durations. Calculate days, hours, minutes, and seconds with precision. Ideal for project management, time tracking, and everyday calculations.",
+  "timeTitle": "Time Calculator",
+  "timeSubheading": "Add or subtract time durations with ease.",
+  "time1Label": "Time 1",
+  "time2Label": "Time 2",
+  "operationLabel": "Operation",
+  "add": "Add (+)",
+  "subtract": "Subtract (-)",
+  "calculateTimeButton": "Calculate",
+  "resetButton": "Reset",
+  "resultLabel": "Result",
+  "hours": "Hours",
+  "minutes": "Minutes",
+  "seconds": "Seconds",
+  "errorInvalidTime": "Please enter a valid, non-negative number for all time fields.",
+  "seoTimeSections": [
+    {
+      "heading": "How to Use the Time Calculator",
+      "paragraphs": [
+        "Our Time Calculator simplifies the process of adding and subtracting time. Whether you're tracking work hours, logging exercise sessions, or planning an event, this tool provides a quick and accurate solution. Simply input two time durations, select whether to add or subtract them, and get the result instantly.",
+        "The calculator breaks down time into days, hours, minutes, and seconds. For subtraction, ensure the first time duration is greater than or equal to the second to avoid negative results."
+      ]
+    },
+    {
+      "heading": "Practical Applications",
+      "paragraphs": [
+        "This tool is incredibly versatile and can be used in various scenarios:",
+        "Project Management: Calculate the total time spent on different tasks.",
+        "Aviation and Navigation: Log flight times or travel durations.",
+        "Video Editing: Sum up clip lengths or calculate remaining time.",
+        "Personal Time Tracking: Monitor time spent on hobbies, studying, or exercise."
+      ],
+      "list": [
+        "Easy to use interface.",
+        "Handles days, hours, minutes, and seconds.",
+        "Provides instant, precise calculations."
+      ]
+    }
+  ],
+  "navHoursCalculator": "Hours Calculator",
+  "homeHoursCalculatorDescription": "Calculate the duration between two times in hours and minutes.",
+  "seoHoursTitle": "Hours Calculator - Calculate Duration Between Two Times",
+  "seoHoursDescription": "A free tool to calculate the time difference between a start and end time in hours and minutes. Perfect for work hours and activity tracking.",
+  "hoursTitle": "Hours Calculator",
+  "hoursSubheading": "Calculate the duration between a start time and an end time.",
+  "startTimeLabel": "Start Time",
+  "endTimeLabel": "End Time",
+  "hourLabel": "Hour",
+  "minuteLabel": "Minute",
+  "calculateHoursButton": "Calculate Duration",
+  "resultDurationLabel": "Calculated Duration",
+  "resultInMinutes": "in total minutes",
+  "resultHours": "hours",
+  "resultMinutes": "minutes",
+  "seoHoursSections": [
+    {
+      "heading": "How to Use the Hours Calculator",
+      "paragraphs": [
+        "Our Hours Calculator is designed to simplify calculating the duration between two points in time. Whether you're figuring out work hours, an event's duration, or time spent on a task, this tool provides a quick and accurate result. Simply input the start and end times, and the calculator will do the rest, handling cases that cross over midnight."
+      ]
+    },
+    {
+      "heading": "Practical Applications",
+      "paragraphs": [
+        "This tool is extremely useful in various scenarios:",
+        "Calculating Work Hours: Easily figure out daily or weekly work hours for timesheets.",
+        "Event Planning: Determine the duration of meetings, appointments, and events.",
+        "Activity Tracking: Monitor the time you spend on hobbies, studies, or exercise."
+      ]
+    }
+  ]
+}

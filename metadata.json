@@ -1,0 +1,5 @@
+{
+  "name": "Calculator",
+  "description": "An all-in-one hub for various calculators, including age, health, and more. Simple, fast, and accurate, available in multiple languages.",
+  "requestFramePermissions": []
+}

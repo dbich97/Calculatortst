@@ -1,0 +1,414 @@
+{
+  "title": "Rekenmachine",
+  "selectLanguage": "Selecteer Taal",
+  "days": "Dagen",
+  "weeks": "Weken",
+  "navHome": "Home",
+  "navCalculator": "Leeftijdscalculator",
+  "navTimeAndDate": "Tijd & Datum",
+  "navHealthCalculators": "Gezondheidscalculators",
+  "navPregnancyCalculator": "Zwangerschap",
+  "navOvulationCalculator": "Ovulatie",
+  "navMenstrualCycleCalculator": "Menstruatiecyclus",
+  "navCalorieCalculator": "Caloriecalculator",
+  "navTimeCalculator": "Tijdcalculator",
+  "navAbout": "Over ons",
+  "footerRights": "© {year} Rekenmachine. Alle rechten voorbehouden.",
+  "footerPrivacyPolicy": "Privacybeleid",
+  "footerContactUs": "Contacteer ons",
+  "homeTitle": "Jouw Alles-in-Één Rekenmachine Hub",
+  "homeDescription": "Van leeftijd tot gezondheidsstatistieken, vind alle rekenmachines die je nodig hebt op één plek. Eenvoudig, snel en nauwkeurig.",
+  "homeCTAText": "Bereken Je Leeftijd",
+  "homeBasicCalculatorTitle": "Basis Rekenmachine",
+  "homeHealthCalculatorsTitle": "Ontdek Gezondheidscalculators",
+  "homePregnancyCalculatorDescription": "Schat je uitgerekende datum en volg je zwangerschapsreis.",
+  "homeOvulationCalculatorDescription": "Bepaal je meest vruchtbare dagen om te helpen bij gezinsplanning.",
+  "homeMenstrualCycleCalculatorDescription": "Volg je cyclus en voorspel eenvoudig je volgende menstruatie.",
+  "homeCalorieCalculatorDescription": "Bereken je dagelijkse caloriebehoefte om je fitnessdoelen te bereiken.",
+  "homeTimeCalculatorDescription": "Tel tijdsduren op of trek ze af voor werk, projecten of hobby's.",
+  "seoTitle": "Gratis Online Leeftijdscalculator - Bereken Je Leeftijd op Geboortedatum",
+  "seoDescription": "Bereken eenvoudig je leeftijd in jaren, maanden en dagen met onze gratis en nauwkeurige online leeftijdscalculator. Ontdek meer over je geboortedatum, inclusief de dag van de week en de aftelling tot je volgende verjaardag. Ondersteunt meerdere talen.",
+  "seoKeywords": "leeftijdscalculator, leeftijd berekenen, geboortedatum calculator, hoe oud ben ik, online leeftijdscalculator, verjaardagscalculator, gratis leeftijdscalculator",
+  "h1": "Online Leeftijdscalculator",
+  "h2": "Voer Je Geboortedatum In",
+  "dateOfBirthLabel": "Geboortedatum",
+  "dayLabel": "Dag",
+  "monthLabel": "Maand",
+  "yearLabel": "Jaar",
+  "calculateButton": "Bereken Leeftijd",
+  "errorInvalidDate": "Voer een geldige datum in.",
+  "errorFutureDate": "Geboortedatum kan niet in de toekomst liggen.",
+  "resultPrefix": "Je bent",
+  "resultSuffix": "oud.",
+  "years": "Jaar",
+  "months": "Maanden",
+  "moreInfoTitle": "Meer Over Jouw Verjaardag",
+  "dayOfWeekLabel": "Dag van de week waarop je geboren bent",
+  "seasonLabel": "Seizoen van je geboorte (Noordelijk halfrond)",
+  "nextBirthdayLabel": "Dagen tot je volgende verjaardag",
+  "shareResultTitle": "Deel Je Resultaat",
+  "shareResultText": "Ik heb net ontdekt dat ik {years} jaar, {months} maanden en {days} dagen oud ben met deze coole leeftijdscalculator!",
+  "copyResultButton": "Kopieer resultaat",
+  "resultCopiedTooltip": "Gekopieerd!",
+  "calendarType": "Kalendertype",
+  "gregorian": "Gregoriaans",
+  "hijri": "Hijri",
+  "monthsArray": ["Januari", "Februari", "Maart", "April", "Mei", "Juni", "Juli", "Augustus", "September", "Oktober", "November", "December"],
+  "hijriMonthsArray": ["Muharram", "Safar", "Rabi' al-awwal", "Rabi' al-thani", "Jumada al-ula", "Jumada al-akhirah", "Rajab", "Sha'ban", "Ramadan", "Shawwal", "Dhu al-Qi'dah", "Dhu al-Hijjah"],
+  "daysOfWeekArray": ["Zondag", "Maandag", "Dinsdag", "Woensdag", "Donderdag", "Vrijdag", "Zaterdag"],
+  "seasonsArray": ["Winter", "Lente", "Zomer", "Herfst"],
+  "seoSections": [
+    {
+      "heading": "Hoe Onze Leeftijdscalculator Werkt",
+      "paragraphs": [
+        "Onze Leeftijdscalculator berekent uw leeftijd met hoge precisie door uw geboortedatum te vergelijken met de huidige datum. De tool berekent de totale verstreken tijd en splitst deze op in jaren, maanden en dagen. Het houdt rekening met schrikkeljaren om een nauwkeurig resultaat te geven, waardoor het een betrouwbaar hulpmiddel is voor iedereen die zich afvraagt 'hoe oud ben ik?'. Voer gewoon uw geboortedatum in en de calculator toont onmiddellijk uw chronologische leeftijd."
+      ]
+    },
+    {
+      "heading": "Waarom een Online Leeftijdscalculator Gebruiken?",
+      "paragraphs": [
+        "Hoewel het berekenen van uw leeftijd in jaren eenvoudig is, kan het vinden van het exacte aantal maanden en dagen lastig zijn. Een online leeftijdscalculator vereenvoudigt dit proces en levert onmiddellijke en nauwkeurige resultaten. Het is handig voor:",
+        "Het invullen van formulieren en aanvragen die uw exacte leeftijd vereisen.",
+        "Het plannen van verjaardagsvieringen en mijlpalen.",
+        "Genealogisch onderzoek en het maken van familietijdlijnen.",
+        "Gewoon uw nieuwsgierigheid bevredigen over uw leeftijd in gedetailleerde termen."
+      ],
+      "list": [
+        "Nauwkeurigheid: Elimineert handmatige berekeningsfouten, vooral met schrikkeljaren.",
+        "Snelheid: Krijg uw leeftijd in seconden.",
+        "Gemak: Altijd, overal en op elk apparaat toegankelijk."
+      ]
+    }
+  ],
+  "shareTitle": "Deel deze Calculator",
+  "copyLinkButton": "Kopieer Link",
+  "copiedTooltip": "Gekopieerd!",
+  "aboutTitle": "Over Ons",
+  "aboutHeading": "Onze Missie",
+  "aboutContent": [
+    "Welkom bij Rekenmachine, uw bestemming voor een breed scala aan gratis, gebruiksvriendelijke online rekenmachines. Onze missie is om eenvoudige, snelle en betrouwbare tools te bieden die dagelijkse berekeningen voor iedereen moeiteloos maken.",
+    "We zijn begonnen met een eenvoudige Leeftijdscalculator en zijn sindsdien uitgebreid met diverse gezondheids- en algemene rekenmachines. Wij geloven in het toegankelijk maken van informatie en hebben onze tools in tal van talen vertaald om een wereldwijd publiek te bedienen.",
+    "Ons team is toegewijd aan nauwkeurigheid en gebruikerservaring. We werken voortdurend aan het verbeteren van onze bestaande tools en het ontwikkelen van nieuwe om aan uw behoeften te voldoen. Bedankt voor het kiezen van Rekenmachine!"
+  ],
+  "privacyTitle": "Privacybeleid",
+  "privacyHeading": "Jouw privacy is belangrijk voor ons.",
+  "privacyContent": [
+    {
+      "heading": "1. Informatie die we verzamelen",
+      "paragraphs": ["We verzamelen of slaan geen persoonlijke gegevens op die u in onze rekenmachines invoert. Alle berekeningen worden rechtstreeks in uw browser uitgevoerd en niet naar onze servers verzonden. Uw geboortedatum of andere informatie wordt nooit vastgelegd."]
+    },
+    {
+      "heading": "2. Cookies en Analyse",
+      "paragraphs": ["We kunnen anonieme analysetools gebruiken om te begrijpen hoe onze website wordt gebruikt. Dit helpt ons de gebruikerservaring te verbeteren. Deze gegevens worden geaggregeerd en kunnen niet worden gebruikt om individuele gebruikers te identificeren. We gebruiken geen trackingcookies."]
+    },
+    {
+      "heading": "3. Diensten van Derden",
+      "paragraphs": ["Deze website integreert niet met diensten van derden die uw privacy in gevaar zouden kunnen brengen. We delen geen gegevens met derden."]
+    }
+  ],
+  "contactTitle": "Contacteer Ons",
+  "contactHeading": "Neem Contact Op",
+  "contactIntro": "Heeft u vragen, feedback of suggesties? We horen graag van u. Stuur ons een e-mail en we nemen zo snel mogelijk contact met u op.",
+  "contactEmail": "ondersteuning@multirekenmachine.com",
+  "seoPregnancyTitle": "Gratis Zwangerschapsuitgerekende Datum Calculator",
+  "seoPregnancyDescription": "Bereken je geschatte uitgerekende datum op basis van je laatste menstruatie (LMP), conceptiedatum of IVF-transferdatum. Krijg belangrijke zwangerschapsmijlpalen.",
+  "pregnancyTitle": "Zwangerschapsuitgerekende Datum Calculator",
+  "pregnancySubheading": "Schat de uitgerekende datum van je baby en belangrijke zwangerschapsmijlpalen.",
+  "calculationMethodLabel": "Bereken op basis van:",
+  "lmpMethod": "Laatste Menstruatie",
+  "conceptionMethod": "Conceptie",
+  "ivfMethod": "IVF",
+  "lmpDateLabel": "Eerste Dag van Laatste Menstruatie (LMP)",
+  "conceptionDateLabel": "Conceptiedatum",
+  "transferDateLabel": "IVF-Transferdatum",
+  "ivfCycleTypeLabel": "Transfertype",
+  "day3Transfer": "Dag 3 Embryo",
+  "day5Transfer": "Dag 5 Blastocyst",
+  "calculateDueDateButton": "Bereken Uitgerekende Datum",
+  "pregnancyHeading": "Jouw Zwangerschapstijdlijn",
+  "dueDateResultLabel": "Geschatte Uitgerekende Datum",
+  "gestationalAgeResultLabel": "Huidige Zwangerschapsduur",
+  "trimesterResultLabel": "Huidig Trimester",
+  "trimester1": "Eerste Trimester",
+  "trimester2": "Tweede Trimester",
+  "trimester3": "Derde Trimester",
+  "seoPregnancySections": [
+    {
+      "heading": "Hoe onze Uitgerekende Datum Calculator Werkt",
+      "paragraphs": [
+        "Onze Zwangerschapsuitgerekende Datum Calculator schat uw verwachte bevallingsdatum met behulp van verschillende methoden. De meest voorkomende methode is gebaseerd op de eerste dag van uw laatste menstruatie (LMP). Deze aanpak, bekend als de regel van Naegele, voegt 280 dagen (40 weken) toe aan uw LMP om de uitgerekende datum te voorspellen. We bieden ook berekeningen op basis van de conceptiedatum of uw IVF-transferdatum voor grotere nauwkeurigheid, vooral als u onregelmatige cycli heeft of de exacte conceptiedatum weet.",
+        "Het is belangrijk te onthouden dat deze datum een schatting is. Slechts ongeveer 5% van de baby's wordt op hun exacte uitgerekende datum geboren. Deze tool biedt een betrouwbare richtlijn om u en uw zorgverlener te helpen bij het plannen van de komst van uw baby."
+      ],
+      "list": [
+        "LMP-methode: De standaardberekening op basis van een cyclus van 28 dagen.",
+        "Conceptiedatum-methode: Nauwkeuriger als u de exacte conceptiedatum weet.",
+        "IVF-methode: Op maat gemaakt voor IVF-zwangerschappen, gebaseerd op de embryotransferdatum en -leeftijd."
+      ]
+    },
+    {
+      "heading": "Uw Zwangerschapstijdlijn Begrijpen: Trimesters en Mijlpalen",
+      "paragraphs": [
+        "Een voldragen zwangerschap is verdeeld in drie trimesters, elk met unieke foetale ontwikkelingsmijlpalen. Onze calculator geeft niet alleen een uitgerekende datum, maar helpt u ook te begrijpen waar u zich in deze reis bevindt door uw huidige zwangerschapsduur te berekenen.",
+        "Het Eerste Trimester (weken 1-13) is een kritieke periode voor de ontwikkeling van de organen van uw baby. Het Tweede Trimester (weken 14-27) wordt vaak de 'gouden periode' genoemd, omdat veel vroege zwangerschapssymptomen afnemen en u uw baby misschien begint te voelen bewegen. Het Derde Trimester (weken 28-40+) is gericht op snelle groei en gewichtstoename van de baby terwijl deze zich voorbereidt op de geboorte. Regelmatige prenatale zorg tijdens al deze stadia is essentieel voor een gezonde zwangerschap."
+      ]
+    }
+  ],
+  "seoOvulationTitle": "Gratis Ovulatie & Vruchtbare Periode Calculator",
+  "seoOvulationDescription": "Schat je ovulatiedatum en meest vruchtbare dagen op basis van je laatste menstruatie en cycluslengte. Plan je zwangerschap met onze nauwkeurige calculator.",
+  "ovulationTitle": "Ovulatiecalculator",
+  "ovulationSubheading": "Voorspel je meest vruchtbare dagen voor een grotere kans op conceptie.",
+  "lmpDateLabelOvulation": "Eerste Dag van Laatste Menstruatie",
+  "cycleLengthLabel": "Gemiddelde Cycluslengte",
+  "calculateOvulationButton": "Bereken Ovulatie",
+  "ovulationHeading": "Jouw Vruchtbare Periode",
+  "resultOvulationDate": "Geschatte Ovulatiedatum",
+  "resultFertileWindow": "Meest Vruchtbare Periode",
+  "fertileWindowDescription": "Van {startDate} tot {endDate}",
+  "resultNextPeriod": "Geschatte Datum Volgende Menstruatie",
+  "seoOvulationSections": [
+    {
+      "heading": "Hoe u uw meest vruchtbare dagen kunt voorspellen",
+      "paragraphs": [
+        "Onze Ovulatiecalculator is een eenvoudig hulpmiddel dat is ontworpen om u te helpen uw meest vruchtbare dagen van de maand te voorspellen. Door de eerste dag van uw laatste menstruatie en uw gemiddelde cycluslengte in te voeren, schat de calculator uw waarschijnlijke ovulatiedatum. Ovulatie is het vrijkomen van een eicel uit uw eierstok, wat meestal ongeveer 14 dagen voor het begin van uw volgende menstruatie gebeurt.",
+        "Uw 'vruchtbare periode' omvat de dag van de ovulatie en de vijf dagen ervoor. Dit komt omdat sperma tot vijf dagen in het vrouwelijke voortplantingsstelsel kan overleven. Geslachtsgemeenschap tijdens deze periode verhoogt uw kansen op conceptie aanzienlijk."
+      ],
+      "list": [
+        "Voer uw gegevens in: Begin met de datum van uw laatste menstruatie en uw cycluslengte.",
+        "Krijg uw schatting: De calculator identificeert uw belangrijkste vruchtbare dagen.",
+        "Plan dienovereenkomstig: Gebruik deze informatie om te helpen bij uw gezinsplanningsdoelen."
+      ]
+    },
+    {
+      "heading": "Voorbij de calculator: andere tekenen van ovulatie",
+      "paragraphs": [
+        "Hoewel een ovulatiecalculator een goed uitgangspunt is, geeft uw lichaam ook aanwijzingen dat de ovulatie nadert. Het combineren van de schatting van de calculator met deze fysieke tekenen kan u een nauwkeuriger beeld geven van uw vruchtbare periode. Deze tekenen omvatten:",
+        "Veranderingen in baarmoederhalsslijm: Naarmate u de ovulatie nadert, kan uw baarmoederhalsslijm helderder, dunner en gladder worden, vergelijkbaar met de consistentie van eiwit.",
+        "Basale lichaamstemperatuur (BBT): Dagelijks uw BBT bijhouden kan een lichte maar aanhoudende temperatuurstijging laten zien nadat de ovulatie heeft plaatsgevonden.",
+        "Ovulatievoorspellingstests (OPK's): Deze vrij verkrijgbare tests detecteren de piek in het luteïniserend hormoon (LH) die 24-36 uur voor de ovulatie optreedt."
+      ]
+    }
+  ],
+  "seoMenstrualTitle": "Menstruatiecyclus & Ongesteldheid Calculator",
+  "seoMenstrualDescription": "Volg je menstruatiecyclus en voorspel je volgende menstruatiedata met onze eenvoudige en gratis online calculator.",
+  "menstrualCycleTitle": "Menstruatiecyclus Calculator",
+  "menstrualCycleSubheading": "Voorspel je volgende menstruatie met deze gebruiksvriendelijke calculator.",
+  "calculateMenstrualButton": "Bereken Volgende Menstruatie",
+  "menstrualCycleHeading": "Jouw Volgende Menstruatiedata",
+  "resultNextPeriod1": "Volgende Geschatte Menstruatie",
+  "resultNextPeriod2": "Daaropvolgende Geschatte Menstruatie",
+  "seoMenstrualSections": [
+    {
+      "heading": "Hoe onze menstruatiecalculator werkt",
+      "paragraphs": [
+        "Onze Menstruatiecyclus Calculator helpt u de startdatum van uw volgende menstruatie te voorspellen met slechts twee gegevens: de eerste dag van uw laatste menstruatie en de gemiddelde lengte van uw menstruatiecyclus. Door uw gemiddelde cycluslengte op te tellen bij de startdatum van uw laatste menstruatie, geeft de tool een geschatte datum voor uw volgende twee menstruaties.",
+        "Het bijhouden van uw cyclus is meer dan alleen gemak; het is een belangrijke indicator van uw algehele gezondheid. Regelmatige, voorspelbare cycli duiden er vaak op dat de hormonen van uw lichaam correct functioneren."
+      ],
+      "list": [
+        "Eenvoudige invoer: Voer de startdatum van uw laatste menstruatie en de cycluslengte in.",
+        "Directe voorspellingen: Zie onmiddellijk geschatte data voor uw volgende menstruaties.",
+        "Plan vooruit: Gebruik de voorspellingen om te plannen voor evenementen, vakanties of gewoon om voorbereid te zijn."
+      ]
+    },
+    {
+      "heading": "Uw menstruatiecyclus begrijpen",
+      "paragraphs": [
+        "Een menstruatiecyclus wordt geteld vanaf de eerste dag van de ene menstruatie tot de eerste dag van de volgende. Hoewel de gemiddelde cyclus 28 dagen lang is, worden cycli van 21 tot 35 dagen ook als normaal beschouwd voor volwassenen. Veel factoren kunnen de lengte en regelmaat van uw cyclus beïnvloeden, waaronder stress, dieet, lichaamsbeweging en bepaalde gezondheidsproblemen.",
+        "Als uw cycli consequent onregelmatig zijn, veel korter of langer dan het normale bereik, of als u hevige pijn ervaart, is het een goed idee om een zorgverlener te raadplegen. Onze calculator werkt het beste voor mensen met relatief regelmatige cycli, maar kan ook voor anderen een nuttige schatting geven."
+      ]
+    }
+  ],
+  "seoCalorieTitle": "Gratis Caloriecalculator - TDEE & BMR",
+  "seoCalorieDescription": "Bereken je dagelijkse caloriebehoefte voor gewichtsverlies, -behoud of -toename. Vind je BMR en TDEE en krijg gepersonaliseerde macronutriëntdoelen.",
+  "calorieTitle": "Caloriecalculator",
+  "calorieSubheading": "Bereken je dagelijkse behoeften om je gewichtsdoelen te bereiken.",
+  "step": "Stap",
+  "stepOf": "van",
+  "step1_personalia": "Jouw Profiel",
+  "step2_activity": "Activiteitsniveau",
+  "step3_goal": "Jouw Doel",
+  "step4_results": "Calorieresultaten",
+  "step5_macros": "Macronutriëntenplan",
+  "step6_macro_results": "Macroresultaten",
+  "step7_meal_plan": "Voorbeeld Maaltijdplan",
+  "step8_summary": "Samenvatting",
+  "nextButton": "Volgende",
+  "backButton": "Terug",
+  "calculateCaloriesButton": "Bereken Calorieën",
+  "recalculate": "Herberekenen",
+  "unitSystemLabel": "Eenheidssysteem",
+  "metric": "Metrisch",
+  "imperial": "Imperiaal",
+  "genderLabel": "Geslacht",
+  "male": "Man",
+  "female": "Vrouw",
+  "ageLabel": "Leeftijd",
+  "ageUnit": "jaar",
+  "heightLabel": "Lengte",
+  "weightLabel": "Gewicht",
+  "cm": "cm",
+  "ft": "ft",
+  "in": "in",
+  "kg": "kg",
+  "lbs": "lbs",
+  "activityLevelLabel": "Hoe actief ben je?",
+  "sedentary": "Zittend: weinig of geen lichaamsbeweging",
+  "lightlyActive": "Licht actief: 1-3 dagen/week lichaamsbeweging",
+  "moderatelyActive": "Matig actief: 3-5 dagen/week lichaamsbeweging",
+  "veryActive": "Zeer actief: 6-7 dagen/week lichaamsbeweging",
+  "extraActive": "Extra actief: zeer zware lichaamsbeweging & fysieke baan",
+  "goalLabel": "Wat is je hoofddoel?",
+  "maintainWeight": "Huidig gewicht behouden",
+  "mildWeightLoss": "Licht gewichtsverlies (0.25 kg/week)",
+  "weightLoss": "Gewichtsverlies (0.5 kg/week)",
+  "extremeWeightLoss": "Extreem gewichtsverlies (1 kg/week)",
+  "mildWeightGain": "Lichte gewichtstoename (0.25 kg/week)",
+  "weightGain": "Gewichtstoename (0.5 kg/week)",
+  "fastWeightGain": "Snelle gewichtstoename (1 kg/week)",
+  "calorieResultsTitle": "Jouw Caloriebehoefte",
+  "caloriesPerDay": "Calorieën/dag",
+  "yourBMR": "Basaal Metabolisme (BMR)",
+  "bmrDescription": "De calorieën die je lichaam in rust nodig heeft.",
+  "maintenanceCalories": "Onderhoudscalorieën",
+  "goalResultText": {
+    "maintainWeight": "Om je gewicht te behouden",
+    "mildWeightLoss": "Voor licht gewichtsverlies",
+    "weightLoss": "Voor gewichtsverlies",
+    "extremeWeightLoss": "Voor extreem gewichtsverlies",
+    "mildWeightGain": "Voor lichte gewichtstoename",
+    "weightGain": "Voor gewichtstoename",
+    "fastWeightGain": "Voor snelle gewichtstoename",
+    "sedentary": "Zittend: weinig of geen lichaamsbeweging",
+    "lightlyActive": "Licht actief: 1-3 dagen/week lichaamsbeweging",
+    "moderatelyActive": "Matig actief: 3-5 dagen/week lichaamsbeweging",
+    "veryActive": "Zeer actief: 6-7 dagen/week lichaamsbeweging",
+    "extraActive": "Extra actief: zeer zware lichaamsbeweging & fysieke baan"
+  },
+  "macronutrientPlan": "Kies een Macronutriëntenplan",
+  "balanced": "Gebalanceerd (40% Koolhydraten, 30% Eiwitten, 30% Vetten)",
+  "lowCarb": "Koolhydraatarm (20% Koolhydraten, 40% Eiwitten, 40% Vetten)",
+  "highProtein": "Eiwitrijk (30% Koolhydraten, 45% Eiwitten, 25% Vetten)",
+  "macronutrients": "Dagelijkse Macronutriënten",
+  "protein": "Eiwitten",
+  "carbs": "Koolhydraten",
+  "fat": "Vetten",
+  "grams": "g",
+  "getMealPlan": "Krijg Voorbeeld Maaltijdplan",
+  "generatingMealPlan": "Maaltijdplan genereren",
+  "mealPlanError": "Sorry, we konden op dit moment geen maaltijdplan genereren. Probeer het later opnieuw.",
+  "mealPlanTitle": "Jouw Voorbeeld Maaltijdplan voor Eén Dag",
+  "breakfast": "Ontbijt",
+  "lunch": "Lunch",
+  "dinner": "Diner",
+  "snacks": "Snacks",
+  "summaryTitle": "Berekeningsoverzicht",
+  "summaryYourProfile": "Jouw Profiel",
+  "summaryYourResults": "Jouw Resultaten",
+  "summaryCalculatedMealPlan": "Berekend Maaltijdplan",
+  "printResults": "Resultaten Afdrukken",
+  "calorieShareResultTitle": "Deel Je Resultaten",
+  "calorieShareResultText": "Ik heb zojuist mijn dagelijkse behoeften berekend! Om mijn doel te bereiken, heb ik {calories} calorieën nodig, met {protein}g eiwit, {carbs}g koolhydraten en {fat}g vet. Bekijk deze geweldige calculator!",
+  "errorNumber": "Voer een geldig getal in.",
+  "errorHeight": "Voer een geldige lengte in (min 100cm / 3'3\").",
+  "errorWeight": "Voer een geldig gewicht in (min 20kg / 45lbs).",
+  "errorAge": "Voer een geldige leeftijd in (15-80).",
+  "seoCalorieSections": [
+    {
+      "heading": "Uw dagelijkse caloriebehoefte begrijpen",
+      "paragraphs": [
+        "Een calorie is een eenheid van energie. In de voeding verwijzen calorieën naar de energie die mensen halen uit het voedsel en de dranken die ze consumeren, en de energie die ze gebruiken bij lichamelijke activiteit. Het begrijpen van uw dagelijkse caloriebehoefte is de eerste stap naar het bereiken van uw gewichtsdoelen, of het nu gaat om afvallen, aankomen of uw huidige gewicht behouden.",
+        "Onze calculator begint met het bepalen van uw basaal metabolisme (BMR), het aantal calorieën dat uw lichaam nodig heeft om in rust basale levensondersteunende functies uit te voeren, zoals ademhaling, bloedsomloop en celproductie. We gebruiken de algemeen aanvaarde Mifflin-St Jeor-vergelijking voor deze berekening. Vervolgens houden we rekening met uw activiteitenniveau om uw totale dagelijkse energieverbruik (TDEE) te berekenen, wat een nauwkeurigere schatting is van uw dagelijkse calorieverbranding."
+      ]
+    },
+    {
+      "heading": "Doelen stellen: gewichtsverlies, -toename of -behoud",
+      "paragraphs": [
+        "Zodra u uw TDEE (onderhoudscalorieën) kent, kunt u uw inname aanpassen aan uw doelen:",
+        "Om af te vallen, moet u minder calorieën consumeren dan uw TDEE, waardoor een calorietekort ontstaat. Een veilig en duurzaam tekort is doorgaans ongeveer 500 calorieën per dag om ongeveer 1 pond (0,5 kg) per week te verliezen.",
+        "Om aan te komen, moet u meer calorieën consumeren dan uw TDEE, waardoor een calorieoverschot ontstaat. Een overschot van 300-500 calorieën per dag is een goed uitgangspunt for gestage spiergroei met minimale vettoename.",
+        "Om uw gewicht te behouden, moet u proberen een aantal calorieën te consumeren dat gelijk is aan uw TDEE."
+      ]
+    },
+    {
+      "heading": "Hoe zit het met macronutriënten?",
+      "paragraphs": [
+        "Calorieën komen uit drie belangrijke macronutriënten: eiwitten, koolhydraten en vetten. Het balanceren van deze 'macro's' is de sleutel tot een gezond dieet.",
+        "Eiwit is cruciaal voor het opbouwen en herstellen van weefsels, inclusief spieren.",
+        "Koolhydraten zijn de primaire energiebron van uw lichaam.",
+        "Vetten zijn essentieel voor de hormoonproductie en het opnemen van vitaminen.",
+        "Onze calculator helpt u uw totale dagelijkse calorieën op te splitsen in grammen eiwit, koolhydraten en vet op basis van populaire dieetplannen. Dit geeft u een praktisch kader voor het samenstellen van maaltijden die aansluiten bij uw gezondheids- en fitnessdoelen."
+      ]
+    }
+  ],
+  "seoTimeTitle": "Tijdcalculator - Tijdsduren optellen en aftrekken",
+  "seoTimeDescription": "Een gratis online tool om eenvoudig tijdsduren op te tellen of af te trekken. Bereken dagen, uren, minuten en seconden met precisie. Ideaal voor projectmanagement, tijdregistratie en dagelijkse berekeningen.",
+  "timeTitle": "Tijdcalculator",
+  "timeSubheading": "Tel tijdsduren met gemak op of trek ze af.",
+  "time1Label": "Tijd 1",
+  "time2Label": "Tijd 2",
+  "operationLabel": "Bewerking",
+  "add": "Optellen (+)",
+  "subtract": "Aftrekken (-)",
+  "calculateTimeButton": "Berekenen",
+  "resetButton": "Reset",
+  "resultLabel": "Resultaat",
+  "hours": "Uren",
+  "minutes": "Minuten",
+  "seconds": "Seconden",
+  "errorInvalidTime": "Voer een geldig, niet-negatief getal in voor alle tijdvelden.",
+  "seoTimeSections": [
+    {
+      "heading": "Hoe de Tijdcalculator te gebruiken",
+      "paragraphs": [
+        "Onze Tijdcalculator vereenvoudigt het proces van het optellen en aftrekken van tijd. Of u nu werkuren bijhoudt, trainingssessies registreert of een evenement plant, deze tool biedt een snelle en nauwkeurige oplossing. Voer eenvoudig twee tijdsduren in, selecteer of u ze wilt optellen of aftrekken en krijg direct het resultaat.",
+        "De calculator splitst de tijd op in dagen, uren, minuten en seconden. Zorg er bij het aftrekken voor dat de eerste tijdsduur groter is dan of gelijk is aan de tweede om negatieve resultaten te voorkomen."
+      ]
+    },
+    {
+      "heading": "Praktische toepassingen",
+      "paragraphs": [
+        "Deze tool is ongelooflijk veelzijdig en kan in verschillende scenario's worden gebruikt:",
+        "Projectmanagement: Bereken de totale tijd die aan verschillende taken is besteed.",
+        "Luchtvaart en navigatie: Registreer vliegtijden of reisduren.",
+        "Videobewerking: Tel de lengtes van clips op of bereken de resterende tijd.",
+        "Persoonlijke tijdregistratie: Monitor de tijd die wordt besteed aan hobby's, studeren of sporten."
+      ],
+      "list": [
+        "Eenvoudig te gebruiken interface.",
+        "Verwerkt dagen, uren, minuten en seconden.",
+        "Biedt onmiddellijke, precieze berekeningen."
+      ]
+    }
+  ],
+  "navHoursCalculator": "Urencalculator",
+  "homeHoursCalculatorDescription": "Bereken de duur tussen twee tijdstippen in uren en minuten.",
+  "seoHoursTitle": "Urencalculator - Bereken de Duur Tussen Twee Tijdstippen",
+  "seoHoursDescription": "Een gratis tool om het tijdsverschil tussen een start- en eindtijd in uren en minuten te berekenen. Perfect voor werkuren en het bijhouden van activiteiten.",
+  "hoursTitle": "Urencalculator",
+  "hoursSubheading": "Bereken de duur tussen een starttijd en een eindtijd.",
+  "startTimeLabel": "Starttijd",
+  "endTimeLabel": "Eindtijd",
+  "hourLabel": "Uur",
+  "minuteLabel": "Minuut",
+  "calculateHoursButton": "Bereken Duur",
+  "resultDurationLabel": "Berekende Duur",
+  "resultInMinutes": "in totaal minuten",
+  "resultHours": "uren",
+  "resultMinutes": "minuten",
+  "seoHoursSections": [
+    {
+      "heading": "Hoe de Urencalculator te gebruiken",
+      "paragraphs": [
+        "Onze Urencalculator is ontworpen om het berekenen van de duur tussen twee tijdstippen te vereenvoudigen. Of u nu werkuren berekent, de duur van een evenement, of de tijd die aan een taak is besteed, deze tool biedt een snel en nauwkeurig resultaat. Voer eenvoudig de start- en eindtijden in, en de calculator doet de rest, en behandelt ook gevallen die over middernacht gaan."
+      ]
+    },
+    {
+      "heading": "Praktische toepassingen",
+      "paragraphs": [
+        "Deze tool is uiterst nuttig in verschillende scenario's:",
+        "Berekenen van Werkuren: Bereken eenvoudig dagelijkse of wekelijkse werkuren voor urenstaten.",
+        "Evenementenplanning: Bepaal de duur van vergaderingen, afspraken en evenementen.",
+        "Activiteiten volgen: Monitor de tijd die u besteedt aan hobby's, studies of lichaamsbeweging."
+      ]
+    }
+  ]
+}

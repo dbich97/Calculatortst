@@ -1,0 +1,415 @@
+
+{
+  "title": "Hesap Makinesi",
+  "selectLanguage": "Dil Seçin",
+  "days": "Gün",
+  "weeks": "Hafta",
+  "navHome": "Ana Sayfa",
+  "navCalculator": "Yaş Hesaplayıcı",
+  "navTimeAndDate": "Zaman ve Tarih",
+  "navHealthCalculators": "Sağlık Hesaplayıcıları",
+  "navPregnancyCalculator": "Gebelik",
+  "navOvulationCalculator": "Yumurtlama",
+  "navMenstrualCycleCalculator": "Adet Döngüsü",
+  "navCalorieCalculator": "Kalori Hesaplayıcı",
+  "navTimeCalculator": "Zaman Hesaplayıcı",
+  "navAbout": "Hakkında",
+  "footerRights": "© {year} Hesap Makinesi. Tüm hakları saklıdır.",
+  "footerPrivacyPolicy": "Gizlilik Politikası",
+  "footerContactUs": "Bize Ulaşın",
+  "homeTitle": "Hepsi Bir Arada Hesap Makinesi Merkeziniz",
+  "homeDescription": "Yaştan sağlık ölçümlerine, ihtiyacınız olan tüm hesap makinelerini tek bir yerde bulun. Basit, hızlı ve doğru.",
+  "homeCTAText": "Yaşınızı Hesaplayın",
+  "homeBasicCalculatorTitle": "Basit Hesap Makinesi",
+  "homeHealthCalculatorsTitle": "Sağlık Hesaplayıcılarını Keşfedin",
+  "homePregnancyCalculatorDescription": "Tahmini doğum tarihinizi öğrenin ve gebelik yolculuğunuzu takip edin.",
+  "homeOvulationCalculatorDescription": "Aile planlamasına yardımcı olmak için en doğurgan günlerinizi belirleyin.",
+  "homeMenstrualCycleCalculatorDescription": "Döngünüzü takip edin ve bir sonraki adet döneminizi kolayca tahmin edin.",
+  "homeCalorieCalculatorDescription": "Fitness hedeflerinize ulaşmak için günlük kalori ihtiyacınızı hesaplayın.",
+  "homeTimeCalculatorDescription": "İş, projeler veya hobiler için zaman sürelerini toplayın veya çıkarın.",
+  "seoTitle": "Ücretsiz Çevrimiçi Yaş Hesaplayıcı - Doğum Tarihinize Göre Yaşınızı Hesaplayın",
+  "seoDescription": "Ücretsiz ve doğru çevrimiçi yaş hesaplayıcımızı kullanarak yaşınızı yıl, ay ve gün olarak kolayca hesaplayın. Doğum tarihiniz hakkında daha fazla bilgi edinin, haftanın günü ve bir sonraki doğum gününüze geri sayım dahil. Birden fazla dili destekler.",
+  "seoKeywords": "yaş hesaplayıcı, yaş hesapla, doğum tarihi hesaplayıcı, kaç yaşındayım, çevrimiçi yaş hesaplayıcı, doğum günü hesaplayıcı, ücretsiz yaş hesaplayıcı",
+  "h1": "Çevrimiçi Yaş Hesaplayıcı",
+  "h2": "Doğum Tarihinizi Girin",
+  "dateOfBirthLabel": "Doğum Tarihi",
+  "dayLabel": "Gün",
+  "monthLabel": "Ay",
+  "yearLabel": "Yıl",
+  "calculateButton": "Yaşı Hesapla",
+  "errorInvalidDate": "Lütfen geçerli bir tarih girin.",
+  "errorFutureDate": "Doğum tarihi gelecekte olamaz.",
+  "resultPrefix": "",
+  "resultSuffix": "yaşındasınız.",
+  "years": "Yıl",
+  "months": "Ay",
+  "moreInfoTitle": "Doğum Gününüz Hakkında Daha Fazla Bilgi",
+  "dayOfWeekLabel": "Doğduğunuz gün",
+  "seasonLabel": "Doğum mevsiminiz (Kuzey Yarımküre)",
+  "nextBirthdayLabel": "Bir sonraki doğum gününüze kalan gün sayısı",
+  "shareResultTitle": "Sonucunuzu Paylaşın",
+  "shareResultText": "Bu harika yaş hesaplayıcısını kullanarak {years} yıl, {months} ay ve {days} günlük olduğumu öğrendim!",
+  "copyResultButton": "Sonucu kopyala",
+  "resultCopiedTooltip": "Kopyalandı!",
+  "calendarType": "Takvim Türü",
+  "gregorian": "Miladi",
+  "hijri": "Hicri",
+  "monthsArray": ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"],
+  "hijriMonthsArray": ["Muharrem", "Safer", "Rebiülevvel", "Rebiülahir", "Cemaziyelevvel", "Cemaziyelahir", "Recep", "Şaban", "Ramazan", "Şevval", "Zilkade", "Zilhicce"],
+  "daysOfWeekArray": ["Pazar", "Pazartesi", "Salı", "Çarşamba", "Perşembe", "Cuma", "Cumartesi"],
+  "seasonsArray": ["Kış", "İlkbahar", "Yaz", "Sonbahar"],
+  "seoSections": [
+    {
+      "heading": "Yaş Hesaplayıcımız Nasıl Çalışır?",
+      "paragraphs": [
+        "Yaş Hesaplayıcımız, doğum tarihinizi güncel tarihle karşılaştırarak yaşınızı yüksek bir hassasiyetle hesaplar. Araç, geçen toplam süreyi hesaplar ve bunu yıllara, aylara ve günlere ayırır. Artık yılları hesaba katarak doğru bir sonuç sağlar, bu da onu 'kaç yaşındayım?' diye soran herkes için güvenilir bir araç haline getirir. Sadece doğum tarihinizi girin, hesap makinesi anında kronolojik yaşınızı göstersin."
+      ]
+    },
+    {
+      "heading": "Neden Çevrimiçi Bir Yaş Hesaplayıcı Kullanmalısınız?",
+      "paragraphs": [
+        "Yaşınızı yıllara göre hesaplamak basit olsa da, tam ay ve gün sayısını bulmak zor olabilir. Çevrimiçi bir yaş hesaplayıcı bu süreci basitleştirir, anında ve doğru sonuçlar sunar. Şunlar için kullanışlıdır:",
+        "Tam yaşınızı gerektiren formları ve başvuruları doldurmak.",
+        "Doğum günü kutlamalarını ve dönüm noktalarını planlamak.",
+        "Soyağacı araştırması yapmak ve aile zaman çizelgeleri oluşturmak.",
+        "Sadece yaşınız hakkındaki merakınızı ayrıntılı olarak gidermek."
+      ],
+      "list": [
+        "Doğruluk: Manuel hesaplama hatalarını, özellikle artık yıllarla ilgili olanları ortadan kaldırır.",
+        "Hız: Yaşınızı saniyeler içinde öğrenin.",
+        "Kolaylık: Her zaman, her yerde, her cihazda erişilebilir."
+      ]
+    }
+  ],
+  "shareTitle": "Bu Hesap Makinesini Paylaş",
+  "copyLinkButton": "Bağlantıyı Kopyala",
+  "copiedTooltip": "Kopyalandı!",
+  "aboutTitle": "Hakkımızda",
+  "aboutHeading": "Misyonumuz",
+  "aboutContent": [
+    "Hesap Makinesi'ne hoş geldiniz, geniş bir yelpazede ücretsiz, kullanımı kolay çevrimiçi hesap makineleri için gideceğiniz yer. Misyonumuz, herkes için günlük hesaplamaları zahmetsiz hale getiren basit, hızlı ve güvenilir araçlar sunmaktır.",
+    "Basit bir Yaş Hesaplayıcı ile başladık ve o zamandan beri çeşitli sağlık ve genel amaçlı hesap makinelerini içerecek şekilde genişledik. Bilginin erişilebilir olması gerektiğine inanıyoruz ve küresel bir kitleye hizmet etmek için araçlarımızı çok sayıda dile çevirdik.",
+    "Ekibimiz doğruluk ve kullanıcı deneyimine kendini adamıştır. Mevcut araçlarımızı geliştirmek ve ihtiyaçlarınızı karşılamak için yenilerini geliştirmek için sürekli çalışıyoruz. Hesap Makinesi'ni seçtiğiniz için teşekkür ederiz!"
+  ],
+  "privacyTitle": "Gizlilik Politikası",
+  "privacyHeading": "Gizliliğiniz bizim için önemlidir.",
+  "privacyContent": [
+    {
+      "heading": "1. Topladığımız Bilgiler",
+      "paragraphs": ["Hesap makinelerimize girdiğiniz hiçbir kişisel veriyi toplamıyor veya saklamıyoruz. Tüm hesaplamalar doğrudan tarayıcınızda yapılır ve sunucularımıza gönderilmez. Doğum tarihiniz veya başka herhangi bir bilgi asla kaydedilmez."]
+    },
+    {
+      "heading": "2. Çerezler ve Analitik",
+      "paragraphs": ["Web sitemizin nasıl kullanıldığını anlamak için anonim analiz araçları kullanabiliriz. Bu, kullanıcı deneyimini geliştirmemize yardımcı olur. Bu veriler toplanır ve bireysel kullanıcıları tanımlamak için kullanılamaz. İzleme çerezleri kullanmıyoruz."]
+    },
+    {
+      "heading": "3. Üçüncü Taraf Hizmetleri",
+      "paragraphs": ["Bu web sitesi, gizliliğinizi tehlikeye atacak herhangi bir üçüncü taraf hizmetiyle entegre olmaz. Hiçbir veriyi üçüncü taraflarla paylaşmıyoruz."]
+    }
+  ],
+  "contactTitle": "Bize Ulaşın",
+  "contactHeading": "İletişime Geçin",
+  "contactIntro": "Sorularınız, geri bildirimleriniz veya önerileriniz mi var? Sizden haber almak isteriz. Lütfen bize bir e-posta gönderin, en kısa sürede size geri döneceğiz.",
+  "contactEmail": "destek@hesapmakinesi.com",
+  "seoPregnancyTitle": "Ücretsiz Gebelik Doğum Tarihi Hesaplayıcısı",
+  "seoPregnancyDescription": "Son adet tarihinize (SAT), döllenme tarihinize veya tüp bebek transfer tarihinize göre tahmini doğum tarihinizi hesaplayın. Önemli gebelik kilometre taşlarını öğrenin.",
+  "pregnancyTitle": "Gebelik Doğum Tarihi Hesaplayıcısı",
+  "pregnancySubheading": "Bebeğinizin doğum tarihini ve önemli gebelik kilometre taşlarını tahmin edin.",
+  "calculationMethodLabel": "Hesaplama yöntemi:",
+  "lmpMethod": "Son Adet Tarihi",
+  "conceptionMethod": "Döllenme",
+  "ivfMethod": "Tüp Bebek",
+  "lmpDateLabel": "Son Adet Tarihinin İlk Günü (SAT)",
+  "conceptionDateLabel": "Döllenme Tarihi",
+  "transferDateLabel": "Tüp Bebek Transfer Tarihi",
+  "ivfCycleTypeLabel": "Transfer Tipi",
+  "day3Transfer": "3. Gün Embriyosu",
+  "day5Transfer": "5. Gün Blastokisti",
+  "calculateDueDateButton": "Doğum Tarihini Hesapla",
+  "pregnancyHeading": "Gebelik Zaman Çizelgeniz",
+  "dueDateResultLabel": "Tahmini Doğum Tarihi",
+  "gestationalAgeResultLabel": "Mevcut Gebelik Yaşı",
+  "trimesterResultLabel": "Mevcut Trimester",
+  "trimester1": "Birinci Trimester",
+  "trimester2": "İkinci Trimester",
+  "trimester3": "Üçüncü Trimester",
+  "seoPregnancySections": [
+    {
+      "heading": "Doğum Tarihi Hesaplayıcımız Nasıl Çalışır?",
+      "paragraphs": [
+        "Gebelik Doğum Tarihi Hesaplayıcımız, beklenen doğum tarihinizi çeşitli yöntemler kullanarak tahmin eder. En yaygın yöntem, son adet döneminizin (SAT) ilk gününe dayanır. Naegele kuralı olarak bilinen bu yaklaşım, doğum tarihini tahmin etmek için SAT'ınıza 280 gün (40 hafta) ekler. Düzensiz döngüleriniz varsa veya döllenmenin kesin tarihini biliyorsanız, daha fazla doğruluk için döllenme tarihinize veya tüp bebek transfer tarihinize göre hesaplamalar da sunuyoruz.",
+        "Bu tarihin bir tahmin olduğunu unutmamak önemlidir. Bebeklerin sadece yaklaşık %5'i tam doğum tarihlerinde doğar. Bu araç, siz ve sağlık uzmanınızın bebeğinizin gelişini planlamanıza yardımcı olacak güvenilir bir kılavuz sağlar."
+      ],
+      "list": [
+        "SAT Yöntemi: 28 günlük bir döngüye dayalı standart hesaplama.",
+        "Döllenme Tarihi Yöntemi: Döllenmenin kesin tarihini biliyorsanız daha hassastır.",
+        "Tüp Bebek Yöntemi: Tüp bebek gebelikleri için özel olarak tasarlanmıştır, embriyo transfer tarihi ve yaşına dayanır."
+      ]
+    },
+    {
+      "heading": "Gebelik Zaman Çizelgenizi Anlamak: Trimesterler ve Kilometre Taşları",
+      "paragraphs": [
+        "Tam süreli bir gebelik, her biri benzersiz fetal gelişim kilometre taşlarına sahip üç trimestere ayrılmıştır. Hesaplayıcımız sadece bir doğum tarihi sağlamakla kalmaz, aynı zamanda mevcut gebelik yaşınızı hesaplayarak bu yolculukta nerede olduğunuzu anlamanıza da yardımcı olur.",
+        "İlk Trimester (1-13. haftalar) bebeğinizin organlarının gelişimi için kritik bir dönemdir. İkinci Trimester (14-27. haftalar) genellikle 'altın dönem' olarak adlandırılır, çünkü birçok erken gebelik belirtisi azalır ve bebeğinizin hareket ettiğini hissetmeye başlayabilirsiniz. Üçüncü Trimester (28-40+ haftalar) bebeğin doğuma hazırlanırken hızlı büyümesine ve kilo alımına odaklanır. Bu aşamalar boyunca düzenli doğum öncesi bakım, sağlıklı bir gebelik için esastır."
+      ]
+    }
+  ],
+  "seoOvulationTitle": "Ücretsiz Yumurtlama ve Doğurganlık Penceresi Hesaplayıcısı",
+  "seoOvulationDescription": "Son adet döneminize ve döngü uzunluğunuza göre yumurtlama tarihinizi ve en doğurgan günlerinizi tahmin edin. Doğru hesaplayıcımızla hamileliğinizi planlayın.",
+  "ovulationTitle": "Yumurtlama Hesaplayıcısı",
+  "ovulationSubheading": "Daha iyi bir hamilelik şansı için en doğurgan günlerinizi tahmin edin.",
+  "lmpDateLabelOvulation": "Son Adet Döneminin İlk Günü",
+  "cycleLengthLabel": "Ortalama Döngü Uzunluğu",
+  "calculateOvulationButton": "Yumurtlamayı Hesapla",
+  "ovulationHeading": "Doğurganlık Pencereniz",
+  "resultOvulationDate": "Tahmini Yumurtlama Tarihi",
+  "resultFertileWindow": "En Doğurgan Pencere",
+  "fertileWindowDescription": "{startDate} ile {endDate} arası",
+  "resultNextPeriod": "Tahmini Sonraki Adet Tarihi",
+  "seoOvulationSections": [
+    {
+      "heading": "En Doğurgan Günlerinizi Nasıl Tahmin Edersiniz?",
+      "paragraphs": [
+        "Yumurtlama Hesaplayıcımız, ayın en doğurgan günlerini tahmin etmenize yardımcı olmak için tasarlanmış basit bir araçtır. Son adet döneminizin ilk gününü ve ortalama döngü uzunluğunuzu girerek, hesaplayıcı olası yumurtlama tarihinizi tahmin eder. Yumurtlama, yumurtalığınızdan bir yumurtanın salınmasıdır ve genellikle bir sonraki adet döneminizin başlamasından yaklaşık 14 gün önce gerçekleşir.",
+        "Sizin 'doğurganlık pencereniz' yumurtlama gününü ve ondan önceki beş günü içerir. Bunun nedeni, spermin kadın üreme sisteminde beş güne kadar hayatta kalabilmesidir. Bu pencere sırasında cinsel ilişkiye girmek, hamile kalma şansınızı önemli ölçüde artırır."
+      ],
+      "list": [
+        "Verilerinizi Girin: Son adet tarihiniz ve döngü uzunluğunuzla başlayın.",
+        "Tahmininizi Alın: Hesaplayıcı, önemli doğurgan günlerinizi belirler.",
+        "Buna Göre Plan Yapın: Bu bilgiyi aile planlaması hedeflerinize yardımcı olmak için kullanın."
+      ]
+    },
+    {
+      "heading": "Hesaplayıcının Ötesinde: Yumurtlamanın Diğer Belirtileri",
+      "paragraphs": [
+        "Yumurtlama hesaplayıcısı harika bir başlangıç noktası olsa da, vücudunuz da yumurtlamanın yaklaştığına dair ipuçları verir. Hesaplayıcının tahminini bu fiziksel belirtilerle birleştirmek, doğurganlık pencerenizin daha doğru bir resmini verebilir. Bu belirtiler şunları içerir:",
+        "Servikal Mukustaki Değişiklikler: Yumurtlamaya yaklaştıkça, servikal mukusunuz daha berrak, daha ince ve daha kaygan hale gelebilir, yumurta akı kıvamına benzer.",
+        "Bazal Vücut Isısı (BBT): Günlük BBT'nizi takip etmek, yumurtlama meydana geldikten sonra hafif ama sürekli bir sıcaklık artışı gösterebilir.",
+        "Yumurtlama Tahmin Kitleri (OPK'lar): Bu reçetesiz satılan kitler, yumurtlamadan 24-36 saat önce meydana gelen lüteinizan hormon (LH) artışını tespit eder."
+      ]
+    }
+  ],
+  "seoMenstrualTitle": "Adet Döngüsü ve Regl Hesaplayıcısı",
+  "seoMenstrualDescription": "Basit ve ücretsiz çevrimiçi hesaplayıcımızla adet döngünüzü takip edin ve bir sonraki regl tarihlerinizi tahmin edin.",
+  "menstrualCycleTitle": "Adet Döngüsü Hesaplayıcısı",
+  "menstrualCycleSubheading": "Bu kullanımı kolay hesaplayıcıyla bir sonraki regl döneminizi tahmin edin.",
+  "calculateMenstrualButton": "Sonraki Adeti Hesapla",
+  "menstrualCycleHeading": "Sonraki Adet Tarihleriniz",
+  "resultNextPeriod1": "Tahmini Sonraki Adet",
+  "resultNextPeriod2": "Takip Eden Tahmini Adet",
+  "seoMenstrualSections": [
+    {
+      "heading": "Adet Hesaplayıcımız Nasıl Çalışır?",
+      "paragraphs": [
+        "Adet Döngüsü Hesaplayıcımız, sadece iki bilgiyle bir sonraki adetinizin başlangıç tarihini tahmin etmenize yardımcı olur: son adetinizin ilk günü ve adet döngünüzün ortalama uzunluğu. Ortalama döngü uzunluğunuzu son adetinizin başlangıç tarihine ekleyerek, araç sonraki iki adet döneminiz için tahmini bir tarih sağlar.",
+        "Döngünüzü takip etmek sadece kolaylık sağlamakla kalmaz; genel sağlığınızın önemli bir göstergesidir. Düzenli, öngörülebilir döngüler genellikle vücudunuzun hormonlarının doğru çalıştığını gösterir."
+      ],
+      "list": [
+        "Basit Girdiler: Son adet başlangıç tarihinizi ve döngü uzunluğunuzu girin.",
+        "Anında Tahminler: Sonraki adet dönemleriniz için tahmini tarihleri anında görün.",
+        "Önceden Plan Yapın: Tahminleri etkinlikler, tatiller için plan yapmak veya sadece hazırlıklı olmak için kullanın."
+      ]
+    },
+    {
+      "heading": "Adet Döngünüzü Anlamak",
+      "paragraphs": [
+        "Bir adet döngüsü, bir adetin ilk gününden bir sonraki adetin ilk gününe kadar sayılır. Ortalama döngü 28 gün sürerken, 21 ila 35 gün arasında değişen döngüler de yetişkinler için normal kabul edilir. Stres, diyet, egzersiz ve belirli sağlık koşulları dahil olmak üzere birçok faktör döngünüzün uzunluğunu ve düzenliliğini etkileyebilir.",
+        "Döngüleriniz sürekli olarak düzensizse, normal aralıktan çok daha kısa veya daha uzunsa veya şiddetli ağrı yaşıyorsanız, bir sağlık uzmanına danışmak iyi bir fikirdir. Hesaplayıcımız, nispeten düzenli döngüleri olanlar için en iyi şekilde çalışır, ancak diğerleri için de yararlı bir tahmin sağlayabilir."
+      ]
+    }
+  ],
+  "seoCalorieTitle": "Ücretsiz Kalori Hesaplayıcı - TDEE ve BMR",
+  "seoCalorieDescription": "Kilo kaybı, koruma veya kazanım için günlük kalori ihtiyacınızı hesaplayın. BMR ve TDEE'nizi bulun ve kişiselleştirilmiş makro besin hedefleri alın.",
+  "calorieTitle": "Kalori Hesaplayıcı",
+  "calorieSubheading": "Kilo hedeflerinize ulaşmak için günlük ihtiyaçlarınızı hesaplayın.",
+  "step": "Adım",
+  "stepOf": " / ",
+  "step1_personalia": "Profiliniz",
+  "step2_activity": "Aktivite Seviyesi",
+  "step3_goal": "Hedefiniz",
+  "step4_results": "Kalori Sonuçları",
+  "step5_macros": "Makro Besin Planı",
+  "step6_macro_results": "Makro Sonuçları",
+  "step7_meal_plan": "Örnek Yemek Planı",
+  "step8_summary": "Özet",
+  "nextButton": "İleri",
+  "backButton": "Geri",
+  "calculateCaloriesButton": "Kalorileri Hesapla",
+  "recalculate": "Yeniden Hesapla",
+  "unitSystemLabel": "Birim Sistemi",
+  "metric": "Metrik",
+  "imperial": "İmperial",
+  "genderLabel": "Cinsiyet",
+  "male": "Erkek",
+  "female": "Kadın",
+  "ageLabel": "Yaş",
+  "ageUnit": "yaş",
+  "heightLabel": "Boy",
+  "weightLabel": "Kilo",
+  "cm": "cm",
+  "ft": "ft",
+  "in": "in",
+  "kg": "kg",
+  "lbs": "lbs",
+  "activityLevelLabel": "Ne kadar aktifsiniz?",
+  "sedentary": "Hareketsiz: az veya hiç egzersiz yok",
+  "lightlyActive": "Hafif aktif: haftada 1-3 gün egzersiz",
+  "moderatelyActive": "Orta derecede aktif: haftada 3-5 gün egzersiz",
+  "veryActive": "Çok aktif: haftada 6-7 gün egzersiz",
+  "extraActive": "Ekstra aktif: çok ağır egzersiz ve fiziksel iş",
+  "goalLabel": "Birincil hedefiniz nedir?",
+  "maintainWeight": "Mevcut kiloyu koru",
+  "mildWeightLoss": "Hafif kilo kaybı (0.25 kg/hafta)",
+  "weightLoss": "Kilo kaybı (0.5 kg/hafta)",
+  "extremeWeightLoss": "Aşırı kilo kaybı (1 kg/hafta)",
+  "mildWeightGain": "Hafif kilo alımı (0.25 kg/hafta)",
+  "weightGain": "Kilo alımı (0.5 kg/hafta)",
+  "fastWeightGain": "Hızlı kilo alımı (1 kg/hafta)",
+  "calorieResultsTitle": "Kalori İhtiyaçlarınız",
+  "caloriesPerDay": "Kalori/gün",
+  "yourBMR": "Bazal Metabolizma Hızı (BMR)",
+  "bmrDescription": "Vücudunuzun dinlenme halindeyken ihtiyaç duyduğu kalori.",
+  "maintenanceCalories": "Koruma Kalorileri",
+  "goalResultText": {
+    "maintainWeight": "Kilonuzu korumak için",
+    "mildWeightLoss": "Hafif kilo kaybı için",
+    "weightLoss": "Kilo kaybı için",
+    "extremeWeightLoss": "Aşırı kilo kaybı için",
+    "mildWeightGain": "Hafif kilo alımı için",
+    "weightGain": "Kilo alımı için",
+    "fastWeightGain": "Hızlı kilo alımı için",
+    "sedentary": "Hareketsiz: az veya hiç egzersiz yok",
+    "lightlyActive": "Hafif aktif: haftada 1-3 gün egzersiz",
+    "moderatelyActive": "Orta derecede aktif: haftada 3-5 gün egzersiz",
+    "veryActive": "Çok aktif: haftada 6-7 gün egzersiz",
+    "extraActive": "Ekstra aktif: çok ağır egzersiz ve fiziksel iş"
+  },
+  "macronutrientPlan": "Bir Makro Besin Planı Seçin",
+  "balanced": "Dengeli (%40 Karbonhidrat, %30 Protein, %30 Yağ)",
+  "lowCarb": "Düşük Karbonhidrat (%20 Karbonhidrat, %40 Protein, %40 Yağ)",
+  "highProtein": "Yüksek Protein (%30 Karbonhidrat, %45 Protein, %25 Yağ)",
+  "macronutrients": "Günlük Makro Besinler",
+  "protein": "Protein",
+  "carbs": "Karbonhidrat",
+  "fat": "Yağ",
+  "grams": "g",
+  "getMealPlan": "Örnek Yemek Planı Al",
+  "generatingMealPlan": "Yemek Planı Oluşturuluyor",
+  "mealPlanError": "Üzgünüz, şu anda bir yemek planı oluşturamadık. Lütfen daha sonra tekrar deneyin.",
+  "mealPlanTitle": "Bir Günlük Örnek Yemek Planınız",
+  "breakfast": "Kahvaltı",
+  "lunch": "Öğle Yemeği",
+  "dinner": "Akşam Yemeği",
+  "snacks": "Ara Öğünler",
+  "summaryTitle": "Hesaplama Özeti",
+  "summaryYourProfile": "Profiliniz",
+  "summaryYourResults": "Sonuçlarınız",
+  "summaryCalculatedMealPlan": "Hesaplanan Yemek Planı",
+  "printResults": "Sonuçları Yazdır",
+  "calorieShareResultTitle": "Sonuçlarınızı Paylaşın",
+  "calorieShareResultText": "Günlük ihtiyaçlarımı yeni hesapladım! Hedefime ulaşmak için {calories} kaloriye, {protein}g proteine, {carbs}g karbonhidrata ve {fat}g yağa ihtiyacım var. Bu harika hesap makinesine bir göz atın!",
+  "errorNumber": "Lütfen geçerli bir numara girin.",
+  "errorHeight": "Lütfen geçerli bir boy girin (min 100cm / 3'3\").",
+  "errorWeight": "Lütfen geçerli bir kilo girin (min 20kg / 45lbs).",
+  "errorAge": "Lütfen geçerli bir yaş girin (15-80).",
+  "seoCalorieSections": [
+    {
+      "heading": "Günlük Kalori İhtiyaçlarınızı Anlamak",
+      "paragraphs": [
+        "Kalori bir enerji birimidir. Beslenmede kaloriler, insanların tükettikleri yiyecek ve içeceklerden aldıkları enerjiyi ve fiziksel aktivitede kullandıkları enerjiyi ifade eder. Günlük kalori ihtiyaçlarınızı anlamak, kilo verme, kilo alma veya mevcut kilonuzu koruma gibi kilo hedeflerinize ulaşmanın ilk adımıdır.",
+        "Hesaplayıcımız, dinlenme halindeyken vücudunuzun nefes alma, dolaşım ve hücre üretimi gibi temel yaşamı sürdürme işlevlerini yerine getirmek için ihtiyaç duyduğu kalori sayısı olan Bazal Metabolizma Hızınızı (BMR) belirleyerek başlar. Bu hesaplama için yaygın olarak kabul edilen Mifflin-St Jeor denklemini kullanıyoruz. Ardından, günlük toplam enerji harcamanızı (TDEE) hesaplamak için aktivite seviyenizi hesaba katıyoruz, bu da günlük kalori yakımınızın daha doğru bir tahminidir."
+      ]
+    },
+    {
+      "heading": "Hedef Belirleme: Kilo Kaybı, Alımı veya Korunması",
+      "paragraphs": [
+        "TDEE'nizi (koruma kalorileri) öğrendikten sonra, hedeflerinize ulaşmak için alımınızı ayarlayabilirsiniz:",
+        "Kilo vermek için, TDEE'nizden daha az kalori tüketmeniz, bir kalori açığı oluşturmanız gerekir. Güvenli ve sürdürülebilir bir açık, haftada yaklaşık yarım kilo vermek için genellikle günde yaklaşık 500 kaloridir.",
+        "Kilo almak için, TDEE'nizden daha fazla kalori tüketmeniz, bir kalori fazlası oluşturmanız gerekir. Günde 300-500 kalorilik bir fazlalık, minimum yağ alımıyla istikrarlı kas kazanımı için iyi bir başlangıç noktasıdır.",
+        "Kilonuzu korumak için, TDEE'nize eşit sayıda kalori tüketmeyi hedeflemelisiniz."
+      ]
+    },
+    {
+      "heading": "Peki ya Makro Besinler?",
+      "paragraphs": [
+        "Kaloriler üç ana makro besinden gelir: protein, karbonhidrat ve yağ. Bu 'makroları' dengelemek sağlıklı bir diyetin anahtarıdır.",
+        "Protein, kaslar da dahil olmak üzere dokuları inşa etmek ve onarmak için çok önemlidir.",
+        "Karbonhidratlar vücudunuzun birincil enerji kaynağıdır.",
+        "Yağlar, hormon üretimi ve vitaminlerin emilimi için gereklidir.",
+        "Hesaplayıcımız, popüler diyet planlarına göre toplam günlük kalorilerinizi protein, karbonhidrat ve yağ gramlarına ayırmanıza yardımcı olur. Bu, sağlık ve fitness hedeflerinize uygun öğünler oluşturmak için size pratik bir çerçeve sunar."
+      ]
+    }
+  ],
+  "seoTimeTitle": "Zaman Hesaplayıcı - Zaman Sürelerini Toplama ve Çıkarma",
+  "seoTimeDescription": "Zaman sürelerini kolayca toplamak veya çıkarmak için ücretsiz bir çevrimiçi araç. Günleri, saatleri, dakikaları ve saniyeleri hassasiyetle hesaplayın. Proje yönetimi, zaman takibi ve günlük hesaplamalar için idealdir.",
+  "timeTitle": "Zaman Hesaplayıcı",
+  "timeSubheading": "Zaman sürelerini kolaylıkla toplayın veya çıkarın.",
+  "time1Label": "Zaman 1",
+  "time2Label": "Zaman 2",
+  "operationLabel": "İşlem",
+  "add": "Topla (+)",
+  "subtract": "Çıkar (-)",
+  "calculateTimeButton": "Hesapla",
+  "resetButton": "Sıfırla",
+  "resultLabel": "Sonuç",
+  "hours": "Saat",
+  "minutes": "Dakika",
+  "seconds": "Saniye",
+  "errorInvalidTime": "Lütfen tüm zaman alanları için geçerli, negatif olmayan bir sayı girin.",
+  "seoTimeSections": [
+    {
+      "heading": "Zaman Hesaplayıcı Nasıl Kullanılır",
+      "paragraphs": [
+        "Zaman Hesaplayıcımız, zaman toplama ve çıkarma işlemini basitleştirir. İster çalışma saatlerini takip ediyor olun, ister egzersiz seanslarını günlüğe kaydediyor veya bir etkinlik planlıyor olun, bu araç hızlı ve doğru bir çözüm sunar. Sadece iki zaman süresi girin, bunları toplamak mı yoksa çıkarmak mı istediğinizi seçin ve sonucu anında alın.",
+        "Hesap makinesi zamanı günlere, saatlere, dakikalara ve saniyelere ayırır. Çıkarma için, negatif sonuçlardan kaçınmak için ilk zaman süresinin ikincisinden büyük veya ona eşit olduğundan emin olun."
+      ]
+    },
+    {
+      "heading": "Pratik Uygulamalar",
+      "paragraphs": [
+        "Bu araç inanılmaz derecede çok yönlüdür ve çeşitli senaryolarda kullanılabilir:",
+        "Proje Yönetimi: Farklı görevlere harcanan toplam süreyi hesaplayın.",
+        "Havacılık ve Navigasyon: Uçuş sürelerini veya seyahat sürelerini kaydedin.",
+        "Video Düzenleme: Klip uzunluklarını toplayın veya kalan süreyi hesaplayın.",
+        "Kişisel Zaman Takibi: Hobilere, ders çalışmaya veya egzersize harcanan zamanı izleyin."
+      ],
+      "list": [
+        "Kullanımı kolay arayüz.",
+        "Günleri, saatleri, dakikaları ve saniyeleri işler.",
+        "Anında, hassas hesaplamalar sağlar."
+      ]
+    }
+  ],
+   "navHoursCalculator": "Saat Hesaplayıcı",
+  "homeHoursCalculatorDescription": "İki zaman arasındaki süreyi saat ve dakika olarak hesaplayın.",
+  "seoHoursTitle": "Saat Hesaplayıcı - İki Zaman Arasındaki Süreyi Hesaplayın",
+  "seoHoursDescription": "Başlangıç ve bitiş zamanı arasındaki zaman farkını saat ve dakika olarak hesaplamak için ücretsiz bir araç. Çalışma saatleri ve aktivite takibi için mükemmel.",
+  "hoursTitle": "Saat Hesaplayıcı",
+  "hoursSubheading": "Bir başlangıç zamanı ile bir bitiş zamanı arasındaki süreyi hesaplayın.",
+  "startTimeLabel": "Başlangıç Zamanı",
+  "endTimeLabel": "Bitiş Zamanı",
+  "hourLabel": "Saat",
+  "minuteLabel": "Dakika",
+  "calculateHoursButton": "Süreyi Hesapla",
+  "resultDurationLabel": "Hesaplanan Süre",
+  "resultInMinutes": "toplam dakika olarak",
+  "resultHours": "saat",
+  "resultMinutes": "dakika",
+  "seoHoursSections": [
+    {
+      "heading": "Saat Hesaplayıcı Nasıl Kullanılır",
+      "paragraphs": [
+        "Saat Hesaplayıcımız, iki zaman noktası arasındaki süreyi hesaplamayı basitleştirmek için tasarlanmıştır. İster çalışma saatlerini, bir etkinliğin süresini veya bir göreve harcanan zamanı hesaplıyor olun, bu araç hızlı ve doğru bir sonuç sağlar. Sadece başlangıç ve bitiş zamanlarını girin, hesap makinesi gerisini halleder ve gece yarısını geçen durumları da yönetir."
+      ]
+    },
+    {
+      "heading": "Pratik Uygulamalar",
+      "paragraphs": [
+        "Bu araç çeşitli senaryolarda son derece kullanışlıdır:",
+        "Çalışma Saatlerini Hesaplama: Zaman çizelgeleri için günlük veya haftalık çalışma saatlerini kolayca hesaplayın.",
+        "Etkinlik Planlama: Toplantıların, randevuların ve etkinliklerin süresini belirleyin.",
+        "Aktivite Takibi: Hobilere, ders çalışmaya veya egzersize harcadığınız zamanı izleyin."
+      ]
+    }
+  ]
+}
