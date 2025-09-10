@@ -1,5 +1,5 @@
 # ---- Build Stage ----
-FROM node:18-bullseye AS build
+FROM node:20-bullseye AS build
 
 WORKDIR /app
 
@@ -14,13 +14,12 @@ COPY . .
 RUN npm run build
 
 # ---- Production Stage ----
-FROM nginx:1.27-bullseye
+FROM nginx:1.27-alpine
 
 # نسخ ملفات البناء إلى مجلد Nginx
 COPY --from=build /app/dist /usr/share/nginx/html
 
 # إعداد Nginx لتطبيق SPA
-RUN rm /etc/nginx/conf.d/default.conf
 COPY default.conf /etc/nginx/conf.d/
 
 EXPOSE 80
