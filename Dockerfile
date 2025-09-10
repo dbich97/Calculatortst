@@ -1,8 +1,11 @@
 # Build stage
-FROM node:18-alpine AS build
+FROM node:18 AS build
 WORKDIR /app
 
-# تثبيت الـ dependencies
+# تثبيت الأدوات المطلوبة لبناء الحزم
+RUN apt-get update && apt-get install -y python3 make g++ && rm -rf /var/lib/apt/lists/*
+
+# نسخ package.json وتثبيت dependencies
 COPY package*.json ./
 RUN npm install
 
@@ -14,7 +17,7 @@ RUN npm run build
 FROM nginx:1.27-alpine
 COPY --from=build /app/dist /usr/share/nginx/html
 
-# نسخ ملف إعداد Nginx افتراضي لتشغيل SPA
+# إعداد Nginx لتشغيل SPA
 RUN echo 'server { \
     listen 80; \
     server_name localhost; \
