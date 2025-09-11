@@ -34,7 +34,7 @@ const App: React.FC = () => {
           </Route>
           <Route path="*" element={<Navigate to={`/${LanguageCode.AR}`} replace />} />
         </Routes>
-      </HashRouter>
+      </BrowserRouter>
     </div>
   );
 };
