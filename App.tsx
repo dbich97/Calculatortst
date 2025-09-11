@@ -19,7 +19,7 @@ const App: React.FC = () => {
     <div className="font-sans">
       <BrowserRouter>
         <Routes>
-          {/* Layout مع لغة */}
+          {/* Layout لكل لغة */}
           <Route path="/:lang" element={<Layout />}>
             <Route index element={<HomePage />} />
             <Route path="age-calculator" element={<AgeCalculatorPage />} />
@@ -34,7 +34,7 @@ const App: React.FC = () => {
             <Route path="contact-us" element={<ContactPage />} />
           </Route>
 
-          {/* أي مسار آخر يعيد توجيه للغة الافتراضية */}
+          {/* أي رابط غير موجود → اللغة الافتراضية */}
           <Route path="*" element={<Navigate to={`/${LanguageCode.AR}`} replace />} />
         </Routes>
       </BrowserRouter>
