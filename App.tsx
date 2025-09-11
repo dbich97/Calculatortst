@@ -1,24 +1,25 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { LanguageCode } from './types';
-import AgeCalculatorPage from './pages/AgeCalculatorPage';
-import HomePage from './pages/HomePage';
-import AboutPage from './pages/AboutPage';
-import PrivacyPolicyPage from './pages/PrivacyPolicyPage';
-import ContactPage from './pages/ContactPage';
 import Layout from './components/Layout';
+import HomePage from './pages/HomePage';
+import AgeCalculatorPage from './pages/AgeCalculatorPage';
 import PregnancyCalculatorPage from './pages/PregnancyCalculatorPage';
 import OvulationCalculatorPage from './pages/OvulationCalculatorPage';
 import MenstrualCycleCalculatorPage from './pages/MenstrualCycleCalculatorPage';
 import CalorieCalculatorPage from './pages/CalorieCalculatorPage';
 import TimeCalculatorPage from './pages/TimeCalculatorPage';
 import HoursCalculatorPage from './pages/HoursCalculatorPage';
+import AboutPage from './pages/AboutPage';
+import PrivacyPolicyPage from './pages/PrivacyPolicyPage';
+import ContactPage from './pages/ContactPage';
 
 const App: React.FC = () => {
   return (
     <div className="font-sans">
       <BrowserRouter>
         <Routes>
+          {/* Layout مع لغة */}
           <Route path="/:lang" element={<Layout />}>
             <Route index element={<HomePage />} />
             <Route path="age-calculator" element={<AgeCalculatorPage />} />
@@ -32,6 +33,8 @@ const App: React.FC = () => {
             <Route path="privacy-policy" element={<PrivacyPolicyPage />} />
             <Route path="contact-us" element={<ContactPage />} />
           </Route>
+
+          {/* أي مسار آخر يعيد توجيه للغة الافتراضية */}
           <Route path="*" element={<Navigate to={`/${LanguageCode.AR}`} replace />} />
         </Routes>
       </BrowserRouter>
