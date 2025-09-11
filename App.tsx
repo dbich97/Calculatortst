@@ -17,7 +17,7 @@ import HoursCalculatorPage from './pages/HoursCalculatorPage';
 const App: React.FC = () => {
   return (
     <div className="font-sans">
-       <BrowserRouter>
+      <BrowserRouter>
         <Routes>
           <Route path="/:lang" element={<Layout />}>
             <Route index element={<HomePage />} />
@@ -34,7 +34,7 @@ const App: React.FC = () => {
           </Route>
           <Route path="*" element={<Navigate to={`/${LanguageCode.AR}`} replace />} />
         </Routes>
-      </HashRouter>
+      </BrowserRouter>
     </div>
   );
 };
