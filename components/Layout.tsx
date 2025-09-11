@@ -31,7 +31,7 @@ const Layout: React.FC = () => {
             setIsLoading(true);
             try {
                 // The `./` is important for relative paths in this environment
-                const response = await fetch(`./locales/${currentLang}.json`);
+                const response = await fetch(`/locales/${currentLang}.json`);
                 if (!response.ok) {
                     throw new Error(`Translation file for ${currentLang} not found`);
                 }
@@ -40,7 +40,7 @@ const Layout: React.FC = () => {
             } catch (error) {
                 console.error("Failed to load translation file:", error);
                 // Fallback to English if the language file is not found or fails to parse
-                const fallbackResponse = await fetch(`./locales/en.json`);
+                const fallbackResponse = await fetch(`/locales/en.json`);
                 const data = await fallbackResponse.json();
                 setT(data);
                 // Redirect to the English URL to reflect the fallback
