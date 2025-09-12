@@ -61,7 +61,7 @@
     {
       "heading": "Como a Nossa Calculadora de Idade Funciona",
       "paragraphs": [
-        "A nossa Calculadora de Idade calcula a sua idade com alta precisão comparando a sua data de nascimento com a data atual. A ferramenta calcula o tempo total decorrido e divide-o em anos, meses e dias. Tem em conta os anos bissextos para fornecer um resultado preciso, tornando-a uma ferramenta fiável para quem pergunta 'quantos anos tenho?'. Basta inserir a sua data de nascimento e a calculadora exibe instantaneamente a sua idade cronológica."
+        "A nossa Calculadora de Idade calcula a sua idade com alta precisão comparando a sua data de nascimento com a data atual. A ferramenta calcula o tempo total decorrido e divide-o em anos, meses e dias. Tem em conta os anos bissextos para fornecer um resultado preciso, tornando-a uma ferramenta fiável para quem pergunta 'quantos anos tenho?'. Basta inserir a sua data de nascimento e a calculadora exibe instantaneamente a sua idade cronológica. Para outros cálculos relacionados com o tempo, pode também experimentar a nossa <a href=\"#/pt/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Tempo</a>."
       ]
     },
     {
@@ -136,8 +136,7 @@
     {
       "heading": "Como Funciona a Nossa Calculadora de Data do Parto",
       "paragraphs": [
-        "A nossa Calculadora da Data Provável do Parto estima a sua data de parto esperada usando vários métodos. O método mais comum baseia-se no primeiro dia da sua última menstruação (DUM). Esta abordagem, conhecida como regra de Naegele, adiciona 280 dias (40 semanas) à sua DUM para prever a data do parto. Também oferecemos cálculos baseados na data da concepção ou na data da sua transferência de FIV para maior precisão, especialmente se você tiver ciclos irregulares ou souber a data exata da concepção.",
-        "É importante lembrar que esta data é uma estimativa. Apenas cerca de 5% dos bebês nascem na data exata do parto. Esta ferramenta fornece uma orientação confiável para ajudar você e seu profissional de saúde a planejar a chegada do seu bebê."
+        "A nossa Calculadora da Data Provável do Parto estima a sua data de parto esperada usando vários métodos. O método mais comum baseia-se no primeiro dia da sua última menstruação (DUM). Esta abordagem, conhecida como regra de Naegele, adiciona 280 dias (40 semanas) à sua DUM para prever a data do parto. Para maior precisão, especialmente com ciclos irregulares, pode usar a nossa <a href=\"#/pt/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Ciclo Menstrual</a> para acompanhar o seu período. Também oferecemos cálculos baseados na data da concepção, que pode ser identificada com a nossa <a href=\"#/pt/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Ovulação</a>, ou na data da sua transferência de FIV."
       ],
       "list": [
         "Método DUM: O cálculo padrão baseado num ciclo de 28 dias.",
@@ -169,13 +168,8 @@
     {
       "heading": "Como Prever Seus Dias Mais Férteis",
       "paragraphs": [
-        "Nossa Calculadora de Ovulação é uma ferramenta simples projetada para ajudá-la a prever seus dias mais férteis do mês. Ao inserir o primeiro dia de sua última menstruação e a duração média de seu ciclo, a calculadora estima sua provável data de ovulação. A ovulação é a liberação de um óvulo de seu ovário, o que geralmente acontece cerca de 14 dias antes do início de sua próxima menstruação.",
-        "Sua 'janela fértil' inclui o dia da ovulação e os cinco dias que o antecedem. Isso ocorre porque o esperma pode sobreviver no trato reprodutivo feminino por até cinco dias. Ter relações sexuais durante essa janela aumenta significativamente suas chances de concepção."
-      ],
-      "list": [
-        "Insira Seus Dados: Comece com a data de sua última menstruação e a duração de seu ciclo.",
-        "Obtenha Sua Estimativa: A calculadora identifica seus principais dias férteis.",
-        "Planeje de Acordo: Use essas informações para ajudar em seus objetivos de planejamento familiar."
+        "Nossa Calculadora de Ovulação é uma ferramenta simples projetada para ajudá-la a prever seus dias mais férteis do mês. Ao inserir o primeiro dia de sua última menstruação e a duração média de seu ciclo, que pode acompanhar com a nossa <a href=\"#/pt/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Ciclo Menstrual</a>, a calculadora estima sua provável data de ovulação. A ovulação é a liberação de um óvulo de seu ovário, o que geralmente acontece cerca de 14 dias antes do início de sua próxima menstruação.",
+        "Sua 'janela fértil' inclui o dia da ovulação e os cinco dias que o antecedem. Isso ocorre porque o esperma pode sobreviver no trato reprodutivo feminino por até cinco dias. Ter relações sexuais durante essa janela aumenta significativamente suas chances de concepção. Uma vez grávida, pode acompanhar a sua jornada com a nossa <a href=\"#/pt/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora da Data do Parto</a>."
       ]
     },
     {
@@ -200,13 +194,8 @@
     {
       "heading": "Como Funciona Nossa Calculadora de Período",
       "paragraphs": [
-        "Nossa Calculadora de Ciclo Menstrual ajuda você a prever a data de início de seu próximo período com apenas duas informações: o primeiro dia de seu último período e a duração média de seu ciclo menstrual. Ao adicionar a duração média de seu ciclo à data de início de seu último período, a ferramenta fornece uma data estimada para seus próximos dois períodos.",
-        "Acompanhar seu ciclo é mais do que apenas conveniência; é um indicador-chave de sua saúde geral. Ciclos regulares e previsíveis geralmente significam que os hormônios de seu corpo estão funcionando corretamente."
-      ],
-      "list": [
-        "Entradas Simples: Insira a data de início de seu último período e a duração do ciclo.",
-        "Previsões Instantâneas: Veja imediatamente as datas estimadas para seus próximos períodos.",
-        "Planeje com Antecedência: Use as previsões para planejar eventos, férias ou simplesmente para estar preparada."
+        "Nossa Calculadora de Ciclo Menstrual ajuda você a prever a data de início de seu próximo período com apenas duas informações: o primeiro dia de seu último período e a duração média de seu ciclo menstrual. Ao adicionar a duração média de seu ciclo à data de início de seu último período, a ferramenta fornece uma data estimada para seus próximos dois períodos. Conhecer o seu ciclo também é essencial para identificar as janelas férteis com a nossa <a href=\"#/pt/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Ovulação</a>.",
+        "Acompanhar seu ciclo é mais do que apenas conveniência; é um indicador-chave de sua saúde geral. Ciclos regulares e previsíveis geralmente significam que os hormônios de seu corpo estão funcionando corretamente. Esta informação é inestimável para o planeamento familiar, e uma vez grávida, a nossa <a href=\"#/pt/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora da Data do Parto</a> pode ajudar a estimar a sua data de parto."
       ]
     },
     {
@@ -315,7 +304,7 @@
     {
       "heading": "Compreendendo Suas Necessidades Calóricas Diárias",
       "paragraphs": [
-        "Uma caloria é uma unidade de energia. Na nutrição, as calorias referem-se à energia que as pessoas obtêm dos alimentos e bebidas que consomem, e a energia que usam na atividade física. Compreender suas necessidades calóricas diárias é o primeiro passo para alcançar seus objetivos de peso, seja perder, ganhar ou manter seu peso atual.",
+        "Uma caloria é uma unidade de energia. Na nutrição, as calorias referem-se à energia que as pessoas obtêm dos alimentos e bebidas que consomem, e a energia que usam na atividade física. Compreender suas necessidades calóricas diárias, que muitas vezes depende de fatores como a sua idade (descubra com a nossa <a href=\"#/pt/age-calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Idade</a>), é o primeiro passo para alcançar seus objetivos de peso, seja perder, ganhar ou manter seu peso atual.",
         "Nossa calculadora começa determinando sua Taxa Metabólica Basal (TMB), que é o número de calorias que seu corpo precisa para realizar funções básicas de sustentação da vida em repouso, como respiração, circulação e produção de células. Usamos a equação de Mifflin-St Jeor, amplamente aceita, para este cálculo. Em seguida, levamos em conta seu nível de atividade para calcular seu Gasto Energético Diário Total (GET), que é uma estimativa mais precisa de sua queima de calorias diária."
       ]
     },
@@ -335,7 +324,7 @@
         "A proteína é crucial para construir e reparar tecidos, incluindo músculos.",
         "Os carboidratos são a principal fonte de energia do seu corpo.",
         "As gorduras são essenciais para a produção de hormônios e a absorção de vitaminas.",
-        "Nossa calculadora ajuda você a dividir suas calorias diárias totais em gramas de proteína, carboidratos e gordura com base em planos alimentares populares. Isso lhe dá uma estrutura prática para construir refeições que se alinham com seus objetivos de saúde и fitness."
+        "Nossa calculadora ajuda você a dividir suas calorias diárias totais em gramas de proteína, carboidratos e gordura com base em planos alimentares populares. Isso lhe dá uma estrutura prática para construir refeições que se alinham com seus objetivos de saúde e fitness."
       ]
     }
   ],
@@ -359,8 +348,7 @@
     {
       "heading": "Como Usar a Calculadora de Tempo",
       "paragraphs": [
-        "Nossa Calculadora de Tempo simplifica o processo de adicionar e subtrair tempo. Se você está acompanhando horas de trabalho, registrando sessões de exercício ou planejando um evento, esta ferramenta fornece uma solução rápida e precisa. Simplesmente insira duas durações de tempo, selecione se deseja adicioná-las ou subtraí-las e obtenha o resultado instantaneamente.",
-        "A calculadora divide o tempo em dias, horas, minutos e segundos. Para subtração, certifique-se de que a primeira duração de tempo seja maior ou igual à segunda para evitar resultados negativos."
+        "Nossa Calculadora de Tempo simplifica o processo de adicionar e subtrair tempo. Se você está acompanhando horas de trabalho, registrando sessões de exercício ou planejando um evento, esta ferramenta fornece uma solução rápida e precisa. Para calcular a duração entre uma hora de início e de fim, como para uma folha de ponto, a nossa <a href=\"#/pt/hours-calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Horas</a> também está disponível. Simplesmente insira duas durações de tempo, selecione se deseja adicioná-las ou subtraí-las e obtenha o resultado instantaneamente."
       ]
     },
     {
@@ -398,7 +386,7 @@
     {
       "heading": "Como Usar a Calculadora de Horas",
       "paragraphs": [
-        "Nossa Calculadora de Horas foi projetada para simplificar o cálculo da duração entre dois pontos no tempo. Seja para calcular horas de trabalho, a duração de um evento ou o tempo gasto em uma tarefa, esta ferramenta fornece um resultado rápido e preciso. Basta inserir os horários de início e fim, e a calculadora fará o resto, lidando com casos que ultrapassam a meia-noite."
+        "Nossa Calculadora de Horas foi projetada para simplificar o cálculo da duração entre dois pontos no tempo. Seja para calcular horas de trabalho, a duração de um evento ou o tempo gasto em uma tarefa, esta ferramenta fornece um resultado rápido e preciso. Para cálculos mais complexos que envolvem adicionar ou subtrair múltiplas durações, confira a nossa abrangente <a href=\"#/pt/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Tempo</a>. Basta inserir os horários de início e fim, e a calculadora fará o resto, lidando com casos que ultrapassam a meia-noite."
       ]
     },
     {
