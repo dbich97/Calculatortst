@@ -18,9 +18,11 @@ const SeoContent: React.FC<SeoContentProps> = ({ sections, lang }) => {
           <section key={index} className="mb-8">
             <h2 className="text-2xl font-bold mb-4 border-b-2 border-blue-500 pb-2">{section.heading}</h2>
             {section.paragraphs.map((paragraph, pIndex) => (
-              <p key={pIndex} className="text-base leading-relaxed mb-4">
-                {paragraph}
-              </p>
+              <p
+                key={pIndex}
+                className="text-base leading-relaxed mb-4"
+                dangerouslySetInnerHTML={{ __html: paragraph }}
+              />
             ))}
             {section.list && (
               <ul className={`list-disc list-inside space-y-2 ${listPaddingClass}`}>
