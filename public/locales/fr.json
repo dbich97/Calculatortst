@@ -62,7 +62,7 @@
     {
       "heading": "Comment Fonctionne Notre Calculateur d'Âge",
       "paragraphs": [
-        "Notre Calculateur d'Âge calcule votre âge avec une grande précision en comparant votre date de naissance à la date actuelle. L'outil calcule le temps total écoulé et le décompose en années, mois et jours. Il tient compte des années bissextiles pour fournir un resultado preciso, ce qui en fait un outil fiable pour quiconque se demande 'quel âge ai-je ?'. Entrez simplement votre date de naissance, et le calculateur affiche instantanément votre âge chronologique. Pour d'autres calculs liés au temps, vous pouvez également essayer notre <a href=\"#/fr/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a>."
+        "Notre Calculateur d'Âge calcule votre âge avec une grande précision en comparant votre date de naissance à la date actuelle. L'outil calcule le temps total écoulé et le décompose en années, mois et jours. Il tient compte des années bissextiles pour fournir un resultado preciso, ce qui en fait un outil fiable pour quiconque se demande 'quel âge ai-je ?'. Entrez simplemente votre date de naissance, et le calculateur affiche instantanément votre âge chronologique. Pour d'autres calculs liés au temps, vous pouvez également essayer notre <a href=\"/fr/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a>."
       ]
     },
     {
@@ -137,7 +137,7 @@
     {
       "heading": "Comment fonctionne notre calculateur de date d'accouchement",
       "paragraphs": [
-        "Notre calculateur de date d'accouchement estime votre date de naissance prévue en utilisant plusieurs méthodes. La méthode la plus courante est basée sur le premier jour de vos dernières règles (DDR). Cette approche, connue sous le nom de règle de Naegele, ajoute 280 jours (40 semaines) à votre DDR pour prédire la date d'accouchement. Pour plus de précision, surtout avec des cycles irréguliers, vous pouvez utiliser notre <a href=\"#/fr/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Cycle Menstruel</a> pour suivre vos règles. Nous proposons également des calculs basés sur la date de conception, qui peut être identifiée avec notre <a href=\"#/fr/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Ovulation</a>, ou la date de votre transfert de FIV.",
+        "Notre calculateur de date d'accouchement estime votre date de naissance prévue en utilisant plusieurs méthodes. La méthode la plus courante est basée sur le premier jour de vos dernières règles (DDR). Cette approche, connue sous le nom de règle de Naegele, ajoute 280 jours (40 semaines) à votre DDR pour prédire la date d'accouchement. Pour plus de précision, surtout avec des cycles irréguliers, vous pouvez utiliser notre <a href=\"/fr/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Cycle Menstruel</a> pour suivre vos règles. Nous proposons également des calculs basés sur la date de conception, qui peut être identifiée avec notre <a href=\"/fr/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Ovulation</a>, ou la date de votre transfert de FIV.",
         "Il est important de se souvenir que cette date est une estimation. Seulement environ 5% des bébés naissent à leur date d'accouchement exacte. Cet outil fournit une ligne directrice fiable pour vous aider, vous et votre professionnel de la santé, à planifier l'arrivée de votre bébé."
       ],
       "list": [
@@ -170,8 +170,8 @@
     {
       "heading": "Comment prédire vos jours les plus fertiles",
       "paragraphs": [
-        "Notre Calculateur d'Ovulation est un outil simple conçu pour vous aider à prédire vos jours les plus fertiles du mois. En saisissant le premier jour de vos dernières règles et la durée moyenne de votre cycle, que vous pouvez suivre avec notre <a href=\"#/fr/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Cycle Menstruel</a>, le calculateur estime votre date d'ovulation probable. L'ovulation est la libération d'un ovule par votre ovaire, ce qui se produit généralement environ 14 jours avant le début de vos prochaines règles.",
-        "Votre 'fenêtre de fertilité' comprend le jour de l'ovulation et les cinq jours qui la précèdent. C'est parce que les spermatozoïdes peuvent survivre dans l'appareil reproducteur féminin jusqu'à cinq jours. Avoir des rapports sexuels pendant cette fenêtre augmente considérablement vos chances de conception. Une fois enceinte, vous pouvez suivre votre parcours avec notre <a href=\"#/fr/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Date d'Accouchement</a>."
+        "Notre Calculateur d'Ovulation est un outil simple conçu pour vous aider à prédire vos jours les plus fertiles du mois. En saisissant le premier jour de vos dernières règles et la durée moyenne de votre cycle, que vous pouvez suivre avec notre <a href=\"/fr/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Cycle Menstruel</a>, le calculateur estime votre date d'ovulation probable. L'ovulation est la libération d'un ovule par votre ovaire, ce qui se produit généralement environ 14 jours avant le début de vos prochaines règles.",
+        "Votre 'fenêtre de fertilité' comprend le jour de l'ovulation et les cinq jours qui la précèdent. C'est parce que les spermatozoïdes pueden survivre dans l'appareil reproducteur féminin jusqu'à cinq jours. Avoir des rapports sexuels pendant cette fenêtre augmente considérablement vos chances de conception. Une fois enceinte, vous pouvez suivre votre parcours avec notre <a href=\"/fr/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Date d'Accouchement</a>."
       ],
       "list": [
         "Saisissez vos données : Commencez par la date de vos dernières règles et la durée de votre cycle.",
@@ -183,7 +183,7 @@
       "heading": "Au-delà du calculateur : Autres signes d'ovulation",
       "paragraphs": [
         "Bien qu'un calculateur d'ovulation soit un excellent point de départ, votre corps fournit également des indices que l'ovulation approche. Combiner l'estimation du calculateur avec ces signes physiques peut vous donner une image plus précise de votre fenêtre de fertilité. Ces signes incluent :",
-        "Changements dans la glaire cervicale : À l'approche de l'ovulation, votre glaire cervicale peut devenir plus claire, plus fine et plus glissante, ressemblant à la consistance du blanc d'œuf.",
+        "Changements dans la glaire cervicale : À l'approche de l'ovulation, votre glaire cervicale puede devenir plus claire, plus fine et plus glissante, ressemblant à la consistance du blanc d'œuf.",
         "Température corporelle basale (TCB) : Le suivi quotidien de votre TCB peut montrer une augmentation de température légère mais soutenue après l'ovulation.",
         "Kits de prédiction d'ovulation (OPK) : Ces kits en vente libre détectent le pic d'hormone lutéinisante (LH) qui se produit 24 à 36 heures avant l'ovulation."
       ]
@@ -201,8 +201,8 @@
     {
       "heading": "Comment fonctionne notre calculateur de règles",
       "paragraphs": [
-        "Notre Calculateur de Cycle Menstruel vous aide à prédire la date de début de vos prochaines règles avec seulement deux informations : le premier jour de vos dernières règles et la durée moyenne de votre cycle menstruel. En ajoutant la durée moyenne de votre cycle à la date de début de vos dernières règles, l'outil fournit une date estimée pour vos deux prochaines périodes. Connaître votre cycle est également essentiel pour identifier les fenêtres de fertilité avec notre <a href=\"#/fr/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Ovulation</a>.",
-        "Le suivi de votre cycle est plus qu'une simple commodité ; c'est un indicateur clé de votre santé globale. Des cycles réguliers et prévisibles signifient souvent que les hormones de votre corps fonctionnent correctement. Une fois enceinte, notre <a href=\"#/fr/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Date d'Accouchement</a> peut aider à estimer votre date d'accouchement."
+        "Notre Calculateur de Cycle Menstruel vous aide à prédire la date de début de vos prochaines règles avec seulement deux informations : le premier jour de vos dernières règles et la durée moyenne de votre cycle menstruel. En ajoutant la durée moyenne de votre cycle à la date de début de vos dernières règles, l'outil fournit une date estimée pour vos deux prochaines périodes. Connaître votre cycle est également essentiel pour identifier les fenêtres de fertilité avec notre <a href=\"/fr/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Ovulation</a>.",
+        "Le suivi de votre cycle est plus qu'une simple commodité ; c'est un indicateur clé de votre santé globale. Des cycles réguliers et prévisibles signifient souvent que les hormones de votre corps fonctionnent correctement. Une fois enceinte, notre <a href=\"/fr/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Date d'Accouchement</a> peut aider à estimer votre date d'accouchement."
       ],
       "list": [
         "Entrées simples : Saisissez la date de début de vos dernières règles et la durée de votre cycle.",
@@ -316,7 +316,7 @@
     {
       "heading": "Comprendre vos besoins caloriques quotidiens",
       "paragraphs": [
-        "Une calorie est une unité d'énergie. En nutrition, les calories désignent l'énergie que les gens tirent des aliments et des boissons qu'ils consomment, et l'énergie qu'ils dépensent lors d'une activité physique. Comprendre vos besoins caloriques quotidiens, qui dépendent souvent de facteurs comme votre âge (trouvez-le avec notre <a href=\"#/fr/age-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Âge</a>), est la première étape pour atteindre vos objectifs de poids, qu'il s'agisse de perdre, de prendre ou de maintenir votre poids actuel.",
+        "Une calorie est une unité d'énergie. En nutrition, les calories désignent l'énergie que les gens tirent des aliments et des boissons qu'ils consomment, et l'énergie qu'ils dépensent lors d'une activité physique. Comprendre vos besoins caloriques quotidiens, qui dépendent souvent de facteurs comme votre âge (trouvez-le avec notre <a href=\"/fr/age-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Âge</a>), est la première étape pour atteindre vos objectifs de poids, qu'il s'agisse de perdre, de prendre ou de maintenir votre poids actuel.",
         "Notre calculateur commence par déterminer votre Taux Métabolique de Base (TMB), qui est le nombre de calories dont votre corps a besoin pour accomplir les fonctions vitales de base au repos, telles que la respiration, la circulation et la production cellulaire. Nous utilisons l'équation de Mifflin-St Jeor, largement acceptée, pour ce calcul. Ensuite, nous prenons en compte votre niveau d'activité pour calculer votre Dépense Énergétique Journalière Totale (DEJT), qui est une estimation plus précise de votre dépense calorique quotidienne."
       ]
     },
@@ -360,7 +360,7 @@
     {
       "heading": "Comment utiliser le Calculateur de Temps",
       "paragraphs": [
-        "Notre Calculateur de Temps simplifie le processus d'addition et de soustraction de temps. Que vous suiviez des heures de travail, enregistriez des sessions d'exercice ou planifiez un événement, cet outil offre une solution rapide et précise. Pour calculer la durée entre une heure de début et de fin, par exemple pour une feuille de temps, notre <a href=\"#/fr/hours-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Heures</a> est également disponible. Saisissez simplement deux durées, sélectionnez si vous souhaitez les additionner ou les soustraire, et obtenez le résultat instantanément.",
+        "Notre Calculateur de Temps simplifie le processus d'addition et de soustraction de temps. Que vous suiviez des heures de travail, enregistriez des sessions d'exercice ou planifiez un événement, cet outil offre une solution rapide et précise. Pour calculer la durée entre une heure de début et de fin, par exemple pour une feuille de temps, notre <a href=\"/fr/hours-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Heures</a> est également disponible. Saisissez simplemente deux durées, sélectionnez si vous souhaitez les additionner ou les soustraire, et obtenez le résultat instantanément.",
         "Le calculateur décompose le temps en jours, heures, minutes et secondes. Pour la soustraction, assurez-vous que la première durée est supérieure ou égale à la seconde pour éviter les résultats négatifs."
       ]
     },
@@ -399,7 +399,7 @@
     {
       "heading": "Comment Utiliser le Calculateur d'Heures",
       "paragraphs": [
-        "Notre Calculateur d'Heures est conçu pour simplifier le calcul de la durée entre deux moments. Que vous calculiez des heures de travail, la durée d'un événement ou le temps passé sur une tâche, cet outil fournit un résultat rapide et précis. Pour des calculs plus complexes impliquant l'addition ou la soustraction de plusieurs durées, consultez notre <a href=\"#/fr/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a> complet. Entrez simplement les heures de début et de fin, et le calculateur s'occupera du reste, gérant les cas qui dépassent minuit."
+        "Notre Calculateur d'Heures est conçu pour simplifier le calcul de la durée entre deux moments. Que vous calculiez des heures de travail, la durée d'un événement ou le temps passé sur une tâche, cet outil fournit un résultat rapide et précis. Pour des calculs plus complexes impliquant l'addition ou la soustraction de plusieurs durées, consultez notre <a href=\"/fr/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a> complet. Entrez simplemente les heures de début et de fin, et le calculateur s'occupera du reste, gérant les cas qui dépassent minuit."
       ],
       "list": []
     },

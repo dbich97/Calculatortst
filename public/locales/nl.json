@@ -1,4 +1,3 @@
-
 {
   "title": "Rekenmachine",
   "selectLanguage": "Selecteer Taal",
@@ -62,7 +61,7 @@
     {
       "heading": "Hoe Onze Leeftijdscalculator Werkt",
       "paragraphs": [
-        "Onze Leeftijdscalculator berekent uw leeftijd met hoge precisie door uw geboortedatum te vergelijken met de huidige datum. De tool berekent de totale verstreken tijd en splitst deze op in jaren, maanden en dagen. Het houdt rekening met schrikkeljaren om een nauwkeurig resultaat te geven, waardoor het een betrouwbaar hulpmiddel is voor iedereen die zich afvraagt 'hoe oud ben ik?'. Voer gewoon uw geboortedatum in en de calculator toont onmiddellijk uw chronologische leeftijd. Voor andere tijdgerelateerde berekeningen kunt u ook onze <a href=\"#/nl/time-Calculator\" class=\"text-blue-500 hover:underline\">Tijdcalculator</a> proberen."
+        "Onze Leeftijdscalculator berekent uw leeftijd met hoge precisie door uw geboortedatum te vergelijken met de huidige datum. De tool berekent de totale verstreken tijd en splitst deze op in jaren, maanden en dagen. Het houdt rekening met schrikkeljaren om een nauwkeurig resultaat te geven, waardoor het een betrouwbaar hulpmiddel is voor iedereen die zich afvraagt 'hoe oud ben ik?'. Voer gewoon uw geboortedatum in en de calculator toont onmiddellijk uw chronologische leeftijd. Voor andere tijdgerelateerde berekeningen kunt u ook onze <a href=\"/nl/time-Calculator\" class=\"text-blue-500 hover:underline\">Tijdcalculator</a> proberen."
       ]
     },
     {
@@ -137,7 +136,7 @@
     {
       "heading": "Hoe onze Uitgerekende Datum Calculator Werkt",
       "paragraphs": [
-        "Onze Zwangerschapsuitgerekende Datum Calculator schat uw verwachte bevallingsdatum met behulp van verschillende methoden. De meest voorkomende methode is gebaseerd op de eerste dag van uw laatste menstruatie (LMP). Deze aanpak, bekend als de regel van Naegele, voegt 280 dagen (40 weken) toe aan uw LMP om de uitgerekende datum te voorspellen. Voor grotere nauwkeurigheid, vooral bij onregelmatige cycli, kunt u onze <a href=\"#/nl/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstruatiecyclus Calculator</a> gebruiken om uw menstruatie bij te houden. We bieden ook berekeningen op basis van de conceptiedatum, die kan worden geïdentificeerd met onze <a href=\"#/nl/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulatiecalculator</a>, of uw IVF-transferdatum.",
+        "Onze Zwangerschapsuitgerekende Datum Calculator schat uw verwachte bevallingsdatum met behulp van verschillende methoden. De meest voorkomende methode is gebaseerd op de eerste dag van uw laatste menstruatie (LMP). Deze aanpak, bekend als de regel van Naegele, voegt 280 dagen (40 weken) toe aan uw LMP om de uitgerekende datum te voorspellen. Voor grotere nauwkeurigheid, vooral bij onregelmatige cycli, kunt u onze <a href=\"/nl/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstruatiecyclus Calculator</a> gebruiken om uw menstruatie bij te houden. We bieden ook berekeningen op basis van de conceptiedatum, die kan worden geïdentificeerd met onze <a href=\"/nl/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulatiecalculator</a>, of uw IVF-transferdatum.",
         "Het is belangrijk te onthouden dat deze datum een schatting is. Slechts ongeveer 5% van de baby's wordt op hun exacte uitgerekende datum geboren. Deze tool biedt een betrouwbare richtlijn om u en uw zorgverlener te helpen bij het plannen van de komst van uw baby."
       ],
       "list": [
@@ -170,8 +169,8 @@
     {
       "heading": "Hoe u uw meest vruchtbare dagen kunt voorspellen",
       "paragraphs": [
-        "Onze Ovulatiecalculator is een eenvoudig hulpmiddel dat is ontworpen om u te helpen uw meest vruchtbare dagen van de maand te voorspellen. Door de eerste dag van uw laatste menstruatie en uw gemiddelde cycluslengte in te voeren, die u kunt bijhouden met onze <a href=\"#/nl/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstruatiecyclus Calculator</a>, schat de calculator uw waarschijnlijke ovulatiedatum. Ovulatie is het vrijkomen van een eicel uit uw eierstok, wat meestal ongeveer 14 dagen voor het begin van uw volgende menstruatie gebeurt.",
-        "Uw 'vruchtbare periode' omvat de dag van de ovulatie en de vijf dagen ervoor. Dit komt omdat sperma tot vijf dagen in het vrouwelijke voortplantingsstelsel kan overleven. Geslachtsgemeenschap tijdens deze periode verhoogt uw kansen op conceptie aanzienlijk. Zodra u zwanger bent, kunt u uw reis volgen met onze <a href=\"#/nl/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Zwangerschapsuitgerekende Datum Calculator</a>."
+        "Onze Ovulatiecalculator is een eenvoudig hulpmiddel dat is ontworpen om u te helpen uw meest vruchtbare dagen van de maand te voorspellen. Door de eerste dag van uw laatste menstruatie en uw gemiddelde cycluslengte in te voeren, die u kunt bijhouden met onze <a href=\"/nl/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstruatiecyclus Calculator</a>, schat de calculator uw waarschijnlijke ovulatiedatum. Ovulatie is het vrijkomen van een eicel uit uw eierstok, wat meestal ongeveer 14 dagen voor het begin van uw volgende menstruatie gebeurt.",
+        "Uw 'vruchtbare periode' omvat de dag van de ovulatie en de vijf dagen ervoor. Dit komt omdat sperma tot vijf dagen in het vrouwelijke voortplantingsstelsel kan overleven. Geslachtsgemeenschap tijdens deze periode verhoogt uw kansen op conceptie aanzienlijk. Zodra u zwanger bent, kunt u uw reis volgen met onze <a href=\"/nl/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Zwangerschapsuitgerekende Datum Calculator</a>."
       ],
       "list": [
         "Voer uw gegevens in: Begin met de datum van uw laatste menstruatie en uw cycluslengte.",
@@ -201,8 +200,8 @@
     {
       "heading": "Hoe onze menstruatiecalculator werkt",
       "paragraphs": [
-        "Onze Menstruatiecyclus Calculator helpt u de startdatum van uw volgende menstruatie te voorspellen met slechts twee gegevens: de eerste dag van uw laatste menstruatie en de gemiddelde lengte van uw menstruatiecyclus. Door uw gemiddelde cycluslengte op te tellen bij de startdatum van uw laatste menstruatie, geeft de tool een geschatte datum voor uw volgende twee menstruaties. Het kennen van uw cyclus is ook essentieel voor het identificeren van vruchtbare periodes met onze <a href=\"#/nl/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulatiecalculator</a>.",
-        "Het bijhouden van uw cyclus is meer dan alleen gemak; het is een belangrijke indicator van uw algehele gezondheid. Regelmatige, voorspelbare cycli duiden er vaak op dat de hormonen van uw lichaam correct functioneren. Deze informatie is van onschatbare waarde voor gezinsplanning, en eenmaal zwanger, kan onze <a href=\"#/nl/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Zwangerschapsuitgerekende Datum Calculator</a> helpen bij het schatten van uw uitgerekende datum."
+        "Onze Menstruatiecyclus Calculator helpt u de startdatum van uw volgende menstruatie te voorspellen met slechts twee gegevens: de eerste dag van uw laatste menstruatie en de gemiddelde lengte van uw menstruatiecyclus. Door uw gemiddelde cycluslengte op te tellen bij de startdatum van uw laatste menstruatie, geeft de tool een geschatte datum voor uw volgende twee menstruaties. Het kennen van uw cyclus is ook essentieel voor het identificeren van vruchtbare periodes met onze <a href=\"/nl/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulatiecalculator</a>.",
+        "Het bijhouden van uw cyclus is meer dan alleen gemak; het is een belangrijke indicator van uw algehele gezondheid. Regelmatige, voorspelbare cycli duiden er vaak op dat de hormonen van uw lichaam correct functioneren. Deze informatie is van onschatbare waarde voor gezinsplanning, en eenmaal zwanger, kan onze <a href=\"/nl/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Zwangerschapsuitgerekende Datum Calculator</a> helpen bij het schatten van uw uitgerekende datum."
       ],
       "list": [
         "Eenvoudige invoer: Voer de startdatum van uw laatste menstruatie en de cycluslengte in.",
@@ -316,7 +315,7 @@
     {
       "heading": "Uw dagelijkse caloriebehoefte begrijpen",
       "paragraphs": [
-        "Een calorie is een eenheid van energie. In de voeding verwijzen calorieën naar de energie die mensen halen uit het voedsel en de dranken die ze consumeren, en de energie die ze gebruiken bij lichamelijke activiteit. Het begrijpen van uw dagelijkse caloriebehoefte, wat vaak afhangt van factoren zoals uw leeftijd (vind deze met onze <a href=\"#/nl/age-calculator\" class=\"text-blue-500 hover:underline\">Leeftijdscalculator</a>), is de eerste stap naar het bereiken van uw gewichtsdoelen, of het nu gaat om afvallen, aankomen of uw huidige gewicht behouden.",
+        "Een calorie is een eenheid van energie. In de voeding verwijzen calorieën naar de energie die mensen halen uit het voedsel en de dranken die ze consumeren, en de energie die ze gebruiken bij lichamelijke activiteit. Het begrijpen van uw dagelijkse caloriebehoefte, wat vaak afhangt van factoren zoals uw leeftijd (vind deze met onze <a href=\"/nl/age-calculator\" class=\"text-blue-500 hover:underline\">Leeftijdscalculator</a>), is de eerste stap naar het bereiken van uw gewichtsdoelen, of het nu gaat om afvallen, aankomen of uw huidige gewicht behouden.",
         "Onze calculator begint met het bepalen van uw basaal metabolisme (BMR), het aantal calorieën dat uw lichaam nodig heeft om in rust basale levensondersteunende functies uit te voeren, zoals ademhaling, bloedsomloop en celproductie. We gebruiken de algemeen aanvaarde Mifflin-St Jeor-vergelijking voor deze berekening. Vervolgens houden we rekening met uw activiteitenniveau om uw totale dagelijkse energieverbruik (TDEE) te berekenen, wat een nauwkeurigere schatting is van uw dagelijkse calorieverbranding."
       ]
     },
@@ -360,7 +359,7 @@
     {
       "heading": "Hoe de Tijdcalculator te gebruiken",
       "paragraphs": [
-        "Onze Tijdcalculator vereenvoudigt het proces van het optellen en aftrekken van tijd. Of u nu werkuren bijhoudt, trainingssessies registreert of een evenement plant, deze tool biedt een snelle en nauwkeurige oplossing. Voor het berekenen van de duur tussen een start- en eindtijd, zoals voor een urenstaat, is onze <a href=\"#/nl/hours-calculator\" class=\"text-blue-500 hover:underline\">Urencalculator</a> ook beschikbaar. Voer eenvoudig twee tijdsduren in, selecteer of u ze wilt optellen of aftrekken en krijg direct het resultaat.",
+        "Onze Tijdcalculator vereenvoudigt het proces van het optellen en aftrekken van tijd. Of u nu werkuren bijhoudt, trainingssessies registreert of een evenement plant, deze tool biedt een snelle en nauwkeurige oplossing. Voor het berekenen van de duur tussen een start- en eindtijd, zoals voor een urenstaat, is onze <a href=\"/nl/hours-calculator\" class=\"text-blue-500 hover:underline\">Urencalculator</a> ook beschikbaar. Voer eenvoudig twee tijdsduren in, selecteer of u ze wilt optellen of aftrekken en krijg direct het resultaat.",
         "De calculator splitst de tijd op in dagen, uren, minuten en seconden. Zorg er bij het aftrekken voor dat de eerste tijdsduur groter is dan of gelijk is aan de tweede om negatieve resultaten te voorkomen."
       ]
     },
@@ -399,7 +398,7 @@
     {
       "heading": "Hoe de Urencalculator te gebruiken",
       "paragraphs": [
-        "Onze Urencalculator is ontworpen om het berekenen van de duur tussen twee tijdstippen te vereenvoudigen. Of u nu werkuren berekent, de duur van een evenement, of de tijd die aan een taak is besteed, deze tool biedt een snel en nauwkeurig resultaat. Voor complexere berekeningen die het optellen of aftrekken van meerdere duren inhouden, bekijk onze uitgebreide <a href=\"#/nl/time-Calculator\" class=\"text-blue-500 hover:underline\">Tijdcalculator</a>. Voer eenvoudig de start- en eindtijden in, en de calculator doet de rest, en behandelt ook gevallen die over middernacht gaan."
+        "Onze Urencalculator is ontworpen om het berekenen van de duur tussen twee tijdstippen te vereenvoudigen. Of u nu werkuren berekent, de duur van een evenement, of de tijd die aan een taak is besteed, deze tool biedt een snel en nauwkeurig resultaat. Voor complexere berekeningen die het optellen of aftrekken van meerdere duren inhouden, bekijk onze uitgebreide <a href=\"/nl/time-Calculator\" class=\"text-blue-500 hover:underline\">Tijdcalculator</a>. Voer eenvoudig de start- en eindtijden in, en de calculator doet de rest, en behandelt ook gevallen die over middernacht gaan."
       ]
     },
     {

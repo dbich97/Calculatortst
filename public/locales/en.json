@@ -61,7 +61,7 @@
     {
       "heading": "How Our Age Calculator Works",
       "paragraphs": [
-        "Our Age Calculator computes your age with high precision by comparing your date of birth to the current date. The tool calculates the total elapsed time and breaks it down into years, months, and days. It accounts for leap years to provide an accurate result, making it a reliable tool for anyone asking 'how old am i?'. Simply enter your birthdate, and the calculator instantly displays your chronological age. For other time-related calculations, you can also try our <a href=\"#/en/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a>."
+        "Our Age Calculator computes your age with high precision by comparing your date of birth to the current date. The tool calculates the total elapsed time and breaks it down into years, months, and days. It accounts for leap years to provide an accurate result, making it a reliable tool for anyone asking 'how old am i?'. Simply enter your birthdate, and the calculator instantly displays your chronological age. For other time-related calculations, you can also try our <a href=\"/en/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a>."
       ]
     },
     {
@@ -136,7 +136,7 @@
     {
       "heading": "How Our Due Date Calculator Works",
       "paragraphs": [
-        "Our Pregnancy Due Date Calculator estimates your expected delivery date using several methods. The most common method is based on the first day of your last menstrual period (LMP). This approach, known as Naegele's rule, adds 280 days (40 weeks) to your LMP to predict the due date. For more accuracy, especially with irregular cycles, you can use our <a href=\"#/en/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstrual Cycle Calculator</a> to track your period. We also offer calculations based on the date of conception, which can be identified with our <a href=\"#/en/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulation Calculator</a>, or your IVF transfer date.",
+        "Our Pregnancy Due Date Calculator estimates your expected delivery date using several methods. The most common method is based on the first day of your last menstrual period (LMP). This approach, known as Naegele's rule, adds 280 days (40 weeks) to your LMP to predict the due date. For more accuracy, especially with irregular cycles, you can use our <a href=\"/en/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstrual Cycle Calculator</a> to track your period. We also offer calculations based on the date of conception, which can be identified with our <a href=\"/en/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulation Calculator</a>, or your IVF transfer date.",
         "It's important to remember that this date is an estimate. Only about 5% of babies are born on their exact due date. This tool provides a reliable guideline to help you and your healthcare provider plan for your baby's arrival."
       ],
       "list": [
@@ -169,8 +169,8 @@
     {
       "heading": "How to Predict Your Most Fertile Days",
       "paragraphs": [
-        "Our Ovulation Calculator is a simple tool designed to help you predict your most fertile days of the month. By entering the first day of your last menstrual period and your average cycle length, which you can track with our <a href=\"#/en/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstrual Cycle Calculator</a>, the calculator estimates your probable ovulation date. Ovulation is the release of an egg from your ovary, which typically happens about 14 days before your next period begins.",
-        "Your 'fertile window' includes the day of ovulation and the five days leading up to it. This is because sperm can survive in the female reproductive tract for up to five days. Having intercourse during this window significantly increases your chances of conception. Once pregnant, you can track your journey with our <a href=\"#/en/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Due Date Calculator</a>."
+        "Our Ovulation Calculator is a simple tool designed to help you predict your most fertile days of the month. By entering the first day of your last menstrual period and your average cycle length, which you can track with our <a href=\"/en/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstrual Cycle Calculator</a>, the calculator estimates your probable ovulation date. Ovulation is the release of an egg from your ovary, which typically happens about 14 days before your next period begins.",
+        "Your 'fertile window' includes the day of ovulation and the five days leading up to it. This is because sperm can survive in the female reproductive tract for up to five days. Having intercourse during this window significantly increases your chances of conception. Once pregnant, you can track your journey with our <a href=\"/en/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Due Date Calculator</a>."
       ],
       "list": [
         "Input Your Data: Start with your last period date and cycle length.",
@@ -200,13 +200,8 @@
     {
       "heading": "How Our Period Calculator Works",
       "paragraphs": [
-        "Our Menstrual Cycle Calculator helps you predict the start date of your next period with just two pieces of information: the first day of your last period and the average length of your menstrual cycle. By adding your average cycle length to your last period's start date, the tool provides an estimated date for your next two periods. Knowing your cycle is also key to identifying fertile windows with our <a href=\"#/en/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulation Calculator</a>.",
-        "Tracking your cycle is about more than just convenience; it's a key indicator of your overall health. Regular, predictable cycles often signify that your body's hormones are functioning correctly. This information is invaluable for family planning, and once pregnant, our <a href=\"#/en/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Due Date Calculator</a> can help estimate your due date."
-      ],
-      "list": [
-        "Simple Inputs: Enter your last period start date and cycle length.",
-        "Instant Predictions: Immediately see estimated dates for your next periods.",
-        "Plan Ahead: Use the predictions to plan for events, vacations, or simply be prepared."
+        "Our Menstrual Cycle Calculator helps you predict the start date of your next period with just two pieces of information: the first day of your last period and the average length of your menstrual cycle. By adding your average cycle length to your last period's start date, the tool provides an estimated date for your next two periods. Knowing your cycle is also key to identifying fertile windows with our <a href=\"/en/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulation Calculator</a>.",
+        "Tracking your cycle is about more than just convenience; it's a key indicator of your overall health. Regular, predictable cycles often signify that your body's hormones are functioning correctly. This information is invaluable for family planning, and once pregnant, our <a href=\"/en/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Due Date Calculator</a> can help estimate your due date."
       ]
     },
     {
@@ -315,7 +310,7 @@
     {
       "heading": "Understanding Your Daily Calorie Needs",
       "paragraphs": [
-        "A calorie is a unit of energy. In nutrition, calories refer to the energy people get from the food and drink they consume, and the energy they use in physical activity. Understanding your daily calorie needs, which often depends on factors like your age (find it with our <a href=\"#/en/age-calculator\" class=\"text-blue-500 hover:underline\">Age Calculator</a>), is the first step towards achieving your weight goals, whether it's losing, gaining, or maintaining your current weight.",
+        "A calorie is a unit of energy. In nutrition, calories refer to the energy people get from the food and drink they consume, and the energy they use in physical activity. Understanding your daily calorie needs, which often depends on factors like your age (find it with our <a href=\"/en/age-calculator\" class=\"text-blue-500 hover:underline\">Age Calculator</a>), is the first step towards achieving your weight goals, whether it's losing, gaining, or maintaining your current weight.",
         "Our calculator starts by determining your Basal Metabolic Rate (BMR), which is the number of calories your body needs to perform basic life-sustaining functions at rest, such as breathing, circulation, and cell production. We use the widely accepted Mifflin-St Jeor equation for this calculation. Then, we factor in your activity level to calculate your Total Daily Energy Expenditure (TDEE), which is a more accurate estimate of your daily calorie burn."
       ]
     },
@@ -359,7 +354,7 @@
     {
       "heading": "How to Use the Time Calculator",
       "paragraphs": [
-        "Our Time Calculator simplifies the process of adding and subtracting time. Whether you're tracking work hours, logging exercise sessions, or planning an event, this tool provides a quick and accurate solution. For calculating the duration between a start and end time, such as for a timesheet, our <a href=\"#/en/hours-calculator\" class=\"text-blue-500 hover:underline\">Hours Calculator</a> is also available. Simply input two time durations, select whether to add or subtract them, and get the result instantly."
+        "Our Time Calculator simplifies the process of adding and subtracting time. Whether you're tracking work hours, logging exercise sessions, or planning an event, this tool provides a quick and accurate solution. For calculating the duration between a start and end time, such as for a timesheet, our <a href=\"/en/hours-calculator\" class=\"text-blue-500 hover:underline\">Hours Calculator</a> is also available. Simply input two time durations, select whether to add or subtract them, and get the result instantly."
       ]
     },
     {
@@ -397,7 +392,7 @@
     {
       "heading": "How to Use the Hours Calculator",
       "paragraphs": [
-        "Our Hours Calculator is designed to simplify calculating the duration between two points in time. Whether you're figuring out work hours, an event's duration, or time spent on a task, this tool provides a quick and accurate result. For more complex calculations involving adding or subtracting multiple durations, check out our comprehensive <a href=\"#/en/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a>. Simply input the start and end times, and the calculator will do the rest, handling cases that cross over midnight."
+        "Our Hours Calculator is designed to simplify calculating the duration between two points in time. Whether you're figuring out work hours, an event's duration, or time spent on a task, this tool provides a quick and accurate result. For more complex calculations involving adding or subtracting multiple durations, check out our comprehensive <a href=\"/en/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a>. Simply input the start and end times, and the calculator will do the rest, handling cases that cross over midnight."
       ]
     },
     {
