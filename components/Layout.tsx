@@ -3,6 +3,8 @@ import { useParams, useNavigate, Outlet, NavLink, Link, useLocation } from 'reac
 import { LanguageCode, type Translation } from '../types';
 import LanguageSelector from './LanguageSelector';
 import { languagesWithHoursCalculator } from '../lib/i18n';
+import SideAdComponent from './SideAdComponent';
+import FooterAdComponent from './FooterAdComponent';
 
 const Layout: React.FC = () => {
     const { lang } = useParams<{ lang: string }>();
@@ -122,6 +124,10 @@ const Layout: React.FC = () => {
 
     return (
         <div className="min-h-screen bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100 flex flex-col">
+            {/* --- Side Ads for Desktop --- */}
+            <SideAdComponent slotId="4208128655" position={['ar', 'fa'].includes(currentLang) ? 'right' : 'left'} />
+            <SideAdComponent slotId="7836402926" position={['ar', 'fa'].includes(currentLang) ? 'left' : 'right'} />
+
             <header className="bg-white dark:bg-gray-800 shadow-md sticky top-0 z-50">
                 <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="flex items-center justify-between h-16">
@@ -220,6 +226,8 @@ const Layout: React.FC = () => {
             <main className="flex-grow">
                 <Outlet context={{ t, currentLang }} />
             </main>
+            
+            <FooterAdComponent />
 
             <footer className="bg-white dark:bg-gray-800 shadow-inner mt-auto">
                 <div className="max-w-7xl mx-auto py-4 px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row justify-between items-center text-sm text-gray-500 dark:text-gray-400">
