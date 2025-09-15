@@ -1,4 +1,3 @@
-
 {
   "title": "計算機",
   "selectLanguage": "言語を選択",
@@ -408,6 +407,37 @@
         "活動記録：趣味、勉強、運動に費やす時間を監視します。"
       ],
       "list": []
+    }
+  ],
+  "navDateCalculator": "日付計算機",
+  "homeDateCalculatorDescription": "特定の日付から日、週、月、年を加算または減算します。",
+  "seoDateTitle": "日付計算機 - 日付の加算と減算",
+  "seoDateDescription": "開始日から年、月、週、日を加算または減算するための無料のオンラインツール。イベントや締め切りの計画に最適です。",
+  "dateTitle": "日付計算機",
+  "dateSubheading": "特定の日付から期間を加算または減算します。",
+  "startDateLabel": "開始日",
+  "addDurationLabel": "期間を追加",
+  "subtractDurationLabel": "期間を減算",
+  "calculateDateButton": "日付を計算",
+  "resultDateLabel": "結果の日付",
+  "seoDateSections": [
+    {
+      "heading": "日付計算機の使い方",
+      "paragraphs": [
+        "当社の『日付計算機』は、特定の日付から期間を加算または減算する作業を簡素化するように設計されています。将来のイベントを計画している場合、締め切りを設定している場合、または過去の日付を振り返っている場合でも、このツールは迅速かつ正確な計算を提供します。開始日を入力し、加算または減算したい年、月、週、日の数を指定するだけです。計算機は、うるう年や月の長さの違いなどの詳細を考慮して精度を保証します。",
+        "このツールは、当社の他の時間ベースのユーティリティを補完します。たとえば、誰かの年齢を決定するために<a href='/ja/age-calculator' class='text-blue-500 hover:underline'>年齢計算機</a>を使用したり、同じ日の2つの時刻間の期間を見つけるために<a href='/ja/hours-calculator' class='text-blue-500 hover:underline'>時間計算機</a>を使用したりできます。複数の期間を含む計算には、<a href='/ja/time-Calculator' class='text-blue-500 hover:underline'>時間計算機</a>が最適です。"
+      ]
+    },
+    {
+      "heading": "実用的な応用例",
+      "paragraphs": [
+        "『日付計算機』は、日常、個人、専門のさまざまなシナリオで非常に役立ちます。",
+        "<strong>個人的な計画：</strong>休暇のために今から90日後の日付が何日になるか知りたいですか？または、記念日から6ヶ月が経過した日を知りたいかもしれません。",
+        "<strong>プロジェクト管理：</strong>プロジェクトの締め切りを簡単に設定できます。プロジェクトが1月15日に開始され、8週間と3日かかる場合、正確な終了日を即座に見つけることができます。",
+        "<strong>健康関連の予定：</strong>医療予約や投薬スケジュールを管理します。予約の3ヶ月後にフォローアップをスケジュールする必要がある場合、このツールは正確な日付を提供します。",
+        "<strong>財務計画：</strong>特定の年数と月数にわたるローンや投資計画の期日を計算します。",
+        "<strong>妊娠計画：</strong>当社の<a href='/ja/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>妊娠出産予定日計算機</a>は詳細な出産予定日の推定を提供しますが、このツールは妊娠期間中の特定の日付に関する迅速な計算に使用できます。"
+      ]
     }
   ]
 }

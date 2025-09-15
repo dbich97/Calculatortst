@@ -302,7 +302,7 @@ export interface Translation {
   errorInvalidTime: string;
   seoTimeSections: SeoSection[];
 
-  // Hours Calculator (Arabic only)
+  // Hours Calculator
   navHoursCalculator?: string;
   homeHoursCalculatorDescription?: string;
   seoHoursTitle?: string;
@@ -320,4 +320,18 @@ export interface Translation {
   resultHours?: string;
   resultMinutes?: string;
   seoHoursSections?: SeoSection[];
+
+  // Date Calculator (Arabic only)
+  navDateCalculator?: string;
+  homeDateCalculatorDescription?: string;
+  seoDateTitle?: string;
+  seoDateDescription?: string;
+  dateTitle?: string;
+  dateSubheading?: string;
+  startDateLabel?: string;
+  addDurationLabel?: string;
+  subtractDurationLabel?: string;
+  calculateDateButton?: string;
+  resultDateLabel?: string;
+  seoDateSections?: SeoSection[];
 }

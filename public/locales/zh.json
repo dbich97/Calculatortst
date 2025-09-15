@@ -395,5 +395,35 @@
         "活动跟踪：监控您花在爱好、学习或锻炼上的时间。"
       ]
     }
+  ],
+  "navDateCalculator": "日期计算器",
+  "homeDateCalculatorDescription": "从特定日期添加或减去天数、周数、月数和年数。",
+  "seoDateTitle": "日期计算器 - 从日期加减时间",
+  "seoDateDescription": "一个免费的在线工具，可以从开始日期添加或减去几年、几个月、几周和几天。非常适合规划活动和截止日期。",
+  "dateTitle": "日期计算器",
+  "dateSubheading": "从特定日期添加或减去一段时间。",
+  "startDateLabel": "开始日期",
+  "addDurationLabel": "添加时长",
+  "subtractDurationLabel": "减去时长",
+  "calculateDateButton": "计算日期",
+  "resultDateLabel": "结果日期",
+  "seoDateSections": [
+    {
+      "heading": "如何使用日期计算器",
+      "paragraphs": [
+        "我们的日期计算器旨在简化从特定日期加减时间段的过程。无论您是计划未来事件、设定截止日期，还是回顾过去某个日期，该工具都能提供快速准确的计算。只需输入开始日期，然后指定要加减的年、月、周和天数即可。计算器会考虑闰年和不同月份长度等细节以确保准确性。该工具补充了我们其他基于时间的实用程序。例如，您可以使用我们的<a href='/zh/age-calculator' class='text-blue-500 hover:underline'>年龄计算器</a>来确定某人的年龄，或使用我们的<a href='/zh/hours-calculator' class='text-blue-500 hover:underline'>小时计算器</a>来查找同一天两个时间之间的时长。对于涉及多个时间段的计算，我们的<a href='/zh/time-Calculator' class='text-blue-500 hover:underline'>时间计算器</a>是完美的选择。"
+      ]
+    },
+    {
+      "heading": "实际应用和示例",
+      "paragraphs": [
+        "日期计算器在各种日常、个人和专业场景中都非常有用：",
+        "<strong>个人规划：</strong>想知道从现在起90天后您的假期是哪一天吗？或者您想知道某个纪念日过后6个月是什么时候。",
+        "<strong>项目管理：</strong>轻松设定项目截止日期。如果一个项目从1月15日开始，需要8周零3天，您可以立即找到确切的结束日期。",
+        "<strong>健康预约：</strong>跟踪医疗预约或用药时间表。如果您需要在一次预约后3个月安排复诊，此工具可以给出精确日期。",
+        "<strong>财务规划：</strong>计算跨越特定年数的贷款或投资计划的到期日。",
+        "<strong>怀孕计划：</strong>虽然我们的<a href='/zh/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>怀孕预产期计算器</a>提供详细的预产期估算，但此工具可用于快速计算孕期内的特定日期。"
+      ]
+    }
   ]
 }

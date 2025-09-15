@@ -398,5 +398,36 @@
         "Acompanhamento de Atividades: Monitore o tempo que você gasta em hobbies, estudos ou exercícios."
       ]
     }
+  ],
+  "navDateCalculator": "Calculadora de Datas",
+  "homeDateCalculatorDescription": "Adicione ou subtraia dias, semanas, meses e anos de uma data específica.",
+  "seoDateTitle": "Calculadora de Datas - Adicionar e Subtrair de Datas",
+  "seoDateDescription": "Uma ferramenta online gratuita para adicionar ou subtrair anos, meses, semanas e dias de uma data de início. Perfeita para planejar eventos e prazos.",
+  "dateTitle": "Calculadora de Datas",
+  "dateSubheading": "Adicione ou subtraia uma duração de uma data específica.",
+  "startDateLabel": "Data de Início",
+  "addDurationLabel": "Adicionar Duração",
+  "subtractDurationLabel": "Subtrair Duração",
+  "calculateDateButton": "Calcular Data",
+  "resultDateLabel": "Data Resultante",
+  "seoDateSections": [
+    {
+      "heading": "Como Usar a Calculadora de Datas",
+      "paragraphs": [
+        "Nossa Calculadora de Datas foi projetada para simplificar a adição ou subtração de períodos de tempo de uma data específica. Se você está planejando um evento futuro, definindo um prazo ou olhando para uma data no passado, esta ferramenta oferece cálculos rápidos e precisos. Basta inserir uma data de início e, em seguida, especificar o número de anos, meses, semanas e dias que deseja adicionar ou subtrair. A calculadora leva em conta detalhes como anos bissextos e durações variáveis dos meses para garantir a precisão.",
+        "Esta ferramenta complementa nossas outras utilidades baseadas em tempo. Por exemplo, você pode usar nossa <a href='/pt/age-calculator' class='text-blue-500 hover:underline'>Calculadora de Idade</a> para determinar a idade de alguém, ou nossa <a href='/pt/hours-calculator' class='text-blue-500 hover:underline'>Calculadora de Horas</a> para encontrar a duração entre dois horários no mesmo dia. Para cálculos envolvendo múltiplas durações de tempo, nossa <a href='/pt/time-Calculator' class='text-blue-500 hover:underline'>Calculadora de Tempo</a> é a escolha perfeita."
+      ]
+    },
+    {
+      "heading": "Aplicações Práticas e Exemplos",
+      "paragraphs": [
+        "A Calculadora de Datas é incrivelmente útil em uma variedade de cenários diários, pessoais e profissionais:",
+        "<strong>Planejamento Pessoal:</strong> Quer saber qual será a data daqui a 90 dias para suas férias? Ou talvez você queira saber quando se passaram 6 meses desde um aniversário.",
+        "<strong>Gerenciamento de Projetos:</strong> Defina facilmente os prazos do projeto. Se um projeto começa em 15 de janeiro e leva 8 semanas e 3 dias, você pode encontrar instantaneamente a data exata de término.",
+        "<strong>Consultas Médicas:</strong> Acompanhe consultas médicas ou horários de medicação. Se você precisa agendar um acompanhamento 3 meses após uma consulta, esta ferramenta lhe dá a data precisa.",
+        "<strong>Planejamento Financeiro:</strong> Calcule as datas de vencimento para empréstimos ou planos de investimento que abrangem um número específico de anos e meses.",
+        "<strong>Planejamento da Gravidez:</strong> Embora nossa <a href='/pt/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Calculadora da Data do Parto</a> forneça estimativas detalhadas da data de vencimento, esta ferramenta pode ser usada para cálculos rápidos sobre datas específicas durante o período."
+      ]
+    }
   ]
 }

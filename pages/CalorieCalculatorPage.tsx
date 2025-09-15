@@ -36,7 +36,7 @@ const CalorieCalculatorPage: React.FC = () => {
     const [activityLevel, setActivityLevel] = useState('sedentary');
 
     // Goal
-    const [goal, setGoal] =useState('maintain');
+    const [goal, setGoal] = useState('maintainWeight');
 
     // Results
     const [bmr, setBmr] = useState(0);
@@ -106,7 +106,7 @@ const CalorieCalculatorPage: React.FC = () => {
         const maintenance = bmr * activityMultipliers[activityLevel];
         setMaintenanceCalories(Math.round(maintenance));
         const goalModifiers: Record<string, number> = {
-            maintain: 0, mildWeightLoss: -250, weightLoss: -500, extremeWeightLoss: -1000,
+            maintainWeight: 0, mildWeightLoss: -250, weightLoss: -500, extremeWeightLoss: -1000,
             mildWeightGain: 250, weightGain: 500, fastWeightGain: 1000,
         };
         setGoalCalories(Math.round(maintenance + goalModifiers[goal]));
@@ -232,12 +232,11 @@ const CalorieCalculatorPage: React.FC = () => {
             case 3: // Goal
                 // FIX: Use 'as const' to ensure 'g' is a specific string literal, not a generic string. This allows TypeScript to correctly infer the type of t[g] as string.
                 const goals = ['maintainWeight', 'mildWeightLoss', 'weightLoss', 'extremeWeightLoss', 'mildWeightGain', 'weightGain', 'fastWeightGain'] as const;
-                const goalMap: Record<string, string> = { maintainWeight: 'maintain', mildWeightLoss: 'mildWeightLoss', weightLoss: 'weightLoss', extremeWeightLoss: 'extremeWeightLoss', mildWeightGain: 'mildWeightGain', weightGain: 'weightGain', fastWeightGain: 'fastWeightGain'};
                 return (
                     <div className="space-y-4">
                         <label className={labelClasses}>{t.goalLabel}</label>
                         {goals.map(g => (
-                            <button key={g} onClick={() => setGoal(goalMap[g])} className={`w-full text-left p-4 rounded-lg border-2 transition ${goal === goalMap[g] ? 'border-blue-500 bg-blue-50 dark:bg-blue-900/50' : 'border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800'}`}>
+                            <button key={g} onClick={() => setGoal(g)} className={`w-full text-left p-4 rounded-lg border-2 transition ${goal === g ? 'border-blue-500 bg-blue-50 dark:bg-blue-900/50' : 'border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800'}`}>
                                <span className="font-bold text-gray-800 dark:text-white">{t[g]}</span>
                             </button>
                         ))}
@@ -246,7 +245,7 @@ const CalorieCalculatorPage: React.FC = () => {
             case 4: // Results
                 return (
                     <div className="text-center space-y-4">
-                        <h3 className="text-2xl font-bold">{t.goalResultText[goal]}</h3>
+                        <h3 className="text-2xl font-bold">{t.goalResultText[goal as keyof typeof t.goalResultText]}</h3>
                         <div className="p-6 bg-blue-50 dark:bg-blue-900/50 rounded-xl">
                             <p className="text-lg text-gray-600 dark:text-gray-300">{t.caloriesPerDay}</p>
                             <p className="text-5xl font-extrabold text-blue-600 dark:text-blue-400">{goalCalories.toLocaleString()}</p>
@@ -302,7 +301,7 @@ const CalorieCalculatorPage: React.FC = () => {
                                     <div className="p-4 bg-gray-50 dark:bg-gray-700/50 rounded-lg">
                                         <h4 className="text-xl font-semibold mb-2">{t.summaryYourProfile}</h4>
                                         {/* FIX: Remove incorrect 'as keyof Translation' cast. The 'gender' state is already typed as 'male' | 'female', allowing TypeScript to correctly infer t[gender] as a string. */}
-                                        <p>{t.genderLabel}: {t[gender]}, {t.ageLabel}: {age} {t.ageUnit}, {t.goalLabel}: {t.goalResultText[goal]}</p>
+                                        <p>{t.genderLabel}: {t[gender]}, {t.ageLabel}: {age} {t.ageUnit}, {t.goalLabel}: {t.goalResultText[goal as keyof typeof t.goalResultText]}</p>
                                     </div>
                                     <div className="p-4 bg-gray-50 dark:bg-gray-700/50 rounded-lg">
                                         <h4 className="text-xl font-semibold mb-2">{t.summaryYourResults}</h4>

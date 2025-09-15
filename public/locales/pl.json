@@ -405,5 +405,35 @@
         "Śledzenie Aktywności: Monitoruj czas, który spędzasz na hobby, nauce lub ćwiczeniach."
       ]
     }
+  ],
+  "navDateCalculator": "Kalkulator Dat",
+  "homeDateCalculatorDescription": "Dodawaj lub odejmuj dni, tygodnie, miesiące i lata od określonej daty.",
+  "seoDateTitle": "Kalkulator Dat - Dodawaj i Odejmuj od Dat",
+  "seoDateDescription": "Darmowe narzędzie online do dodawania lub odejmowania lat, miesięcy, tygodni i dni od daty początkowej. Idealne do planowania wydarzeń i terminów.",
+  "dateTitle": "Kalkulator Dat",
+  "dateSubheading": "Dodaj lub odejmij okres czasu od określonej daty.",
+  "startDateLabel": "Data Początkowa",
+  "addDurationLabel": "Dodaj Okres Czasu",
+  "subtractDurationLabel": "Odejmij Okres Czasu",
+  "calculateDateButton": "Oblicz Datę",
+  "resultDateLabel": "Data Wynikowa",
+  "seoDateSections": [
+    {
+      "heading": "Jak Korzystać z Kalkulatora Dat",
+      "paragraphs": [
+        "Nasz Kalkulator Dat został zaprojektowany, aby uprościć dodawanie lub odejmowanie okresów czasu od określonej daty. Niezależnie od tego, czy planujesz przyszłe wydarzenie, ustalasz termin, czy patrzysz na datę w przeszłości, to narzędzie zapewnia szybkie i dokładne obliczenia. Wystarczy wprowadzić datę początkową, a następnie określić liczbę lat, miesięcy, tygodni i dni, które chcesz dodać lub odjąć. Kalkulator uwzględnia szczegóły, takie jak lata przestępne i zmienną długość miesięcy, aby zapewnić dokładność. To narzędzie uzupełnia nasze inne narzędzia oparte na czasie. Na przykład możesz użyć naszego <a href='/pl/age-calculator' class='text-blue-500 hover:underline'>Kalkulatora Wieku</a>, aby określić czyjś wiek, lub naszego <a href='/pl/hours-calculator' class='text-blue-500 hover:underline'>Kalkulatora Godzin</a>, aby znaleźć czas trwania między dwiema godzinami tego samego dnia. W przypadku obliczeń obejmujących wiele okresów czasu, nasz <a href='/pl/time-Calculator' class='text-blue-500 hover:underline'>Kalkulator Czasu</a> jest idealnym wyborem."
+      ]
+    },
+    {
+      "heading": "Praktyczne Zastosowania i Przykłady",
+      "paragraphs": [
+        "Kalkulator Dat jest niezwykle przydatny w różnych scenariuszach codziennych, osobistych i zawodowych:",
+        "<strong>Planowanie Osobiste:</strong> Zastanawiasz się, jaka będzie data za 90 dni na wakacje? A może chcesz wiedzieć, kiedy minie 6 miesięcy od rocznicy.",
+        "<strong>Zarządzanie Projektami:</strong> Łatwo ustalaj terminy projektów. Jeśli projekt rozpoczyna się 15 stycznia i trwa 8 tygodni i 3 dni, możesz natychmiast znaleźć dokładną datę zakończenia.",
+        "<strong>Wizyty Lekarskie:</strong> Śledź wizyty lekarskie lub harmonogramy leków. Jeśli musisz zaplanować wizytę kontrolną 3 miesiące po wizycie, to narzędzie poda Ci dokładną datę.",
+        "<strong>Planowanie Finansowe:</strong> Obliczaj terminy spłaty pożyczek lub planów inwestycyjnych, które obejmują określoną liczbę lat i miesięcy.",
+        "<strong>Planowanie Ciąży:</strong> Chociaż nasz <a href='/pl/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Kalkulator Ciąży</a> dostarcza szczegółowych szacunków terminu porodu, to narzędzie może być używane do szybkich obliczeń dotyczących określonych dat w trakcie ciąży."
+      ]
+    }
   ]
 }

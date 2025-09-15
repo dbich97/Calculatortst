@@ -409,5 +409,35 @@
         "활동 추적: 취미, 공부 또는 운동에 소요되는 시간을 모니터링합니다."
       ]
     }
+  ],
+  "navDateCalculator": "날짜 계산기",
+  "homeDateCalculatorDescription": "특정 날짜에 일, 주, 월, 년을 더하거나 뺍니다.",
+  "seoDateTitle": "날짜 계산기 - 날짜 더하기 및 빼기",
+  "seoDateDescription": "시작 날짜에서 년, 월, 주, 일을 더하거나 빼는 무료 온라인 도구입니다. 이벤트 및 마감일 계획에 적합합니다.",
+  "dateTitle": "날짜 계산기",
+  "dateSubheading": "특정 날짜에서 기간을 더하거나 뺍니다.",
+  "startDateLabel": "시작 날짜",
+  "addDurationLabel": "기간 추가",
+  "subtractDurationLabel": "기간 빼기",
+  "calculateDateButton": "날짜 계산",
+  "resultDateLabel": "결과 날짜",
+  "seoDateSections": [
+    {
+      "heading": "날짜 계산기 사용 방법",
+      "paragraphs": [
+        "저희 날짜 계산기는 특정 날짜에서 기간을 더하거나 빼는 과정을 단순화하도록 설계되었습니다. 미래의 이벤트를 계획하든, 마감일을 정하든, 과거의 날짜를 되돌아보든, 이 도구는 빠르고 정확한 계산을 제공합니다. 시작 날짜를 입력한 다음 더하거나 빼고 싶은 년, 월, 주, 일 수를 지정하기만 하면 됩니다. 계산기는 정확성을 보장하기 위해 윤년 및 다양한 월 길이와 같은 세부 사항을 고려합니다. 이 도구는 다른 시간 기반 유틸리티를 보완합니다. 예를 들어, <a href='/ko/age-calculator' class='text-blue-500 hover:underline'>나이 계산기</a>를 사용하여 누군가의 나이를 결정하거나, <a href='/ko/hours-calculator' class='text-blue-500 hover:underline'>시간 계산기</a>를 사용하여 같은 날 두 시간 사이의 기간을 찾을 수 있습니다. 여러 기간을 포함하는 계산의 경우 <a href='/ko/time-Calculator' class='text-blue-500 hover:underline'>시간 계산기</a>가 완벽한 선택입니다."
+      ]
+    },
+    {
+      "heading": "실제 적용 및 예시",
+      "paragraphs": [
+        "날짜 계산기는 다양한 일상, 개인 및 전문 시나리오에서 매우 유용합니다.",
+        "<strong>개인 계획:</strong> 휴가를 위해 지금부터 90일 후의 날짜가 궁금하십니까? 아니면 기념일로부터 6개월이 지난 시점을 알고 싶을 수도 있습니다.",
+        "<strong>프로젝트 관리:</strong> 프로젝트 마감일을 쉽게 설정합니다. 프로젝트가 1월 15일에 시작하여 8주 3일이 걸린다면, 정확한 종료 날짜를 즉시 찾을 수 있습니다.",
+        "<strong>의료 약속:</strong> 의료 약속이나 약물 복용 일정을 추적합니다. 약속 후 3개월 후에 후속 조치를 예약해야 하는 경우, 이 도구는 정확한 날짜를 제공합니다.",
+        "<strong>재무 계획:</strong> 특정 년 및 월에 걸쳐 있는 대출 또는 투자 계획의 만기일을 계산합니다.",
+        "<strong>임신 계획:</strong> 저희 <a href='/ko/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>임신 예정일 계산기</a>가 상세한 예정일 추정치를 제공하지만, 이 도구는 임신 기간 중 특정 날짜에 대한 빠른 계산에 사용할 수 있습니다."
+      ]
+    }
   ]
 }

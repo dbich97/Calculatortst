@@ -413,5 +413,36 @@
       ],
       "list": []
     }
+  ],
+  "navDateCalculator": "Calculateur de Dates",
+  "homeDateCalculatorDescription": "Ajoutez ou soustrayez des jours, des semaines, des mois et des années à une date spécifique.",
+  "seoDateTitle": "Calculateur de Dates - Additionner & Soustraire à partir de Dates",
+  "seoDateDescription": "Un outil en ligne gratuit pour ajouter ou soustraire des années, des mois, des semaines et des jours à une date de début. Parfait pour planifier des événements et des échéances.",
+  "dateTitle": "Calculateur de Dates",
+  "dateSubheading": "Ajoutez ou soustrayez une durée à une date spécifique.",
+  "startDateLabel": "Date de Début",
+  "addDurationLabel": "Ajouter une Durée",
+  "subtractDurationLabel": "Soustraire une Durée",
+  "calculateDateButton": "Calculer la Date",
+  "resultDateLabel": "Date Résultante",
+  "seoDateSections": [
+    {
+      "heading": "Comment utiliser le Calculateur de Dates",
+      "paragraphs": [
+        "Notre Calculateur de Dates est conçu pour simplifier l'ajout ou la soustraction de périodes de temps à une date spécifique. Que vous planifiez un événement futur, fixiez une échéance ou regardiez une date dans le passé, cet outil fournit des calculs rapides et précis. Entrez simplement une date de début, puis spécifiez le nombre d'années, de mois, de semaines et de jours que vous souhaitez ajouter ou soustraire. Le calculateur tient compte de détails comme les années bissextiles et les longueurs de mois variables pour garantir l'exactitude.",
+        "Cet outil complète nos autres utilitaires basés sur le temps. Par exemple, vous pouvez utiliser notre <a href='/fr/age-calculator' class='text-blue-500 hover:underline'>Calculateur d'Âge</a> pour déterminer l'âge de quelqu'un, ou notre <a href='/fr/hours-calculator' class='text-blue-500 hover:underline'>Calculateur d'Heures</a> pour trouver la durée entre deux heures le même jour. Pour les calculs impliquant plusieurs durées, notre <a href='/fr/time-Calculator' class='text-blue-500 hover:underline'>Calculateur de Temps</a> est le choix parfait."
+      ]
+    },
+    {
+      "heading": "Applications Pratiques et Exemples",
+      "paragraphs": [
+        "Le Calculateur de Dates est incroyablement utile dans une variété de scénarios quotidiens, personnels et professionnels :",
+        "<strong>Planification Personnelle :</strong> Vous vous demandez quelle sera la date dans 90 jours pour vos vacances ? Ou peut-être voulez-vous savoir quand 6 mois se seront écoulés depuis un anniversaire.",
+        "<strong>Gestion de Projet :</strong> Fixez facilement des échéances de projet. Si un projet commence le 15 janvier et dure 8 semaines et 3 jours, vous pouvez trouver instantanément la date de fin exacte.",
+        "<strong>Rendez-vous Médicaux :</strong> Suivez les rendez-vous médicaux ou les horaires de médication. Si vous devez planifier un suivi 3 mois après un rendez-vous, cet outil vous donne la date précise.",
+        "<strong>Planification Financière :</strong> Calculez les dates d'échéance pour les prêts ou les plans d'investissement qui s'étendent sur un nombre spécifique d'années et de mois.",
+        "<strong>Planification de Grossesse :</strong> Bien que notre <a href='/fr/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Calculateur de Date d'Accouchement</a> fournisse des estimations détaillées de la date d'échéance, cet outil peut être utilisé pour des calculs rapides sur des dates spécifiques pendant la grossesse."
+      ]
+    }
   ]
 }

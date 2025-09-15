@@ -395,5 +395,30 @@
         "Aktivite Takibi: Hobilere, ders çalışmaya veya egzersize harcadığınız zamanı izleyin."
       ]
     }
+  ],
+  "navDateCalculator": "Tarih Hesaplayıcı",
+  "homeDateCalculatorDescription": "Belirli bir tarihten gün, hafta, ay ve yıl ekleyin veya çıkarın.",
+  "seoDateTitle": "Tarih Hesaplayıcı - Tarihlerden Ekleme ve Çıkarma",
+  "seoDateDescription": "Başlangıç tarihinden yıl, ay, hafta ve gün eklemek veya çıkarmak için ücretsiz bir çevrimiçi araç. Etkinlikleri ve son tarihleri planlamak için mükemmel.",
+  "dateTitle": "Tarih Hesaplayıcı",
+  "dateSubheading": "Belirli bir tarihten bir süre ekleyin veya çıkarın.",
+  "startDateLabel": "Başlangıç Tarihi",
+  "addDurationLabel": "Süre Ekle",
+  "subtractDurationLabel": "Süre Çıkar",
+  "calculateDateButton": "Tarihi Hesapla",
+  "resultDateLabel": "Sonuç Tarihi",
+  "seoDateSections": [
+    {
+      "heading": "Tarih Hesaplayıcı Nasıl Kullanılır",
+      "paragraphs": [
+        "Tarih Hesaplayıcımız, belirli bir tarihten zaman dilimleri ekleme veya çıkarma işlemini basitleştirmek için tasarlanmıştır. İster gelecekteki bir etkinliği planlıyor, ister bir son tarih belirliyor, ister geçmişteki bir tarihe bakıyor olun, bu araç hızlı ve doğru hesaplamalar sunar. Sadece bir başlangıç tarihi girin, ardından eklemek veya çıkarmak istediğiniz yıl, ay, hafta ve gün sayısını belirtin. Hesaplayıcı, doğruluğu sağlamak için artık yıllar ve değişen ay uzunlukları gibi ayrıntıları hesaba katar. Bu araç, diğer zaman tabanlı yardımcı programlarımızı tamamlar. Örneğin, birinin yaşını belirlemek için <a href='/tr/age-calculator' class='text-blue-500 hover:underline'>Yaş Hesaplayıcımızı</a> veya aynı gün içindeki iki zaman arasındaki süreyi bulmak için <a href='/tr/hours-calculator' class='text-blue-500 hover:underline'>Saat Hesaplayıcımızı</a> kullanabilirsiniz. Birden fazla zaman süresi içeren hesaplamalar için <a href='/tr/time-Calculator' class='text-blue-500 hover:underline'>Zaman Hesaplayıcımız</a> mükemmel bir seçimdir."
+      ]
+    },
+    {
+      "heading": "Pratik Uygulamalar ve Örnekler",
+      "paragraphs": [
+        "Tarih Hesaplayıcı, çeşitli günlük, kişisel ve profesyonel senaryolarda inanılmaz derecede kullanışlıdır:<strong>Kişisel Planlama:</strong> Tatiliniz için 90 gün sonraki tarihin ne olacağını mı merak ediyorsunuz? Veya bir yıl dönümünden bu yana 6 ayın ne zaman geçtiğini bilmek isteyebilirsiniz.<strong>Proje Yönetimi:</strong> Proje son tarihlerini kolayca belirleyin. Bir proje 15 Ocak'ta başlar ve 8 hafta 3 gün sürerse, tam bitiş tarihini anında bulabilirsiniz.<strong>Sağlık Randevuları:</strong> Tıbbi randevuları veya ilaç programlarını takip edin. Bir randevudan 3 ay sonra bir takip randevusu planlamanız gerekiyorsa, bu araç size kesin tarihi verir.<strong>Finansal Planlama:</strong> Belirli sayıda yıl ve aya yayılan krediler veya yatırım planları için vade tarihlerini hesaplayın.<strong>Gebelik Planlaması:</strong> <a href='/tr/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Gebelik Hesaplayıcımız</a> ayrıntılı doğum tarihi tahminleri sunarken, bu araç dönem boyunca belirli tarihler hakkında hızlı hesaplamalar için kullanılabilir."
+      ]
+    }
   ]
 }

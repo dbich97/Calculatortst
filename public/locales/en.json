@@ -404,5 +404,36 @@
         "Activity Tracking: Monitor the time you spend on hobbies, studies, or exercise."
       ]
     }
+  ],
+  "navDateCalculator": "Date Calculator",
+  "homeDateCalculatorDescription": "Add or subtract days, weeks, months, and years from a specific date.",
+  "seoDateTitle": "Date Calculator - Add & Subtract from Dates",
+  "seoDateDescription": "A free online tool to add or subtract years, months, weeks, and days from a start date. Perfect for planning events and deadlines.",
+  "dateTitle": "Date Calculator",
+  "dateSubheading": "Add or subtract a duration from a specific date.",
+  "startDateLabel": "Start Date",
+  "addDurationLabel": "Add Duration",
+  "subtractDurationLabel": "Subtract Duration",
+  "calculateDateButton": "Calculate Date",
+  "resultDateLabel": "Resulting Date",
+  "seoDateSections": [
+    {
+      "heading": "How to Use the Date Calculator",
+      "paragraphs": [
+        "Our Date Calculator is designed to simplify adding or subtracting periods of time from a specific date. Whether you're planning a future event, setting a deadline, or looking back at a date in the past, this tool provides quick and accurate calculations. Simply enter a start date, then specify the number of years, months, weeks, and days you want to add or subtract. The calculator accounts for details like leap years and varying month lengths to ensure accuracy.",
+        "This tool complements our other time-based utilities. For instance, you can use our <a href='/en/age-calculator' class='text-blue-500 hover:underline'>Age Calculator</a> to determine someone's age, or our <a href='/en/hours-calculator' class='text-blue-500 hover:underline'>Hours Calculator</a> to find the duration between two times on the same day. For calculations involving multiple time durations, our <a href='/en/time-Calculator' class='text-blue-500 hover:underline'>Time Calculator</a> is the perfect choice."
+      ]
+    },
+    {
+      "heading": "Practical Applications and Examples",
+      "paragraphs": [
+        "The Date Calculator is incredibly useful in a variety of daily, personal, and professional scenarios:",
+        "<strong>Personal Planning:</strong> Wondering what the date will be 90 days from now for your vacation? Or maybe you want to know when 6 months have passed since an anniversary.",
+        "<strong>Project Management:</strong> Easily set project deadlines. If a project starts on January 15th and takes 8 weeks and 3 days, you can instantly find the exact end date.",
+        "<strong>Health Appointments:</strong> Keep track of medical appointments or medication schedules. If you need to schedule a follow-up 3 months after an appointment, this tool gives you the precise date.",
+        "<strong>Financial Planning:</strong> Calculate due dates for loans or investment plans that span a specific number of years and months.",
+        "<strong>Pregnancy Planning:</strong> While our <a href='/en/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Pregnancy Calculator</a> provides detailed due date estimates, this tool can be used for quick calculations about specific dates during the term."
+      ]
+    }
   ]
 }

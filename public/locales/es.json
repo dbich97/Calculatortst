@@ -413,5 +413,36 @@
       ],
       "list": []
     }
+  ],
+  "navDateCalculator": "Calculadora de Fechas",
+  "homeDateCalculatorDescription": "Suma o resta días, semanas, meses y años de una fecha específica.",
+  "seoDateTitle": "Calculadora de Fechas - Suma y Resta a Fechas",
+  "seoDateDescription": "Una herramienta en línea gratuita para sumar o restar años, meses, semanas y días de una fecha de inicio. Perfecta para planificar eventos y plazos.",
+  "dateTitle": "Calculadora de Fechas",
+  "dateSubheading": "Suma o resta una duración de una fecha específica.",
+  "startDateLabel": "Fecha de Inicio",
+  "addDurationLabel": "Añadir Duración",
+  "subtractDurationLabel": "Restar Duración",
+  "calculateDateButton": "Calcular Fecha",
+  "resultDateLabel": "Fecha Resultante",
+  "seoDateSections": [
+    {
+      "heading": "Cómo Usar la Calculadora de Fechas",
+      "paragraphs": [
+          "Nuestra Calculadora de Fechas está diseñada para simplificar la suma o resta de períodos de tiempo de una fecha específica. Ya sea que estés planificando un evento futuro, estableciendo una fecha límite o mirando una fecha en el pasado, esta herramienta proporciona cálculos rápidos y precisos. Simplemente ingresa una fecha de inicio, luego especifica el número de años, meses, semanas y días que deseas sumar o restar. La calculadora tiene en cuenta detalles como los años bisiestos y las diferentes duraciones de los meses para garantizar la precisión.",
+          "Esta herramienta complementa nuestras otras utilidades basadas en el tiempo. Por ejemplo, puedes usar nuestra <a href='/es/age-calculator' class='text-blue-500 hover:underline'>Calculadora de Edad</a> para determinar la edad de alguien, o nuestra <a href='/es/hours-calculator' class='text-blue-500 hover:underline'>Calculadora de Horas</a> para encontrar la duración entre dos horas en el mismo día. Para cálculos que involucran múltiples duraciones de tiempo, nuestra <a href='/es/time-Calculator' class='text-blue-500 hover:underline'>Calculadora de Tiempo</a> es la elección perfecta."
+      ]
+    },
+    {
+      "heading": "Aplicaciones Prácticas y Ejemplos",
+      "paragraphs": [
+        "La Calculadora de Fechas es increíblemente útil en una variedad de escenarios diarios, personales y profesionales:",
+        "<strong>Planificación Personal:</strong> ¿Te preguntas qué fecha será dentro de 90 días para tus vacaciones? O quizás quieras saber cuándo habrán pasado 6 meses desde un aniversario.",
+        "<strong>Gestión de Proyectos:</strong> Establece fácilmente plazos para proyectos. Si un proyecto comienza el 15 de enero y dura 8 semanas y 3 días, puedes encontrar instantáneamente la fecha de finalización exacta.",
+        "<strong>Citas Médicas:</strong> Lleva un registro de las citas médicas o los horarios de medicación. Si necesitas programar un seguimiento 3 meses después de una cita, esta herramienta te da la fecha precisa.",
+        "<strong>Planificación Financiera:</strong> Calcula las fechas de vencimiento de préstamos o planes de inversión que abarcan un número específico de años y meses.",
+        "<strong>Planificación del Embarazo:</strong> Aunque nuestra <a href='/es/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Calculadora de Embarazo</a> proporciona estimaciones detalladas de la fecha de parto, esta herramienta se puede utilizar para cálculos rápidos sobre fechas específicas durante el embarazo."
+      ]
+    }
   ]
 }

@@ -410,5 +410,35 @@
         "Theo dõi hoạt động: Theo dõi thời gian bạn dành cho sở thích, học tập hoặc tập thể dục."
       ]
     }
+  ],
+  "navDateCalculator": "Máy tính Ngày",
+  "homeDateCalculatorDescription": "Thêm hoặc trừ ngày, tuần, tháng và năm từ một ngày cụ thể.",
+  "seoDateTitle": "Máy tính Ngày - Cộng & Trừ từ Ngày tháng",
+  "seoDateDescription": "Công cụ trực tuyến miễn phí để cộng hoặc trừ năm, tháng, tuần và ngày từ một ngày bắt đầu. Hoàn hảo để lập kế hoạch sự kiện và thời hạn.",
+  "dateTitle": "Máy tính Ngày",
+  "dateSubheading": "Thêm hoặc trừ một khoảng thời gian từ một ngày cụ thể.",
+  "startDateLabel": "Ngày Bắt đầu",
+  "addDurationLabel": "Thêm Khoảng thời gian",
+  "subtractDurationLabel": "Trừ Khoảng thời gian",
+  "calculateDateButton": "Tính Ngày",
+  "resultDateLabel": "Ngày Kết quả",
+  "seoDateSections": [
+    {
+      "heading": "Cách sử dụng Máy tính Ngày",
+      "paragraphs": [
+        "Máy tính Ngày của chúng tôi được thiết kế để đơn giản hóa việc cộng hoặc trừ các khoảng thời gian từ một ngày cụ thể. Dù bạn đang lên kế hoạch cho một sự kiện trong tương lai, đặt ra thời hạn, hay nhìn lại một ngày trong quá khứ, công cụ này đều cung cấp các phép tính nhanh chóng và chính xác. Chỉ cần nhập ngày bắt đầu, sau đó chỉ định số năm, tháng, tuần và ngày bạn muốn cộng hoặc trừ. Máy tính sẽ tính đến các chi tiết như năm nhuận và độ dài tháng khác nhau để đảm bảo độ chính xác. Công cụ này bổ sung cho các tiện ích dựa trên thời gian khác của chúng tôi. Ví dụ, bạn có thể sử dụng <a href='/vi/age-calculator' class='text-blue-500 hover:underline'>Máy tính Tuổi</a> của chúng tôi để xác định tuổi của ai đó, hoặc <a href='/vi/hours-calculator' class='text-blue-500 hover:underline'>Máy tính Giờ</a> để tìm khoảng thời gian giữa hai thời điểm trong cùng một ngày. Đối với các phép tính liên quan đến nhiều khoảng thời gian, <a href='/vi/time-Calculator' class='text-blue-500 hover:underline'>Máy tính Thời gian</a> của chúng tôi là lựa chọn hoàn hảo."
+      ]
+    },
+    {
+      "heading": "Ứng dụng thực tế và ví dụ",
+      "paragraphs": [
+        "Máy tính Ngày cực kỳ hữu ích trong nhiều tình huống hàng ngày, cá nhân và chuyên nghiệp:",
+        "<strong>Lập kế hoạch cá nhân:</strong> Bạn tự hỏi 90 ngày nữa sẽ là ngày nào cho kỳ nghỉ của mình? Hoặc có thể bạn muốn biết khi nào đã qua 6 tháng kể từ một ngày kỷ niệm.",
+        "<strong>Quản lý dự án:</strong> Dễ dàng đặt thời hạn dự án. Nếu một dự án bắt đầu vào ngày 15 tháng 1 và kéo dài 8 tuần 3 ngày, bạn có thể tìm ngay ngày kết thúc chính xác.",
+        "<strong>Các cuộc hẹn sức khỏe:</strong> Theo dõi các cuộc hẹn y tế hoặc lịch dùng thuốc. Nếu bạn cần lên lịch tái khám sau 3 tháng kể từ một cuộc hẹn, công cụ này sẽ cho bạn ngày chính xác.",
+        "<strong>Lập kế hoạch tài chính:</strong> Tính toán ngày đáo hạn cho các khoản vay hoặc kế hoạch đầu tư kéo dài một số năm và tháng cụ thể.",
+        "<strong>Lập kế hoạch mang thai:</strong> Mặc dù <a href='/vi/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Máy tính Ngày dự sinh</a> của chúng tôi cung cấp các ước tính chi tiết về ngày dự sinh, công cụ này có thể được sử dụng để tính toán nhanh về các ngày cụ thể trong thai kỳ."
+      ]
+    }
   ]
 }

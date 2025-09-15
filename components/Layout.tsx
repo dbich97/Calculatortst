@@ -117,6 +117,9 @@ const Layout: React.FC = () => {
             {languagesWithHoursCalculator.includes(currentLang) && t.navHoursCalculator && (
               <NavLink to={`/${currentLang}/hours-calculator`} className={({ isActive }) => `${navLinkClasses} block w-full text-left ${isActive ? activeNavLinkClasses : ''}`}>{t.navHoursCalculator}</NavLink>
             )}
+            {t.navDateCalculator && (
+              <NavLink to={`/${currentLang}/date-calculator`} className={({ isActive }) => `${navLinkClasses} block w-full text-left ${isActive ? activeNavLinkClasses : ''}`}>{t.navDateCalculator}</NavLink>
+            )}
         </>
     );
     

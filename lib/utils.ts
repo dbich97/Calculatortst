@@ -1,4 +1,5 @@
 
+
 import type { Age, TimeDuration } from '../types';
 
 export function calculateAge(birthDate: Date): Age {
@@ -226,4 +227,33 @@ export function calculateTime(
   }
 
   return secondsToDuration(resultSeconds);
+}
+
+/**
+ * Adds or subtracts a duration from a given date.
+ * @param startDate - The starting date.
+ * @param duration - An object with years, months, weeks, and days to add/subtract.
+ * @param operation - 'add' or 'subtract'.
+ * @returns The new Date object.
+ */
+export function calculateDate(
+  startDate: Date,
+  duration: { years: number; months: number; weeks: number; days: number },
+  operation: 'add' | 'subtract'
+): Date {
+  const newDate = new Date(startDate.getTime());
+  const sign = operation === 'add' ? 1 : -1;
+
+  if (duration.years !== 0) {
+    newDate.setFullYear(newDate.getFullYear() + duration.years * sign);
+  }
+  if (duration.months !== 0) {
+    newDate.setMonth(newDate.getMonth() + duration.months * sign);
+  }
+  if (duration.weeks !== 0 || duration.days !== 0) {
+    const totalDays = duration.days + duration.weeks * 7;
+    newDate.setDate(newDate.getDate() + totalDays * sign);
+  }
+
+  return newDate;
 }

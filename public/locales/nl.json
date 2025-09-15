@@ -410,5 +410,36 @@
         "Activiteiten volgen: Monitor de tijd die u besteedt aan hobby's, studies of lichaamsbeweging."
       ]
     }
+  ],
+  "navDateCalculator": "Datumcalculator",
+  "homeDateCalculatorDescription": "Voeg dagen, weken, maanden en jaren toe aan of trek ze af van een specifieke datum.",
+  "seoDateTitle": "Datumcalculator - Optellen en aftrekken van datums",
+  "seoDateDescription": "Een gratis online tool om jaren, maanden, weken en dagen op te tellen bij of af te trekken van een startdatum. Perfect voor het plannen van evenementen en deadlines.",
+  "dateTitle": "Datumcalculator",
+  "dateSubheading": "Voeg een duur toe aan of trek deze af van een specifieke datum.",
+  "startDateLabel": "Startdatum",
+  "addDurationLabel": "Duur toevoegen",
+  "subtractDurationLabel": "Duur aftrekken",
+  "calculateDateButton": "Bereken Datum",
+  "resultDateLabel": "Resulterende Datum",
+  "seoDateSections": [
+    {
+      "heading": "Hoe de Datumcalculator te gebruiken",
+      "paragraphs": [
+        "Onze Datumcalculator is ontworpen om het optellen of aftrekken van tijdsperioden van een specifieke datum te vereenvoudigen. Of u nu een toekomstig evenement plant, een deadline stelt, of terugkijkt op een datum in het verleden, deze tool biedt snelle en nauwkeurige berekeningen. Voer eenvoudig een startdatum in en geef vervolgens het aantal jaren, maanden, weken en dagen op dat u wilt optellen of aftrekken. De calculator houdt rekening met details zoals schrikkeljaren en verschillende maandlengtes om nauwkeurigheid te garanderen.",
+        "Deze tool vult onze andere op tijd gebaseerde hulpprogramma's aan. U kunt bijvoorbeeld onze <a href='/nl/age-calculator' class='text-blue-500 hover:underline'>Leeftijdscalculator</a> gebruiken om iemands leeftijd te bepalen, of onze <a href='/nl/hours-calculator' class='text-blue-500 hover:underline'>Urencalculator</a> om de duur tussen twee tijdstippen op dezelfde dag te vinden. Voor berekeningen met meerdere tijdsduren is onze <a href='/nl/time-Calculator' class='text-blue-500 hover:underline'>Tijdcalculator</a> de perfecte keuze."
+      ]
+    },
+    {
+      "heading": "Praktische toepassingen en voorbeelden",
+      "paragraphs": [
+        "De Datumcalculator is ongelooflijk nuttig in een verscheidenheid aan dagelijkse, persoonlijke en professionele scenario's:",
+        "<strong>Persoonlijke planning:</strong> Vraagt u zich af welke datum het over 90 dagen is voor uw vakantie? Of misschien wilt u weten wanneer er 6 maanden zijn verstreken sinds een jubileum.",
+        "<strong>Projectmanagement:</strong> Stel eenvoudig projectdeadlines in. Als een project op 15 januari begint en 8 weken en 3 dagen duurt, kunt u direct de exacte einddatum vinden.",
+        "<strong>Gezondheidsafspraken:</strong> Houd medische afspraken of medicatieschema's bij. Als u 3 maanden na een afspraak een vervolgafspraak moet plannen, geeft deze tool u de precieze datum.",
+        "<strong>Financiële planning:</strong> Bereken vervaldata voor leningen of investeringsplannen die een specifiek aantal jaren en maanden beslaan.",
+        "<strong>Zwangerschapsplanning:</strong> Hoewel onze <a href='/nl/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Zwangerschapscalculator</a> gedetailleerde schattingen van de uitgerekende datum geeft, kan deze tool worden gebruikt voor snelle berekeningen over specifieke data tijdens de zwangerschap."
+      ]
+    }
   ]
 }

@@ -337,6 +337,9 @@ const HomePage: React.FC = () => {
                 {languagesWithHoursCalculator.includes(currentLang) && t.navHoursCalculator && t.homeHoursCalculatorDescription && (
                     <CalculatorCard to={`/${currentLang}/hours-calculator`} title={t.navHoursCalculator} description={t.homeHoursCalculatorDescription} icon="🕰️" />
                 )}
+                {t.navDateCalculator && t.homeDateCalculatorDescription && (
+                    <CalculatorCard to={`/${currentLang}/date-calculator`} title={t.navDateCalculator} description={t.homeDateCalculatorDescription} icon="📅" />
+                )}
             </div>
         </div>
       </section>

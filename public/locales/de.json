@@ -1,4 +1,3 @@
-
 {
   "title": "Rechner",
   "selectLanguage": "Sprache wählen",
@@ -385,6 +384,37 @@
         "Arbeitszeiten berechnen: Ermitteln Sie einfach die täglichen oder wöchentlichen Arbeitszeiten für Stundenzettel.",
         "Veranstaltungsplanung: Bestimmen Sie die Dauer von Meetings, Terminen und Veranstaltungen.",
         "Aktivitätsverfolgung: Überwachen Sie die Zeit, die Sie mit Hobbys, Lernen oder Sport verbringen."
+      ]
+    }
+  ],
+  "navDateCalculator": "Datumsrechner",
+  "homeDateCalculatorDescription": "Fügen Sie Tage, Wochen, Monate und Jahre zu einem bestimmten Datum hinzu oder ziehen Sie sie ab.",
+  "seoDateTitle": "Datumsrechner - Daten addieren & subtrahieren",
+  "seoDateDescription": "Ein kostenloses Online-Tool zum Hinzufügen oder Subtrahieren von Jahren, Monaten, Wochen und Tagen von einem Startdatum. Perfekt für die Planung von Veranstaltungen und Terminen.",
+  "dateTitle": "Datumsrechner",
+  "dateSubheading": "Fügen Sie eine Dauer zu einem bestimmten Datum hinzu oder ziehen Sie sie ab.",
+  "startDateLabel": "Startdatum",
+  "addDurationLabel": "Dauer hinzufügen",
+  "subtractDurationLabel": "Dauer abziehen",
+  "calculateDateButton": "Datum berechnen",
+  "resultDateLabel": "Ergebnisdatum",
+  "seoDateSections": [
+    {
+      "heading": "Wie man den Datumsrechner benutzt",
+      "paragraphs": [
+        "Unser Datumsrechner wurde entwickelt, um das Hinzufügen oder Subtrahieren von Zeiträumen von einem bestimmten Datum zu vereinfachen. Egal, ob Sie eine zukünftige Veranstaltung planen, einen Termin festlegen oder auf ein Datum in der Vergangenheit zurückblicken, dieses Tool liefert schnelle und genaue Berechnungen. Geben Sie einfach ein Startdatum ein und geben Sie dann die Anzahl der Jahre, Monate, Wochen und Tage an, die Sie hinzufügen oder abziehen möchten. Der Rechner berücksichtigt Details wie Schaltjahre und unterschiedliche Monatslängen, um die Genauigkeit zu gewährleisten.",
+        "Dieses Tool ergänzt unsere anderen zeitbasierten Dienstprogramme. Zum Beispiel können Sie unseren <a href='/de/age-calculator' class='text-blue-500 hover:underline'>Altersrechner</a> verwenden, um das Alter von jemandem zu bestimmen, oder unseren <a href='/de/hours-calculator' class='text-blue-500 hover:underline'>Stundenrechner</a>, um die Dauer zwischen zwei Uhrzeiten am selben Tag zu ermitteln. Für Berechnungen, die mehrere Zeitdauern umfassen, ist unser <a href='/de/time-Calculator' class='text-blue-500 hover:underline'>Zeitrechner</a> die perfekte Wahl."
+      ]
+    },
+    {
+      "heading": "Praktische Anwendungen und Beispiele",
+      "paragraphs": [
+        "Der Datumsrechner ist in einer Vielzahl von täglichen, persönlichen und beruflichen Szenarien unglaublich nützlich:",
+        "<strong>Persönliche Planung:</strong> Fragen Sie sich, welches Datum in 90 Tagen für Ihren Urlaub sein wird? Oder möchten Sie vielleicht wissen, wann 6 Monate seit einem Jubiläum vergangen sind.",
+        "<strong>Projektmanagement:</strong> Legen Sie einfach Projekttermine fest. Wenn ein Projekt am 15. Januar beginnt und 8 Wochen und 3 Tage dauert, können Sie sofort das genaue Enddatum finden.",
+        "<strong>Gesundheitstermine:</strong> Behalten Sie den Überblick über Arzttermine oder Medikamentenpläne. Wenn Sie einen Folgetermin 3 Monate nach einem Termin vereinbaren müssen, gibt Ihnen dieses Tool das genaue Datum.",
+        "<strong>Finanzplanung:</strong> Berechnen Sie Fälligkeitstermine für Kredite oder Investitionspläne, die sich über eine bestimmte Anzahl von Jahren und Monaten erstrecken.",
+        "<strong>Schwangerschaftsplanung:</strong> Während unser <a href='/de/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Schwangerschaftsrechner</a> detaillierte Geburtstermin-Schätzungen liefert, kann dieses Tool für schnelle Berechnungen zu bestimmten Terminen während der Schwangerschaft verwendet werden."
       ]
     }
   ]
