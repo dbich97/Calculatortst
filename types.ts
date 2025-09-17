@@ -1,4 +1,4 @@
-
+// types.ts
 
 export enum LanguageCode {
   EN = 'en',
@@ -68,6 +68,7 @@ export interface Translation {
   navCalculator: string;
   navTimeAndDate: string;
   navHealthCalculators: string;
+  navConstructionCalculators?: string;
   navPregnancyCalculator: string;
   navOvulationCalculator: string;
   navMenstrualCycleCalculator: string;
@@ -283,6 +284,22 @@ export interface Translation {
   errorAge: string;
   seoCalorieSections: SeoSection[];
 
+  // BMI Calculator
+  navBmiCalculator?: string;
+  homeBmiCalculatorDescription?: string;
+  seoBmiTitle?: string;
+  seoBmiDescription?: string;
+  bmiTitle?: string;
+  bmiSubheading?: string;
+  calculateBmiButton?: string;
+  bmiResultLabel?: string;
+  bmiCategoryLabel?: string;
+  underweight?: string;
+  normalWeight?: string;
+  overweight?: string;
+  obesity?: string;
+  seoBmiSections?: SeoSection[];
+
   // Time Calculator
   seoTimeTitle: string;
   seoTimeDescription: string;
@@ -334,4 +351,116 @@ export interface Translation {
   calculateDateButton?: string;
   resultDateLabel?: string;
   seoDateSections?: SeoSection[];
+
+  // Stopwatch (English only)
+  navStopwatch?: string;
+  homeStopwatchDescription?: string;
+  seoStopwatchTitle?: string;
+  seoStopwatchDescription?: string;
+  stopwatchTitle?: string;
+  stopwatchSubheading?: string;
+  startButton?: string;
+  stopButton?: string;
+  lapButton?: string;
+  // FIX: Removed duplicate identifier 'resetButton'. It is already defined above for the Time Calculator.
+  lapColumnHeader?: string;
+  timeColumnHeader?: string;
+  seoStopwatchSections?: SeoSection[];
+
+  // Roofing Calculator (Dutch only)
+  navRoofingCalculator?: string;
+  homeRoofingCalculatorDescription?: string;
+  seoRoofingTitle?: string;
+  seoRoofingDescription?: string;
+  roofingTitle?: string;
+  roofingSubheading?: string;
+  totalAreaMethod?: string;
+  groundDimensionsMethod?: string;
+  totalAreaLabel?: string;
+  buildingLengthLabel?: string;
+  buildingWidthLabel?: string;
+  roofPitchLabel?: string;
+  roofingPitchTooltip?: string;
+  wasteFactorLabel?: string;
+  pricePerUnitLabel?: string;
+  calculateRoofingButton?: string;
+  resultsTitle?: string;
+  baseRoofAreaResult?: string;
+  totalRoofAreaResult?: string;
+  materialsNeededResult?: string;
+  totalCostResult?: string;
+  sqmUnit?: string;
+  squaresUnit?: string;
+  sqftUnit?: string;
+  seoRoofingSections?: SeoSection[];
+  roofPitchTypeLabel?: string;
+  pitchRatio?: string;
+  pitchDegrees?: string;
+  roundUpLabel?: string;
+  errorInvalidPitch?: string;
+  // New keys for roofing calculator improvements
+  materialTypeLabel?: string;
+  shingles?: string;
+  epdm?: string;
+  roofTiles?: string;
+  customPrice?: string;
+  wasteAmountResult?: string;
+  metal?: string;
+  roofingPitchRatioPlaceholder?: string;
+  roofingPitchDegreesPlaceholder?: string;
+
+  // Concrete Calculator
+  navConcreteCalculator?: string;
+  homeConcreteCalculatorDescription?: string;
+  seoConcreteTitle?: string;
+  seoConcreteDescription?: string;
+  concreteTitle?: string;
+  concreteSubheading?: string;
+  shapeLabel?: string;
+  slab?: string;
+  footing?: string;
+  column?: string;
+  circularColumn?: string;
+  stairs?: string;
+  lengthLabel?: string;
+  widthLabel?: string;
+  thicknessLabel?: string;
+  depthLabel?: string;
+  diameterLabel?: string;
+  stepsLabel?: string;
+  riserLabel?: string;
+  treadLabel?: string;
+  calculateConcreteButton?: string;
+  concreteVolumeResult?: string;
+  concreteWithWasteResult?: string;
+  cementBagsResult?: string;
+  sandRequiredResult?: string;
+  gravelRequiredResult?: string;
+  bagSizeLabel?: string;
+  kgBag?: string;
+  lbsBag?: string;
+  seoConcreteSections?: SeoSection[];
+  // Improvements based on feedback v1
+  concreteMixRatioLabel?: string;
+  bagsUnit?: string;
+  costBreakdownTitle?: string;
+  pricePerBagLabel?: string;
+  pricePerSandLabel?: string;
+  pricePerGravelLabel?: string;
+  cementCostResult?: string;
+  sandCostResult?: string;
+  gravelCostResult?: string;
+  // Improvements based on feedback v2 (comprehensive)
+  concreteResetButton?: string;
+  wasteFactorTooltip?: string;
+  mixRatioTooltip?: string;
+  mixRatioLabel?: string;
+  mixRatio_1_1_5_3?: string;
+  mixRatio_1_2_4?: string;
+  mixRatio_1_3_6?: string;
+  transportationCostLabel?: string;
+  currencyLabel?: string;
+  printResultsButton?: string;
+  errorPositiveNumbers?: string;
+  transportationCostResult?: string;
 }

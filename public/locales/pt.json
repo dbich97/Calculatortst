@@ -61,7 +61,7 @@
     {
       "heading": "Como a Nossa Calculadora de Idade Funciona",
       "paragraphs": [
-        "A nossa Calculadora de Idade calcula a sua idade com alta precisão comparando a sua data de nascimento com a data atual. A ferramenta calcula o tempo total decorrido e divide-o em anos, meses e dias. Tem em conta os anos bissextos para fornecer um resultado preciso, tornando-a uma ferramenta fiável para quem pergunta 'quantos anos tenho?'. Basta inserir a sua data de nascimento e a calculadora exibe instantaneamente a sua idade cronológica. Para outros cálculos relacionados com o tempo, pode também experimentar a nossa <a href=\"/pt/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Tempo</a>."
+        "A nossa Calculadora de Idade calcula a sua idade com alta precisão comparando a sua data de nascimento com a data atual. A ferramenta calcula o tempo total decorrido e divide-o em anos, meses e dias. Tem em conta os anos bissextos para fornecer um resultado preciso, tornando-a uma ferramenta fiável para quem pergunta 'quantos anos tenho?'. Basta inserir a sua data de nascimento e a calculadora exibe instantaneamente a sua idade cronológica. Para outros cálculos relacionados com o tempo, pode também experimentar a nossa <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Tempo</a>."
       ]
     },
     {
@@ -136,7 +136,7 @@
     {
       "heading": "Como Funciona a Nossa Calculadora de Data do Parto",
       "paragraphs": [
-        "A nossa Calculadora da Data Provável do Parto estima a sua data de parto esperada usando vários métodos. O método mais comum baseia-se no primeiro dia da sua última menstruação (DUM). Esta abordagem, conhecida como regra de Naegele, adiciona 280 dias (40 semanas) à sua DUM para prever a data do parto. Para maior precisão, especialmente com ciclos irregulares, pode usar a nossa <a href=\"/pt/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Ciclo Menstrual</a> para acompanhar o seu período. Também oferecemos cálculos baseados na data da concepção, que pode ser identificada com a nossa <a href=\"/pt/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Ovulação</a>, ou na data da sua transferência de FIV."
+        "A nossa Calculadora da Data Provável do Parto estima a sua data de parto esperada usando vários métodos. O método mais comum baseia-se no primeiro dia da sua última menstruação (DUM). Esta abordagem, conhecida como regra de Naegele, adiciona 280 dias (40 semanas) à sua DUM para prever a data do parto. Para maior precisão, especialmente com ciclos irregulares, pode usar a nossa <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Ciclo Menstrual</a> para acompanhar o seu período. Também oferecemos cálculos baseados na data da concepção, que pode ser identificada com a nossa <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Ovulação</a>, ou na data da sua transferência de FIV."
       ],
       "list": [
         "Método DUM: O cálculo padrão baseado num ciclo de 28 dias.",
@@ -168,8 +168,8 @@
     {
       "heading": "Como Prever Seus Dias Mais Férteis",
       "paragraphs": [
-        "Nossa Calculadora de Ovulação é uma ferramenta simples projetada para ajudá-la a prever seus dias mais férteis do mês. Ao inserir o primeiro dia de sua última menstruação e a duração média de seu ciclo, que pode acompanhar com a nossa <a href=\"/pt/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Ciclo Menstrual</a>, a calculadora estima sua provável data de ovulação. A ovulação é a liberação de um óvulo de seu ovário, o que geralmente acontece cerca de 14 dias antes do início de sua próxima menstruação.",
-        "Sua 'janela fértil' inclui o dia da ovulação e os cinco dias que o antecedem. Isso ocorre porque o esperma pode sobreviver no trato reprodutivo feminino por até cinco dias. Ter relações sexuais durante essa janela aumenta significativamente suas chances de concepção. Uma vez grávida, pode acompanhar a sua jornada com a nossa <a href=\"/pt/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora da Data do Parto</a>."
+        "Nossa Calculadora de Ovulação é uma ferramenta simples projetada para ajudá-la a prever seus dias mais férteis do mês. Ao inserir o primeiro dia de sua última menstruação e a duração média de seu ciclo, que pode acompanhar com a nossa <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Ciclo Menstrual</a>, a calculadora estima sua provável data de ovulação. A ovulação é a liberação de um óvulo de seu ovário, o que geralmente acontece cerca de 14 dias antes do início de sua próxima menstruação.",
+        "Sua 'janela fértil' inclui o dia da ovulação e os cinco dias que o antecedem. Isso ocorre porque o esperma pode sobreviver no trato reprodutivo feminino por até cinco dias. Ter relações sexuais durante essa janela aumenta significativamente suas chances de concepção. Uma vez grávida, pode acompanhar a sua jornada com a nossa <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora da Data do Parto</a>."
       ]
     },
     {
@@ -194,8 +194,8 @@
     {
       "heading": "Como Funciona Nossa Calculadora de Período",
       "paragraphs": [
-        "Nossa Calculadora de Ciclo Menstrual ajuda você a prever a data de início de seu próximo período com apenas duas informações: o primeiro dia de seu último período e a duração média de seu ciclo menstrual. Ao adicionar a duração média de seu ciclo à data de início de seu último período, a ferramenta fornece uma data estimada para seus próximos dois períodos. Conhecer o seu ciclo também é essencial para identificar as janelas férteis com a nossa <a href=\"/pt/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Ovulação</a>.",
-        "Acompanhar seu ciclo é mais do que apenas conveniência; é um indicador-chave de sua saúde geral. Ciclos regulares e previsíveis geralmente significam que os hormônios de seu corpo estão funcionando corretamente. Esta informação é inestimável para o planeamento familiar, e uma vez grávida, a nossa <a href=\"/pt/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora da Data do Parto</a> pode ajudar a estimar a sua data de parto."
+        "Nossa Calculadora de Ciclo Menstrual ajuda você a prever a data de início de seu próximo período com apenas duas informações: o primeiro dia de seu último período e a duração média de seu ciclo menstrual. Ao adicionar a duração média de seu ciclo à data de início de seu último período, a ferramenta fornece uma data estimada para seus próximos dois períodos. Conhecer o seu ciclo também é essencial para identificar as janelas férteis com a nossa <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Ovulação</a>.",
+        "Acompanhar seu ciclo é mais do que apenas conveniência; é um indicador-chave de sua saúde geral. Ciclos regulares e previsíveis geralmente significam que os hormônios de seu corpo estão funcionando corretamente. Esta informação é inestimável para o planeamento familiar, e uma vez grávida, a nossa <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora da Data do Parto</a> pode ajudar a estimar a sua data de parto."
       ]
     },
     {
@@ -304,7 +304,7 @@
     {
       "heading": "Compreendendo Suas Necessidades Calóricas Diárias",
       "paragraphs": [
-        "Uma caloria é uma unidade de energia. Na nutrição, as calorias referem-se à energia que as pessoas obtêm dos alimentos e bebidas que consomem, e a energia que usam na atividade física. Compreender suas necessidades calóricas diárias, que muitas vezes depende de fatores como a sua idade (descubra com a nossa <a href=\"/pt/age-calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Idade</a>), é o primeiro passo para alcançar seus objetivos de peso, seja perder, ganhar ou manter seu peso atual.",
+        "Uma caloria é uma unidade de energia. Na nutrição, as calorias referem-se à energia que as pessoas obtêm dos alimentos e bebidas que consomem, e a energia que usam na atividade física. Compreender suas necessidades calóricas diárias, que muitas vezes depende de fatores como a sua idade (descubra com a nossa <a href=\"#/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Idade</a>), é o primeiro passo para alcançar seus objetivos de peso, seja perder, ganhar ou manter seu peso atual.",
         "Nossa calculadora começa determinando sua Taxa Metabólica Basal (TMB), que é o número de calorias que seu corpo precisa para realizar funções básicas de sustentação da vida em repouso, como respiração, circulação e produção de células. Usamos a equação de Mifflin-St Jeor, amplamente aceita, para este cálculo. Em seguida, levamos em conta seu nível de atividade para calcular seu Gasto Energético Diário Total (GET), que é uma estimativa mais precisa de sua queima de calorias diária."
       ]
     },
@@ -348,7 +348,7 @@
     {
       "heading": "Como Usar a Calculadora de Tempo",
       "paragraphs": [
-        "Nossa Calculadora de Tempo simplifica o processo de adicionar e subtrair tempo. Se você está acompanhando horas de trabalho, registrando sessões de exercício ou planejando um evento, esta ferramenta fornece uma solução rápida e precisa. Para calcular a duração between uma hora de início e de fim, como para uma folha de ponto, a nossa <a href=\"/pt/hours-calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Horas</a> também está disponível. Simplesmente insira duas durações de tempo, selecione se deseja adicioná-las ou subtraí-las e obtenha o resultado instantaneamente."
+        "Nossa Calculadora de Tempo simplifica o processo de adicionar e subtrair tempo. Se você está acompanhando horas de trabalho, registrando sessões de exercício ou planejando um evento, esta ferramenta fornece uma solução rápida e precisa. Para calcular a duração between uma hora de início e de fim, como para uma folha de ponto, a nossa <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Horas</a> também está disponível. Simplesmente insira duas durações de tempo, selecione se deseja adicioná-las ou subtraí-las e obtenha o resultado instantaneamente."
       ]
     },
     {
@@ -386,7 +386,7 @@
     {
       "heading": "Como Usar a Calculadora de Horas",
       "paragraphs": [
-        "Nossa Calculadora de Horas foi projetada para simplificar o cálculo da duração entre dois pontos no tempo. Seja para calcular horas de trabalho, a duração de um evento ou o tempo gasto em uma tarefa, esta ferramenta fornece um resultado rápido e preciso. Para cálculos mais complexos que envolvem adicionar ou subtrair múltiplas durações, confira a nossa abrangente <a href=\"/pt/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Tempo</a>. Basta inserir os horários de início e fim, e a calculadora fará o resto, lidando com casos que ultrapassam a meia-noite."
+        "Nossa Calculadora de Horas foi projetada para simplificar o cálculo da duração entre dois pontos no tempo. Seja para calcular horas de trabalho, a duração de um evento ou o tempo gasto em uma tarefa, esta ferramenta fornece um resultado rápido e preciso. Para cálculos mais complexos que envolvem adicionar ou subtrair múltiplas durações, confira a nossa abrangente <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Tempo</a>. Basta inserir os horários de início e fim, e a calculadora fará o resto, lidando com casos que ultrapassam a meia-noite."
       ]
     },
     {
@@ -415,7 +415,7 @@
       "heading": "Como Usar a Calculadora de Datas",
       "paragraphs": [
         "Nossa Calculadora de Datas foi projetada para simplificar a adição ou subtração de períodos de tempo de uma data específica. Se você está planejando um evento futuro, definindo um prazo ou olhando para uma data no passado, esta ferramenta oferece cálculos rápidos e precisos. Basta inserir uma data de início e, em seguida, especificar o número de anos, meses, semanas e dias que deseja adicionar ou subtrair. A calculadora leva em conta detalhes como anos bissextos e durações variáveis dos meses para garantir a precisão.",
-        "Esta ferramenta complementa nossas outras utilidades baseadas em tempo. Por exemplo, você pode usar nossa <a href='/pt/age-calculator' class='text-blue-500 hover:underline'>Calculadora de Idade</a> para determinar a idade de alguém, ou nossa <a href='/pt/hours-calculator' class='text-blue-500 hover:underline'>Calculadora de Horas</a> para encontrar a duração entre dois horários no mesmo dia. Para cálculos envolvendo múltiplas durações de tempo, nossa <a href='/pt/time-Calculator' class='text-blue-500 hover:underline'>Calculadora de Tempo</a> é a escolha perfeita."
+        "Esta ferramenta complementa nossas outras utilidades baseadas em tempo. Por exemplo, você pode usar nossa <a href='#/{currentLang}/age-calculator' class='text-blue-500 hover:underline'>Calculadora de Idade</a> para determinar a idade de alguém, ou nossa <a href='#/{currentLang}/hours-calculator' class='text-blue-500 hover:underline'>Calculadora de Horas</a> para encontrar a duração entre dois horários no mesmo dia. Para cálculos envolvendo múltiplas durações de tempo, nossa <a href='#/{currentLang}/time-Calculator' class='text-blue-500 hover:underline'>Calculadora de Tempo</a> é a escolha perfeita."
       ]
     },
     {
@@ -426,7 +426,242 @@
         "<strong>Gerenciamento de Projetos:</strong> Defina facilmente os prazos do projeto. Se um projeto começa em 15 de janeiro e leva 8 semanas e 3 dias, você pode encontrar instantaneamente a data exata de término.",
         "<strong>Consultas Médicas:</strong> Acompanhe consultas médicas ou horários de medicação. Se você precisa agendar um acompanhamento 3 meses após uma consulta, esta ferramenta lhe dá a data precisa.",
         "<strong>Planejamento Financeiro:</strong> Calcule as datas de vencimento para empréstimos ou planos de investimento que abrangem um número específico de anos e meses.",
-        "<strong>Planejamento da Gravidez:</strong> Embora nossa <a href='/pt/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Calculadora da Data do Parto</a> forneça estimativas detalhadas da data de vencimento, esta ferramenta pode ser usada para cálculos rápidos sobre datas específicas durante o período."
+        "<strong>Planejamento da Gravidez:</strong> Embora nossa <a href='#/{currentLang}/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Calculadora da Data do Parto</a> forneça estimativas detalhadas da data de vencimento, esta ferramenta pode ser usada para cálculos rápidos sobre datas específicas durante o período."
+      ]
+    }
+  ],
+  "navBmiCalculator": "Calculadora de IMC",
+  "homeBmiCalculatorDescription": "Calcule o seu Índice de Massa Corporal para entender a saúde do seu peso.",
+  "seoBmiTitle": "Calculadora de Índice de Massa Corporal (IMC) - Verifique a Saúde do seu Peso",
+  "seoBmiDescription": "Use a nossa calculadora de Índice de Massa Corporal gratuita e precisa para estimar a sua gordura corporal com base na sua altura e peso. Descubra se tem um peso saudável.",
+  "bmiTitle": "Calculadora de Índice de Massa Corporal (IMC)",
+  "bmiSubheading": "Calcule o seu IMC para avaliar o seu estado de peso.",
+  "calculateBmiButton": "Calcular IMC",
+  "bmiResultLabel": "O seu IMC é",
+  "bmiCategoryLabel": "A sua categoria é:",
+  "underweight": "Abaixo do peso",
+  "normalWeight": "Peso normal",
+  "overweight": "Excesso de peso",
+  "obesity": "Obesidade",
+  "seoBmiSections": [
+    {
+      "heading": "O que é o IMC e como funciona?",
+      "paragraphs": [
+        "O Índice de Massa Corporal (IMC) é uma medida simples que utiliza a sua altura e peso para estimar a sua gordura corporal. É uma ferramenta de triagem amplamente utilizada para determinar se o peso de uma pessoa está dentro de uma faixa saudável. A fórmula básica é o peso em quilogramas dividido pelo quadrado da altura em metros (kg/m²). A nossa calculadora automatiza este processo para lhe fornecer um resultado rápido e preciso.",
+        "Compreender o seu IMC é um primeiro passo importante para uma gestão de peso saudável. Pode ajudá-lo a definir metas realistas, quer pretenda manter ou alterar o seu peso atual. Para gerir eficazmente o seu peso, é também crucial compreender as suas necessidades energéticas, que pode calcular utilizando a nossa <a href=\"#/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Calorias</a>."
+      ]
+    },
+    {
+      "heading": "Compreender os resultados do IMC (Categorias)",
+      "paragraphs": [
+        "Após calcular o seu IMC, o resultado é classificado em categorias específicas para o ajudar a compreender o seu estado de saúde. As categorias padrão para adultos são:",
+        "<strong>Abaixo de 18.5:</strong> Abaixo do peso. Isto pode indicar que não está a obter nutrientes suficientes ou pode ser um sinal de uma condição de saúde subjacente.",
+        "<strong>18.5 – 24.9:</strong> Peso normal. Esta faixa sugere que tem um peso saudável para a sua altura, o que reduz o risco de doenças crónicas.",
+        "<strong>25.0 – 29.9:</strong> Excesso de peso. Nesta categoria, pode ter um risco aumentado de desenvolver certos problemas de saúde como doenças cardíacas e diabetes tipo 2.",
+        "<strong>30.0 e acima:</strong> Obesidade. A obesidade aumenta significativamente o risco de problemas de saúde graves e requer atenção especial através de mudanças no estilo de vida e consulta com um profissional de saúde."
+      ]
+    },
+    {
+      "heading": "A Importância de Manter um IMC Saudável",
+      "paragraphs": [
+        "Manter um IMC dentro da faixa normal (18.5-24.9) é vital para a saúde geral. O excesso de peso ou a obesidade estão ligados a um risco aumentado de inúmeras doenças crónicas, incluindo tensão arterial alta, doenças cardíacas, AVC, diabetes tipo 2 e certos tipos de cancro. Por outro lado, estar abaixo do peso também pode levar a problemas de saúde como um sistema imunitário enfraquecido, osteoporose e problemas de fertilidade. Portanto, alcançar e manter um peso saudável é uma parte fundamental de um estilo de vida saudável."
+      ]
+    },
+    {
+      "heading": "Limitações do IMC",
+      "paragraphs": [
+        "Embora o IMC seja uma ferramenta de triagem útil, não está isento de limitações. Não distingue entre massa gorda e massa muscular. Isto significa que indivíduos muito musculados, como atletas, podem ter um IMC elevado e ser classificados como tendo excesso de peso, apesar de terem pouca gordura corporal.",
+        "Além disso, a interpretação do IMC pode ser afetada por fatores como idade e sexo. Por exemplo, adultos mais velhos que perderam massa muscular podem ter uma percentagem de gordura corporal saudável, mesmo que o seu IMC seja normal. Pode explorar como o seu corpo muda ao longo do tempo com a nossa <a href=\"#/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Idade</a>. Por estas razões, o IMC deve ser usado como parte de uma avaliação de saúde abrangente e não como uma única ferramenta de diagnóstico."
+      ]
+    },
+    {
+      "heading": "Como Melhorar o seu IMC",
+      "paragraphs": [
+        "Se o resultado do seu IMC estiver fora da faixa normal, existem passos que pode tomar para o melhorar. Isto geralmente envolve uma combinação de uma dieta equilibrada e atividade física regular. Definir metas realistas e graduais pode ajudá-lo a alcançar e manter um peso saudável. A nossa <a href=\"#/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Calorias</a> pode ser uma ótima ferramenta para o ajudar a planear a sua dieta.",
+        "Também é importante considerar outras condições de saúde. Por exemplo, manter um IMC saudável é particularmente importante durante a gravidez, e pode acompanhar o seu progresso com a nossa <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Gravidez</a>. Recomendamos sempre a consulta de um profissional de saúde ou de um nutricionista registado para desenvolver um plano personalizado que se adapte às suas necessidades individuais."
+      ]
+    }
+  ],
+  "navStopwatch": "Cronômetro",
+  "homeStopwatchDescription": "Meça o tempo decorrido com precisão usando voltas e um visor nítido.",
+  "seoStopwatchTitle": "Cronômetro Online Gratuito com Voltas",
+  "seoStopwatchDescription": "Um cronômetro online simples, preciso e gratuito com funcionalidade de voltas. Perfeito para esportes, treinos e cronometragem de qualquer atividade.",
+  "stopwatchTitle": "Cronômetro",
+  "stopwatchSubheading": "Meça o tempo decorrido com precisão.",
+  "startButton": "Iniciar",
+  "stopButton": "Parar",
+  "lapButton": "Volta",
+  "lapColumnHeader": "Volta",
+  "timeColumnHeader": "Tempo",
+  "seoStopwatchSections": [
+    {
+      "heading": "Como Usar o Cronômetro Online",
+      "paragraphs": [
+        "Nosso cronômetro online é uma ferramenta simples e precisa para medir o tempo decorrido. Com apenas um clique, você pode iniciar e parar o cronômetro para acompanhar qualquer atividade com precisão de centésimos de segundo. A função 'Volta' permite registrar tempos parciais sem interromper o cronômetro principal, o que é perfeito para acompanhar o desempenho em múltiplos intervalos. Quando terminar, o botão 'Resetar' limpa o cronômetro e todas as voltas registradas, preparando você para a próxima sessão de cronometragem.",
+        "Enquanto um cronômetro é excelente para medir a duração a partir de um ponto de partida, se você precisar calcular o tempo entre um horário de início e fim específico (como para uma folha de ponto), nossa <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Horas</a> é a ferramenta perfeita para o trabalho."
+      ]
+    },
+    {
+      "heading": "Aplicações Práticas para um Cronômetro",
+      "paragraphs": [
+        "Um cronômetro é uma ferramenta incrivelmente versátil com inúmeras aplicações na vida diária, esportes e ambientes profissionais:",
+        "Se você precisar realizar cálculos com seus tempos de volta registrados, como somá-los, nossa <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculadora de Tempo</a> pode lidar com essas operações com facilidade."
+      ],
+      "list": [
+        "<strong>Esportes e Fitness:</strong> Cronometrar voltas para corrida, natação ou ciclismo, e medir períodos de descanso entre séries de exercícios.",
+        "<strong>Culinária e Panificação:</strong> Cronometrar receitas com precisão, desde a infusão de chá até o cozimento de um bolo.",
+        "<strong>Estudo e Produtividade:</strong> Usar técnicas como a Técnica Pomodoro, que envolve intervalos de trabalho focado cronometrados com um cronômetro.",
+        "<strong>Testes e Apresentações:</strong> Praticar discursos ou cronometrar exames para melhorar o ritmo e o desempenho."
+      ]
+    }
+  ],
+  "navConstructionCalculators": "Calculadoras de Construção",
+  "navRoofingCalculator": "Calculadora de Telhado",
+  "homeRoofingCalculatorDescription": "Calcule os materiais e custos para o seu projeto de telhado.",
+  "seoRoofingTitle": "Calculadora de Telhado Online - Área, Materiais e Custos",
+  "seoRoofingDescription": "Use a Calculadora de Telhado online gratuita para calcular a área do telhado, materiais necessários e custos. Ideal para projetos de bricolage e profissionais em Portugal e Brasil.",
+  "roofingTitle": "Calculadora de Telhado Online: Área & Custos",
+  "roofingSubheading": "Calcule os materiais e custos necessários para o seu telhado.",
+  "totalAreaMethod": "Com base na área total",
+  "groundDimensionsMethod": "Com base nas dimensões do terreno",
+  "totalAreaLabel": "Área total do telhado",
+  "buildingLengthLabel": "Comprimento do edifício",
+  "buildingWidthLabel": "Largura do edifício",
+  "roofPitchLabel": "Inclinação do telhado",
+  "roofingPitchTooltip": "Insira a inclinação do telhado como uma proporção (ex: 4:12) ou em graus (ex: 18.4). Para um telhado plano, use 0.",
+  "wasteFactorLabel": "Fator de desperdício (%)",
+  "pricePerUnitLabel": "Preço por unidade",
+  "calculateRoofingButton": "Calcular Telhado",
+  "resultsTitle": "Seus resultados",
+  "baseRoofAreaResult": "Área base do telhado",
+  "totalRoofAreaResult": "Área total do telhado (incl. desperdício)",
+  "materialsNeededResult": "Materiais necessários",
+  "totalCostResult": "Custo total estimado",
+  "sqmUnit": "m²",
+  "squaresUnit": "squares",
+  "sqftUnit": "pé²",
+  "roofPitchTypeLabel": "Tipo de inclinação do telhado",
+  "pitchRatio": "Proporção",
+  "pitchDegrees": "Graus",
+  "roundUpLabel": "Arredondar para unidades inteiras",
+  "errorInvalidPitch": "Inclinação do telhado inválida. Insira uma proporção (ex: 4:12) ou graus (ex: 18.4).",
+  "materialTypeLabel": "Tipo de material",
+  "shingles": "Telhas asfálticas (~R$75/m²)",
+  "epdm": "EPDM (~R$100/m²)",
+  "roofTiles": "Telhas de cerâmica (~R$150/m²)",
+  "metal": "Metal (~R$125/m²)",
+  "customPrice": "Preço personalizado",
+  "wasteAmountResult": "Margem para desperdício",
+  "roofingPitchRatioPlaceholder": "ex: 4:12",
+  "roofingPitchDegreesPlaceholder": "ex: 18.4",
+  "seoRoofingSections": [
+    {
+      "heading": "Como Funciona o Nosso Simulador de Telhado Online",
+      "paragraphs": [
+        "O nosso <strong>simulador de telhado</strong> gratuito ajuda-o a estimar rapidamente a quantidade de material e os custos para o seu projeto. Quer precise de um <strong>cálculo de cobertura de telhado</strong> para um trabalho profissional ou um projeto de bricolage, esta ferramenta é ideal para utilizadores em Portugal e no Brasil. Basta inserir as dimensões do edifício e a inclinação, e obterá um resultado detalhado instantaneamente."
+      ]
+    },
+    {
+      "heading": "Dicas Práticas para uma Estimativa Precisa",
+      "paragraphs": [
+        "Um bom planeamento é crucial para o sucesso. Use estas dicas para garantir que o seu cálculo de material está correto:"
+      ],
+      "list": [
+        "<strong>Meça com Precisão:</strong> Verifique cuidadosamente o comprimento e a largura da área do telhado. Medidas exatas são a base para qualquer cálculo.",
+        "<strong>Fator de Desperdício:</strong> Para telhados simples, um acréscimo de 5-10% é suficiente. Para telhados complexos com águas-furtadas ou chaminés, considere 15%.",
+        "<strong>Escolha do Material:</strong> Cada material (telhas asfálticas, cerâmicas, metal) tem preços e requisitos de instalação diferentes. Compare as opções para fazer a melhor escolha.",
+        "<strong>Verifique os Regulamentos Locais:</strong> Antes de iniciar o projeto, informe-se sobre os códigos de construção aplicáveis na sua área."
+      ]
+    },
+    {
+      "heading": "Perguntas Frequentes (FAQ)",
+      "paragraphs": [
+        "<strong>P: Esta ferramenta também calcula o preço do telhado por m²?</strong><br>R: Sim! Depois de determinar o material necessário, pode inserir o <strong>preço do telhado por m²</strong> para obter uma estimativa instantânea do custo total do seu projeto.",
+        "<strong>P: De quanto material de cobertura preciso?</strong><br>R: O cálculo baseia-se na área total da superfície do telhado, determinada pelas dimensões e inclinação, mais um fator de desperdício. A nossa ferramenta automatiza este processo para si.",
+        "<strong>P: O que é um 'quadrado de telhado' (roofing square)?</strong><br>R: Um 'quadrado de telhado' é uma unidade de medida comum nos EUA, equivalente a 100 pés quadrados. A nossa calculadora fornece resultados em m² e em 'squares'."
+      ]
+    },
+    {
+      "heading": "Comece já o seu Planeamento de Telhado!",
+      "paragraphs": [
+        "A nossa calculadora funciona para diferentes tipos de cobertura: telhas asfálticas, cerâmicas, metálicas e EPDM. Compare preços e evite desperdícios no seu projeto de telhado.",
+        "Experimente a nossa calculadora de telhados agora e obtenha uma estimativa instantânea! Desta forma, garante que tem a quantidade certa de material e que o seu projeto se mantém dentro do orçamento."
+      ]
+    }
+  ],
+  "navConcreteCalculator": "Calculadora de Concreto",
+  "homeConcreteCalculatorDescription": "Estime o volume e os materiais necessários para o seu projeto de concreto.",
+  "seoConcreteTitle": "Calculadora de Concreto Profissional - Volume, Sacos e Custo",
+  "seoConcreteDescription": "Uma calculadora de concreto online para estimar o volume, sacos de cimento, areia, brita e o custo total para lajes, sapatas, pilares e escadas. Suporta unidades métricas e imperiais.",
+  "concreteTitle": "Calculadora de Concreto Profissional",
+  "concreteSubheading": "Estime o volume, materiais e custo para o seu projeto.",
+  "shapeLabel": "Forma",
+  "slab": "Laje / Piso",
+  "footing": "Sapata",
+  "column": "Pilar (Retangular)",
+  "circularColumn": "Pilar (Circular)",
+  "stairs": "Escadas",
+  "lengthLabel": "Comprimento",
+  "widthLabel": "Largura",
+  "thicknessLabel": "Espessura",
+  "depthLabel": "Profundidade",
+  "heightLabel": "Altura",
+  "diameterLabel": "Diâmetro",
+  "stepsLabel": "Número de Degraus",
+  "riserLabel": "Espelho",
+  "treadLabel": "Piso",
+  "calculateConcreteButton": "Calcular Concreto",
+  "resultsTitle": "Resultados do Cálculo",
+  "concreteVolumeResult": "Volume Total de Concreto",
+  "concreteWithWasteResult": "Volume (incl. perda)",
+  "cementBagsResult": "Sacos de Cimento",
+  "sandRequiredResult": "Areia Necessária",
+  "gravelRequiredResult": "Brita Necessária",
+  "bagSizeLabel": "Tamanho do Saco",
+  "kgBag": "kg",
+  "lbsBag": "lbs",
+  "concreteMixRatioLabel": "Traço do Concreto (Cimento:Areia:Brita)",
+  "bagsUnit": "sacos",
+  "costBreakdownTitle": "Detalhamento de Custos Estimados",
+  "pricePerBagLabel": "Preço por Saco",
+  "pricePerSandLabel": "Preço por {unit} de Areia",
+  "pricePerGravelLabel": "Preço por {unit} de Brita",
+  "cementCostResult": "Custo do Cimento",
+  "sandCostResult": "Custo da Areia",
+  "gravelCostResult": "Custo da Brita",
+  "totalCostResult": "Custo Total",
+  "concreteResetButton": "Limpar",
+  "wasteFactorTooltip": "O fator de perda considera o desperdício e variações na fôrma. 5-10% é um valor comum.",
+  "mixRatioTooltip": "Representa a proporção em volume de cimento, areia e brita. O traço 1:2:4 é comum para concreto de uso geral.",
+  "mixRatioLabel": "Traço do Concreto",
+  "mixRatio_1_1_5_3": "1:1.5:3 (Alta Resistência)",
+  "mixRatio_1_2_4": "1:2:4 (Padrão)",
+  "mixRatio_1_3_6": "1:3:6 (Fundações)",
+  "transportationCostLabel": "Custo do Frete (Opcional)",
+  "currencyLabel": "Moeda",
+  "printResultsButton": "Imprimir / Salvar PDF",
+  "errorPositiveNumbers": "Por favor, insira números válidos e positivos para todas as dimensões.",
+  "transportationCostResult": "Frete",
+  "seoConcreteSections": [
+    {
+      "heading": "Como Usar a Calculadora de Concreto Online",
+      "paragraphs": [
+        "Nossa <strong>calculadora de concreto online</strong> simplifica o planejamento do seu projeto. Seja para uma laje, sapata ou pilar, esta ferramenta ajuda a <strong>calcular o concreto</strong> necessário com precisão. Basta selecionar a forma, inserir as dimensões e nosso <strong>estimador de concreto</strong> fornecerá um detalhamento completo da <strong>quantidade de cimento, areia e brita</strong>. Esta calculadora está otimizada para uso em dispositivos móveis, permitindo estimar materiais instantaneamente na obra."
+      ]
+    },
+    {
+      "heading": "Entendendo o Traço do Concreto",
+      "paragraphs": [
+        "O <strong>traço do concreto</strong> - a proporção de cimento, areia e brita - é crucial para garantir a resistência e durabilidade da sua estrutura. Nossa calculadora permite que você selecione os traços mais comuns para atender às necessidades do seu projeto.",
+        "<table class='w-full text-left border-collapse mt-4'><thead><tr class='bg-gray-100 dark:bg-gray-700'><th class='p-2 border dark:border-gray-600'>Traço (C:A:B)</th><th class='p-2 border dark:border-gray-600'>Uso Comum</th><th class='p-2 border dark:border-gray-600'>Sacos de 50kg por m³ (Aprox.)</th></tr></thead><tbody><tr><td class='p-2 border dark:border-gray-600'>1:1.5:3</td><td class='p-2 border dark:border-gray-600'>Alta Resistência</td><td class='p-2 border dark:border-gray-600'>8-9 sacos</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:2:4</td><td class='p-2 border dark:border-gray-600'>Padrão / Uso Geral</td><td class='p-2 border dark:border-gray-600'>6-7 sacos</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:3:6</td><td class='p-2 border dark:border-gray-600'>Fundações / Contrapisos</td><td class='p-2 border dark:border-gray-600'>4-5 sacos</td></tr></tbody></table>"
+      ]
+    },
+    {
+      "heading": "Perguntas Frequentes (FAQ)",
+      "paragraphs": [
+        "<strong>P: Como calcular o volume de concreto para uma laje?</strong><br>R: Para calcular o volume, multiplique o comprimento, a largura e a espessura da área. Por exemplo, para uma laje de 5m de comprimento, 4m de largura e 10cm de espessura: 5m × 4m × 0.10m = 2 metros cúbicos. Nossa calculadora automatiza isso para várias formas.",
+        "<strong>P: Quantos sacos de cimento são necessários por metro cúbico?</strong><br>R: Isso depende do traço da mistura. Para um traço padrão de 1:2:4, você precisará de aproximadamente 6 a 7 sacos (de 50 kg cada) de cimento por metro cúbico de concreto. A tabela acima fornece um guia rápido.",
+        "<strong>P: Qual é o traço de concreto padrão?</strong><br>R: Uma proporção de 1:2:4 é amplamente considerada a mistura padrão para concreto de uso geral, adequada para a maioria dos projetos residenciais, como pisos, pátios e fundações."
       ]
     }
   ]

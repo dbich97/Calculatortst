@@ -1,8 +1,9 @@
 import React, { useReducer, useEffect, useRef } from 'react';
 import { Link, useOutletContext } from 'react-router-dom';
-import type { Translation, LanguageCode } from '../types';
+// FIX: Import LanguageCode as a value for runtime checks.
+import { type Translation, LanguageCode } from '../types';
 import { usePageMetadata } from '../lib/hooks';
-import { languagesWithHoursCalculator } from '../lib/i18n';
+import { languagesWithHoursCalculator, languagesWithStopwatch, languagesWithConstructionCalculators, languagesWithConcreteCalculator } from '../lib/i18n';
 
 interface PageContext {
   t: Translation;
@@ -333,12 +334,24 @@ const HomePage: React.FC = () => {
                 <CalculatorCard to={`/${currentLang}/ovulation-calculator`} title={t.navOvulationCalculator} description={t.homeOvulationCalculatorDescription} icon="🗓️" />
                 <CalculatorCard to={`/${currentLang}/Menstrual-Cycle-Calculator`} title={t.navMenstrualCycleCalculator} description={t.homeMenstrualCycleCalculatorDescription} icon="🩸" />
                 <CalculatorCard to={`/${currentLang}/Calorie-Calculator`} title={t.navCalorieCalculator} description={t.homeCalorieCalculatorDescription} icon="🔥" />
+                 {t.navBmiCalculator && t.homeBmiCalculatorDescription && (
+                    <CalculatorCard to={`/${currentLang}/bmi-calculator`} title={t.navBmiCalculator} description={t.homeBmiCalculatorDescription} icon="⚖️" />
+                )}
                 <CalculatorCard to={`/${currentLang}/time-Calculator`} title={t.navTimeCalculator} description={t.homeTimeCalculatorDescription} icon="⏱️" />
                 {languagesWithHoursCalculator.includes(currentLang) && t.navHoursCalculator && t.homeHoursCalculatorDescription && (
                     <CalculatorCard to={`/${currentLang}/hours-calculator`} title={t.navHoursCalculator} description={t.homeHoursCalculatorDescription} icon="🕰️" />
                 )}
                 {t.navDateCalculator && t.homeDateCalculatorDescription && (
                     <CalculatorCard to={`/${currentLang}/date-calculator`} title={t.navDateCalculator} description={t.homeDateCalculatorDescription} icon="📅" />
+                )}
+                {languagesWithStopwatch.includes(currentLang) && t.navStopwatch && t.homeStopwatchDescription && (
+                    <CalculatorCard to={`/${currentLang}/stopwatch`} title={t.navStopwatch} description={t.homeStopwatchDescription} icon="⏲️" />
+                )}
+                 {languagesWithConstructionCalculators.includes(currentLang) && t.navRoofingCalculator && t.homeRoofingCalculatorDescription && (
+                    <CalculatorCard to={`/${currentLang}/roofing-calculator`} title={t.navRoofingCalculator} description={t.homeRoofingCalculatorDescription} icon="🧱" />
+                )}
+                {languagesWithConcreteCalculator.includes(currentLang) && t.navConcreteCalculator && t.homeConcreteCalculatorDescription && (
+                    <CalculatorCard to={`/${currentLang}/concrete-calculator`} title={t.navConcreteCalculator} description={t.homeConcreteCalculatorDescription} icon="🏗️" />
                 )}
             </div>
         </div>

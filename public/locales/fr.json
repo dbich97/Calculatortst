@@ -62,7 +62,7 @@
     {
       "heading": "Comment Fonctionne Notre Calculateur d'Âge",
       "paragraphs": [
-        "Notre Calculateur d'Âge calcule votre âge avec une grande précision en comparant votre date de naissance à la date actuelle. L'outil calcule le temps total écoulé et le décompose en années, mois et jours. Il tient compte des années bissextiles pour fournir un resultado preciso, ce qui en fait un outil fiable pour quiconque se demande 'quel âge ai-je ?'. Entrez simplemente votre date de naissance, et le calculateur affiche instantanément votre âge chronologique. Pour d'autres calculs liés au temps, vous pouvez également essayer notre <a href=\"/fr/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a>."
+        "Notre Calculateur d'Âge calcule votre âge avec une grande précision en comparant votre date de naissance à la date actuelle. L'outil calcule le temps total écoulé et le décompose en années, mois et jours. Il tient compte des années bissextiles pour fournir un resultado preciso, ce qui en fait un outil fiable pour quiconque se demande 'quel âge ai-je ?'. Entrez simplemente votre date de naissance, et le calculateur affiche instantanément votre âge chronologique. Pour d'autres calculs liés au temps, vous pouvez également essayer notre <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a>."
       ]
     },
     {
@@ -137,13 +137,8 @@
     {
       "heading": "Comment fonctionne notre calculateur de date d'accouchement",
       "paragraphs": [
-        "Notre calculateur de date d'accouchement estime votre date de naissance prévue en utilisant plusieurs méthodes. La méthode la plus courante est basée sur le premier jour de vos dernières règles (DDR). Cette approche, connue sous le nom de règle de Naegele, ajoute 280 jours (40 semaines) à votre DDR pour prédire la date d'accouchement. Pour plus de précision, surtout avec des cycles irréguliers, vous pouvez utiliser notre <a href=\"/fr/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Cycle Menstruel</a> pour suivre vos règles. Nous proposons également des calculs basés sur la date de conception, qui peut être identifiée avec notre <a href=\"/fr/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Ovulation</a>, ou la date de votre transfert de FIV.",
+        "Notre calculateur de date d'accouchement estime votre date de naissance prévue en utilisant plusieurs méthodes. La méthode la plus courante est basée sur le premier jour de vos dernières règles (DDR). Cette approche, connue sous le nom de règle de Naegele, ajoute 280 jours (40 semaines) à votre DDR pour prédire la date d'accouchement. Pour plus de précision, surtout avec des cycles irréguliers, vous pouvez utiliser notre <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Cycle Menstruel</a> pour suivre vos règles. Nous proposons également des calculs basés sur la date de conception, qui peut être identifiée avec notre <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Ovulation</a>, ou la date de votre transfert de FIV.",
         "Il est important de se souvenir que cette date est une estimation. Seulement environ 5% des bébés naissent à leur date d'accouchement exacte. Cet outil fournit une ligne directrice fiable pour vous aider, vous et votre professionnel de la santé, à planifier l'arrivée de votre bébé."
-      ],
-      "list": [
-        "Méthode DDR : Le calcul standard basé sur un cycle de 28 jours.",
-        "Méthode de la date de conception : Plus précise si vous connaissez la date exacte de la conception.",
-        "Méthode FIV : Adaptée aux grossesses par FIV, basée sur la date de transfert de l'embryon et son âge."
       ]
     },
     {
@@ -170,13 +165,8 @@
     {
       "heading": "Comment prédire vos jours les plus fertiles",
       "paragraphs": [
-        "Notre Calculateur d'Ovulation est un outil simple conçu pour vous aider à prédire vos jours les plus fertiles du mois. En saisissant le premier jour de vos dernières règles et la durée moyenne de votre cycle, que vous pouvez suivre avec notre <a href=\"/fr/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Cycle Menstruel</a>, le calculateur estime votre date d'ovulation probable. L'ovulation est la libération d'un ovule par votre ovaire, ce qui se produit généralement environ 14 jours avant le début de vos prochaines règles.",
-        "Votre 'fenêtre de fertilité' comprend le jour de l'ovulation et les cinq jours qui la précèdent. C'est parce que les spermatozoïdes pueden survivre dans l'appareil reproducteur féminin jusqu'à cinq jours. Avoir des rapports sexuels pendant cette fenêtre augmente considérablement vos chances de conception. Une fois enceinte, vous pouvez suivre votre parcours avec notre <a href=\"/fr/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Date d'Accouchement</a>."
-      ],
-      "list": [
-        "Saisissez vos données : Commencez par la date de vos dernières règles et la durée de votre cycle.",
-        "Obtenez votre estimation : Le calculateur identifie vos jours clés de fertilité.",
-        "Planifiez en conséquence : Utilisez ces informations pour vous aider dans vos objectifs de planification familiale."
+        "Notre Calculateur d'Ovulation est un outil simple conçu pour vous aider à prédire vos jours les plus fertiles du mois. En saisissant le premier jour de vos dernières règles et la durée moyenne de votre cycle, que vous pouvez suivre avec notre <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Cycle Menstruel</a>, le calculateur estime votre date d'ovulation probable. L'ovulation est la libération d'un ovule par votre ovaire, ce qui se produit généralement environ 14 jours avant le début de vos prochaines règles.",
+        "Votre 'fenêtre de fertilité' comprend le jour de l'ovulation et les cinq jours qui la précèdent. C'est parce que les spermatozoïdes pueden survivre dans l'appareil reproducteur féminin jusqu'à cinq jours. Avoir des rapports sexuels pendant cette fenêtre augmente considérablement vos chances de conception. Une fois enceinte, vous pouvez suivre votre parcours avec notre <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Date d'Accouchement</a>."
       ]
     },
     {
@@ -201,13 +191,8 @@
     {
       "heading": "Comment fonctionne notre calculateur de règles",
       "paragraphs": [
-        "Notre Calculateur de Cycle Menstruel vous aide à prédire la date de début de vos prochaines règles avec seulement deux informations : le premier jour de vos dernières règles et la durée moyenne de votre cycle menstruel. En ajoutant la durée moyenne de votre cycle à la date de début de vos dernières règles, l'outil fournit une date estimée pour vos deux prochaines périodes. Connaître votre cycle est également essentiel pour identifier les fenêtres de fertilité avec notre <a href=\"/fr/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Ovulation</a>.",
-        "Le suivi de votre cycle est plus qu'une simple commodité ; c'est un indicateur clé de votre santé globale. Des cycles réguliers et prévisibles signifient souvent que les hormones de votre corps fonctionnent correctement. Une fois enceinte, notre <a href=\"/fr/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Date d'Accouchement</a> peut aider à estimer votre date d'accouchement."
-      ],
-      "list": [
-        "Entrées simples : Saisissez la date de début de vos dernières règles et la durée de votre cycle.",
-        "Prédictions instantanées : Voyez immédiatement les dates estimées de vos prochaines règles.",
-        "Planifiez à l'avance : Utilisez les prédictions pour planifier des événements, des vacances, ou simplemente pour être préparée."
+        "Notre Calculateur de Cycle Menstruel vous aide à prédire la date de début de vos prochaines règles avec seulement deux informations : le premier jour de vos dernières règles et la durée moyenne de votre cycle menstruel. En ajoutant la durée moyenne de votre cycle à la date de début de vos dernières règles, l'outil fournit une date estimée pour vos deux prochaines périodes. Connaître votre cycle est également essentiel pour identifier les fenêtres de fertilité avec notre <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Ovulation</a>.",
+        "Le suivi de votre cycle est plus qu'une simple commodité ; c'est un indicateur clé de votre santé globale. Des cycles réguliers et prévisibles signifient souvent que les hormones de votre corps fonctionnent correctement. Une fois enceinte, notre <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Date d'Accouchement</a> peut aider à estimer votre date d'accouchement."
       ]
     },
     {
@@ -316,7 +301,7 @@
     {
       "heading": "Comprendre vos besoins caloriques quotidiens",
       "paragraphs": [
-        "Une calorie est une unité d'énergie. En nutrition, les calories désignent l'énergie que les gens tirent des aliments et des boissons qu'ils consomment, et l'énergie qu'ils dépensent lors d'une activité physique. Comprendre vos besoins caloriques quotidiens, qui dépendent souvent de facteurs comme votre âge (trouvez-le avec notre <a href=\"/fr/age-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Âge</a>), est la première étape pour atteindre vos objectifs de poids, qu'il s'agisse de perdre, de prendre ou de maintenir votre poids actuel.",
+        "Une calorie est une unité d'énergie. En nutrition, les calories désignent l'énergie que les gens tirent des aliments et des boissons qu'ils consomment, et l'énergie qu'ils dépensent lors d'une activité physique. Comprendre vos besoins caloriques quotidiens, qui dépendent souvent de facteurs comme votre âge (trouvez-le avec notre <a href=\"#/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Âge</a>), est la première étape pour atteindre vos objectifs de poids, qu'il s'agisse de perdre, de prendre ou de maintenir votre poids actuel.",
         "Notre calculateur commence par déterminer votre Taux Métabolique de Base (TMB), qui est le nombre de calories dont votre corps a besoin pour accomplir les fonctions vitales de base au repos, telles que la respiration, la circulation et la production cellulaire. Nous utilisons l'équation de Mifflin-St Jeor, largement acceptée, pour ce calcul. Ensuite, nous prenons en compte votre niveau d'activité pour calculer votre Dépense Énergétique Journalière Totale (DEJT), qui est une estimation plus précise de votre dépense calorique quotidienne."
       ]
     },
@@ -360,7 +345,7 @@
     {
       "heading": "Comment utiliser le Calculateur de Temps",
       "paragraphs": [
-        "Notre Calculateur de Temps simplifie le processus d'addition et de soustraction de temps. Que vous suiviez des heures de travail, enregistriez des sessions d'exercice ou planifiez un événement, cet outil offre une solution rapide et précise. Pour calculer la durée entre une heure de début et de fin, par exemple pour une feuille de temps, notre <a href=\"/fr/hours-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Heures</a> est également disponible. Saisissez simplemente deux durées, sélectionnez si vous souhaitez les additionner ou les soustraire, et obtenez le résultat instantanément.",
+        "Notre Calculateur de Temps simplifie le processus d'addition et de soustraction de temps. Que vous suiviez des heures de travail, enregistriez des sessions d'exercice ou planifiez un événement, cet outil offre une solution rapide et précise. Pour calculer la durée entre une heure de début et de fin, par exemple pour une feuille de temps, notre <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Heures</a> est également disponible. Saisissez simplemente deux durées, sélectionnez si vous souhaitez les additionner ou les soustraire, et obtenez le résultat instantanément.",
         "Le calculateur décompose le temps en jours, heures, minutes et secondes. Pour la soustraction, assurez-vous que la première durée est supérieure ou égale à la seconde pour éviter les résultats négatifs."
       ]
     },
@@ -399,9 +384,8 @@
     {
       "heading": "Comment Utiliser le Calculateur d'Heures",
       "paragraphs": [
-        "Notre Calculateur d'Heures est conçu pour simplifier le calcul de la durée entre deux moments. Que vous calculiez des heures de travail, la durée d'un événement ou le temps passé sur une tâche, cet outil fournit un résultat rapide et précis. Pour des calculs plus complexes impliquant l'addition ou la soustraction de plusieurs durées, consultez notre <a href=\"/fr/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a> complet. Entrez simplemente les heures de début et de fin, et le calculateur s'occupera du reste, gérant les cas qui dépassent minuit."
-      ],
-      "list": []
+        "Notre Calculateur d'Heures est conçu pour simplifier le calcul de la durée entre deux moments. Que vous calculiez des heures de travail, la durée d'un événement ou le temps passé sur une tâche, cet outil fournit un résultat rapide et précis. Pour des calculs plus complexes impliquant l'addition ou la soustraction de plusieurs durées, consultez notre <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a> complet. Entrez simplemente les heures de début et de fin, et le calculateur s'occupera du reste, gérant les cas qui dépassent minuit."
+      ]
     },
     {
       "heading": "Applications Pratiques",
@@ -410,8 +394,7 @@
         "Calcul des Heures de Travail : Calculez facilement les heures de travail quotidiennes ou hebdomadaires pour les feuilles de temps.",
         "Planification d'Événements : Déterminez la durée des réunions, des rendez-vous et des événements.",
         "Suivi d'Activités : Surveillez le temps que vous consacrez à vos loisirs, à vos études ou à l'exercice."
-      ],
-      "list": []
+      ]
     }
   ],
   "navDateCalculator": "Calculateur de Dates",
@@ -430,7 +413,7 @@
       "heading": "Comment utiliser le Calculateur de Dates",
       "paragraphs": [
         "Notre Calculateur de Dates est conçu pour simplifier l'ajout ou la soustraction de périodes de temps à une date spécifique. Que vous planifiez un événement futur, fixiez une échéance ou regardiez une date dans le passé, cet outil fournit des calculs rapides et précis. Entrez simplement une date de début, puis spécifiez le nombre d'années, de mois, de semaines et de jours que vous souhaitez ajouter ou soustraire. Le calculateur tient compte de détails comme les années bissextiles et les longueurs de mois variables pour garantir l'exactitude.",
-        "Cet outil complète nos autres utilitaires basés sur le temps. Par exemple, vous pouvez utiliser notre <a href='/fr/age-calculator' class='text-blue-500 hover:underline'>Calculateur d'Âge</a> pour déterminer l'âge de quelqu'un, ou notre <a href='/fr/hours-calculator' class='text-blue-500 hover:underline'>Calculateur d'Heures</a> pour trouver la durée entre deux heures le même jour. Pour les calculs impliquant plusieurs durées, notre <a href='/fr/time-Calculator' class='text-blue-500 hover:underline'>Calculateur de Temps</a> est le choix parfait."
+        "Cet outil complète nos autres utilitaires basés sur le temps. Par exemple, vous pouvez utiliser notre <a href='#/{currentLang}/age-calculator' class='text-blue-500 hover:underline'>Calculateur d'Âge</a> pour déterminer l'âge de quelqu'un, ou notre <a href='#/{currentLang}/hours-calculator' class='text-blue-500 hover:underline'>Calculateur d'Heures</a> pour trouver la durée entre deux heures le même jour. Pour les calculs impliquant plusieurs durées, notre <a href='#/{currentLang}/time-Calculator' class='text-blue-500 hover:underline'>Calculateur de Temps</a> est le choix parfait."
       ]
     },
     {
@@ -441,7 +424,250 @@
         "<strong>Gestion de Projet :</strong> Fixez facilement des échéances de projet. Si un projet commence le 15 janvier et dure 8 semaines et 3 jours, vous pouvez trouver instantanément la date de fin exacte.",
         "<strong>Rendez-vous Médicaux :</strong> Suivez les rendez-vous médicaux ou les horaires de médication. Si vous devez planifier un suivi 3 mois après un rendez-vous, cet outil vous donne la date précise.",
         "<strong>Planification Financière :</strong> Calculez les dates d'échéance pour les prêts ou les plans d'investissement qui s'étendent sur un nombre spécifique d'années et de mois.",
-        "<strong>Planification de Grossesse :</strong> Bien que notre <a href='/fr/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Calculateur de Date d'Accouchement</a> fournisse des estimations détaillées de la date d'échéance, cet outil peut être utilisé pour des calculs rapides sur des dates spécifiques pendant la grossesse."
+        "<strong>Planification de Grossesse :</strong> Bien que notre <a href='#/{currentLang}/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Calculateur de Date d'Accouchement</a> fournisse des estimations détaillées de la date d'échéance, cet outil peut être utilisé pour des calculs rapides sur des dates spécifiques pendant la grossesse."
+      ]
+    }
+  ],
+  "navBmiCalculator": "Calculateur d'IMC",
+  "homeBmiCalculatorDescription": "Calculez votre Indice de Masse Corporelle pour comprendre la santé de votre poids.",
+  "seoBmiTitle": "Calculateur d'Indice de Masse Corporelle (IMC) - Vérifiez la Santé de Votre Poids",
+  "seoBmiDescription": "Utilisez notre calculateur d'Indice de Masse Corporelle gratuit et précis pour estimer votre graisse corporelle en fonction de votre taille et de votre poids. Découvrez si vous avez un poids santé.",
+  "bmiTitle": "Calculateur d'Indice de Masse Corporelle (IMC)",
+  "bmiSubheading": "Calculez votre IMC pour évaluer l'état de votre poids.",
+  "calculateBmiButton": "Calculer l'IMC",
+  "bmiResultLabel": "Votre IMC est de",
+  "bmiCategoryLabel": "Votre catégorie est :",
+  "underweight": "Insuffisance pondérale",
+  "normalWeight": "Poids normal",
+  "overweight": "Surpoids",
+  "obesity": "Obésité",
+  "seoBmiSections": [
+    {
+      "heading": "Qu'est-ce que l'IMC et comment fonctionne-t-il ?",
+      "paragraphs": [
+        "L'Indice de Masse Corporelle (IMC) est une mesure simple qui utilise votre taille et votre poids pour estimer votre graisse corporelle. C'est un outil de dépistage largement utilisé pour déterminer si le poids d'une personne se situe dans une fourchette saine. La formule de base est le poids en kilogrammes divisé par le carré de la taille en mètres (kg/m²). Notre calculateur automatise ce processus pour vous fournir un résultat rapide et précis.",
+        "Comprendre votre IMC est une première étape importante vers une gestion saine du poids. Cela peut vous aider à fixer des objectifs réalistes, que vous visiez à maintenir ou à modifier votre poids actuel. Pour gérer efficacement votre poids, il est également crucial de comprendre vos besoins énergétiques, que vous pouvez calculer à l'aide de notre <a href=\"#/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Calories</a>."
+      ]
+    },
+    {
+      "heading": "Comprendre les résultats de l'IMC (Catégories)",
+      "paragraphs": [
+        "Après avoir calculé votre IMC, le résultat est classé dans des catégories spécifiques pour vous aider à comprendre votre état de santé. Les catégories standard pour les adultes sont :",
+        "<strong>En dessous de 18.5 :</strong> Insuffisance pondérale. Cela peut indiquer que vous n'obtenez pas suffisamment de nutriments ou pourrait être le signe d'une condition médicale sous-jacente.",
+        "<strong>18.5 – 24.9 :</strong> Poids normal. Cette fourchette suggère que vous avez un poids santé pour votre taille, ce qui réduit le risque de maladies chroniques.",
+        "<strong>25.0 – 29.9 :</strong> Surpoids. Dans cette catégorie, vous pouvez avoir un risque accru de développer certains problèmes de santé comme les maladies cardiaques et le diabète de type 2.",
+        "<strong>30.0 et plus :</strong> Obésité. L'obésité augmente considérablement le risque de problèmes de santé graves et nécessite une attention particulière par des changements de style de vie et la consultation d'un professionnel de la santé."
+      ]
+    },
+    {
+      "heading": "L'importance de maintenir un IMC sain",
+      "paragraphs": [
+        "Maintenir un IMC dans la plage normale (18,5-24,9) est vital pour la santé globale. Le surpoids ou l'obésité sont liés à un risque accru de nombreuses maladies chroniques, notamment l'hypertension artérielle, les maladies cardiaques, les accidents vasculaires cérébraux, le diabète de type 2 et certains types de cancer. D'un autre côté, l'insuffisance pondérale peut également entraîner des problèmes de santé tels qu'un système immunitaire affaibli, l'ostéoporose et des problèmes de fertilité. Par conséquent, atteindre et maintenir un poids santé est un élément clé d'un mode de vie sain."
+      ]
+    },
+    {
+      "heading": "Les limites de l'IMC",
+      "paragraphs": [
+        "Bien que l'IMC soit un outil de dépistage utile, il n'est pas sans limites. Il ne fait pas la distinction entre la masse grasse et la masse musculaire. Cela signifie que les personnes très musclées, comme les athlètes, peuvent avoir un IMC élevé et être classées en surpoids malgré un faible taux de graisse corporelle.",
+        "De plus, l'interprétation de l'IMC peut être affectée par des facteurs tels que l'âge et le sexe. Par exemple, les personnes âgées qui ont perdu de la masse musculaire peuvent avoir un pourcentage de graisse corporelle sain même si leur IMC est normal. Vous pouvez explorer comment votre corps change au fil du temps avec notre <a href=\"#/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Âge</a>. Pour ces raisons, l'IMC doit être utilisé dans le cadre d'une évaluation de santé complète et non comme un outil de diagnostic unique."
+      ]
+    },
+    {
+      "heading": "Comment améliorer votre IMC",
+      "paragraphs": [
+        "Si le résultat de votre IMC se situe en dehors de la plage normale, il existe des mesures que vous pouvez prendre pour l'améliorer. Cela implique généralement une combinaison d'une alimentation équilibrée et d'une activité physique régulière. Se fixer des objectifs réalistes et progressifs peut vous aider à atteindre et à maintenir un poids santé. Notre <a href=\"#/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Calories</a> peut être un excellent outil pour vous aider à planifier votre alimentation.",
+        "Il est également important de prendre en compte d'autres conditions de santé. Par exemple, maintenir un IMC sain est particulièrement important pendant la grossesse, et vous pouvez suivre vos progrès avec notre <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Grossesse</a>. Nous recommandons toujours de consulter un professionnel de la santé ou un diététicien agréé pour élaborer un plan personnalisé adapté à vos besoins individuels."
+      ]
+    }
+  ],
+  "navStopwatch": "Chronomètre",
+  "homeStopwatchDescription": "Mesurez le temps écoulé avec précision grâce aux tours et à un affichage clair.",
+  "seoStopwatchTitle": "Chronomètre en Ligne Gratuit avec Tours",
+  "seoStopwatchDescription": "Un chronomètre en ligne simple, précis et gratuit avec fonction de tour. Parfait pour le sport, les entraînements et le chronométrage de toute activité.",
+  "stopwatchTitle": "Chronomètre",
+  "stopwatchSubheading": "Mesurez le temps écoulé avec précision.",
+  "startButton": "Démarrer",
+  "stopButton": "Arrêter",
+  "lapButton": "Tour",
+  "resetButton": "Réinitialiser",
+  "lapColumnHeader": "Tour",
+  "timeColumnHeader": "Temps",
+  "seoStopwatchSections": [
+    {
+      "heading": "Comment Utiliser le Chronomètre en Ligne",
+      "paragraphs": [
+        "Notre chronomètre en ligne est un outil simple et précis pour mesurer le temps écoulé. D'un simple clic, vous pouvez démarrer et arrêter le minuteur pour suivre n'importe quelle activité avec une précision au centième de seconde. La fonction 'Tour' vous permet d'enregistrer des temps intermédiaires sans interrompre le minuteur principal, ce qui est parfait pour suivre les performances sur plusieurs intervalles. Lorsque vous avez terminé, le bouton 'Réinitialiser' efface le minuteur et tous les tours enregistrés, vous préparant pour la prochaine session de chronométrage.",
+        "Alors qu'un chronomètre est excellent pour mesurer la durée à partir d'un point de départ, si vous devez calculer le temps entre une heure de début et de fin spécifique (comme pour une feuille de temps), notre <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Heures</a> est l'outil parfait pour ce travail."
+      ]
+    },
+    {
+      "heading": "Applications Pratiques d'un Chronomètre",
+      "paragraphs": [
+        "Un chronomètre est un outil incroyablement polyvalent avec de nombreuses applications dans la vie quotidienne, le sport et les contextes professionnels :",
+        "Si vous devez effectuer des calculs avec vos temps de tour enregistrés, comme les additionner, notre <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a> peut gérer ces opérations avec facilité."
+      ],
+      "list": [
+        "<strong>Sports et Fitness :</strong> Chronométrage des tours pour la course, la natation ou le cyclisme, et mesure des périodes de repos entre les séries d'entraînement.",
+        "<strong>Cuisine et Pâtisserie :</strong> Chronométrage précis des recettes, de l'infusion du thé à la cuisson d'un gâteau.",
+        "<strong>Études et Productivité :</strong> Utilisation de techniques comme la Technique Pomodoro, qui implique des intervalles de travail ciblés chronométrés avec un chronomètre.",
+        "<strong>Tests et Présentations :</strong> Pratiquer des discours ou chronométrer des examens pour améliorer le rythme et la performance."
+      ]
+    }
+  ],
+  "navConstructionCalculators": "Calculateurs de Construction",
+  "navRoofingCalculator": "Calculateur de Toiture",
+  "homeRoofingCalculatorDescription": "Calculez les matériaux et les coûts pour votre projet de toiture.",
+  "seoRoofingTitle": "Calculateur de Toiture - Calculez Matériaux & Coûts",
+  "seoRoofingDescription": "Un outil en ligne gratuit pour calculer la quantité de matériaux de toiture requise et le coût estimé pour votre projet en fonction des dimensions et de la pente du toit.",
+  "roofingTitle": "Calculateur de Toiture",
+  "roofingSubheading": "Calculez les matériaux et les coûts requis pour votre toit.",
+  "calculationMethodLabel": "Méthode de calcul",
+  "totalAreaMethod": "Basé sur la surface totale",
+  "groundDimensionsMethod": "Basé sur les dimensions au sol",
+  "totalAreaLabel": "Surface totale du toit",
+  "buildingLengthLabel": "Longueur du bâtiment",
+  "buildingWidthLabel": "Largeur du bâtiment",
+  "roofPitchLabel": "Pente du toit",
+  "roofingPitchTooltip": "Entrez la pente du toit sous forme de rapport (ex. 4:12) ou en degrés (ex. 18.4). Pour un toit plat, utilisez 0.",
+  "wasteFactorLabel": "Facteur de perte (%)",
+  "pricePerUnitLabel": "Prix par unité",
+  "calculateRoofingButton": "Calculer la Toiture",
+  "resultsTitle": "Vos résultats",
+  "baseRoofAreaResult": "Surface de base du toit",
+  "totalRoofAreaResult": "Surface totale du toit (incl. perte)",
+  "materialsNeededResult": "Matériaux nécessaires",
+  "totalCostResult": "Coût total estimé",
+  "wasteAmountResult": "Marge pour perte",
+  "sqmUnit": "m²",
+  "squaresUnit": "squares",
+  "sqftUnit": "pi²",
+  "roofPitchTypeLabel": "Type de pente de toit",
+  "pitchRatio": "Rapport",
+  "pitchDegrees": "Degrés",
+  "roundUpLabel": "Arrondir aux unités entières",
+  "errorInvalidPitch": "Pente de toit invalide. Entrez un rapport (ex. 4:12) ou des degrés (ex. 18.4).",
+  "materialTypeLabel": "Type de matériau",
+  "shingles": "Bardeaux (~14 €/m²)",
+  "epdm": "EPDM (~19 €/m²)",
+  "roofTiles": "Tuiles (~28 €/m²)",
+  "metal": "Métal (~23 €/m²)",
+  "customPrice": "Prix personnalisé",
+  "roofingPitchRatioPlaceholder": "ex. 4:12",
+  "roofingPitchDegreesPlaceholder": "ex. 18.4",
+  "seoRoofingSections": [
+    {
+      "heading": "Comment fonctionne notre simulateur de toiture ?",
+      "paragraphs": [
+        "Notre <strong>simulateur de toiture gratuit en ligne</strong> est l'outil idéal pour une <strong>estimation de toiture</strong> rapide et précise. Il vous permet de réaliser un <strong>calcul de surface de toiture</strong> en quelques secondes et d'estimer les matériaux et les coûts. Que vous soyez en France, en Belgique ou en Suisse, cet outil est conçu pour vous aider à planifier votre projet efficacement."
+      ]
+    },
+    {
+      "heading": "Conseils pour une estimation de toiture précise",
+      "paragraphs": [
+        "Pour obtenir les meilleurs résultats de votre <strong>calcul de surface de toiture</strong>, suivez ces conseils pratiques :"
+      ],
+      "list": [
+        "<strong>Mesurez avec exactitude :</strong> La base de toute bonne estimation est une mesure précise de la longueur et de la largeur du bâtiment.",
+        "<strong>Facteur de perte :</strong> N'oubliez pas d'inclure un facteur de perte (généralement 10-15%) pour les découpes et les ajustements.",
+        "<strong>Pente du toit :</strong> Une pente plus raide signifie une plus grande <strong>surface de toiture</strong>. Notre outil prend cela en compte pour vous.",
+        "<strong>Choix du matériau :</strong> Le type de matériau (tuiles, bardeaux, etc.) influence non seulement le coût, mais aussi le facteur de perte."
+      ]
+    },
+    {
+      "heading": "FAQ – Questions fréquentes sur le calcul de toiture",
+      "paragraphs": [
+        "<strong>Q : Comment calculer le prix d'une toiture au m² ?</strong><br>R : Notre outil vous aide à faire ce <strong>calcul de coût de toiture en ligne</strong>. Après avoir déterminé la surface totale, entrez simplement le prix au m² de votre matériau pour obtenir une estimation de coût globale.",
+        "<strong>Q : Quelle est la différence entre une toiture en tuiles et une toiture en bardeaux ?</strong><br>R : Les tuiles (souvent en terre cuite ou en béton) sont généralement plus durables et plus chères, tandis que les bardeaux (souvent en asphalte) sont plus économiques et plus faciles à installer. Le choix dépend de votre budget, du style de votre maison et du climat local.",
+        "<strong>Q : De combien de matériaux ai-je besoin pour ma surface de toiture ?</strong><br>R : Notre <strong>simulateur de toiture</strong> calcule la surface exacte et ajoute le facteur de perte que vous spécifiez pour vous donner la quantité totale de matériaux nécessaires, évitant ainsi le gaspillage ou les manques."
+      ]
+    },
+    {
+      "heading": "Commencez votre estimation maintenant !",
+      "paragraphs": [
+        "👉 Essayez notre <strong>simulateur de toiture</strong> maintenant et recevez une estimation instantanée, gratuite et précise ! Planifiez votre projet en toute confiance."
+      ]
+    }
+  ],
+  "navConcreteCalculator": "Calculateur de Béton",
+  "homeConcreteCalculatorDescription": "Estimez le volume et les matériaux nécessaires pour votre projet en béton.",
+  "seoConcreteTitle": "Calculateur de Béton Professionnel - Volume, Sacs & Coût",
+  "seoConcreteDescription": "Un calculateur de béton en ligne pour estimer le volume, les sacs de ciment, le sable, le gravier et le coût total pour les dalles, fondations, colonnes et escaliers. Supporte les unités métriques et impériales.",
+  "concreteTitle": "Calculateur de Béton Professionnel",
+  "concreteSubheading": "Estimez le volume, les matériaux et le coût de votre projet.",
+  "shapeLabel": "Forme",
+  "slab": "Dalle / Sol",
+  "footing": "Fondation",
+  "column": "Colonne (Rectangulaire)",
+  "circularColumn": "Colonne (Circulaire)",
+  "stairs": "Escaliers",
+  "lengthLabel": "Longueur",
+  "widthLabel": "Largeur",
+  "thicknessLabel": "Épaisseur",
+  "depthLabel": "Profondeur",
+  "heightLabel": "Hauteur",
+  "diameterLabel": "Diamètre",
+  "stepsLabel": "Nombre de marches",
+  "riserLabel": "Contremarche",
+  "treadLabel": "Giron",
+  "calculateConcreteButton": "Calculer le Béton",
+  "resultsTitle": "Résultats du Calcul",
+  "concreteVolumeResult": "Volume Total de Béton",
+  "concreteWithWasteResult": "Volume (incl. perte)",
+  "cementBagsResult": "Sacs de Ciment",
+  "sandRequiredResult": "Sable Requis",
+  "gravelRequiredResult": "Gravier Requis",
+  "bagSizeLabel": "Taille du Sac",
+  "kgBag": "kg",
+  "lbsBag": "lbs",
+  "concreteMixRatioLabel": "Dosage (Ciment:Sable:Gravier)",
+  "bagsUnit": "sacs",
+  "costBreakdownTitle": "Détail des Coûts Estimés",
+  "pricePerBagLabel": "Prix par Sac",
+  "pricePerSandLabel": "Prix par {unit} de Sable",
+  "pricePerGravelLabel": "Prix par {unit} de Gravier",
+  "cementCostResult": "Coût du Ciment",
+  "sandCostResult": "Coût du Sable",
+  "gravelCostResult": "Coût du Gravier",
+  "totalCostResult": "Coût Total",
+  "concreteResetButton": "Réinitialiser",
+  "wasteFactorTooltip": "Le facteur de perte compense les déversements et les variations de coffrage. 5-10% est typique.",
+  "mixRatioTooltip": "Représente le rapport en volume de ciment, sable et gravier. 1:2:4 est un mélange courant pour le béton à usage général.",
+  "mixRatioLabel": "Dosage du Mélange",
+  "mixRatio_1_1_5_3": "1:1.5:3 (Haute Résistance)",
+  "mixRatio_1_2_4": "1:2:4 (Standard)",
+  "mixRatio_1_3_6": "1:3:6 (Fondation)",
+  "transportationCostLabel": "Coût du Transport (Optionnel)",
+  "currencyLabel": "Devise",
+  "printResultsButton": "Imprimer / Enregistrer en PDF",
+  "errorPositiveNumbers": "Veuillez entrer des nombres valides et positifs pour toutes les dimensions.",
+  "transportationCostResult": "Transport",
+  "seoConcreteSections": [
+    {
+      "heading": "Comment utiliser notre simulateur béton gratuit",
+      "paragraphs": [
+        "Notre <strong>simulateur béton gratuit</strong> est l'outil parfait pour planifier votre projet avec précision. Il vous permet d'effectuer un <strong>calcul de béton pour dalle</strong>, fondation, colonne, et plus encore. Entrez simplement les dimensions, choisissez votre dosage, et obtenez instantanément la <strong>quantité de ciment, sable et gravier</strong> nécessaire. Optimisé pour ordinateur et mobile, ce calculateur de béton est accessible directement sur chantier pour des estimations rapides."
+      ]
+    },
+    {
+      "heading": "Comprendre le dosage du béton",
+      "paragraphs": [
+        "Le dosage du béton — le rapport entre le ciment, le sable et le gravier — est crucial pour garantir la résistance et la durabilité de votre structure. Un mauvais dosage peut compromettre l'intégrité de votre projet. Notre calculateur utilise des ratios standards pour vous aider à faire le bon choix.",
+        "<h3>Tableau des dosages courants</h3>Le tableau ci-dessous détaille les dosages les plus courants, leur résistance et leurs applications typiques, vous aidant à choisir la meilleure option pour vos besoins.",
+        "<table class='w-full text-left border-collapse mt-4'><thead><tr class='bg-gray-100 dark:bg-gray-700'><th class='p-2 border dark:border-gray-600'>Dosage (Ciment:Sable:Gravier)</th><th class='p-2 border dark:border-gray-600'>Résistance</th><th class='p-2 border dark:border-gray-600'>Application courante</th></tr></thead><tbody><tr><td class='p-2 border dark:border-gray-600'><strong>1:1.5:3</strong></td><td class='p-2 border dark:border-gray-600'>Haute</td><td class='p-2 border dark:border-gray-600'>Colonnes, poutres, dalles structurelles</td></tr><tr><td class='p-2 border dark:border-gray-600'><strong>1:2:4</strong></td><td class='p-2 border dark:border-gray-600'>Standard</td><td class='p-2 border dark:border-gray-600'>Dalles de sol, fondations, murs</td></tr><tr><td class='p-2 border dark:border-gray-600'><strong>1:3:6</strong></td><td class='p-2 border dark:border-gray-600'>Faible</td><td class='p-2 border dark:border-gray-600'>Béton de propreté, remplissage</td></tr></tbody></table>"
+      ]
+    },
+    {
+      "heading": "Questions fréquentes sur le calcul de béton",
+      "paragraphs": [
+        "<strong>Q : Comment calculer le volume de béton nécessaire pour une dalle ?</strong><br>R : Pour effectuer un <strong>calcul de béton pour dalle</strong>, multipliez la longueur par la largeur, puis par l'épaisseur. Par exemple, pour une dalle de 5m x 4m avec une épaisseur de 10cm : 5m × 4m × 0.10m = 2 mètres cubes. Notre outil automatise ce calcul pour toutes les formes.",
+        "<strong>Q : Combien de sacs de ciment par mètre cube ?</strong><br>R : La quantité dépend du dosage. Pour un mélange standard 1:2:4, il faut environ 8 à 10 sacs de 35 kg de ciment par mètre cube de béton. Le tableau ci-dessus fournit une estimation rapide.",
+        "<strong>Q : Quel est le facteur de perte recommandé ?</strong><br>R : Il est conseillé d'ajouter un facteur de perte de 5% à 10% pour compenser les déversements, les irrégularités du coffrage et le tassement du matériau. Notre calculateur inclut cette option pour une estimation plus réaliste."
+      ]
+    },
+    {
+      "heading": "Planifiez Votre Projet en Toute Confiance",
+      "paragraphs": [
+        "👉 Utilisez gratuitement notre <strong>calculateur de béton professionnel</strong> pour estimer vos besoins en matériaux et coûts en quelques clics."
       ]
     }
   ]

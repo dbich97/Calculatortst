@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import { useParams, useNavigate, Outlet, NavLink, Link, useLocation } from 'react-router-dom';
 import { LanguageCode, type Translation } from '../types';
 import LanguageSelector from './LanguageSelector';
-import { languagesWithHoursCalculator } from '../lib/i18n';
+import { languagesWithHoursCalculator, languagesWithStopwatch, languagesWithConstructionCalculators, languagesWithConcreteCalculator } from '../lib/i18n';
 import SideAdComponent from './SideAdComponent';
 import FooterAdComponent from './FooterAdComponent';
 
@@ -15,9 +15,11 @@ const Layout: React.FC = () => {
     const [isLoading, setIsLoading] = useState(true);
     const [isHealthDropdownOpen, setIsHealthDropdownOpen] = useState(false);
     const [isTimeDropdownOpen, setIsTimeDropdownOpen] = useState(false);
+    const [isConstructionDropdownOpen, setIsConstructionDropdownOpen] = useState(false);
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
     const desktopHealthDropdownRef = useRef<HTMLDivElement>(null);
     const desktopTimeDropdownRef = useRef<HTMLDivElement>(null);
+    const desktopConstructionDropdownRef = useRef<HTMLDivElement>(null);
 
     const currentLang = (Object.values(LanguageCode).includes(lang as LanguageCode) ? lang : LanguageCode.EN) as LanguageCode;
 
@@ -70,6 +72,9 @@ const Layout: React.FC = () => {
              if (desktopTimeDropdownRef.current && !desktopTimeDropdownRef.current.contains(event.target as Node)) {
                 setIsTimeDropdownOpen(false);
             }
+            if (desktopConstructionDropdownRef.current && !desktopConstructionDropdownRef.current.contains(event.target as Node)) {
+                setIsConstructionDropdownOpen(false);
+            }
         };
 
         document.addEventListener('mousedown', handleClickOutside);
@@ -88,6 +93,7 @@ const Layout: React.FC = () => {
         setIsMobileMenuOpen(false);
         setIsHealthDropdownOpen(false);
         setIsTimeDropdownOpen(false);
+        setIsConstructionDropdownOpen(false);
     }, [location.pathname]);
 
     if (isLoading || !t) {
@@ -107,6 +113,9 @@ const Layout: React.FC = () => {
             <NavLink to={`/${currentLang}/ovulation-calculator`} className={({ isActive }) => `${navLinkClasses} block w-full text-left ${isActive ? activeNavLinkClasses : ''}`}>{t.navOvulationCalculator}</NavLink>
             <NavLink to={`/${currentLang}/Menstrual-Cycle-Calculator`} className={({ isActive }) => `${navLinkClasses} block w-full text-left ${isActive ? activeNavLinkClasses : ''}`}>{t.navMenstrualCycleCalculator}</NavLink>
             <NavLink to={`/${currentLang}/Calorie-Calculator`} className={({ isActive }) => `${navLinkClasses} block w-full text-left ${isActive ? activeNavLinkClasses : ''}`}>{t.navCalorieCalculator}</NavLink>
+            {t.navBmiCalculator && (
+              <NavLink to={`/${currentLang}/bmi-calculator`} className={({ isActive }) => `${navLinkClasses} block w-full text-left ${isActive ? activeNavLinkClasses : ''}`}>{t.navBmiCalculator}</NavLink>
+            )}
         </>
     );
 
@@ -120,6 +129,20 @@ const Layout: React.FC = () => {
             {t.navDateCalculator && (
               <NavLink to={`/${currentLang}/date-calculator`} className={({ isActive }) => `${navLinkClasses} block w-full text-left ${isActive ? activeNavLinkClasses : ''}`}>{t.navDateCalculator}</NavLink>
             )}
+            {languagesWithStopwatch.includes(currentLang) && t.navStopwatch && (
+              <NavLink to={`/${currentLang}/stopwatch`} className={({ isActive }) => `${navLinkClasses} block w-full text-left ${isActive ? activeNavLinkClasses : ''}`}>{t.navStopwatch}</NavLink>
+            )}
+        </>
+    );
+
+    const constructionDropdownLinks = (
+        <>
+          {t.navRoofingCalculator && (
+            <NavLink to={`/${currentLang}/roofing-calculator`} className={({ isActive }) => `${navLinkClasses} block w-full text-left ${isActive ? activeNavLinkClasses : ''}`}>{t.navRoofingCalculator}</NavLink>
+          )}
+          {languagesWithConcreteCalculator.includes(currentLang) && t.navConcreteCalculator && (
+            <NavLink to={`/${currentLang}/concrete-calculator`} className={({ isActive }) => `${navLinkClasses} block w-full text-left ${isActive ? activeNavLinkClasses : ''}`}>{t.navConcreteCalculator}</NavLink>
+          )}
         </>
     );
     
@@ -169,6 +192,22 @@ const Layout: React.FC = () => {
                                             </div>
                                         )}
                                     </div>
+
+                                    {languagesWithConstructionCalculators.includes(currentLang) && t.navConstructionCalculators && (
+                                        <div className="relative" ref={desktopConstructionDropdownRef}>
+                                            <button onClick={() => setIsConstructionDropdownOpen(!isConstructionDropdownOpen)} className={`${navLinkClasses} flex items-center`}>
+                                                {t.navConstructionCalculators}
+                                                <svg className="ml-1 h-5 w-5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" /></svg>
+                                            </button>
+                                            {isConstructionDropdownOpen && (
+                                                <div className="absolute left-0 mt-2 w-56 rounded-md shadow-lg bg-white dark:bg-gray-800 ring-1 ring-black ring-opacity-5 z-20">
+                                                    <div className="py-1" role="menu" aria-orientation="vertical" aria-labelledby="options-menu">
+                                                        {constructionDropdownLinks}
+                                                    </div>
+                                                </div>
+                                            )}
+                                        </div>
+                                    )}
                                 </div>
                             </div>
                         </div>
@@ -194,7 +233,7 @@ const Layout: React.FC = () => {
                             <NavLink to={`/${currentLang}`} end className={({ isActive }) => `block ${navLinkClasses} ${isActive ? activeNavLinkClasses : ''}`}>{t.navHome}</NavLink>
                             
                              <div className="relative">
-                                <button onClick={() => { setIsTimeDropdownOpen(!isTimeDropdownOpen); setIsHealthDropdownOpen(false); }} className={`w-full text-left flex items-center justify-between ${navLinkClasses}`}>
+                                <button onClick={() => { setIsTimeDropdownOpen(!isTimeDropdownOpen); setIsHealthDropdownOpen(false); setIsConstructionDropdownOpen(false); }} className={`w-full text-left flex items-center justify-between ${navLinkClasses}`}>
                                     {t.navTimeAndDate}
                                     <svg className={`ml-1 h-5 w-5 transform transition-transform ${isTimeDropdownOpen ? 'rotate-180' : ''}`} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" /></svg>
                                 </button>
@@ -206,7 +245,7 @@ const Layout: React.FC = () => {
                             </div>
 
                             <div className="relative">
-                                <button onClick={() => { setIsHealthDropdownOpen(!isHealthDropdownOpen); setIsTimeDropdownOpen(false); }} className={`w-full text-left flex items-center justify-between ${navLinkClasses}`}>
+                                <button onClick={() => { setIsHealthDropdownOpen(!isHealthDropdownOpen); setIsTimeDropdownOpen(false); setIsConstructionDropdownOpen(false); }} className={`w-full text-left flex items-center justify-between ${navLinkClasses}`}>
                                     {t.navHealthCalculators}
                                     <svg className={`ml-1 h-5 w-5 transform transition-transform ${isHealthDropdownOpen ? 'rotate-180' : ''}`} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" /></svg>
                                 </button>
@@ -216,6 +255,20 @@ const Layout: React.FC = () => {
                                     </div>
                                 )}
                             </div>
+
+                            {languagesWithConstructionCalculators.includes(currentLang) && t.navConstructionCalculators && (
+                                <div className="relative">
+                                    <button onClick={() => { setIsConstructionDropdownOpen(!isConstructionDropdownOpen); setIsTimeDropdownOpen(false); setIsHealthDropdownOpen(false); }} className={`w-full text-left flex items-center justify-between ${navLinkClasses}`}>
+                                        {t.navConstructionCalculators}
+                                        <svg className={`ml-1 h-5 w-5 transform transition-transform ${isConstructionDropdownOpen ? 'rotate-180' : ''}`} xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor"><path fillRule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clipRule="evenodd" /></svg>
+                                    </button>
+                                    {isConstructionDropdownOpen && (
+                                        <div className="mt-2 pl-4 space-y-1">
+                                            {constructionDropdownLinks}
+                                        </div>
+                                    )}
+                                </div>
+                            )}
                         </div>
                         <div className="pt-4 pb-3 border-t border-gray-200 dark:border-gray-700">
                             <div className="px-2">

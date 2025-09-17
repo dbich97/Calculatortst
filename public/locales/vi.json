@@ -61,7 +61,7 @@
     {
       "heading": "Cách hoạt động của Máy tính Tuổi của chúng tôi",
       "paragraphs": [
-        "Máy tính Tuổi của chúng tôi tính toán tuổi của bạn với độ chính xác cao bằng cách so sánh ngày sinh của bạn với ngày hiện tại. Công cụ tính toán tổng thời gian đã trôi qua và chia thành năm, tháng và ngày. Nó tính đến cả năm nhuận để cung cấp kết quả chính xác, làm cho nó trở thành một công cụ đáng tin cậy cho bất kỳ ai hỏi 'tôi bao nhiêu tuổi?'. Chỉ cần nhập ngày sinh của bạn và máy tính sẽ ngay lập tức hiển thị tuổi theo thời gian của bạn. Để tính toán các vấn đề liên quan đến thời gian khác, bạn cũng có thể thử <a href=\"/vi/time-Calculator\" class=\"text-blue-500 hover:underline\">Máy tính Thời gian</a> của chúng tôi."
+        "Máy tính Tuổi của chúng tôi tính toán tuổi của bạn với độ chính xác cao bằng cách so sánh ngày sinh của bạn với ngày hiện tại. Công cụ tính toán tổng thời gian đã trôi qua và chia thành năm, tháng và ngày. Nó tính đến cả năm nhuận để cung cấp kết quả chính xác, làm cho nó trở thành một công cụ đáng tin cậy cho bất kỳ ai hỏi 'tôi bao nhiêu tuổi?'. Chỉ cần nhập ngày sinh của bạn và máy tính sẽ ngay lập tức hiển thị tuổi theo thời gian của bạn. Để tính toán các vấn đề liên quan đến thời gian khác, bạn cũng có thể thử <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Máy tính Thời gian</a> của chúng tôi."
       ]
     },
     {
@@ -136,13 +136,8 @@
     {
       "heading": "Cách hoạt động của Máy tính Ngày dự sinh của chúng tôi",
       "paragraphs": [
-        "Máy tính Ngày dự sinh của chúng tôi ước tính ngày sinh dự kiến của bạn bằng nhiều phương pháp. Phương pháp phổ biến nhất dựa trên ngày đầu tiên của kỳ kinh nguyệt cuối cùng (LMP). Cách tiếp cận này, được gọi là quy tắc Naegele, cộng thêm 280 ngày (40 tuần) vào LMP của bạn để dự đoán ngày dự sinh. Để có độ chính xác cao hơn, đặc biệt nếu bạn có chu kỳ không đều, bạn có thể sử dụng <a href=\"/vi/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Máy tính Chu kỳ Kinh nguyệt</a> của chúng tôi để theo dõi kỳ kinh. Chúng tôi cũng cung cấp các phép tính dựa trên ngày thụ thai, có thể được xác định bằng <a href=\"/vi/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Máy tính Rụng trứng</a> của chúng tôi, hoặc ngày chuyển phôi IVF của bạn.",
+        "Máy tính Ngày dự sinh của chúng tôi ước tính ngày sinh dự kiến của bạn bằng nhiều phương pháp. Phương pháp phổ biến nhất dựa trên ngày đầu tiên của kỳ kinh nguyệt cuối cùng (LMP). Cách tiếp cận này, được gọi là quy tắc Naegele, cộng thêm 280 ngày (40 tuần) vào LMP của bạn để dự đoán ngày dự sinh. Để có độ chính xác cao hơn, đặc biệt nếu bạn có chu kỳ không đều, bạn có thể sử dụng <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Máy tính Chu kỳ Kinh nguyệt</a> của chúng tôi để theo dõi kỳ kinh. Chúng tôi cũng cung cấp các phép tính dựa trên ngày thụ thai, có thể được xác định bằng <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Máy tính Rụng trứng</a> của chúng tôi, hoặc ngày chuyển phôi IVF của bạn.",
         "Điều quan trọng cần nhớ là ngày này là một ước tính. Chỉ có khoảng 5% trẻ sơ sinh được sinh ra đúng vào ngày dự sinh. Công cụ này cung cấp một hướng dẫn đáng tin cậy để giúp bạn và nhà cung cấp dịch vụ chăm sóc sức khỏe của bạn lên kế hoạch cho sự chào đời của em bé."
-      ],
-      "list": [
-        "Phương pháp LMP: Phép tính tiêu chuẩn dựa trên chu kỳ 28 ngày.",
-        "Phương pháp Ngày thụ thai: Chính xác hơn nếu bạn biết ngày thụ thai chính xác.",
-        "Phương pháp IVF: Được thiết kế riêng cho các trường hợp mang thai bằng phương pháp IVF, dựa trên ngày và tuổi chuyển phôi."
       ]
     },
     {
@@ -169,13 +164,8 @@
     {
       "heading": "Cách dự đoán những ngày dễ thụ thai nhất của bạn",
       "paragraphs": [
-        "Máy tính Rụng trứng của chúng tôi là một công cụ đơn giản được thiết kế để giúp bạn dự đoán những ngày dễ thụ thai nhất trong tháng. Bằng cách nhập ngày đầu tiên của kỳ kinh nguyệt cuối cùng và độ dài chu kỳ trung bình, mà bạn có thể theo dõi bằng <a href=\"/vi/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Máy tính Chu kỳ Kinh nguyệt</a> của chúng tôi, máy tính sẽ ước tính ngày rụng trứng có thể xảy ra của bạn. Rụng trứng là sự giải phóng một quả trứng từ buồng trứng của bạn, thường xảy ra khoảng 14 ngày trước khi bắt đầu kỳ kinh tiếp theo. Khi đã mang thai, bạn có thể theo dõi hành trình của mình với <a href=\"/vi/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Máy tính Ngày dự sinh</a> của chúng tôi.",
+        "Máy tính Rụng trứng của chúng tôi là một công cụ đơn giản được thiết kế để giúp bạn dự đoán những ngày dễ thụ thai nhất trong tháng. Bằng cách nhập ngày đầu tiên của kỳ kinh nguyệt cuối cùng và độ dài chu kỳ trung bình, mà bạn có thể theo dõi bằng <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Máy tính Chu kỳ Kinh nguyệt</a> của chúng tôi, máy tính sẽ ước tính ngày rụng trứng có thể xảy ra của bạn. Rụng trứng là sự giải phóng một quả trứng từ buồng trứng của bạn, thường xảy ra khoảng 14 ngày trước khi bắt đầu kỳ kinh tiếp theo. Khi đã mang thai, bạn có thể theo dõi hành trình của mình với <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Máy tính Ngày dự sinh</a> của chúng tôi.",
         "Cửa sổ thụ thai của bạn bao gồm ngày rụng trứng và năm ngày trước đó. Điều này là do tinh trùng có thể tồn tại trong đường sinh sản của phụ nữ tới năm ngày. Quan hệ tình dục trong cửa sổ này làm tăng đáng kể cơ hội thụ thai của bạn."
-      ],
-      "list": [
-        "Nhập dữ liệu của bạn: Bắt đầu với ngày kinh cuối cùng và độ dài chu kỳ của bạn.",
-        "Nhận ước tính của bạn: Máy tính xác định những ngày dễ thụ thai quan trọng của bạn.",
-        "Lên kế hoạch phù hợp: Sử dụng thông tin này để giúp đạt được mục tiêu kế hoạch hóa gia đình của bạn."
       ]
     },
     {
@@ -200,13 +190,8 @@
     {
       "heading": "Cách hoạt động của Máy tính Kỳ kinh của chúng tôi",
       "paragraphs": [
-        "Máy tính Chu kỳ Kinh nguyệt của chúng tôi giúp bạn dự đoán ngày bắt đầu kỳ kinh tiếp theo chỉ với hai thông tin: ngày đầu tiên của kỳ kinh cuối cùng và độ dài trung bình của chu kỳ kinh nguyệt. Bằng cách cộng độ dài chu kỳ trung bình của bạn vào ngày bắt đầu kỳ kinh cuối cùng, công cụ sẽ cung cấp ngày ước tính cho hai kỳ kinh tiếp theo của bạn. Biết chu kỳ của bạn cũng là chìa khóa để xác định cửa sổ thụ thai với <a href=\"/vi/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Máy tính Rụng trứng</a> của chúng tôi. Khi mang thai, <a href=\"/vi/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Máy tính Ngày dự sinh</a> của chúng tôi có thể giúp ước tính ngày dự sinh của bạn.",
+        "Máy tính Chu kỳ Kinh nguyệt của chúng tôi giúp bạn dự đoán ngày bắt đầu kỳ kinh tiếp theo chỉ với hai thông tin: ngày đầu tiên của kỳ kinh cuối cùng và độ dài trung bình của chu kỳ kinh nguyệt. Bằng cách cộng độ dài chu kỳ trung bình của bạn vào ngày bắt đầu kỳ kinh cuối cùng, công cụ sẽ cung cấp ngày ước tính cho hai kỳ kinh tiếp theo của bạn. Biết chu kỳ của bạn cũng là chìa khóa để xác định cửa sổ thụ thai với <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Máy tính Rụng trứng</a> của chúng tôi. Khi mang thai, <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Máy tính Ngày dự sinh</a> của chúng tôi có thể giúp ước tính ngày dự sinh của bạn.",
         "Theo dõi chu kỳ của bạn không chỉ là sự tiện lợi; đó là một chỉ số quan trọng về sức khỏe tổng thể của bạn. Các chu kỳ đều đặn, có thể dự đoán được thường cho thấy rằng các hormone trong cơ thể bạn đang hoạt động chính xác."
-      ],
-      "list": [
-        "Nhập liệu đơn giản: Nhập ngày bắt đầu kỳ kinh cuối cùng và độ dài chu kỳ của bạn.",
-        "Dự đoán tức thì: Xem ngay ngày ước tính cho các kỳ kinh tiếp theo của bạn.",
-        "Lên kế hoạch trước: Sử dụng các dự đoán để lên kế hoạch cho các sự kiện, kỳ nghỉ hoặc đơn giản là để chuẩn bị."
       ]
     },
     {
@@ -311,34 +296,6 @@
   "errorHeight": "Vui lòng nhập chiều cao hợp lệ (tối thiểu 100cm / 3'3\").",
   "errorWeight": "Vui lòng nhập cân nặng hợp lệ (tối thiểu 20kg / 45lbs).",
   "errorAge": "Vui lòng nhập tuổi hợp lệ (15-80).",
-  "seoCalorieSections": [
-    {
-      "heading": "Hiểu về Nhu cầu Calo Hàng ngày của bạn",
-      "paragraphs": [
-        "Calo là một đơn vị năng lượng. Trong dinh dưỡng, calo đề cập đến năng lượng mà mọi người nhận được từ thực phẩm và đồ uống họ tiêu thụ, và năng lượng họ sử dụng trong hoạt động thể chất. Hiểu về nhu cầu calo hàng ngày của bạn, thường phụ thuộc vào các yếu tố như tuổi của bạn (tìm hiểu với <a href=\"/vi/age-calculator\" class=\"text-blue-500 hover:underline\">Máy tính Tuổi</a> của chúng tôi), là bước đầu tiên để đạt được mục tiêu cân nặng của bạn, cho dù đó là giảm cân, tăng cân hay duy trì cân nặng hiện tại.",
-        "Máy tính của chúng tôi bắt đầu bằng cách xác định Tỷ lệ Trao đổi chất Cơ bản (BMR) của bạn, là số calo mà cơ thể bạn cần để thực hiện các chức năng duy trì sự sống cơ bản khi nghỉ ngơi, chẳng hạn như thở, lưu thông và sản xuất tế bào. Chúng tôi sử dụng phương trình Mifflin-St Jeor được chấp nhận rộng rãi cho phép tính này. Sau đó, chúng tôi tính đến mức độ hoạt động của bạn để tính toán Tổng Chi tiêu Năng lượng Hàng ngày (TDEE) của bạn, đây là một ước tính chính xác hơn về lượng calo bạn đốt cháy hàng ngày."
-      ]
-    },
-    {
-      "heading": "Đặt mục tiêu: Giảm cân, Tăng cân hoặc Duy trì",
-      "paragraphs": [
-        "Một khi bạn biết TDEE (calo duy trì) của mình, bạn có thể điều chỉnh lượng calo nạp vào để đạt được mục tiêu của mình:",
-        "Để giảm cân, bạn cần tiêu thụ ít calo hơn TDEE của mình, tạo ra thâm hụt calo. Một mức thâm hụt an toàn và bền vững thường là khoảng 500 calo mỗi ngày để giảm khoảng 1 pound (0,5 kg) mỗi tuần.",
-        "Để tăng cân, bạn cần tiêu thụ nhiều calo hơn TDEE của mình, tạo ra thặng dư calo. Thặng dư 300-500 calo mỗi ngày là một điểm khởi đầu tốt để tăng cơ đều đặn với mức tăng mỡ tối thiểu.",
-        "Để duy trì cân nặng, bạn nên đặt mục tiêu tiêu thụ một lượng calo bằng với TDEE của mình."
-      ]
-    },
-    {
-      "heading": "Còn về các chất dinh dưỡng đa lượng thì sao?",
-      "paragraphs": [
-        "Calo đến từ ba chất dinh dưỡng đa lượng chính: protein, carbohydrate và chất béo. Cân bằng các 'macro' này là chìa khóa cho một chế độ ăn uống lành mạnh.",
-        "Protein rất quan trọng để xây dựng và sửa chữa các mô, bao gồm cả cơ bắp.",
-        "Carbohydrate là nguồn năng lượng chính của cơ thể bạn.",
-        "Chất béo cần thiết cho sản xuất hormone và hấp thụ vitamin.",
-        "Máy tính của chúng tôi giúp bạn chia nhỏ tổng lượng calo hàng ngày thành gam protein, carbohydrate và chất béo dựa trên các kế hoạch ăn kiêng phổ biến. Điều này cung cấp cho bạn một khuôn khổ thực tế để xây dựng các bữa ăn phù hợp với mục tiêu sức khỏe và thể chất của bạn."
-      ]
-    }
-  ],
   "seoTimeTitle": "Máy tính Thời gian - Cộng và Trừ Khoảng thời gian",
   "seoTimeDescription": "Một công cụ trực tuyến miễn phí để dễ dàng cộng hoặc trừ các khoảng thời gian. Tính toán ngày, giờ, phút và giây một cách chính xác. Lý tưởng cho việc quản lý dự án, theo dõi thời gian và các phép tính hàng ngày.",
   "timeTitle": "Máy tính Thời gian",
@@ -438,6 +395,238 @@
         "<strong>Các cuộc hẹn sức khỏe:</strong> Theo dõi các cuộc hẹn y tế hoặc lịch dùng thuốc. Nếu bạn cần lên lịch tái khám sau 3 tháng kể từ một cuộc hẹn, công cụ này sẽ cho bạn ngày chính xác.",
         "<strong>Lập kế hoạch tài chính:</strong> Tính toán ngày đáo hạn cho các khoản vay hoặc kế hoạch đầu tư kéo dài một số năm và tháng cụ thể.",
         "<strong>Lập kế hoạch mang thai:</strong> Mặc dù <a href='/vi/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Máy tính Ngày dự sinh</a> của chúng tôi cung cấp các ước tính chi tiết về ngày dự sinh, công cụ này có thể được sử dụng để tính toán nhanh về các ngày cụ thể trong thai kỳ."
+      ]
+    }
+  ],
+  "navBmiCalculator": "Máy tính BMI",
+  "homeBmiCalculatorDescription": "Tính Chỉ số khối cơ thể (BMI) để hiểu về sức khỏe cân nặng của bạn.",
+  "seoBmiTitle": "Máy tính Chỉ số khối cơ thể (BMI) - Kiểm tra Sức khỏe Cân nặng của bạn",
+  "seoBmiDescription": "Sử dụng máy tính Chỉ số khối cơ thể miễn phí và chính xác của chúng tôi để ước tính lượng mỡ cơ thể dựa trên chiều cao và cân nặng của bạn. Tìm hiểu xem bạn có cân nặng khỏe mạnh hay không.",
+  "bmiTitle": "Máy tính Chỉ số khối cơ thể (BMI)",
+  "bmiSubheading": "Tính chỉ số BMI để đánh giá tình trạng cân nặng của bạn.",
+  "calculateBmiButton": "Tính BMI",
+  "bmiResultLabel": "Chỉ số BMI của bạn là",
+  "bmiCategoryLabel": "Loại của bạn là:",
+  "underweight": "Thiếu cân",
+  "normalWeight": "Cân nặng bình thường",
+  "overweight": "Thừa cân",
+  "obesity": "Béo phì",
+  "seoBmiSections": [
+    {
+      "heading": "BMI là gì và hoạt động như thế nào?",
+      "paragraphs": [
+        "Chỉ số khối cơ thể (BMI) là một phép đo đơn giản sử dụng chiều cao và cân nặng của bạn để ước tính lượng mỡ trong cơ thể. Đây là một công cụ sàng lọc phổ biến và được sử dụng rộng rãi để xác định xem cân nặng của một người có nằm trong phạm vi lành mạnh hay không. Công thức cơ bản là cân nặng tính bằng kilôgam chia cho bình phương chiều cao tính bằng mét (kg/m²). Máy tính của chúng tôi tự động hóa quá trình này để cung cấp cho bạn kết quả nhanh chóng và chính xác.",
+        "Hiểu chỉ số BMI của bạn là một bước đầu tiên quan trọng để quản lý cân nặng lành mạnh. Nó có thể giúp bạn đặt ra các mục tiêu thực tế, cho dù bạn đang muốn duy trì hay thay đổi cân nặng hiện tại của mình. Để quản lý cân nặng hiệu quả, việc hiểu nhu cầu năng lượng của bạn cũng rất quan trọng, bạn có thể tính toán bằng <a href=\"/vi/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Máy tính Calo</a> của chúng tôi."
+      ]
+    },
+    {
+      "heading": "Hiểu kết quả BMI (Các loại)",
+      "paragraphs": [
+        "Sau khi tính toán chỉ số BMI của bạn, kết quả được phân loại thành các loại cụ thể để giúp bạn hiểu tình trạng sức khỏe của mình. Các loại tiêu chuẩn cho người lớn là:",
+        "<strong>Dưới 18.5:</strong> Thiếu cân. Điều này có thể cho thấy bạn không nhận đủ chất dinh dưỡng hoặc có thể là dấu hiệu của một tình trạng sức khỏe tiềm ẩn.",
+        "<strong>18.5 – 24.9:</strong> Cân nặng bình thường. Phạm vi này cho thấy bạn có cân nặng khỏe mạnh so với chiều cao của mình, giúp giảm nguy cơ mắc các bệnh mãn tính.",
+        "<strong>25.0 – 29.9:</strong> Thừa cân. Trong loại này, bạn có thể có nguy cơ mắc một số vấn đề sức khỏe nhất định như bệnh tim và tiểu đường loại 2.",
+        "<strong>30.0 trở lên:</strong> Béo phì. Béo phì làm tăng đáng kể nguy cơ mắc các vấn đề sức khỏe nghiêm trọng và cần được chú ý đặc biệt thông qua thay đổi lối sống và tư vấn với chuyên gia y tế."
+      ]
+    },
+    {
+      "heading": "Tầm quan trọng của việc duy trì chỉ số BMI khỏe mạnh",
+      "paragraphs": [
+        "Duy trì chỉ số BMI trong phạm vi bình thường (18.5-24.9) là rất quan trọng đối với sức khỏe tổng thể. Thừa cân hoặc béo phì có liên quan đến nguy cơ gia tăng của nhiều bệnh mãn tính, bao gồm huyết áp cao, bệnh tim, đột quỵ, tiểu đường loại 2 và một số loại ung thư. Mặt khác, thiếu cân cũng có thể dẫn đến các vấn đề sức khỏe như hệ miễn dịch suy yếu, loãng xương và các vấn đề về sinh sản. Do đó, việc đạt được và duy trì cân nặng khỏe mạnh là một phần quan trọng của lối sống lành mạnh."
+      ]
+    },
+    {
+      "heading": "Hạn chế của BMI",
+      "paragraphs": [
+        "Mặc dù BMI là một công cụ sàng lọc hữu ích, nhưng nó không phải là không có hạn chế. Nó không phân biệt giữa khối lượng mỡ và khối lượng cơ. Điều này có nghĩa là những người có cơ bắp phát triển, chẳng hạn như vận động viên, có thể có chỉ số BMI cao và được phân loại là thừa cân mặc dù có lượng mỡ cơ thể thấp.",
+        "Ngoài ra, việc giải thích BMI có thể bị ảnh hưởng bởi các yếu tố như tuổi tác và giới tính. Ví dụ, người lớn tuổi đã mất khối lượng cơ có thể có tỷ lệ mỡ cơ thể khỏe mạnh ngay cả khi chỉ số BMI của họ bình thường. Bạn có thể khám phá cơ thể mình thay đổi như thế nào theo thời gian với <a href=\"/vi/age-calculator\" class=\"text-blue-500 hover:underline\">Máy tính Tuổi</a> của chúng tôi. Vì những lý do này, BMI nên được sử dụng như một phần của đánh giá sức khỏe toàn diện và không phải là một công cụ chẩn đoán duy nhất."
+      ]
+    },
+    {
+      "heading": "Cách cải thiện chỉ số BMI của bạn",
+      "paragraphs": [
+        "Nếu kết quả BMI của bạn nằm ngoài phạm vi bình thường, có những bước bạn có thể thực hiện để cải thiện nó. Điều này thường liên quan đến sự kết hợp của chế độ ăn uống cân bằng và hoạt động thể chất thường xuyên. Đặt ra các mục tiêu thực tế và dần dần có thể giúp bạn đạt được và duy trì cân nặng khỏe mạnh. <a href=\"/vi/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Máy tính Calo</a> của chúng tôi có thể là một công cụ tuyệt vời để giúp bạn lập kế hoạch chế độ ăn uống của mình.",
+        "Điều quan trọng nữa là phải xem xét các tình trạng sức khỏe khác. Ví dụ, việc duy trì chỉ số BMI khỏe mạnh đặc biệt quan trọng trong thời kỳ mang thai, và bạn có thể theo dõi tiến trình của mình với <a href=\"/vi/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Máy tính Ngày dự sinh</a> của chúng tôi. Chúng tôi luôn khuyên bạn nên tham khảo ý kiến của chuyên gia y tế hoặc chuyên gia dinh dưỡng đã đăng ký để xây dựng một kế hoạch cá nhân hóa phù hợp với nhu cầu cá nhân của bạn."
+      ]
+    }
+  ],
+  "navStopwatch": "Đồng hồ bấm giờ",
+  "homeStopwatchDescription": "Đo thời gian đã trôi qua một cách chính xác với các vòng chạy và màn hình hiển thị rõ ràng.",
+  "seoStopwatchTitle": "Đồng hồ bấm giờ trực tuyến miễn phí có vòng chạy",
+  "seoStopwatchDescription": "Một đồng hồ bấm giờ trực tuyến đơn giản, chính xác và miễn phí với chức năng vòng chạy. Hoàn hảo cho thể thao, tập luyện và bấm giờ bất kỳ hoạt động nào.",
+  "stopwatchTitle": "Đồng hồ bấm giờ",
+  "stopwatchSubheading": "Đo thời gian đã trôi qua một cách chính xác.",
+  "startButton": "Bắt đầu",
+  "stopButton": "Dừng",
+  "lapButton": "Vòng",
+  "lapColumnHeader": "Vòng",
+  "timeColumnHeader": "Thời gian",
+  "seoStopwatchSections": [
+    {
+      "heading": "Cách sử dụng Đồng hồ bấm giờ trực tuyến",
+      "paragraphs": [
+        "Đồng hồ bấm giờ trực tuyến của chúng tôi là một công cụ đơn giản và chính xác để đo thời gian đã trôi qua. Chỉ với một cú nhấp chuột, bạn có thể bắt đầu và dừng đồng hồ để theo dõi bất kỳ hoạt động nào với độ chính xác đến một phần trăm giây. Chức năng 'Vòng' cho phép bạn ghi lại thời gian từng phần mà không làm gián đoạn đồng hồ chính, điều này hoàn hảo để theo dõi hiệu suất qua nhiều khoảng thời gian. Khi bạn hoàn thành, nút 'Đặt lại' sẽ xóa đồng hồ và tất cả các vòng đã ghi, chuẩn bị cho bạn cho phiên bấm giờ tiếp theo. Nếu bạn cần tính toán thời gian giữa một thời điểm bắt đầu và kết thúc cụ thể (như cho bảng chấm công), <a href=\"/vi/hours-calculator\" class=\"text-blue-500 hover:underline\">Máy tính Giờ</a> của chúng tôi là công cụ hoàn hảo cho công việc đó."
+      ]
+    },
+    {
+      "heading": "Các ứng dụng thực tế của Đồng hồ bấm giờ",
+      "paragraphs": [
+        "Đồng hồ bấm giờ là một công cụ cực kỳ linh hoạt với vô số ứng dụng trong cuộc sống hàng ngày, thể thao và môi trường chuyên nghiệp: Nếu bạn cần thực hiện các phép tính với thời gian vòng chạy đã ghi của mình, chẳng hạn như cộng chúng lại với nhau, <a href=\"/vi/time-Calculator\" class=\"text-blue-500 hover:underline\">Máy tính Thời gian</a> của chúng tôi có thể xử lý các hoạt động đó một cách dễ dàng."
+      ],
+      "list": [
+        "<strong>Thể thao và Thể hình:</strong> Bấm giờ các vòng chạy, bơi hoặc đạp xe, và đo thời gian nghỉ giữa các hiệp tập luyện.",
+        "<strong>Nấu ăn và Làm bánh:</strong> Bấm giờ chính xác các công thức, từ việc hãm trà đến nướng bánh.",
+        "<strong>Học tập và Năng suất:</strong> Sử dụng các kỹ thuật như Kỹ thuật Pomodoro, bao gồm các khoảng thời gian làm việc tập trung được bấm giờ bằng đồng hồ bấm giờ.",
+        "<strong>Kiểm tra và Thuyết trình:</strong> Luyện tập các bài phát biểu hoặc bấm giờ các kỳ thi để cải thiện tốc độ và hiệu suất."
+      ]
+    }
+  ],
+  "navConstructionCalculators": "Máy tính Xây dựng",
+  "navRoofingCalculator": "Tính Mái nhà",
+  "homeRoofingCalculatorDescription": "Tính toán vật liệu và chi phí cho dự án mái nhà của bạn.",
+  "seoRoofingTitle": "Máy tính Mái nhà - Tính Vật liệu & Chi phí",
+  "seoRoofingDescription": "Công cụ trực tuyến miễn phí để tính toán lượng vật liệu lợp mái cần thiết và chi phí ước tính cho dự án của bạn dựa trên kích thước và độ dốc của mái nhà.",
+  "roofingTitle": "Máy tính Mái nhà",
+  "roofingSubheading": "Tính toán vật liệu và chi phí cần thiết cho mái nhà của bạn.",
+  "totalAreaMethod": "Dựa trên tổng diện tích",
+  "groundDimensionsMethod": "Dựa trên kích thước mặt bằng",
+  "totalAreaLabel": "Tổng diện tích mái nhà",
+  "buildingLengthLabel": "Chiều dài tòa nhà",
+  "buildingWidthLabel": "Chiều rộng tòa nhà",
+  "roofPitchLabel": "Độ dốc mái nhà",
+  "roofingPitchTooltip": "Nhập độ dốc mái nhà dưới dạng tỷ lệ (ví dụ: 4:12) hoặc độ (ví dụ: 18.4). Đối với mái bằng, sử dụng 0.",
+  "wasteFactorLabel": "Hệ số hao hụt (%)",
+  "pricePerUnitLabel": "Giá mỗi đơn vị",
+  "calculateRoofingButton": "Tính Mái nhà",
+  "resultsTitle": "Kết quả của bạn",
+  "baseRoofAreaResult": "Diện tích mái cơ bản",
+  "totalRoofAreaResult": "Tổng diện tích (bao gồm hao hụt)",
+  "materialsNeededResult": "Vật liệu cần thiết",
+  "totalCostResult": "Tổng chi phí ước tính",
+  "sqmUnit": "m²",
+  "squaresUnit": "squares",
+  "sqftUnit": "sq ft",
+  "roofPitchTypeLabel": "Loại độ dốc mái nhà",
+  "pitchRatio": "Tỷ lệ",
+  "pitchDegrees": "Độ",
+  "roundUpLabel": "Làm tròn lên đơn vị nguyên",
+  "errorInvalidPitch": "Độ dốc mái nhà không hợp lệ. Vui lòng nhập tỷ lệ (ví dụ: 4:12) hoặc độ (ví dụ: 18.4).",
+  "materialTypeLabel": "Loại vật liệu",
+  "shingles": "Tấm lợp (~₫350,000/m²)",
+  "epdm": "Màng EPDM (~₫450,000/m²)",
+  "roofTiles": "Ngói lợp (~₫700,000/m²)",
+  "metal": "Tôn kim loại (~₫550,000/m²)",
+  "customPrice": "Giá tùy chỉnh",
+  "wasteAmountResult": "Phần bù hao hụt",
+  "roofingPitchRatioPlaceholder": "ví dụ: 4:12",
+  "roofingPitchDegreesPlaceholder": "ví dụ: 18.4",
+  "seoRoofingSections": [
+    {
+      "heading": "Cách hoạt động của Máy tính Mái nhà của chúng tôi",
+      "paragraphs": [
+        "<strong>Máy tính Mái nhà</strong> miễn phí của chúng tôi giúp bạn ước tính nhanh diện tích mái, vật liệu và chi phí. Chỉ cần nhập kích thước và độ dốc của bạn—hoặc tổng diện tích nếu bạn đã biết—và <strong>công cụ ước tính mái nhà</strong> của chúng tôi sẽ cung cấp kết quả ngay lập tức. Đây là công cụ hoàn hảo cho cả những người tự làm và các chuyên gia."
+      ]
+    },
+    {
+      "heading": "Mẹo thực tế để có một ước tính chính xác",
+      "paragraphs": [
+        "Một dự án thành công bắt đầu từ một kế hoạch chính xác. Sử dụng những mẹo này để đảm bảo <strong>tính toán diện tích mái nhà</strong> của bạn là chính xác:"
+      ],
+      "list": [
+        "<strong>Đo lường chính xác:</strong> Kiểm tra kỹ chiều dài và chiều rộng của khu vực mái nhà. Một phép đo chính xác là nền tảng cho mọi tính toán.",
+        "<strong>Chọn hệ số hao hụt phù hợp:</strong> Mái nhà đơn giản chỉ cần thêm 5-10% cho hao hụt, nhưng những mái nhà phức tạp có nhiều góc cạnh, cửa sổ mái hoặc ống khói cần một hệ số cao hơn, thường là khoảng 15%.",
+        "<strong>Xem xét lựa chọn vật liệu của bạn:</strong> Mỗi loại vật liệu (tấm lợp, EPDM, ngói, kim loại) có giá cả và độ phức tạp lắp đặt khác nhau. Công cụ của chúng tôi cho phép bạn so sánh chi phí để đưa ra quyết định sáng suốt.",
+        "<strong>Kiểm tra các yêu cầu của địa phương:</strong> Một số khu vực có các quy chuẩn xây dựng hoặc yêu cầu cụ thể. Luôn tham khảo các hướng dẫn của địa phương trước khi bắt đầu."
+      ]
+    },
+    {
+      "heading": "Câu hỏi thường gặp (FAQ)",
+      "paragraphs": [
+        "<strong>Hỏi: Đây có phải là máy tính chi phí lợp mái không?</strong><br>Trả lời: Có! Sau khi tính toán vật liệu cần thiết, bạn có thể nhập giá mỗi đơn vị (m² hoặc square) để nhận được ước tính chi phí tức thì cho dự án của bạn.",
+        "<strong>Hỏi: Tôi cần bao nhiêu vật liệu lợp mái cho dự án của mình?</strong><br>Trả lời: Công thức cơ bản bao gồm việc tính tổng diện tích bề mặt của mái nhà dựa trên kích thước và độ dốc, sau đó cộng thêm một hệ số hao hụt (thường là 10-15%). Công cụ của chúng tôi tự động hóa toàn bộ quá trình này cho bạn.",
+        "<strong>Hỏi: 'Square lợp mái' là gì?</strong><br>Trả lời: 'Square lợp mái' là một đơn vị đo lường phổ biến ở Hoa Kỳ, tương đương 100 feet vuông. Máy tính của chúng tôi có thể cung cấp kết quả bằng cả square và mét vuông (m²)."
+      ]
+    },
+    {
+      "heading": "Nhận ước tính mái nhà của bạn ngay lập tức!",
+      "paragraphs": [
+        "Hãy thử Máy tính Mái nhà của chúng tôi ngay bây giờ và nhận được một ước tính mái nhà tức thì! Tránh các chi phí không cần thiết và đảm bảo bạn có đủ lượng vật liệu để hoàn thành công việc một cách đúng đắn."
+      ]
+    }
+  ],
+  "navConcreteCalculator": "Tính Bê tông",
+  "homeConcreteCalculatorDescription": "Ước tính khối lượng và vật liệu cần thiết cho dự án bê tông của bạn.",
+  "seoConcreteTitle": "Máy tính Bê tông Chuyên nghiệp - Khối lượng, Bao & Chi phí",
+  "seoConcreteDescription": "Một máy tính bê tông trực tuyến để ước tính khối lượng, bao xi măng, cát, sỏi và tổng chi phí cho sàn, móng, cột và cầu thang. Hỗ trợ đơn vị mét và hệ Anh.",
+  "concreteTitle": "Máy tính Bê tông Chuyên nghiệp",
+  "concreteSubheading": "Ước tính khối lượng, vật liệu và chi phí cho dự án của bạn.",
+  "shapeLabel": "Hình dạng",
+  "slab": "Sàn / Tấm",
+  "footing": "Móng",
+  "column": "Cột (Chữ nhật)",
+  "circularColumn": "Cột (Tròn)",
+  "stairs": "Cầu thang",
+  "lengthLabel": "Chiều dài",
+  "widthLabel": "Chiều rộng",
+  "thicknessLabel": "Độ dày",
+  "depthLabel": "Độ sâu",
+  "heightLabel": "Chiều cao",
+  "diameterLabel": "Đường kính",
+  "stepsLabel": "Số bậc",
+  "riserLabel": "Chiều cao bậc",
+  "treadLabel": "Độ sâu bậc",
+  "calculateConcreteButton": "Tính Bê tông",
+  "resultsTitle": "Kết quả Tính toán",
+  "concreteVolumeResult": "Tổng Khối lượng Bê tông",
+  "concreteWithWasteResult": "Khối lượng (bao gồm hao hụt)",
+  "cementBagsResult": "Bao Xi măng",
+  "sandRequiredResult": "Cát Cần thiết",
+  "gravelRequiredResult": "Sỏi Cần thiết",
+  "bagSizeLabel": "Kích thước Bao",
+  "kgBag": "kg",
+  "lbsBag": "lbs",
+  "concreteMixRatioLabel": "Tỷ lệ Trộn (Xi măng:Cát:Sỏi)",
+  "bagsUnit": "bao",
+  "costBreakdownTitle": "Phân tích Chi phí Ước tính",
+  "pricePerBagLabel": "Giá mỗi Bao",
+  "pricePerSandLabel": "Giá mỗi {unit} Cát",
+  "pricePerGravelLabel": "Giá mỗi {unit} Sỏi",
+  "cementCostResult": "Chi phí Xi măng",
+  "sandCostResult": "Chi phí Cát",
+  "gravelCostResult": "Chi phí Sỏi",
+  "totalCostResult": "Tổng Chi phí",
+  "concreteResetButton": "Đặt lại",
+  "wasteFactorTooltip": "Hệ số hao hụt tính đến việc đổ tràn và các biến thể ván khuôn. 5-10% là điển hình.",
+  "mixRatioTooltip": "Đại diện cho tỷ lệ thể tích của xi măng, cát và sỏi. 1:2:4 là một hỗn hợp phổ biến cho bê tông đa dụng.",
+  "mixRatioLabel": "Tỷ lệ Trộn",
+  "mixRatio_1_1_5_3": "1:1.5:3 (Cường độ Cao)",
+  "mixRatio_1_2_4": "1:2:4 (Tiêu chuẩn)",
+  "mixRatio_1_3_6": "1:3:6 (Móng)",
+  "transportationCostLabel": "Chi phí Vận chuyển (Tùy chọn)",
+  "currencyLabel": "Tiền tệ",
+  "printResultsButton": "In / Lưu PDF",
+  "errorPositiveNumbers": "Vui lòng nhập các số dương hợp lệ cho tất cả các kích thước.",
+  "transportationCostResult": "Vận chuyển",
+  "seoConcreteSections": [
+    {
+      "heading": "Cách sử dụng Máy tính Bê tông Trực tuyến",
+      "paragraphs": [
+        "<strong>Máy tính bê tông trực tuyến</strong> của chúng tôi giúp việc lập kế hoạch dự án của bạn trở nên đơn giản. Dù bạn đang đổ sàn, móng hay cột, công cụ này giúp bạn xác định chính xác <strong>khối lượng bê tông</strong> cần thiết. Chỉ cần chọn hình dạng, nhập kích thước, và máy tính của chúng tôi sẽ cung cấp một phân tích chi tiết về <strong>tỷ lệ trộn bê tông</strong>. Công cụ này được tối ưu hóa cho di động, cho phép bạn ước tính vật liệu ngay tại công trường."
+      ]
+    },
+    {
+      "heading": "Hiểu về Tỷ lệ Trộn và Vật liệu Bê tông",
+      "paragraphs": [
+        "<strong>Tỷ lệ trộn bê tông</strong>—tỷ lệ xi măng, cát và sỏi—rất quan trọng để đảm bảo cường độ của kết cấu. Máy tính của chúng tôi cho phép bạn chọn từ các tỷ lệ phổ biến. Bảng sau đây cung cấp hướng dẫn nhanh về số lượng bao xi măng cần thiết cho mỗi mét khối:",
+        "<table class='w-full text-left border-collapse mt-4'><thead><tr class='bg-gray-100 dark:bg-gray-700'><th class='p-2 border dark:border-gray-600'>Tỷ lệ (Xi măng:Cát:Sỏi)</th><th class='p-2 border dark:border-gray-600'>Ứng dụng Phổ biến</th><th class='p-2 border dark:border-gray-600'>Bao 50kg mỗi m³ (Xấp xỉ)</th></tr></thead><tbody><tr><td class='p-2 border dark:border-gray-600'>1:1.5:3</td><td class='p-2 border dark:border-gray-600'>Cường độ Cao</td><td class='p-2 border dark:border-gray-600'>8-9 bao</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:2:4</td><td class='p-2 border dark:border-gray-600'>Tiêu chuẩn / Đa dụng</td><td class='p-2 border dark:border-gray-600'>6-7 bao</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:3:6</td><td class='p-2 border dark:border-gray-600'>Móng / Lót</td><td class='p-2 border dark:border-gray-600'>4-5 bao</td></tr></tbody></table>"
+      ]
+    },
+    {
+      "heading": "Câu hỏi thường gặp (FAQ)",
+      "paragraphs": [
+        "<strong>Hỏi: Làm thế nào để tính khối lượng bê tông cho một sàn?</strong><br>Trả lời: Để tính khối lượng, nhân chiều dài, chiều rộng và độ dày của khu vực. Ví dụ, đối với sàn dài 5m, rộng 4m và dày 10cm: 5m × 4m × 0.10m = 2 mét khối. Công cụ <strong>tính bê tông</strong> của chúng tôi tự động hóa điều này cho các hình dạng khác nhau.",
+        "<strong>Hỏi: Cần bao nhiêu bao xi măng cho mỗi mét khối?</strong><br>Trả lời: Điều này phụ thuộc vào tỷ lệ trộn. Đối với hỗn hợp tiêu chuẩn 1:2:4, bạn sẽ cần khoảng 6 đến 7 bao (mỗi bao 50 kg) xi măng cho mỗi mét khối bê tông. Bảng trên cung cấp một hướng dẫn nhanh.",
+        "<strong>Hỏi: Tỷ lệ trộn bê tông tiêu chuẩn là gì?</strong><br>Trả lời: Tỷ lệ 1:2:4 được coi là hỗn hợp tiêu chuẩn cho bê tông đa dụng, phù hợp cho hầu hết các dự án dân dụng như sàn, sân và móng."
       ]
     }
   ]

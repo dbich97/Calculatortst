@@ -1,3 +1,4 @@
+
 {
   "title": "Rechner",
   "selectLanguage": "Sprache wählen",
@@ -416,6 +417,248 @@
         "<strong>Finanzplanung:</strong> Berechnen Sie Fälligkeitstermine für Kredite oder Investitionspläne, die sich über eine bestimmte Anzahl von Jahren und Monaten erstrecken.",
         "<strong>Schwangerschaftsplanung:</strong> Während unser <a href='/de/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Schwangerschaftsrechner</a> detaillierte Geburtstermin-Schätzungen liefert, kann dieses Tool für schnelle Berechnungen zu bestimmten Terminen während der Schwangerschaft verwendet werden."
       ]
+    }
+  ],
+  "navBmiCalculator": "BMI-Rechner",
+  "homeBmiCalculatorDescription": "Berechnen Sie Ihren Body-Mass-Index, um Ihre Gewichtsgesundheit zu verstehen.",
+  "seoBmiTitle": "Body-Mass-Index (BMI) Rechner - Überprüfen Sie Ihre Gewichtsgesundheit",
+  "seoBmiDescription": "Verwenden Sie unseren kostenlosen und genauen Body-Mass-Index-Rechner, um Ihr Körperfett basierend auf Ihrer Größe und Ihrem Gewicht zu schätzen. Finden Sie heraus, ob Sie ein gesundes Gewicht haben.",
+  "bmiTitle": "Body-Mass-Index (BMI) Rechner",
+  "bmiSubheading": "Berechnen Sie Ihren BMI, um Ihren Gewichtsstatus zu bewerten.",
+  "calculateBmiButton": "BMI berechnen",
+  "bmiResultLabel": "Ihr BMI ist",
+  "bmiCategoryLabel": "Ihre Kategorie ist:",
+  "underweight": "Untergewicht",
+  "normalWeight": "Normalgewicht",
+  "overweight": "Übergewicht",
+  "obesity": "Fettleibigkeit",
+  "seoBmiSections": [
+    {
+      "heading": "Was ist der BMI und wie funktioniert er?",
+      "paragraphs": [
+        "Der Body-Mass-Index (BMI) ist eine einfache Messung, die Ihre Größe und Ihr Gewicht verwendet, um Ihr Körperfett zu schätzen. Es ist ein weit verbreitetes und gängiges Screening-Tool, um festzustellen, ob das Gewicht einer Person in einem gesunden Bereich liegt. Die Grundformel lautet Gewicht in Kilogramm geteilt durch das Quadrat der Größe in Metern (kg/m²). Unser Rechner automatisiert diesen Prozess, um Ihnen ein schnelles und genaues Ergebnis zu liefern.",
+        "Das Verständnis Ihres BMI ist ein wichtiger erster Schritt zu einem gesunden Gewichtsmanagement. Es kann Ihnen helfen, realistische Ziele zu setzen, egal ob Sie Ihr aktuelles Gewicht halten oder ändern möchten. Um Ihr Gewicht effektiv zu managen, ist es auch entscheidend, Ihren Energiebedarf zu verstehen, den Sie mit unserem <a href=\"/de/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Kalorienrechner</a> berechnen können."
+      ]
+    },
+    {
+      "heading": "BMI-Ergebnisse verstehen (Kategorien)",
+      "paragraphs": [
+        "Nach der Berechnung Ihres BMI wird das Ergebnis in bestimmte Kategorien eingeteilt, um Ihnen zu helfen, Ihren Gesundheitszustand zu verstehen. Die Standardkategorien für Erwachsene sind:",
+        "<strong>Unter 18,5:</strong> Untergewicht. Dies kann darauf hindeuten, dass Sie nicht genügend Nährstoffe erhalten oder ein Anzeichen für eine zugrunde liegende Erkrankung sein könnte.",
+        "<strong>18,5 – 24,9:</strong> Normalgewicht. Dieser Bereich deutet darauf hin, dass Sie für Ihre Größe ein gesundes Gewicht haben, was das Risiko für chronische Krankheiten verringert.",
+        "<strong>25,0 – 29,9:</strong> Übergewicht. In dieser Kategorie haben Sie möglicherweise ein erhöhtes Risiko für bestimmte Gesundheitsprobleme wie Herzerkrankungen und Typ-2-Diabetes.",
+        "<strong>30,0 und darüber:</strong> Fettleibigkeit. Fettleibigkeit erhöht das Risiko für schwere Gesundheitsprobleme erheblich und erfordert besondere Aufmerksamkeit durch Änderungen des Lebensstils und die Konsultation eines Arztes."
+      ]
+    },
+    {
+      "heading": "Die Bedeutung der Aufrechterhaltung eines gesunden BMI",
+      "paragraphs": [
+        "Die Aufrechterhaltung eines BMI im Normalbereich (18,5-24,9) ist für die allgemeine Gesundheit von entscheidender Bedeutung. Übergewicht oder Fettleibigkeit sind mit einem erhöhten Risiko für zahlreiche chronische Krankheiten verbunden, darunter Bluthochdruck, Herzerkrankungen, Schlaganfall, Typ-2-Diabetes und bestimmte Krebsarten. Andererseits kann auch Untergewicht zu gesundheitlichen Problemen wie einem geschwächten Immunsystem, Osteoporose und Fruchtbarkeitsproblemen führen. Daher ist das Erreichen und Halten eines gesunden Gewichts ein wichtiger Bestandteil eines gesunden Lebensstils."
+      ]
+    },
+    {
+      "heading": "Einschränkungen des BMI",
+      "paragraphs": [
+        "Obwohl der BMI ein nützliches Screening-Tool ist, hat er seine Grenzen. Er unterscheidet nicht zwischen Fett- und Muskelmasse. Dies bedeutet, dass sehr muskulöse Personen wie Sportler einen hohen BMI haben und als übergewichtig eingestuft werden können, obwohl sie wenig Körperfett haben.",
+        "Darüber hinaus kann die Interpretation des BMI von Faktoren wie Alter und Geschlecht beeinflusst werden. Zum Beispiel können ältere Erwachsene, die Muskelmasse verloren haben, einen gesunden Körperfettanteil haben, auch wenn ihr BMI normal ist. Sie können mit unserem <a href=\"/de/age-calculator\" class=\"text-blue-500 hover:underline\">Altersrechner</a> untersuchen, wie sich Ihr Körper im Laufe der Zeit verändert. Aus diesen Gründen sollte der BMI als Teil einer umfassenden Gesundheitsbewertung und nicht als alleiniges Diagnoseinstrument verwendet werden."
+      ]
+    },
+    {
+      "heading": "Wie Sie Ihren BMI verbessern können",
+      "paragraphs": [
+        "Wenn Ihr BMI-Ergebnis außerhalb des Normalbereichs liegt, gibt es Schritte, die Sie unternehmen können, um es zu verbessern. Dies beinhaltet typischerweise eine Kombination aus einer ausgewogenen Ernährung und regelmäßiger körperlicher Aktivität. Das Setzen realistischer und schrittweiser Ziele kann Ihnen helfen, ein gesundes Gewicht zu erreichen und zu halten. Unser <a href=\"/de/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Kalorienrechner</a> kann ein großartiges Werkzeug sein, um Ihnen bei der Planung Ihrer Ernährung zu helfen.",
+        "Es ist auch wichtig, andere Gesundheitszustände zu berücksichtigen. Zum Beispiel ist die Aufrechterhaltung eines gesunden BMI während der Schwangerschaft besonders wichtig, und Sie können Ihren Fortschritt mit unserem <a href=\"/de/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Schwangerschaftsrechner</a> verfolgen. Wir empfehlen immer, einen Arzt oder einen registrierten Ernährungsberater zu konsultieren, um einen personalisierten Plan zu entwickeln, der Ihren individuellen Bedürfnissen entspricht."
+      ]
+    }
+  ],
+  "navStopwatch": "Stoppuhr",
+  "homeStopwatchDescription": "Messen Sie die verstrichene Zeit präzise mit Runden und einer klaren Anzeige.",
+  "seoStopwatchTitle": "Kostenlose Online-Stoppuhr mit Runden",
+  "seoStopwatchDescription": "Eine einfache, genaue und kostenlose Online-Stoppuhr mit Rundenfunktion. Perfekt für Sport, Workouts und das Messen jeder Aktivität.",
+  "stopwatchTitle": "Stoppuhr",
+  "stopwatchSubheading": "Messen Sie die verstrichene Zeit mit Präzision.",
+  "startButton": "Start",
+  "stopButton": "Stopp",
+  "lapButton": "Runde",
+  "lapColumnHeader": "Runde",
+  "timeColumnHeader": "Zeit",
+  "seoStopwatchSections": [
+    {
+      "heading": "Wie man die Online-Stoppuhr benutzt",
+      "paragraphs": [
+        "Unsere Online-Stoppuhr ist ein einfaches und präzises Werkzeug zum Messen der verstrichenen Zeit. Mit nur einem Klick können Sie den Timer starten und stoppen, um jede Aktivität mit einer Genauigkeit von bis zu einer Hundertstelsekunde zu verfolgen. Die 'Runden'-Funktion ermöglicht es Ihnen, Zwischenzeiten aufzuzeichnen, ohne den Haupttimer zu unterbrechen, was perfekt ist, um die Leistung über mehrere Intervalle zu verfolgen. Wenn Sie fertig sind, löscht die 'Zurücksetzen'-Taste den Timer und alle aufgezeichneten Runden und bereitet Sie auf die nächste Zeitmessung vor.",
+        "Während eine Stoppuhr hervorragend geeignet ist, um die Dauer von einem Startpunkt aus zu messen, ist unser <a href=\"/de/hours-calculator\" class=\"text-blue-500 hover:underline\">Stundenrechner</a> das perfekte Werkzeug, wenn Sie die Zeit zwischen einer bestimmten Start- und Endzeit berechnen müssen (wie bei einem Stundenzettel)."
+      ]
+    },
+    {
+      "heading": "Praktische Anwendungen für eine Stoppuhr",
+      "paragraphs": [
+        "Eine Stoppuhr ist ein unglaublich vielseitiges Werkzeug mit zahlreichen Anwendungen im Alltag, im Sport und im beruflichen Umfeld:",
+        "Wenn Sie Berechnungen mit Ihren aufgezeichneten Rundenzeiten durchführen müssen, wie z. B. das Addieren, kann unser <a href=\"/de/time-Calculator\" class=\"text-blue-500 hover:underline\">Zeitrechner</a> diese Operationen problemlos bewältigen."
+      ],
+      "list": [
+        "<strong>Sport und Fitness:</strong> Rundenzeiten für Laufen, Schwimmen oder Radfahren messen und Ruhezeiten zwischen den Trainingssätzen messen.",
+        "<strong>Kochen und Backen:</strong> Rezepte genau timen, vom Ziehenlassen des Tees bis zum Backen eines Kuchens.",
+        "<strong>Lernen und Produktivität:</strong> Techniken wie die Pomodoro-Technik anwenden, bei der konzentrierte Arbeitsintervalle mit einer Stoppuhr gemessen werden.",
+        "<strong>Tests und Präsentationen:</strong> Reden üben oder Prüfungen timen, um das Tempo und die Leistung zu verbessern."
+      ]
+    }
+  ],
+  "navConstructionCalculators": "Baurechner",
+  "navRoofingCalculator": "Dachrechner",
+  "homeRoofingCalculatorDescription": "Berechnen Sie die Materialien und Kosten für Ihr Dachprojekt.",
+  "seoRoofingTitle": "Dachrechner Online – Dachfläche & Dachkosten Berechnen",
+  "seoRoofingDescription": "Berechnen Sie mit unserem kostenlosen Dachrechner online die Dachfläche, den Materialbedarf und die Kosten. Ideal für Heimwerker und Profis in Deutschland, Österreich und der Schweiz.",
+  "roofingTitle": "Dachrechner Online: Fläche & Kosten berechnen",
+  "roofingSubheading": "Berechnen Sie die benötigten Materialien und Kosten für Ihr Dach.",
+  "totalAreaMethod": "Basierend auf Gesamtfläche",
+  "groundDimensionsMethod": "Basierend auf Grundmaßen",
+  "totalAreaLabel": "Gesamte Dachfläche",
+  "buildingLengthLabel": "Gebäudelänge",
+  "buildingWidthLabel": "Gebäudebreite",
+  "roofPitchLabel": "Dachneigung",
+  "roofingPitchTooltip": "Geben Sie die Dachneigung als Verhältnis (z.B. 4:12) oder in Grad (z.B. 18.4) ein. Für ein Flachdach verwenden Sie 0.",
+  "wasteFactorLabel": "Verschnittfaktor (%)",
+  "pricePerUnitLabel": "Preis pro Einheit",
+  "calculateRoofingButton": "Dach berechnen",
+  "resultsTitle": "Ihre Ergebnisse",
+  "baseRoofAreaResult": "Grunddachfläche",
+  "totalRoofAreaResult": "Gesamtdachfläche (inkl. Verschnitt)",
+  "materialsNeededResult": "Benötigtes Material",
+  "totalCostResult": "Geschätzte Gesamtkosten",
+  "sqmUnit": "m²",
+  "squaresUnit": "squares",
+  "sqftUnit": "sq ft",
+  "roofPitchTypeLabel": "Art der Dachneigung",
+  "pitchRatio": "Verhältnis",
+  "pitchDegrees": "Grad",
+  "roundUpLabel": "Auf ganze Einheiten aufrunden",
+  "errorInvalidPitch": "Ungültige Dachneigung. Geben Sie ein Verhältnis (z.B. 4:12) oder Grad (z.B. 18.4) ein.",
+  "materialTypeLabel": "Materialart",
+  "shingles": "Schindeln (~15 €/m²)",
+  "epdm": "EPDM (~20 €/m²)",
+  "roofTiles": "Dachziegel (~30 €/m²)",
+  "metal": "Metall (~25 €/m²)",
+  "customPrice": "Benutzerdefinierter Preis",
+  "wasteAmountResult": "Zuschlag für Verschnitt",
+  "roofingPitchRatioPlaceholder": "z.B. 4:12",
+  "roofingPitchDegreesPlaceholder": "z.B. 18.4",
+  "seoRoofingSections": [
+    {
+      "heading": "Wie unser Online-Dachkalkulator funktioniert",
+      "paragraphs": [
+        "Mit unserem kostenlosen <strong>Dachkalkulator</strong> können Sie schnell und einfach die benötigte Materialmenge und die geschätzten Kosten für Ihr Projekt ermitteln. Egal, ob Sie Ihre <strong>Dachfläche berechnen online</strong> möchten oder eine genaue Kostenschätzung benötigen, unser Tool ist ideal für Heimwerker und Profis in Deutschland, Österreich und der Schweiz. Geben Sie einfach die Maße Ihres Gebäudes und die Dachneigung ein, und Sie erhalten sofort ein detailliertes Ergebnis."
+      ]
+    },
+    {
+      "heading": "Praktische Tipps für eine genaue Schätzung",
+      "paragraphs": [
+        "Eine gute Planung ist entscheidend für den Erfolg. Nutzen Sie diese Tipps, um sicherzustellen, dass Ihre Materialberechnung korrekt ist:"
+      ],
+      "list": [
+        "<strong>Exakt messen:</strong> Überprüfen Sie die Länge und Breite der Dachfläche sorgfältig. Genaue Maße sind die Grundlage für jede Berechnung.",
+        "<strong>Verschnittfaktor berücksichtigen:</strong> Für einfache Dächer reichen oft 5-10% Zuschlag. Bei komplexen Dächern mit Gauben oder Schornsteinen sollten Sie eher mit 15% rechnen.",
+        "<strong>Materialwahl:</strong> Jedes Material (Schindeln, Ziegel, Metall) hat unterschiedliche Preise und Anforderungen an die Installation. Vergleichen Sie die Optionen, um die beste Wahl für Ihr Budget und Ihre Bedürfnisse zu treffen.",
+        "<strong>Lokale Vorschriften prüfen:</strong> Informieren Sie sich über die geltenden Bauvorschriften in Ihrer Region, bevor Sie mit dem Projekt beginnen."
+      ]
+    },
+    {
+      "heading": "Häufig gestellte Fragen (FAQ)",
+      "paragraphs": [
+        "<strong>F: Funktioniert das Tool auch als Dachkostenrechner?</strong><br>A: Ja! Nachdem Sie den Materialbedarf ermittelt haben, können Sie den Preis pro Einheit (m² oder Square) eingeben, um eine sofortige Schätzung der <strong>Kosten für Ihr Dach zu berechnen</strong>.",
+        "<strong>F: Wie viel Dachmaterial benötige ich?</strong><br>A: Die Berechnung basiert auf der gesamten Dachoberfläche, die sich aus den Grundmaßen und der Neigung ergibt, zuzüglich eines Verschnittfaktors (typischerweise 10-15%). Unser Tool automatisiert diesen Prozess für Sie.",
+        "<strong>F: Was ist ein 'Roofing Square'?</strong><br>A: Ein 'Roofing Square' ist eine in den USA gebräuchliche Maßeinheit und entspricht 100 Quadratfuß. Unser Rechner kann Ergebnisse sowohl in m² als auch in Squares ausgeben."
+      ]
+    },
+    {
+      "heading": "Starten Sie jetzt Ihre Dachplanung!",
+      "paragraphs": [
+        "Unser Dachrechner eignet sich für Schindeln, Ziegel, Metall- und Flachdächer. Vergleichen Sie Preise pro m² und vermeiden Sie unnötige Kosten.",
+        "Probieren Sie jetzt unseren Dachrechner aus und erhalten Sie eine sofortige Schätzung! So stellen Sie sicher, dass Sie die richtige Materialmenge haben und Ihr Projekt im Budget bleibt."
+      ]
+    }
+  ],
+  "navConcreteCalculator": "Betonrechner",
+  "homeConcreteCalculatorDescription": "Schätzen Sie das Volumen und die Materialien für Ihr Betonprojekt.",
+  "seoConcreteTitle": "Professioneller Betonrechner - Volumen, Säcke & Kosten",
+  "seoConcreteDescription": "Ein Online-Betonrechner zur Schätzung von Volumen, Zementsäcken, Sand, Kies und Gesamtkosten für Platten, Fundamente, Säulen und Treppen. Unterstützt metrische und imperiale Einheiten.",
+  "concreteTitle": "Professioneller Betonrechner",
+  "concreteSubheading": "Schätzen Sie Volumen, Materialien und Kosten für Ihr Projekt.",
+  "shapeLabel": "Form",
+  "slab": "Platte / Boden",
+  "footing": "Fundament",
+  "column": "Säule (Rechteckig)",
+  "circularColumn": "Säule (Rund)",
+  "stairs": "Treppe",
+  "lengthLabel": "Länge",
+  "widthLabel": "Breite",
+  "thicknessLabel": "Dicke",
+  "depthLabel": "Tiefe",
+  "heightLabel": "Höhe",
+  "diameterLabel": "Durchmesser",
+  "stepsLabel": "Anzahl der Stufen",
+  "riserLabel": "Steigungshöhe",
+  "treadLabel": "Auftrittsbreite",
+  "calculateConcreteButton": "Beton berechnen",
+  "resultsTitle": "Berechnungsergebnisse",
+  "concreteVolumeResult": "Gesamtbetonvolumen",
+  "concreteWithWasteResult": "Volumen (inkl. Verschnitt)",
+  "cementBagsResult": "Zementsäcke",
+  "sandRequiredResult": "Benötigter Sand",
+  "gravelRequiredResult": "Benötigter Kies",
+  "bagSizeLabel": "Sackgröße",
+  "kgBag": "kg",
+  "lbsBag": "lbs",
+  "concreteMixRatioLabel": "Mischverhältnis (Zement:Sand:Kies)",
+  "bagsUnit": "Säcke",
+  "costBreakdownTitle": "Geschätzte Kostenaufstellung",
+  "pricePerBagLabel": "Preis pro Sack",
+  "pricePerSandLabel": "Preis pro {unit} Sand",
+  "pricePerGravelLabel": "Preis pro {unit} Kies",
+  "cementCostResult": "Zementkosten",
+  "sandCostResult": "Sandkosten",
+  "gravelCostResult": "Kieskosten",
+  "totalCostResult": "Gesamtkosten",
+  "concreteResetButton": "Zurücksetzen",
+  "wasteFactorTooltip": "Der Verschnittfaktor berücksichtigt Materialverlust durch Verschütten und Schalungsvariationen. 5-10% sind üblich.",
+  "mixRatioTooltip": "Stellt das Volumenverhältnis von Zement zu Sand zu Kies dar. 1:2:4 ist eine übliche Mischung für Allzweckbeton.",
+  "mixRatioLabel": "Mischverhältnis",
+  "mixRatio_1_1_5_3": "1:1.5:3 (Hohe Festigkeit)",
+  "mixRatio_1_2_4": "1:2:4 (Standard)",
+  "mixRatio_1_3_6": "1:3:6 (Fundament)",
+  "transportationCostLabel": "Transportkosten (Optional)",
+  "currencyLabel": "Währung",
+  "printResultsButton": "Drucken / PDF speichern",
+  "errorPositiveNumbers": "Bitte geben Sie gültige, positive Zahlen für alle Maße ein.",
+  "transportationCostResult": "Transport",
+  "seoConcreteSections": [
+    {
+      "heading": "<h2>Wie funktioniert der Betonrechner?</h2>",
+      "paragraphs": [
+        "Mit unserem <strong>Betonrechner kostenlos</strong> können Sie schnell und präzise die benötigte <strong>Betonmenge berechnen</strong>. Egal ob für eine Platte, ein Fundament oder eine Säule, dieses Tool hilft Ihnen, den genauen Materialbedarf zu ermitteln. Wählen Sie einfach die Form, geben Sie die Maße ein, und unser <strong>Betonkalkulator für Bauprojekte</strong> liefert eine detaillierte Aufschlüsselung der benötigten Materialien wie Zement, Sand und Kies. Unser Betonrechner ist auch mobil optimiert – perfekt für schnelle Berechnungen direkt auf der Baustelle."
+      ]
+    },
+    {
+      "heading": "<h2>Betonmischungen und Materialien verstehen</h2>",
+      "paragraphs": [
+        "Das <strong>Beton-Mischverhältnis</strong> ist entscheidend für die Festigkeit und Haltbarkeit Ihres Projekts. Unser Rechner ermöglicht Ihnen, gängige Mischverhältnisse auszuwählen, um Ihren spezifischen Anforderungen gerecht zu werden.",
+        "<h3>Tabelle: Mischverhältnisse & benötigte Zementsäcke</h3>Die folgende Tabelle gibt einen schnellen Überblick über gängige Mischverhältnisse, ihre typische Festigkeit und die benötigten Zementsäcke pro Kubikmeter:",
+        "<table class='w-full text-left border-collapse mt-4'><thead><tr class='bg-gray-100 dark:bg-gray-700'><th class='p-2 border dark:border-gray-600'>Mischverhältnis (Z:S:K)</th><th class='p-2 border dark:border-gray-600'>Typische Anwendung</th><th class='p-2 border dark:border-gray-600'>Typische Festigkeit (N/mm²)</th><th class='p-2 border dark:border-gray-600'>50kg-Säcke pro m³ (ca.)</th></tr></thead><tbody><tr><td class='p-2 border dark:border-gray-600'>1:1.5:3</td><td class='p-2 border dark:border-gray-600'>Hohe Festigkeit</td><td class='p-2 border dark:border-gray-600'>C25/30</td><td class='p-2 border dark:border-gray-600'>8-9 Säcke</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:2:4</td><td class='p-2 border dark:border-gray-600'>Standard / Allzweck</td><td class='p-2 border dark:border-gray-600'>C20/25</td><td class='p-2 border dark:border-gray-600'>6-7 Säcke</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:3:6</td><td class='p-2 border dark:border-gray-600'>Fundamente / Füllungen</td><td class='p-2 border dark:border-gray-600'>C12/15</td><td class='p-2 border dark:border-gray-600'>4-5 Säcke</td></tr></tbody></table>"
+      ]
+    },
+    {
+      "heading": "<h2>Häufig gestellte Fragen (FAQ)</h2>",
+      "paragraphs": [
+        "<strong>F: Wie kann ich Beton berechnen für eine Platte?</strong><br>A: Um das Volumen zu berechnen, multiplizieren Sie Länge, Breite und Dicke. Beispiel für eine Platte von 5m x 4m x 10cm: 5m × 4m × 0.10m = 2 Kubikmeter. Unser Tool zum <strong>Betonbedarf online berechnen</strong> automatisiert dies für verschiedene Formen.",
+        "<strong>F: Wie viele Zementsäcke werden pro m³ Beton benötigt?</strong><br>A: Dies hängt vom Mischverhältnis ab. Für eine Standardmischung von 1:2:4 benötigen Sie ungefähr 6-7 Säcke (jeweils 50 kg) Zement pro Kubikmeter Beton. Die obige Tabelle gibt eine schnelle Orientierung.",
+        "<strong>F: Was ist ein gutes Beton-Mischverhältnis?</strong><br>A: Ein Verhältnis von 1:2:4 gilt als Standardmischung für Allzweckbeton und eignet sich für die meisten Wohnprojekte wie Böden, Terrassen und Fundamente."
+      ]
+    },
+    {
+        "heading": "<h2>Planen Sie Ihr Projekt mit Zuversicht</h2>",
+        "paragraphs": [
+            "👉 Testen Sie unseren kostenlosen Betonrechner – optimiert für PC und Smartphone. Berechnen Sie Volumen, Materialbedarf und Kosten in wenigen Sekunden!"
+        ]
     }
   ]
 }

@@ -425,5 +425,238 @@
         "<strong>怀孕计划：</strong>虽然我们的<a href='/zh/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>怀孕预产期计算器</a>提供详细的预产期估算，但此工具可用于快速计算孕期内的特定日期。"
       ]
     }
+  ],
+  "navBmiCalculator": "身体质量指数(BMI)计算器",
+  "homeBmiCalculatorDescription": "计算您的身体质量指数(BMI)，了解您的体重健康状况。",
+  "seoBmiTitle": "身体质量指数(BMI)计算器 - 检查您的体重健康状况",
+  "seoBmiDescription": "使用我们免费、准确的身体质量指数计算器，根据您的身高和体重估算您的体脂。了解您的体重是否在健康范围内。",
+  "bmiTitle": "身体质量指数(BMI)计算器",
+  "bmiSubheading": "计算您的BMI以评估您的体重状况。",
+  "calculateBmiButton": "计算BMI",
+  "bmiResultLabel": "您的BMI是",
+  "bmiCategoryLabel": "您的类别是：",
+  "underweight": "体重过轻",
+  "normalWeight": "体重正常",
+  "overweight": "超重",
+  "obesity": "肥胖",
+  "seoBmiSections": [
+    {
+      "heading": "什么是BMI及其工作原理？",
+      "paragraphs": [
+        "身体质量指数（BMI）是一种简单的测量方法，它使用您的身高和体重来估算您的体脂。它是一种广泛使用的筛查工具，用于确定一个人的体重是否在健康范围内。基本公式是体重（公斤）除以身高（米）的平方（kg/m²）。我们的计算器会自动执行此过程，为您提供快速准确的结果。",
+        "了解您的BMI是实现健康体重管理的重要第一步。无论您的目标是维持还是改变当前体重，它都可以帮助您设定切合实际的目标。为了有效管理体重，了解您的能量需求也至关重要，您可以使用我们的<a href=\"/zh/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">卡路里计算器</a>进行计算。"
+      ]
+    },
+    {
+      "heading": "理解BMI结果（分类）",
+      "paragraphs": [
+        "计算出您的BMI后，结果会分为特定类别，以帮助您了解自己的健康状况。成人的标准分类如下：",
+        "<strong>低于18.5：</strong>体重过轻。这可能表明您营养摄入不足，或者可能是潜在健康问题的迹象。",
+        "<strong>18.5 – 24.9：</strong>体重正常。这个范围表明您的体重相对于身高是健康的，这可以降低患慢性病的风险。",
+        "<strong>25.0 – 29.9：</strong>超重。在此类别中，您患上某些健康问题（如心脏病和2型糖尿病）的风险可能会增加。",
+        "<strong>30.0及以上：</strong>肥胖。肥胖会显著增加患严重健康问题的风险，需要通过改变生活方式和咨询医疗专业人员来特别关注。"
+      ]
+    },
+    {
+      "heading": "保持健康BMI的重要性",
+      "paragraphs": [
+        "将BMI维持在正常范围（18.5-24.9）内对整体健康至关重要。超重或肥胖与多种慢性疾病的风险增加有关，包括高血压、心脏病、中风、2型糖尿病和某些类型的癌症。另一方面，体重过轻也可能导致健康问题，如免疫系统减弱、骨质疏松和生育问题。因此，达到并维持健康的体重是健康生活方式的关键部分。"
+      ]
+    },
+    {
+      "heading": "BMI的局限性",
+      "paragraphs": [
+        "虽然BMI是一种有用的筛查工具，但它并非没有局限性。它不区分脂肪量和肌肉量。这意味着像运动员这样肌肉发达的人，尽管体脂率很低，也可能有较高的BMI并被归类为超重。",
+        "此外，BMI的解读可能受到年龄和性别等因素的影响。例如，肌肉量减少的老年人，即使BMI正常，其体脂百分比也可能处于健康水平。您可以使用我们的<a href=\"/zh/age-calculator\" class=\"text-blue-500 hover:underline\">年龄计算器</a>来探索您的身体如何随时间变化。因此，BMI应作为全面健康评估的一部分，而不应作为唯一的诊断工具。"
+      ]
+    },
+    {
+      "heading": "如何改善您的BMI",
+      "paragraphs": [
+        "如果您的BMI结果超出正常范围，您可以采取措施加以改善。这通常涉及均衡饮食和定期体育锻炼的结合。设定切合实际的渐进目标可以帮助您达到并维持健康的体重。我们的<a href=\"/zh/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">卡路里计算器</a>可以成为帮助您规划饮食的好工具。",
+        "考虑其他健康状况也很重要。例如，在怀孕期间保持健康的BMI尤为重要，您可以使用我们的<a href=\"/zh/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">怀孕预产期计算器</a>来跟踪您的进展。我们始终建议咨询医疗专业人员或注册营养师，以制定适合您个人需求的个性化计划。"
+      ]
+    }
+  ],
+  "navStopwatch": "秒表",
+  "homeStopwatchDescription": "使用圈数和清晰的显示精确测量经过的时间。",
+  "seoStopwatchTitle": "带计圈功能的免费在线秒表",
+  "seoStopwatchDescription": "一款简单、准确、免费的在线秒表，具有计圈功能。非常适合运动、锻炼和计时任何活动。",
+  "stopwatchTitle": "秒表",
+  "stopwatchSubheading": "精确测量经过的时间。",
+  "startButton": "开始",
+  "stopButton": "停止",
+  "lapButton": "计圈",
+  "lapColumnHeader": "圈",
+  "timeColumnHeader": "时间",
+  "seoStopwatchSections": [
+    {
+      "heading": "如何使用在线秒表",
+      "paragraphs": [
+        "我们的在线秒表是测量经过时间的简单而精确的工具。只需单击一下，您就可以启动和停止计时器，以厘秒级的精度跟踪任何活动。“计圈”功能允许您在不中断主计时器的情况下记录分段时间，非常适合跟踪多个区间的表现。完成后，“重置”按钮会清除计时器和所有记录的圈数，为下一次计时会话做好准备。如果您需要计算特定开始和结束时间之间的时间（例如用于工时表），我们的<a href=\"/zh/hours-calculator\" class=\"text-blue-500 hover:underline\">小时计算器</a>是完成这项工作的完美工具。"
+      ]
+    },
+    {
+      "heading": "秒表的实际应用",
+      "paragraphs": [
+        "秒表是一种用途极其广泛的工具，在日常生活、体育和专业场所有着众多的应用：如果您需要对记录的圈数时间进行计算，例如将它们相加，我们的<a href=\"/zh/time-Calculator\" class=\"text-blue-500 hover:underline\">时间计算器</a>可以轻松处理这些操作。"
+      ],
+      "list": [
+        "<strong>体育与健身：</strong>为跑步、游泳或骑自行车计时，并测量锻炼组之间的休息时间。",
+        "<strong>烹饪与烘焙：</strong>精确计时食谱，从泡茶到烤蛋糕。",
+        "<strong>学习与生产力：</strong>使用番茄工作法等技术，该技术涉及使用秒表计时的集中工作间隔。",
+        "<strong>测试与演讲：</strong>练习演讲或为考试计时，以改善节奏和表现。"
+      ]
+    }
+  ],
+  "navConstructionCalculators": "建筑计算器",
+  "navRoofingCalculator": "屋顶计算器",
+  "homeRoofingCalculatorDescription": "计算您的屋顶项目所需的材料和成本。",
+  "seoRoofingTitle": "屋顶计算器 - 计算材料与成本",
+  "seoRoofingDescription": "一款免费的在线工具，可根据尺寸和屋顶坡度计算您的项目所需的屋顶材料数量和估算成本。",
+  "roofingTitle": "屋顶计算器",
+  "roofingSubheading": "计算您的屋顶所需的材料和成本。",
+  "calculationMethodLabel": "计算方法",
+  "totalAreaMethod": "基于总面积",
+  "groundDimensionsMethod": "基于地面尺寸",
+  "totalAreaLabel": "屋顶总面积",
+  "buildingLengthLabel": "建筑长度",
+  "buildingWidthLabel": "建筑宽度",
+  "roofPitchLabel": "屋顶坡度",
+  "roofingPitchTooltip": "以比例（如 4:12）或度数（如 18.4）输入屋顶坡度。平屋顶请使用0。",
+  "wasteFactorLabel": "损耗系数 (%)",
+  "pricePerUnitLabel": "每单位价格",
+  "calculateRoofingButton": "计算屋顶",
+  "resultsTitle": "您的结果",
+  "baseRoofAreaResult": "屋顶基础面积",
+  "totalRoofAreaResult": "总面积（含损耗）",
+  "materialsNeededResult": "所需材料",
+  "totalCostResult": "预估总成本",
+  "sqmUnit": "平方米",
+  "squaresUnit": "平方单位",
+  "sqftUnit": "平方英尺",
+  "roofPitchTypeLabel": "屋顶坡度类型",
+  "pitchRatio": "比例",
+  "pitchDegrees": "度数",
+  "roundUpLabel": "向上取整",
+  "errorInvalidPitch": "无效的屋顶坡度。请输入比例（如 4:12）或度数（如 18.4）。",
+  "materialTypeLabel": "材料类型",
+  "shingles": "瓦片 (~¥100/平方米)",
+  "epdm": "EPDM 防水卷材 (~¥135/平方米)",
+  "roofTiles": "瓷砖 (~¥200/平方米)",
+  "metal": "金属 (~¥170/平方米)",
+  "customPrice": "自定义价格",
+  "wasteAmountResult": "损耗余量",
+  "roofingPitchRatioPlaceholder": "例如 4:12",
+  "roofingPitchDegreesPlaceholder": "例如 18.4",
+  "seoRoofingSections": [
+    {
+      "heading": "我们的屋顶计算器如何工作",
+      "paragraphs": [
+        "我们的免费<strong>屋顶计算器</strong>可帮助您快速估算屋顶面积、材料和成本。只需输入您的尺寸和坡度（或您已知的总面积），我们的<strong>屋顶估算器</strong>即可提供即时结果。对于DIY爱好者和专业人士来说，这都是一个完美的工具。"
+      ]
+    },
+    {
+      "heading": "获得准确估算的实用技巧",
+      "paragraphs": [
+        "一个成功的项目始于一个准确的计划。使用这些技巧确保您的<strong>屋顶覆盖面积计算</strong>是正确的："
+      ],
+      "list": [
+        "<strong>精确测量：</strong>仔细检查屋顶区域的长度和宽度。精确的测量是任何计算的基础。",
+        "<strong>选择正确的损耗系数：</strong>简单的屋顶可能只需要5-10%的额外损耗，但具有许多角度、天窗或烟囱的复杂屋顶需要更高的系数，通常约为15%。",
+        "<strong>考虑您的材料选择：</strong>每种材料（瓦片、EPDM、瓷砖、金属）都有不同的价格和安装复杂性。我们的工具可让您比较成本，以做出明智的决定。",
+        "<strong>检查当地要求：</strong>某些地区有特定的建筑规范或要求。开始前务必查阅当地指南。"
+      ]
+    },
+    {
+      "heading": "常见问题解答 (FAQ)",
+      "paragraphs": [
+        "<strong>问：这也是一个屋顶成本计算器吗？</strong><br>答：是的！在计算所需材料后，您可以输入每单位（平方米或平方英尺）的价格，以获得您项目的即时成本估算。",
+        "<strong>问：我的项目需要多少屋顶材料？</strong><br>答：基本公式包括根据其尺寸和坡度计算屋顶的总表面积，然后加上损耗系数（通常为10-15%）。我们的工具为您自动化整个过程。",
+        "<strong>问：什么是“屋顶平方单位”（roofing square）？</strong><br>答：一个“屋顶平方单位”是在美国常用的英制单位，等于100平方英尺。我们的计算器可以提供平方单位和平方米（m²）两种结果。"
+      ]
+    },
+    {
+      "heading": "立即获取您的屋顶估算！",
+      "paragraphs": [
+        "立即试用我们的屋顶计算器，并获得即时的屋顶估算！避免不必要的成本，并确保您有适量的材料来正确完成工作。"
+      ]
+    }
+  ],
+  "navConcreteCalculator": "混凝土计算器",
+  "homeConcreteCalculatorDescription": "估算您的混凝土项目所需的体积和材料。",
+  "seoConcreteTitle": "专业混凝土计算器 - 体积、袋数和成本",
+  "seoConcreteDescription": "一款在线混凝土计算器，用于估算板、基础、柱和楼梯的体积、水泥袋数、沙子、砾石和总成本。支持公制和英制单位。",
+  "concreteTitle": "专业混凝土计算器",
+  "concreteSubheading": "估算您的项目的体积、材料和成本。",
+  "shapeLabel": "形状",
+  "slab": "板/地坪",
+  "footing": "基础",
+  "column": "柱（矩形）",
+  "circularColumn": "柱（圆形）",
+  "stairs": "楼梯",
+  "lengthLabel": "长度",
+  "widthLabel": "宽度",
+  "thicknessLabel": "厚度",
+  "depthLabel": "深度",
+  "heightLabel": "高度",
+  "diameterLabel": "直径",
+  "stepsLabel": "台阶数",
+  "riserLabel": "踢脚板高度",
+  "treadLabel": "踏板深度",
+  "calculateConcreteButton": "计算混凝土",
+  "resultsTitle": "计算结果",
+  "concreteVolumeResult": "总混凝土体积",
+  "concreteWithWasteResult": "体积（含损耗）",
+  "cementBagsResult": "水泥袋数",
+  "sandRequiredResult": "所需沙子",
+  "gravelRequiredResult": "所需砾石",
+  "bagSizeLabel": "袋子尺寸",
+  "kgBag": "公斤",
+  "lbsBag": "磅",
+  "concreteMixRatioLabel": "混合比（水泥:沙子:砾石）",
+  "bagsUnit": "袋",
+  "costBreakdownTitle": "预估成本明细",
+  "pricePerBagLabel": "每袋价格",
+  "pricePerSandLabel": "每{unit}沙子价格",
+  "pricePerGravelLabel": "每{unit}砾石价格",
+  "cementCostResult": "水泥成本",
+  "sandCostResult": "沙子成本",
+  "gravelCostResult": "砾石成本",
+  "totalCostResult": "总成本",
+  "concreteResetButton": "重置",
+  "wasteFactorTooltip": "损耗系数考虑了溢出和模板变化。通常为5-10%。",
+  "mixRatioTooltip": "表示水泥、沙子和砾石的体积比。1:2:4是通用混凝土的常见混合比。",
+  "mixRatioLabel": "混合比",
+  "mixRatio_1_1_5_3": "1:1.5:3（高强度）",
+  "mixRatio_1_2_4": "1:2:4（标准）",
+  "mixRatio_1_3_6": "1:3:6（基础）",
+  "transportationCostLabel": "运输成本（可选）",
+  "currencyLabel": "货币",
+  "printResultsButton": "打印/保存为PDF",
+  "errorPositiveNumbers": "请输入所有尺寸的有效正数。",
+  "transportationCostResult": "运输",
+  "seoConcreteSections": [
+    {
+      "heading": "<h2>如何使用在线混凝土计算器</h2>",
+      "paragraphs": [
+        "我们的<strong>在线混凝土计算器</strong>简化了您的项目规划。无论您是浇筑板、基础还是柱，此工具都能帮助您准确确定所需的<strong>混凝土体积</strong>。只需选择形状，输入尺寸，我们的计算器将提供<strong>混凝土配比</strong>的详细明细。此计算器针对移动设备进行了优化，允许您在施工现场即时估算材料。"
+      ]
+    },
+    {
+      "heading": "<h2>了解混凝土配比和材料</h2>",
+      "paragraphs": [
+        "<strong>混凝土配比</strong>——水泥、沙子和砾石的比例——对于确保结构的强度至关重要。我们的计算器允许您从常见的配比中进行选择。下表显示了每立方米需要多少袋水泥的快速指南：",
+        "<table class='w-full text-left border-collapse mt-4'><thead><tr class='bg-gray-100 dark:bg-gray-700'><th class='p-2 border dark:border-gray-600'>配比（水泥:沙子:砾石）</th><th class='p-2 border dark:border-gray-600'>常见用途</th><th class='p-2 border dark:border-gray-600'>每立方米50公斤袋数（约）</th></tr></thead><tbody><tr><td class='p-2 border dark:border-gray-600'>1:1.5:3</td><td class='p-2 border dark:border-gray-600'>高强度</td><td class='p-2 border dark:border-gray-600'>8-9袋</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:2:4</td><td class='p-2 border dark:border-gray-600'>标准/通用</td><td class='p-2 border dark:border-gray-600'>6-7袋</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:3:6</td><td class='p-2 border dark:border-gray-600'>基础/填充</td><td class='p-2 border dark:border-gray-600'>4-5袋</td></tr></tbody></table>"
+      ]
+    },
+    {
+      "heading": "<h2>常见问题解答 (FAQ)</h2>",
+      "paragraphs": [
+        "<strong>问：如何计算板所需的混凝土体积？</strong><br>答：要计算体积，请将长度、宽度和厚度相乘。例如，对于5米长、4米宽、10厘米厚的板：5米×4米×0.10米=2立方米。我们的<strong>混凝土用量计算</strong>工具可为各种形状自动执行此操作。",
+        "<strong>问：每立方米需要多少袋水泥？</strong><br>答：这取决于混合比。对于标准的1:2:4混合比，每立方米混凝土通常需要大约6-7袋（每袋50公斤）水泥。上表提供了快速指南。",
+        "<strong>问：标准混凝土混合比是多少？</strong><br>答：1:2:4的比例被认为是通用混凝土的标准混合比，适用于大多数住宅项目，如地板、庭院和基础。"
+      ]
+    }
   ]
 }

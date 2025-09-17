@@ -296,34 +296,6 @@
   "errorHeight": "Lütfen geçerli bir boy girin (min 100cm / 3'3\").",
   "errorWeight": "Lütfen geçerli bir kilo girin (min 20kg / 45lbs).",
   "errorAge": "Lütfen geçerli bir yaş girin (15-80).",
-  "seoCalorieSections": [
-    {
-      "heading": "Günlük Kalori İhtiyaçlarınızı Anlamak",
-      "paragraphs": [
-        "Kalori bir enerji birimidir. Beslenmede kaloriler, insanların tükettikleri yiyecek ve içeceklerden aldıkları enerjiyi ve fiziksel aktivitede kullandıkları enerjiyi ifade eder. Yaşınız gibi faktörlere bağlı olan günlük kalori ihtiyaçlarınızı anlamak (bunu <a href=\"/tr/age-calculator\" class=\"text-blue-500 hover:underline\">Yaş Hesaplayıcı</a>'mızla bulun), kilo verme, kilo alma veya mevcut kilonuzu koruma gibi kilo hedeflerinize ulaşmanın ilk adımıdır.",
-        "Hesaplayıcımız, dinlenme halindeyken vücudunuzun nefes alma, dolaşım ve hücre üretimi gibi temel yaşamı sürdürme işlevlerini yerine getirmek için ihtiyaç duyduğu kalori sayısı olan Bazal Metabolizma Hızınızı (BMR) belirleyerek başlar. Bu hesaplama için yaygın olarak kabul edilen Mifflin-St Jeor denklemini kullanıyoruz. Ardından, günlük toplam enerji harcamanızı (TDEE) hesaplamak için aktivite seviyenizi hesaba katıyoruz, bu da günlük kalori yakımınızın daha doğru bir tahminidir."
-      ]
-    },
-    {
-      "heading": "Hedef Belirleme: Kilo Kaybı, Alımı veya Korunması",
-      "paragraphs": [
-        "TDEE'nizi (koruma kalorileri) öğrendikten sonra, hedeflerinize ulaşmak için alımınızı ayarlayabilirsiniz:",
-        "Kilo vermek için, TDEE'nizden daha az kalori tüketmeniz, bir kalori açığı oluşturmanız gerekir. Güvenli ve sürdürülebilir bir açık, haftada yaklaşık yarım kilo vermek için genellikle günde yaklaşık 500 kaloridir.",
-        "Kilo almak için, TDEE'nizden daha fazla kalori tüketmeniz, bir kalori fazlası oluşturmanız gerekir. Günde 300-500 kalorilik bir fazlalık, minimum yağ alımıyla istikrarlı kas kazanımı için iyi bir başlangıç noktasıdır.",
-        "Kilonuzu korumak için, TDEE'nize eşit sayıda kalori tüketmeyi hedeflemelisiniz."
-      ]
-    },
-    {
-      "heading": "Peki ya Makro Besinler?",
-      "paragraphs": [
-        "Kaloriler üç ana makro besinden gelir: protein, karbonhidrat ve yağ. Bu 'makroları' dengelemek sağlıklı bir diyetin anahtarıdır.",
-        "Protein, kaslar da dahil olmak üzere dokuları inşa etmek ve onarmak için çok önemlidir.",
-        "Karbonhidratlar vücudunuzun birincil enerji kaynağıdır.",
-        "Yağlar, hormon üretimi ve vitaminlerin emilimi için gereklidir.",
-        "Hesaplayıcımız, popüler diyet planlarına göre toplam günlük kalorilerinizi protein, karbonhidrat ve yağ gramlarına ayırmanıza yardımcı olur. Bu, sağlık ve fitness hedeflerinize uygun öğünler oluşturmak için size pratik bir çerçeve sunar."
-      ]
-    }
-  ],
   "seoTimeTitle": "Zaman Hesaplayıcı - Zaman Sürelerini Toplama ve Çıkarma",
   "seoTimeDescription": "Zaman sürelerini kolayca toplamak veya çıkarmak için ücretsiz bir çevrimiçi araç. Günleri, saatleri, dakikaları ve saniyeleri hassasiyetle hesaplayın. Proje yönetimi, zaman takibi ve günlük hesaplamalar için idealdir.",
   "timeTitle": "Zaman Hesaplayıcı",
@@ -418,6 +390,171 @@
       "heading": "Pratik Uygulamalar ve Örnekler",
       "paragraphs": [
         "Tarih Hesaplayıcı, çeşitli günlük, kişisel ve profesyonel senaryolarda inanılmaz derecede kullanışlıdır:<strong>Kişisel Planlama:</strong> Tatiliniz için 90 gün sonraki tarihin ne olacağını mı merak ediyorsunuz? Veya bir yıl dönümünden bu yana 6 ayın ne zaman geçtiğini bilmek isteyebilirsiniz.<strong>Proje Yönetimi:</strong> Proje son tarihlerini kolayca belirleyin. Bir proje 15 Ocak'ta başlar ve 8 hafta 3 gün sürerse, tam bitiş tarihini anında bulabilirsiniz.<strong>Sağlık Randevuları:</strong> Tıbbi randevuları veya ilaç programlarını takip edin. Bir randevudan 3 ay sonra bir takip randevusu planlamanız gerekiyorsa, bu araç size kesin tarihi verir.<strong>Finansal Planlama:</strong> Belirli sayıda yıl ve aya yayılan krediler veya yatırım planları için vade tarihlerini hesaplayın.<strong>Gebelik Planlaması:</strong> <a href='/tr/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Gebelik Hesaplayıcımız</a> ayrıntılı doğum tarihi tahminleri sunarken, bu araç dönem boyunca belirli tarihler hakkında hızlı hesaplamalar için kullanılabilir."
+      ]
+    }
+  ],
+  "navBmiCalculator": "VKİ Hesaplayıcı",
+  "homeBmiCalculatorDescription": "Kilo sağlığınızı anlamak için Vücut Kitle İndeksinizi hesaplayın.",
+  "seoBmiTitle": "Vücut Kitle İndeksi (VKİ) Hesaplayıcı - Kilo Sağlığınızı Kontrol Edin",
+  "seoBmiDescription": "Boyunuza ve kilonuza göre vücut yağınızı tahmin etmek için ücretsiz ve doğru Vücut Kitle İndeksi hesaplayıcımızı kullanın. Sağlıklı bir kiloda olup olmadığınızı öğrenin.",
+  "bmiTitle": "Vücut Kitle İndeksi (VKİ) Hesaplayıcı",
+  "bmiSubheading": "Kilo durumunuzu değerlendirmek için VKİ'nizi hesaplayın.",
+  "calculateBmiButton": "VKİ Hesapla",
+  "bmiResultLabel": "VKİ'niz",
+  "bmiCategoryLabel": "Kategoriniz:",
+  "underweight": "Zayıf",
+  "normalWeight": "Normal Kilo",
+  "overweight": "Fazla Kilolu",
+  "obesity": "Obezite",
+  "seoBmiSections": [
+    {
+      "heading": "VKİ Nedir ve Nasıl Çalışır?",
+      "paragraphs": [
+        "Vücut Kitle İndeksi (VKİ), boyunuzu ve kilonuzu kullanarak vücut yağınızı tahmin eden basit bir ölçümdür. Bir kişinin kilosunun sağlıklı bir aralıkta olup olmadığını belirlemek için yaygın olarak kullanılan bir tarama aracıdır. Temel formül, kilogram cinsinden ağırlığın metre cinsinden boyun karesine bölünmesidir (kg/m²). Hesaplayıcımız bu süreci otomatikleştirerek size hızlı ve doğru bir sonuç sunar.",
+        "VKİ'nizi anlamak, sağlıklı kilo yönetimine yönelik önemli bir ilk adımdır. Mevcut kilonuzu korumayı veya değiştirmeyi hedefliyor olsanız da, gerçekçi hedefler belirlemenize yardımcı olabilir. Kilonuzu etkili bir şekilde yönetmek için enerji ihtiyaçlarınızı anlamak da çok önemlidir, bunu <a href=\"/tr/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Kalori Hesaplayıcımızı</a> kullanarak hesaplayabilirsiniz."
+      ]
+    },
+    {
+      "heading": "VKİ Sonuçlarını Anlama (Kategoriler)",
+      "paragraphs": [
+        "VKİ'nizi hesapladıktan sonra, sonuç sağlık durumunuzu anlamanıza yardımcı olmak için belirli kategorilere ayrılır. Yetişkinler için standart kategoriler şunlardır:",
+        "<strong>18.5'in altında:</strong> Zayıf. Bu, yeterli besin almadığınızı veya altta yatan bir sağlık durumunun bir işareti olabileceğini gösterebilir.",
+        "<strong>18.5 – 24.9:</strong> Normal kilo. Bu aralık, boyunuza göre sağlıklı bir kiloda olduğunuzu ve bu durumun kronik hastalık riskini azalttığını gösterir.",
+        "<strong>25.0 – 29.9:</strong> Fazla kilolu. Bu kategoride, kalp hastalığı ve tip 2 diyabet gibi belirli sağlık sorunları geliştirme riskiniz artabilir.",
+        "<strong>30.0 ve üzeri:</strong> Obezite. Obezite, ciddi sağlık sorunları riskini önemli ölçüde artırır ve yaşam tarzı değişiklikleri ve bir sağlık uzmanıyla konsültasyon yoluyla özel dikkat gerektirir."
+      ]
+    },
+    {
+      "heading": "Sağlıklı Bir VKİ Sürdürmenin Önemi",
+      "paragraphs": [
+        "Normal aralıkta (18.5-24.9) bir VKİ sürdürmek genel sağlık için hayati önem taşır. Fazla kilolu veya obez olmak, yüksek tansiyon, kalp hastalığı, inme, tip 2 diyabet ve belirli kanser türleri de dahil olmak üzere çok sayıda kronik hastalık riskinin artmasıyla bağlantılıdır. Öte yandan, zayıf olmak da zayıflamış bir bağışıklık sistemi, osteoporoz ve doğurganlık sorunları gibi sağlık sorunlarına yol açabilir. Bu nedenle, sağlıklı bir kiloya ulaşmak ve bunu sürdürmek, sağlıklı bir yaşam tarzının önemli bir parçasıdır."
+      ]
+    },
+    {
+      "heading": "VKİ'nin Sınırlılıkları",
+      "paragraphs": [
+        "VKİ yararlı bir tarama aracı olsa da sınırlılıkları vardır. Yağ ve kas kütlesi arasında ayrım yapmaz. Bu, sporcular gibi çok kaslı bireylerin, düşük vücut yağına rağmen yüksek bir VKİ'ye sahip olabileceği ve fazla kilolu olarak sınıflandırılabileceği anlamına gelir.",
+        "Ayrıca, VKİ'nin yorumlanması yaş ve cinsiyet gibi faktörlerden etkilenebilir. Örneğin, kas kütlesini kaybetmiş yaşlı yetişkinler, VKİ'leri normal olsa bile sağlıklı bir vücut yağ yüzdesine sahip olabilirler. Zamanla vücudunuzun nasıl değiştiğini <a href=\"/tr/age-calculator\" class=\"text-blue-500 hover:underline\">Yaş Hesaplayıcımız</a> ile keşfedebilirsiniz. Bu nedenlerden dolayı, VKİ kapsamlı bir sağlık değerlendirmesinin bir parçası olarak kullanılmalı ve tek bir teşhis aracı olarak kullanılmamalıdır."
+      ]
+    },
+    {
+      "heading": "VKİ'nizi Nasıl İyileştirirsiniz?",
+      "paragraphs": [
+        "VKİ sonucunuz normal aralığın dışındaysa, iyileştirmek için atabileceğiniz adımlar vardır. Bu genellikle dengeli bir diyet ve düzenli fiziksel aktivitenin bir kombinasyonunu içerir. Gerçekçi ve kademeli hedefler belirlemek, sağlıklı bir kiloya ulaşmanıza ve bunu sürdürmenize yardımcı olabilir. <a href=\"/tr/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Kalori Hesaplayıcımız</a>, diyetinizi planlamanıza yardımcı olmak için harika bir araç olabilir.",
+        "Diğer sağlık koşullarını da dikkate almak önemlidir. Örneğin, sağlıklı bir VKİ sürdürmek hamilelik sırasında özellikle önemlidir ve ilerlemenizi <a href=\"/tr/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Gebelik Hesaplayıcımız</a> ile takip edebilirsiniz. Bireysel ihtiyaçlarınıza uygun kişiselleştirilmiş bir plan geliştirmek için her zaman bir sağlık uzmanına veya kayıtlı bir diyetisyene danışmanızı öneririz."
+      ]
+    }
+  ],
+  "navStopwatch": "Kronometre",
+  "homeStopwatchDescription": "Tur özellikleri ve net ekranı ile geçen süreyi hassas bir şekilde ölçün.",
+  "seoStopwatchTitle": "Turlu Ücretsiz Çevrimiçi Kronometre",
+  "seoStopwatchDescription": "Tur fonksiyonlu basit, doğru ve ücretsiz çevrimiçi kronometre. Spor, antrenmanlar ve her türlü aktiviteyi zamanlamak için mükemmel.",
+  "stopwatchTitle": "Kronometre",
+  "stopwatchSubheading": "Geçen süreyi hassasiyetle ölçün.",
+  "startButton": "Başlat",
+  "stopButton": "Durdur",
+  "lapButton": "Tur",
+  "lapColumnHeader": "Tur",
+  "timeColumnHeader": "Süre",
+  "seoStopwatchSections": [
+    {
+      "heading": "Çevrimiçi Kronometre Nasıl Kullanılır",
+      "paragraphs": [
+        "Çevrimiçi kronometremiz, geçen süreyi ölçmek için basit ve hassas bir araçtır. Tek bir tıklama ile zamanlayıcıyı başlatıp durdurarak herhangi bir aktiviteyi salise hassasiyetinde takip edebilirsiniz. 'Tur' işlevi, ana zamanlayıcıyı kesintiye uğratmadan ara zamanları kaydetmenize olanak tanır, bu da birden fazla aralıktaki performansı izlemek için mükemmeldir. İşiniz bittiğinde, 'Sıfırla' düğmesi zamanlayıcıyı ve kaydedilen tüm turları temizleyerek sizi bir sonraki zamanlama seansına hazırlar. Belirli bir başlangıç ve bitiş zamanı arasındaki süreyi hesaplamanız gerekiyorsa (örneğin bir zaman çizelgesi için), <a href=\"/tr/hours-calculator\" class=\"text-blue-500 hover:underline\">Saat Hesaplayıcı</a>'mız bu iş için mükemmel bir araçtır."
+      ]
+    },
+    {
+      "heading": "Kronometre için Pratik Uygulamalar",
+      "paragraphs": [
+        "Kronometre, günlük yaşamda, sporda ve profesyonel ortamlarda sayısız uygulaması olan inanılmaz derecede çok yönlü bir araçtır: Kaydedilmiş tur zamanlarınızla toplama gibi hesaplamalar yapmanız gerekiyorsa, <a href=\"/tr/time-Calculator\" class=\"text-blue-500 hover:underline\">Zaman Hesaplayıcı</a>'mız bu işlemleri kolaylıkla halledebilir."
+      ],
+      "list": [
+        "<strong>Spor ve Fitness:</strong> Koşu, yüzme veya bisiklete binme turlarını zamanlamak ve antrenman setleri arasındaki dinlenme sürelerini ölçmek.",
+        "<strong>Yemek Pişirme ve Fırıncılık:</strong> Çay demlemekten kek pişirmeye kadar tarifleri hassas bir şekilde zamanlamak.",
+        "<strong>Çalışma ve Verimlilik:</strong> Kronometre ile zamanlanan odaklanmış çalışma aralıklarını içeren Pomodoro Tekniği gibi teknikleri kullanmak.",
+        "<strong>Testler ve Sunumlar:</strong> Hızı ve performansı artırmak için konuşma pratiği yapmak veya sınavları zamanlamak."
+      ]
+    }
+  ],
+  "navConstructionCalculators": "İnşaat Hesaplayıcıları",
+  "navRoofingCalculator": "Çatı Hesaplayıcı",
+  "homeRoofingCalculatorDescription": "Çatı projeniz için malzeme ve maliyetleri hesaplayın.",
+  "seoRoofingTitle": "Çatı Hesaplayıcı - Malzeme ve Maliyet Hesaplama",
+  "roofingTitle": "Çatı Hesaplayıcı",
+  "roofingSubheading": "Çatınız için gerekli malzemeleri ve maliyetleri hesaplayın.",
+  "navConcreteCalculator": "Beton Hesaplayıcı",
+  "homeConcreteCalculatorDescription": "Beton projeniz için hacim ve malzemeleri tahmin edin.",
+  "seoConcreteTitle": "Profesyonel Beton Hesaplayıcı - Hacim, Torba ve Maliyet",
+  "seoConcreteDescription": "Döşeme, temel, kolon ve merdivenler için hacim, çimento torbası, kum, çakıl ve toplam maliyeti tahmin etmek için çevrimiçi bir beton hesaplayıcı. Metrik ve emperyal birimleri destekler.",
+  "concreteTitle": "Profesyonel Beton Hesaplayıcı",
+  "concreteSubheading": "Projeniz için hacim, malzeme ve maliyeti tahmin edin.",
+  "shapeLabel": "Şekil",
+  "slab": "Döşeme / Zemin",
+  "footing": "Temel",
+  "column": "Kolon (Dikdörtgen)",
+  "circularColumn": "Kolon (Dairesel)",
+  "stairs": "Merdiven",
+  "lengthLabel": "Uzunluk",
+  "widthLabel": "Genişlik",
+  "thicknessLabel": "Kalınlık",
+  "depthLabel": "Derinlik",
+  "heightLabel": "Yükseklik",
+  "diameterLabel": "Çap",
+  "stepsLabel": "Basamak Sayısı",
+  "riserLabel": "Rıht Yüksekliği",
+  "treadLabel": "Basamak Genişliği",
+  "calculateConcreteButton": "Betonu Hesapla",
+  "resultsTitle": "Hesaplama Sonuçları",
+  "concreteVolumeResult": "Toplam Beton Hacmi",
+  "concreteWithWasteResult": "Hacim (fire dahil)",
+  "cementBagsResult": "Çimento Torbası",
+  "sandRequiredResult": "Gerekli Kum",
+  "gravelRequiredResult": "Gerekli Çakıl",
+  "bagSizeLabel": "Torba Boyutu",
+  "kgBag": "kg",
+  "lbsBag": "lbs",
+  "concreteMixRatioLabel": "Karışım Oranı (Çimento:Kum:Çakıl)",
+  "bagsUnit": "torba",
+  "costBreakdownTitle": "Tahmini Maliyet Dökümü",
+  "pricePerBagLabel": "Torba Başına Fiyat",
+  "pricePerSandLabel": "{unit} Kum Fiyatı",
+  "pricePerGravelLabel": "{unit} Çakıl Fiyatı",
+  "cementCostResult": "Çimento Maliyeti",
+  "sandCostResult": "Kum Maliyeti",
+  "gravelCostResult": "Çakıl Maliyeti",
+  "totalCostResult": "Toplam Maliyet",
+  "concreteResetButton": "Sıfırla",
+  "wasteFactorTooltip": "Fire payı, dökülme ve kalıp farklılıklarını hesaba katar. %5-10 arası normaldir.",
+  "mixRatioTooltip": "Hacimsel olarak çimento, kum ve çakıl oranını temsil eder. 1:2:4, genel amaçlı beton için yaygın bir karışımdır.",
+  "mixRatioLabel": "Karışım Oranı",
+  "mixRatio_1_1_5_3": "1:1.5:3 (Yüksek Mukavemet)",
+  "mixRatio_1_2_4": "1:2:4 (Standart)",
+  "mixRatio_1_3_6": "1:3:6 (Temel)",
+  "transportationCostLabel": "Nakliye Maliyeti (İsteğe Bağlı)",
+  "currencyLabel": "Para Birimi",
+  "printResultsButton": "Yazdır / PDF Olarak Kaydet",
+  "errorPositiveNumbers": "Lütfen tüm boyutlar için geçerli, pozitif sayılar girin.",
+  "transportationCostResult": "Nakliye",
+  "seoConcreteSections": [
+    {
+      "heading": "<h2>Online Beton Hesaplayıcı Nasıl Kullanılır?</h2>",
+      "paragraphs": [
+        "<strong>Online beton hesaplayıcımız</strong> proje planlamanızı basitleştirir. İster döşeme, ister temel, ister kolon döküyor olun, bu araç ihtiyacınız olan <strong>beton miktarını</strong> doğru bir şekilde belirlemenize yardımcı olur. Sadece şekli seçin, boyutları girin ve hesaplayıcımız <strong>çimento, kum ve çakıl oranlarının</strong> ayrıntılı bir dökümünü sunacaktır. Bu hesaplayıcı mobil kullanım için optimize edilmiştir ve şantiyede anında malzeme tahmini yapmanızı sağlar."
+      ]
+    },
+    {
+      "heading": "<h2>Beton Karışımlarını ve Malzemeleri Anlamak</h2>",
+      "paragraphs": [
+        "<strong>Beton karışım oranları</strong>—çimento, kum ve çakıl oranı—yapınızın dayanıklılığı için kritik öneme sahiptir. Hesaplayıcımız, projenizin gereksinimlerini karşılamak için yaygın oranlar arasından seçim yapmanızı sağlar. Aşağıdaki tablo, metreküp başına kaç torba çimento gerektiğini gösteren hızlı bir kılavuzdur:",
+        "<table class='w-full text-left border-collapse mt-4'><thead><tr class='bg-gray-100 dark:bg-gray-700'><th class='p-2 border dark:border-gray-600'>Oran (Ç:K:Ç)</th><th class='p-2 border dark:border-gray-600'>Yaygın Kullanım</th><th class='p-2 border dark:border-gray-600'>m³ başına 50kg Torba (Yaklaşık)</th></tr></thead><tbody><tr><td class='p-2 border dark:border-gray-600'>1:1.5:3</td><td class='p-2 border dark:border-gray-600'>Yüksek Mukavemet</td><td class='p-2 border dark:border-gray-600'>8-9 torba</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:2:4</td><td class='p-2 border dark:border-gray-600'>Standart / Genel Amaçlı</td><td class='p-2 border dark:border-gray-600'>6-7 torba</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:3:6</td><td class='p-2 border dark:border-gray-600'>Temeller / Dolgular</td><td class='p-2 border dark:border-gray-600'>4-5 torba</td></tr></tbody></table>"
+      ]
+    },
+    {
+      "heading": "<h2>Sıkça Sorulan Sorular (SSS)</h2>",
+      "paragraphs": [
+        "<strong>S: Bir döşeme için gereken betonu nasıl hesaplarım?</strong><br>C: Hacmi hesaplamak için uzunluk, genişlik ve kalınlığı çarpın. Örneğin, 5m x 4m x 10cm'lik bir döşeme için: 5m × 4m × 0.10m = 2 metreküp. <strong>Beton hesaplama</strong> aracımız bunu çeşitli şekiller için otomatikleştirir.",
+        "<strong>S: Metreküp başına kaç torba çimento gerekir?</strong><br>C: Bu, karışım oranına bağlıdır. Standart bir 1:2:4 karışımı için, metreküp beton başına yaklaşık 6 ila 7 torba (her biri 50 kg) çimentoya ihtiyacınız olacaktır. Yukarıdaki tablo hızlı bir kılavuz sunar.",
+        "<strong>S: Standart beton karışım oranı nedir?</strong><br>C: 1:2:4 oranı, zeminler, verandalar ve temeller gibi çoğu konut projesi için uygun olan genel amaçlı beton için standart karışım olarak kabul edilir."
       ]
     }
   ]

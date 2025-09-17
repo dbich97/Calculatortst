@@ -261,20 +261,21 @@
   "calorieResultsTitle": "Il Tuo Fabbisogno Calorico",
   "caloriesPerDay": "Calorie/giorno",
   "yourBMR": "Metabolismo Basale (BMR)",
+  "bmrDescription": "Le calorie di cui il tuo corpo ha bisogno a riposo.",
   "maintenanceCalories": "Calorie di Mantenimento",
   "goalResultText": {
     "maintainWeight": "Per mantenere il tuo peso",
     "mildWeightLoss": "Per una leggera perdita di peso",
     "weightLoss": "Per la perdita di peso",
     "extremeWeightLoss": "Per una perdita di peso estrema",
-    "mildWeightGain": "Per un leggero aumento di peso",
-    "weightGain": "Per l'aumento di peso",
-    "fastWeightGain": "Per un rapido aumento di peso",
-    "sedentary": "Sedentario: poco o nessun esercizio",
-    "lightlyActive": "Leggermente attivo: esercizio 1-3 giorni/settimana",
-    "moderatelyActive": "Moderatamente attivo: esercizio 3-5 giorni/settimana",
-    "veryActive": "Molto attivo: esercizio 6-7 giorni/settimana",
-    "extraActive": "Extra attivo: esercizio molto intenso e lavoro fisico"
+  "mildWeightGain": "Per un leggero aumento di peso",
+  "weightGain": "Per l'aumento di peso",
+  "fastWeightGain": "Per un rapido aumento di peso",
+  "sedentary": "Sedentario: poco o nessun esercizio",
+  "lightlyActive": "Leggermente attivo: esercizio 1-3 giorni/settimana",
+  "moderatelyActive": "Moderatamente attivo: esercizio 3-5 giorni/settimana",
+  "veryActive": "Molto attivo: esercizio 6-7 giorni/settimana",
+  "extraActive": "Extra attivo: esercizio molto intenso e lavoro fisico"
   },
   "macronutrientPlan": "Scegli un Piano di Macronutrienti",
   "balanced": "Bilanciato (40% Carb, 30% Prot, 30% Grassi)",
@@ -317,18 +318,70 @@
       "paragraphs": [
         "Una volta che conosci il tuo TDEE (calorie di mantenimento), puoi regolare l'assunzione per raggiungere i tuoi obiettivi:",
         "Per perdere peso, devi consumare meno calorie del tuo TDEE, creando un deficit calorico. Un deficit sicuro e sostenibile è tipicamente di circa 500 calorie al giorno per perdere circa mezzo chilo a settimana.",
-        "Per aumentare di peso, devi consumare più calorie del tuo TDEE, creando un surplus calorico. Un surplus di 300-500 calorie al giorno è un buon punto di partenza per un aumento costante della massa muscolare con un minimo aumento di grasso.",
+        "Per aumentare di peso, devi consumare più calorie del tuo TDEE, creando un surplus calorico. Un surplus di 300-500 calorie al giorno è un buon punto di partenza per un aumento muscolare costante con un minimo aumento di grasso.",
         "Per mantenere il tuo peso, dovresti mirare a consumare un numero di calorie pari al tuo TDEE."
       ]
     },
     {
       "heading": "E i Macronutrienti?",
       "paragraphs": [
-        "Le calorie provengono da tre principali macronutrienti: proteine, carboidrati e grassi. Bilanciare questi 'macro' è la chiave per una dieta sana.",
+        "Le calorie provengono da tre macronutrienti principali: proteine, carboidrati e grassi. Bilanciare questi 'macro' è la chiave per una dieta sana.",
         "Le proteine sono fondamentali per costruire e riparare i tessuti, compresi i muscoli.",
-        "I carboidrati sono la principale fonte di energia del tuo corpo.",
-        "I grassi sono essenziali per la produzione di ormoni e l'assorbimento di vitamine.",
-        "Il nostro calcolatore ti aiuta a suddividere le tue calorie totali giornaliere in grammi di proteine, carboidrati e grassi in base a piani dietetici popolari. Questo ti fornisce un quadro pratico per costruire pasti in linea con i tuoi obiettivi di salute e fitness."
+        "I carboidrati sono la principale fonte di energia del corpo.",
+        "I grassi sono essenziali per la produzione di ormoni e l'assorbimento delle vitamine.",
+        "Il nostro calcolatore ti aiuta a suddividere le calorie totali giornaliere in grammi di proteine, carboidrati e grassi in base a piani dietetici popolari. Questo ti fornisce un quadro pratico per creare pasti in linea con i tuoi obiettivi di salute e fitness."
+      ]
+    }
+  ],
+  "navBmiCalculator": "Calcolatore IMC",
+  "homeBmiCalculatorDescription": "Calcola il tuo Indice di Massa Corporea per comprendere la salute del tuo peso.",
+  "seoBmiTitle": "Calcolatore Indice di Massa Corporea (IMC) - Controlla la Salute del Tuo Peso",
+  "seoBmiDescription": "Usa il nostro calcolatore di Indice di Massa Corporea gratuito e preciso per stimare il tuo grasso corporeo in base ad altezza e peso. Scopri se hai un peso sano.",
+  "bmiTitle": "Calcolatore Indice di Massa Corporea (IMC)",
+  "bmiSubheading": "Calcola il tuo IMC per valutare il tuo stato ponderale.",
+  "calculateBmiButton": "Calcola IMC",
+  "bmiResultLabel": "Il tuo IMC è",
+  "bmiCategoryLabel": "La tua categoria è:",
+  "underweight": "Sottopeso",
+  "normalWeight": "Normopeso",
+  "overweight": "Sovrappeso",
+  "obesity": "Obesità",
+  "seoBmiSections": [
+    {
+      "heading": "Cos'è l'IMC e come funziona?",
+      "paragraphs": [
+        "L'Indice di Massa Corporea (IMC) è una semplice misurazione che utilizza la tua altezza e il tuo peso per stimare il tuo grasso corporeo. È uno strumento di screening ampiamente utilizzato per determinare se il peso di una persona rientra in un intervallo sano. La formula di base è il peso in chilogrammi diviso per il quadrato dell'altezza in metri (kg/m²). Il nostro calcolatore automatizza questo processo per fornirti un risultato rapido e preciso.",
+        "Comprendere il tuo IMC è un primo passo importante verso una gestione sana del peso. Può aiutarti a fissare obiettivi realistici, sia che tu stia mirando a mantenere o a modificare il tuo peso attuale. Per gestire efficacemente il tuo peso, è anche fondamentale comprendere il tuo fabbisogno energetico, che puoi calcolare utilizzando il nostro <a href=\"/it/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Calorie</a>."
+      ]
+    },
+    {
+      "heading": "Comprendere i risultati dell'IMC (Categorie)",
+      "paragraphs": [
+        "Dopo aver calcolato il tuo IMC, il risultato viene classificato in categorie specifiche per aiutarti a comprendere il tuo stato di salute. Le categorie standard per gli adulti sono:",
+        "<strong>Sotto 18.5:</strong> Sottopeso. Questo può indicare che non stai assumendo abbastanza nutrienti o potrebbe essere un segno di una condizione medica sottostante.",
+        "<strong>18.5 – 24.9:</strong> Normopeso. Questo intervallo suggerisce che hai un peso sano per la tua altezza, il che riduce il rischio di malattie croniche.",
+        "<strong>25.0 – 29.9:</strong> Sovrappeso. In questa categoria, potresti avere un rischio maggiore di sviluppare alcuni problemi di salute come malattie cardiache e diabete di tipo 2.",
+        "<strong>30.0 e oltre:</strong> Obesità. L'obesità aumenta significativamente il rischio di gravi problemi di salute e richiede un'attenzione particolare attraverso cambiamenti nello stile di vita e la consulenza di un professionista sanitario."
+      ]
+    },
+    {
+      "heading": "L'importanza di mantenere un IMC sano",
+      "paragraphs": [
+        "Mantenere un IMC nell'intervallo normale (18.5-24.9) è vitale per la salute generale. Essere in sovrappeso o obesi è legato a un aumentato rischio di numerose malattie croniche, tra cui ipertensione, malattie cardiache, ictus, diabete di tipo 2 e alcuni tipi di cancro. D'altra parte, essere sottopeso può anche portare a problemi di salute come un sistema immunitario indebolito, osteoporoesi e problemi di fertilità. Pertanto, raggiungere e mantenere un peso sano è una parte fondamentale di uno stile di vita sano."
+      ]
+    },
+    {
+      "heading": "Limiti dell'IMC",
+      "paragraphs": [
+        "Sebbene l'IMC sia un utile strumento di screening, non è privo di limiti. Non distingue tra massa grassa e massa muscolare. Ciò significa che individui molto muscolosi, come gli atleti, possono avere un IMC elevato ed essere classificati come sovrappeso nonostante abbiano un basso livello di grasso corporeo.",
+        "Inoltre, l'interpretazione dell'IMC può essere influenzata da fattori come l'età e il sesso. Ad esempio, gli anziani che hanno perso massa muscolare possono avere una percentuale di grasso corporeo sana anche se il loro IMC è normale. Puoi esplorare come cambia il tuo corpo nel tempo con il nostro <a href=\"/it/age-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Età</a>. Per questi motivi, l'IMC dovrebbe essere utilizzato come parte di una valutazione sanitaria completa e non come unico strumento diagnostico."
+      ]
+    },
+    {
+      "heading": "Come migliorare il tuo IMC",
+      "paragraphs": [
+        "Se il risultato del tuo IMC non rientra nell'intervallo normale, ci sono dei passi che puoi intraprendere per migliorarlo. Questo di solito comporta una combinazione di una dieta equilibrata e un'attività fisica regolare. Fissare obiettivi realistici e graduali può aiutarti a raggiungere e mantenere un peso sano. Il nostro <a href=\"/it/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Calorie</a> può essere un ottimo strumento per aiutarti a pianificare la tua dieta.",
+        "È anche importante considerare altre condizioni di salute. Ad esempio, mantenere un IMC sano è particolarmente importante durante la gravidanza e puoi monitorare i tuoi progressi con il nostro <a href=\"/it/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Gravidanza</a>. Raccomandiamo sempre di consultare un professionista sanitario o un dietologo registrato per sviluppare un piano personalizzato adatto alle tue esigenze individuali."
       ]
     }
   ],
@@ -352,8 +405,8 @@
     {
       "heading": "Come usare il Calcolatore di Tempo",
       "paragraphs": [
-        "Il nostro Calcolatore di Tempo semplifica il processo di addizione e sottrazione del tempo. Che tu stia monitorando le ore di lavoro, registrando le sessioni di allenamento o pianificando un evento, questo strumento fornisce una soluzione rapida e precisa. Per calcolare la durata tra un'ora di inizio e una di fine, come per un foglio presenze, è disponibile anche il nostro <a href=\"/it/hours-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Ore</a>. Inserisci semplicemente due durate di tempo, seleziona se sommarle o sottrarle e ottieni immediatamente il risultato.",
-        "Il calcolatore scompone il tempo in giorni, ore, minuti e secondi. Per la sottrazione, assicurati che la prima durata di tempo sia maggiore o uguale alla seconda per evitare risultati negativi."
+        "Il nostro Calcolatore di Tempo semplifica il processo di addizione e sottrazione di tempo. Che tu stia monitorando le ore di lavoro, registrando sessioni di allenamento o pianificando un evento, questo strumento fornisce una soluzione rapida e precisa. Per calcolare la durata tra un orario di inizio e di fine, come per un foglio presenze, è disponibile anche il nostro <a href=\"/it/hours-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Ore</a>. Basta inserire due durate, selezionare se sommarle o sottrarle e ottenere immediatamente il risultato.",
+        "Il calcolatore scompone il tempo in giorni, ore, minuti e secondi. Per la sottrazione, assicurati che la prima durata sia maggiore o uguale alla seconda per evitare risultati negativi."
       ]
     },
     {
@@ -362,7 +415,7 @@
         "Questo strumento è incredibilmente versatile e può essere utilizzato in vari scenari:",
         "Gestione di Progetti: Calcola il tempo totale impiegato per diverse attività.",
         "Aviazione e Navigazione: Registra i tempi di volo o le durate dei viaggi.",
-        "Montaggio Video: Somma la durata delle clip o calcola il tempo rimanente.",
+        "Montaggio Video: Somma la durata dei clip o calcola il tempo rimanente.",
         "Monitoraggio del Tempo Personale: Controlla il tempo dedicato a hobby, studio o esercizio fisico."
       ],
       "list": [
@@ -375,7 +428,7 @@
   "navHoursCalculator": "Calcolatore di Ore",
   "homeHoursCalculatorDescription": "Calcola la durata tra due orari in ore e minuti.",
   "seoHoursTitle": "Calcolatore di Ore - Calcola la Durata Tra Due Orari",
-  "seoHoursDescription": "Uno strumento gratuito per calcolare la differenza di tempo tra un orario di inizio e uno di fine in ore e minuti. Perfetto per orari di lavoro e monitoraggio delle attività.",
+  "seoHoursDescription": "Uno strumento gratuito per calcolare la differenza di tempo tra un orario di inizio e di fine in ore e minuti. Perfetto per orari di lavoro e monitoraggio delle attività.",
   "hoursTitle": "Calcolatore di Ore",
   "hoursSubheading": "Calcola la durata tra un orario di inizio e un orario di fine.",
   "startTimeLabel": "Ora di Inizio",
@@ -387,20 +440,20 @@
   "resultInMinutes": "in minuti totali",
   "resultHours": "ore",
   "resultMinutes": "minuti",
-  "seoHoursSections": [
+  "seoTimeSections": [
     {
       "heading": "Come Usare il Calcolatore di Ore",
       "paragraphs": [
-        "Il nostro Calcolatore di Ore è progettato per semplificare il calcolo della durata tra due punti nel tempo. Che tu stia calcolando le ore di lavoro, la durata di un evento o il tempo speso per un'attività, questo strumento fornisce un risultato rapido e preciso. Per calcoli più complessi che comportano l'addizione o la sottrazione di più durate, dai un'occhiata al nostro completo <a href=\"/it/time-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Tempo</a>. Inserisci semplicemente gli orari di inizio e fine, e il calcolatore farà il resto, gestendo i casi che superano la mezzanotte."
+        "Il nostro Calcolatore di Ore è progettato per semplificare il calcolo della durata tra due momenti nel tempo. Che tu stia calcolando le ore di lavoro, la durata di un evento o il tempo trascorso su un'attività, questo strumento fornisce un risultato rapido e preciso. Per calcoli più complessi che comportano l'addizione o la sottrazione di più durate, consulta il nostro completo <a href=\"/it/time-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Tempo</a>. Basta inserire gli orari di inizio e di fine e il calcolatore farà il resto, gestendo anche i casi che superano la mezzanotte."
       ]
     },
     {
       "heading": "Applicazioni Pratiche",
       "paragraphs": [
         "Questo strumento è estremamente utile in vari scenari:",
-        "Calcolo delle Ore di Lavoro: Calcola facilmente le ore di lavoro giornaliere o settimanali per i fogli di presenza.",
+        "Calcolo delle Ore di Lavoro: Calcola facilmente le ore di lavoro giornaliere o settimanali per i fogli presenze.",
         "Pianificazione di Eventi: Determina la durata di riunioni, appuntamenti ed eventi.",
-        "Monitoraggio delle Attività: Monitora il tempo che dedichi a hobby, studi o esercizio fisico."
+        "Monitoraggio delle Attività: Controlla il tempo che dedichi a hobby, studi o esercizio fisico."
       ]
     }
   ],
@@ -417,10 +470,10 @@
   "resultDateLabel": "Data Risultante",
   "seoDateSections": [
     {
-      "heading": "Come usare il Calcolatore di Date",
+      "heading": "Come Usare il Calcolatore di Date",
       "paragraphs": [
-        "Il nostro Calcolatore di Date è progettato per semplificare l'aggiunta o la sottrazione di periodi di tempo da una data specifica. Che tu stia pianificando un evento futuro, fissando una scadenza o guardando indietro a una data passata, questo strumento fornisce calcoli rapidi e precisi. Inserisci semplicemente una data di inizio, quindi specifica il numero di anni, mesi, settimane e giorni che desideri aggiungere o sottrarre. Il calcolatore tiene conto di dettagli come gli anni bisestili e la diversa lunghezza dei mesi per garantire l'accuratezza.",
-        "Questo strumento completa le nostre altre utilità basate sul tempo. Ad esempio, puoi usare il nostro <a href='/it/age-calculator' class='text-blue-500 hover:underline'>Calcolatore di Età</a> per determinare l'età di qualcuno, o il nostro <a href='/it/hours-calculator' class='text-blue-500 hover:underline'>Calcolatore di Ore</a> per trovare la durata tra due orari nello stesso giorno. Per calcoli che coinvolgono durate multiple, il nostro <a href='/it/time-Calculator' class='text-blue-500 hover:underline'>Calcolatore di Tempo</a> è la scelta perfetta."
+        "Il nostro Calcolatore di Date è progettato per semplificare l'aggiunta o la sottrazione di periodi di tempo da una data specifica. Che tu stia pianificando un evento futuro, fissando una scadenza o guardando una data nel passato, questo strumento fornisce calcoli rapidi e precisi. Basta inserire una data di inizio, quindi specificare il numero di anni, mesi, settimane e giorni che si desidera aggiungere o sottrarre. Il calcolatore tiene conto di dettagli come gli anni bisestili e le diverse lunghezze dei mesi per garantire l'accuratezza.",
+        "Questo strumento integra le nostre altre utilità basate sul tempo. Ad esempio, puoi utilizzare il nostro <a href='/it/age-calculator' class='text-blue-500 hover:underline'>Calcolatore di Età</a> per determinare l'età di qualcuno, o il nostro <a href='/it/hours-calculator' class='text-blue-500 hover:underline'>Calcolatore di Ore</a> per trovare la durata tra due orari nello stesso giorno. Per calcoli che coinvolgono più durate, il nostro <a href='/it/time-Calculator' class='text-blue-500 hover:underline'>Calcolatore di Tempo</a> è la scelta perfetta."
       ]
     },
     {
@@ -431,7 +484,191 @@
         "<strong>Gestione di Progetti:</strong> Imposta facilmente le scadenze dei progetti. Se un progetto inizia il 15 gennaio e dura 8 settimane e 3 giorni, puoi trovare istantaneamente la data di fine esatta.",
         "<strong>Appuntamenti Medici:</strong> Tieni traccia degli appuntamenti medici o degli orari dei farmaci. Se devi programmare un controllo 3 mesi dopo un appuntamento, questo strumento ti dà la data precisa.",
         "<strong>Pianificazione Finanziaria:</strong> Calcola le date di scadenza per prestiti o piani di investimento che si estendono per un numero specifico di anni e mesi.",
-        "<strong>Pianificazione della Gravidanza:</strong> Mentre il nostro <a href='/it/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Calcolatore di Gravidanza</a> fornisce stime dettagliate della data del parto, questo strumento può essere utilizzato per calcoli rapidi su date specifiche durante il periodo."
+        "<strong>Pianificazione della Gravidanza:</strong> Mentre il nostro <a href='/it/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Calcolatore di Gravidanza</a> fornisce stime dettagliate della data presunta del parto, questo strumento può essere utilizzato per calcoli rapidi su date specifiche durante il periodo."
+      ]
+    }
+  ],
+  "navStopwatch": "Cronometro",
+  "homeStopwatchDescription": "Misura il tempo trascorso con precisione usando i giri e un display chiaro.",
+  "seoStopwatchTitle": "Cronometro Online Gratuito con Giri",
+  "seoStopwatchDescription": "Un cronometro online semplice, preciso e gratuito con funzionalità di giro. Perfetto per sport, allenamenti e per cronometrare qualsiasi attività.",
+  "stopwatchTitle": "Cronometro",
+  "stopwatchSubheading": "Misura il tempo trascorso con precisione.",
+  "startButton": "Avvia",
+  "stopButton": "Ferma",
+  "lapButton": "Giro",
+  "resetButton": "Azzera",
+  "lapColumnHeader": "Giro",
+  "timeColumnHeader": "Tempo",
+  "seoStopwatchSections": [
+    {
+      "heading": "Come Usare il Cronometro Online",
+      "paragraphs": [
+        "Il nostro cronometro online è uno strumento semplice e preciso per misurare il tempo trascorso. Con un solo clic, puoi avviare e fermare il timer per tracciare qualsiasi attività con una precisione al centesimo di secondo. La funzione 'Giro' ti permette di registrare i tempi parziali senza interrompere il timer principale, il che è perfetto per monitorare le prestazioni su più intervalli. Quando hai finito, il pulsante 'Azzera' cancella il timer e tutti i giri registrati, preparandoti per la prossima sessione di cronometraggio.",
+        "Mentre un cronometro è eccellente per misurare la durata da un punto di partenza, se hai bisogno di calcolare il tempo tra un orario di inizio e di fine specifico (come per un foglio presenze), il nostro <a href=\"/it/hours-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Ore</a> è lo strumento perfetto per questo lavoro."
+      ]
+    },
+    {
+      "heading": "Applicazioni Pratiche per un Cronometro",
+      "paragraphs": [
+        "Un cronometro è uno strumento incredibilmente versatile con numerose applicazioni nella vita quotidiana, nello sport e in ambito professionale:",
+        "Se hai bisogno di eseguire calcoli con i tempi dei tuoi giri registrati, come sommarli, il nostro <a href=\"/it/time-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Tempo</a> può gestire queste operazioni con facilità."
+      ],
+      "list": [
+        "<strong>Sport e Fitness:</strong> Cronometrare i giri per la corsa, il nuoto o il ciclismo, e misurare i periodi di riposo tra le serie di allenamento.",
+        "<strong>Cucina e Pasticceria:</strong> Cronometrare con precisione le ricette, dall'infusione del tè alla cottura di una torta.",
+        "<strong>Studio e Produttività:</strong> Utilizzare tecniche come la Tecnica del Pomodoro, che prevede intervalli di lavoro mirati cronometrati con un cronometro.",
+        "<strong>Test e Presentazioni:</strong> Esercitarsi nei discorsi o cronometrare gli esami per migliorare il ritmo e le prestazioni."
+      ]
+    }
+  ],
+  "navConstructionCalculators": "Calcolatori Edilizia",
+  "navRoofingCalculator": "Calcolatore Tetto",
+  "homeRoofingCalculatorDescription": "Calcola i materiali e i costi per il tuo progetto di copertura.",
+  "seoRoofingTitle": "Calcolatore Tetto Online - Superficie e Costi",
+  "seoRoofingDescription": "Usa il nostro calcolatore tetto online gratuito per calcolare la superficie del tetto, il materiale necessario e i costi. Ideale per il fai-da-te e i professionisti.",
+  "roofingTitle": "Calcolatore Tetto Online: Superficie & Costi",
+  "roofingSubheading": "Calcola i materiali e i costi necessari per il tuo tetto.",
+  "totalAreaMethod": "Basato sulla superficie totale",
+  "groundDimensionsMethod": "Basato sulle dimensioni a terra",
+  "totalAreaLabel": "Superficie totale del tetto",
+  "buildingLengthLabel": "Lunghezza edificio",
+  "buildingWidthLabel": "Larghezza edificio",
+  "roofPitchLabel": "Pendenza del tetto",
+  "roofingPitchTooltip": "Inserisci la pendenza del tetto come rapporto (es. 4:12) o in gradi (es. 18.4). Per un tetto piano, usa 0.",
+  "wasteFactorLabel": "Fattore di sfrido (%)",
+  "pricePerUnitLabel": "Prezzo per unità",
+  "calculateRoofingButton": "Calcola Copertura",
+  "resultsTitle": "I tuoi risultati",
+  "baseRoofAreaResult": "Superficie base del tetto",
+  "totalRoofAreaResult": "Superficie totale (incl. sfrido)",
+  "materialsNeededResult": "Materiali necessari",
+  "totalCostResult": "Costo totale stimato",
+  "sqmUnit": "m²",
+  "squaresUnit": "squares",
+  "sqftUnit": "sq ft",
+  "roofPitchTypeLabel": "Tipo di pendenza del tetto",
+  "pitchRatio": "Rapporto",
+  "pitchDegrees": "Gradi",
+  "roundUpLabel": "Arrotonda per eccesso (unità intere)",
+  "errorInvalidPitch": "Pendenza del tetto non valida. Inserisci un rapporto (es. 4:12) o gradi (es. 18.4).",
+  "materialTypeLabel": "Tipo di materiale",
+  "shingles": "Tegole bituminose (~15 €/m²)",
+  "epdm": "EPDM (~20 €/m²)",
+  "roofTiles": "Tegole in cotto (~30 €/m²)",
+  "metal": "Metallo (~25 €/m²)",
+  "customPrice": "Prezzo personalizzato",
+  "wasteAmountResult": "Margine per sfrido",
+  "roofingPitchRatioPlaceholder": "es. 4:12",
+  "roofingPitchDegreesPlaceholder": "es. 18.4",
+  "seoRoofingSections": [
+    {
+      "heading": "Come funziona il nostro Calcolatore Tetto Online",
+      "paragraphs": [
+        "Con il nostro <strong>simulatore di tetto</strong> gratuito, puoi calcolare rapidamente e facilmente la quantità di materiale necessaria e i costi stimati per il tuo progetto. Che tu debba <strong>calcolare la superficie del tetto</strong> per un preventivo professionale o per un progetto fai-da-te, questo strumento è l'ideale. Inserisci semplicemente le dimensioni dell'edificio e la pendenza per ottenere un risultato dettagliato istantaneamente."
+      ]
+    },
+    {
+      "heading": "Consigli pratici per una stima precisa",
+      "paragraphs": [
+        "Una buona pianificazione è la chiave del successo. Usa questi suggerimenti per assicurarti che il tuo calcolo del materiale sia corretto:"
+      ],
+      "list": [
+        "<strong>Misura con precisione:</strong> Controlla attentamente la lunghezza e la larghezza della superficie del tetto. Misure esatte sono la base per ogni calcolo.",
+        "<strong>Fattore di sfrido:</strong> Per tetti semplici, un 5-10% in più è sufficiente. Per tetti complessi con angoli o comignoli, considera un 15%.",
+        "<strong>Scelta del materiale:</strong> Ogni materiale (tegole, metallo, ecc.) ha prezzi e requisiti di installazione diversi. Confronta le opzioni per fare la scelta migliore.",
+        "<strong>Verifica le normative locali:</strong> Prima di iniziare, informati sui codici edilizi vigenti nella tua zona."
+      ]
+    },
+    {
+      "heading": "Domande Frequenti (FAQ)",
+      "paragraphs": [
+        "<strong>D: Questo strumento calcola anche il costo del tetto al m²?</strong><br>R: Sì! Dopo aver determinato il materiale necessario, puoi inserire il <strong>prezzo del tetto al m²</strong> per ottenere una stima immediata del costo totale del tuo progetto.",
+        "<strong>D: Di quanto materiale di copertura ho bisogno?</strong><br>R: Il calcolo si basa sulla superficie totale del tetto, determinata dalle dimensioni e dalla pendenza, più un fattore di sfrido. Il nostro strumento automatizza questo processo per te.",
+        "<strong>D: Cos'è un 'quadrato' di copertura?</strong><br>R: Un 'quadrato' è un'unità di misura comune negli USA, equivalente a 100 piedi quadrati. Il nostro calcolatore fornisce risultati sia in m² che in 'quadrati'."
+      ]
+    },
+    {
+      "heading": "Inizia subito la pianificazione del tuo tetto!",
+      "paragraphs": [
+        "Il nostro calcolatore funziona per diversi tipi di copertura: tegole bituminose, in cotto, metalliche ed EPDM. Confronta i prezzi ed evita sprechi nel tuo progetto.",
+        "Prova subito il nostro calcolatore per tetti e ottieni una stima immediata! In questo modo, ti assicuri di avere la giusta quantità di materiale e che il tuo progetto rimanga nel budget."
+      ]
+    }
+  ],
+  "navConcreteCalculator": "Calcolatore Calcestruzzo",
+  "homeConcreteCalculatorDescription": "Stima il volume e i materiali necessari per il tuo progetto in calcestruzzo.",
+  "seoConcreteTitle": "Calcolatore Calcestruzzo Professionale - Volume, Sacchi e Costi",
+  "seoConcreteDescription": "Un calcolatore di calcestruzzo online per stimare il volume, i sacchi di cemento, la sabbia, la ghiaia e il costo totale per solette, fondazioni, pilastri e scale.",
+  "concreteTitle": "Calcolatore Calcestruzzo Professionale",
+  "concreteSubheading": "Stima il volume, i materiali e i costi per il tuo progetto.",
+  "shapeLabel": "Forma",
+  "slab": "Soletta / Pavimento",
+  "footing": "Fondazione",
+  "column": "Pilastro (Rettangolare)",
+  "circularColumn": "Pilastro (Circolare)",
+  "stairs": "Scale",
+  "lengthLabel": "Lunghezza",
+  "widthLabel": "Larghezza",
+  "thicknessLabel": "Spessore",
+  "depthLabel": "Profondità",
+  "heightLabel": "Altezza",
+  "diameterLabel": "Diametro",
+  "stepsLabel": "Numero di gradini",
+  "riserLabel": "Alzata",
+  "treadLabel": "Pedata",
+  "calculateConcreteButton": "Calcola Calcestruzzo",
+  "resultsTitle": "Risultati del Calcolo",
+  "concreteVolumeResult": "Volume Totale Calcestruzzo",
+  "concreteWithWasteResult": "Volume (incl. sfrido)",
+  "cementBagsResult": "Sacchi di Cemento",
+  "sandRequiredResult": "Sabbia Necessaria",
+  "gravelRequiredResult": "Ghiaia Necessaria",
+  "bagSizeLabel": "Dimensione Sacco",
+  "kgBag": "kg",
+  "lbsBag": "lbs",
+  "concreteMixRatioLabel": "Dosaggio (Cemento:Sabbia:Ghiaia)",
+  "bagsUnit": "sacchi",
+  "costBreakdownTitle": "Dettaglio Costi Stimati",
+  "pricePerBagLabel": "Prezzo per Sacco",
+  "pricePerSandLabel": "Prezzo per {unit} di Sabbia",
+  "pricePerGravelLabel": "Prezzo per {unit} di Ghiaia",
+  "cementCostResult": "Costo Cemento",
+  "sandCostResult": "Costo Sabbia",
+  "gravelCostResult": "Costo Ghiaia",
+  "totalCostResult": "Costo Totale",
+  "concreteResetButton": "Azzera",
+  "wasteFactorTooltip": "Il fattore di sfrido tiene conto di perdite e variazioni della cassaforma. Un 5-10% è tipico.",
+  "mixRatioTooltip": "Rappresenta il rapporto in volume tra cemento, sabbia e ghiaia. 1:2:4 è una miscela comune per calcestruzzo per uso generale.",
+  "mixRatioLabel": "Rapporto di Miscela",
+  "mixRatio_1_1_5_3": "1:1.5:3 (Alta Resistenza)",
+  "mixRatio_1_2_4": "1:2:4 (Standard)",
+  "mixRatio_1_3_6": "1:3:6 (Fondazioni)",
+  "transportationCostLabel": "Costo Trasporto (Opzionale)",
+  "currencyLabel": "Valuta",
+  "printResultsButton": "Stampa / Salva PDF",
+  "errorPositiveNumbers": "Inserisci numeri validi e positivi per tutte le dimensioni.",
+  "transportationCostResult": "Trasporto",
+  "seoConcreteSections": [
+    {
+      "heading": "Come usare il nostro Calcolatore Calcestruzzo Online",
+      "paragraphs": [
+        "Il nostro <strong>calcolatore calcestruzzo online</strong> semplifica la pianificazione del tuo progetto. Che tu stia gettando una soletta, una fondazione o un pilastro, questo strumento ti aiuta a determinare il volume preciso di calcestruzzo necessario. Seleziona semplicemente la forma, inserisci le dimensioni e il nostro strumento fornirà un dettaglio completo del <strong>calcolo cemento, sabbia e ghiaia</strong>. Questo calcolatore è ottimizzato per l'uso su dispositivi mobili, permettendoti di stimare i materiali istantaneamente in cantiere."
+      ]
+    },
+    {
+      "heading": "Comprendere il Dosaggio del Calcestruzzo",
+      "paragraphs": [
+        "Il <strong>dosaggio del calcestruzzo</strong> - il rapporto tra cemento, sabbia e ghiaia - è cruciale per garantire la resistenza e la durabilità della tua struttura. Il nostro calcolatore ti permette di selezionare tra i rapporti più comuni per soddisfare le esigenze del tuo progetto.",
+        "<table class='w-full text-left border-collapse mt-4'><thead><tr class='bg-gray-100 dark:bg-gray-700'><th class='p-2 border dark:border-gray-600'>Dosaggio (C:S:G)</th><th class='p-2 border dark:border-gray-600'>Uso Comune</th><th class='p-2 border dark:border-gray-600'>Sacchi da 25kg per m³ (Circa)</th></tr></thead><tbody><tr><td class='p-2 border dark:border-gray-600'>1:1.5:3</td><td class='p-2 border dark:border-gray-600'>Alta Resistenza</td><td class='p-2 border dark:border-gray-600'>16-18 sacchi</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:2:4</td><td class='p-2 border dark:border-gray-600'>Standard / Multiuso</td><td class='p-2 border dark:border-gray-600'>12-14 sacchi</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:3:6</td><td class='p-2 border dark:border-gray-600'>Fondazioni / Riempimenti</td><td class='p-2 border dark:border-gray-600'>8-10 sacchi</td></tr></tbody></table>"
+      ]
+    },
+    {
+      "heading": "Domande Frequenti (FAQ)",
+      "paragraphs": [
+        "<strong>D: Come si calcola il volume del calcestruzzo per una soletta?</strong><br>R: Per calcolare il volume, moltiplica la lunghezza, la larghezza e lo spessore dell'area. Ad esempio, per una soletta di 5m x 4m con uno spessore di 10cm: 5m × 4m × 0.10m = 2 metri cubi. Il nostro strumento automatizza questo calcolo per varie forme.",
+        "<strong>D: Quanti sacchi di cemento servono per metro cubo?</strong><br>R: Dipende dal rapporto di miscela. Per una miscela standard 1:2:4, avrai bisogno di circa 12-14 sacchi (da 25 kg ciascuno) di cemento per metro cubo di calcestruzzo. La tabella sopra fornisce una guida rapida.",
+        "<strong>D: Qual è il dosaggio standard del calcestruzzo?</strong><br>R: Un rapporto di 1:2:4 è considerato la miscela standard per calcestruzzo per uso generale, adatta per la maggior parte dei progetti residenziali come pavimenti, patii e fondazioni."
       ]
     }
   ]

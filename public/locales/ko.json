@@ -138,11 +138,6 @@
       "paragraphs": [
         "저희 임신 예정일 계산기는 여러 방법을 사용하여 예상 출산일을 추정합니다. 가장 일반적인 방법은 마지막 생리일(LMP)의 첫날을 기준으로 합니다. 네겔레 법칙으로 알려진 이 방법은 LMP에 280일(40주)을 더하여 출산 예정일을 예측합니다. 주기가 불규칙할 경우 <a href=\"/ko/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">생리 주기 계산기</a>를 사용하여 주기를 추적할 수 있습니다. 또한, <a href=\"/ko/ovulation-calculator\" class=\"text-blue-500 hover:underline\">배란일 계산기</a>로 파악할 수 있는 임신일 또는 IVF 이식일을 기반으로 한 계산도 제공합니다.",
         "이 날짜는 추정치라는 점을 기억하는 것이 중요합니다. 아기의 약 5%만이 정확한 출산 예정일에 태어납니다. 이 도구는 귀하와 귀하의 의료 서비스 제공자가 아기의 도착을 계획하는 데 도움이 되는 신뢰할 수 있는 지침을 제공합니다."
-      ],
-      "list": [
-        "LMP 방법: 28일 주기를 기반으로 한 표준 계산입니다.",
-        "임신일 방법: 정확한 임신 날짜를 아는 경우 더 정확합니다.",
-        "IVF 방법: IVF 임신에 맞춰 배아 이식 날짜와 나이를 기준으로 합니다."
       ]
     },
     {
@@ -171,11 +166,6 @@
       "paragraphs": [
         "저희 배란일 계산기는 한 달 중 가장 임신 가능성이 높은 날을 예측하는 데 도움이 되는 간단한 도구입니다. 마지막 생리 시작일과 평균 주기 길이를 입력하면(<a href=\"/ko/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">생리 주기 계산기</a>로 추적 가능) 계산기가 예상 배란일을 추정합니다. 배란은 난소에서 난자가 배출되는 것으로, 일반적으로 다음 생리가 시작되기 약 14일 전에 발생합니다. 임신이 되면 <a href=\"/ko/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">임신 예정일 계산기</a>로 과정을 추적할 수 있습니다.",
         "귀하의 '가임 기간'에는 배란일과 그 전 5일이 포함됩니다. 이는 정자가 여성 생식 기관에서 최대 5일 동안 생존할 수 있기 때문입니다. 이 기간 동안 성관계를 가지면 임신 가능성이 크게 높아집니다."
-      ],
-      "list": [
-        "데이터 입력: 마지막 생리 날짜와 주기 길이부터 시작하세요.",
-        "예상치 확인: 계산기가 주요 가임일을 식별합니다.",
-        "계획 세우기: 이 정보를 가족 계획 목표에 활용하세요."
       ]
     },
     {
@@ -202,11 +192,6 @@
       "paragraphs": [
         "저희 생리 주기 계산기는 단 두 가지 정보, 즉 마지막 생리 시작일과 평균 생리 주기 길이만으로 다음 생리 시작일을 예측하는 데 도움을 줍니다. 마지막 생리 시작일에 평균 주기 길이를 더하면 이 도구는 다음 두 번의 생리에 대한 예상 날짜를 제공합니다. 주기를 아는 것은 <a href=\"/ko/ovulation-calculator\" class=\"text-blue-500 hover:underline\">배란일 계산기</a>로 가임기를 파악하는 데 중요하며, 임신이 되면 <a href=\"/ko/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">임신 예정일 계산기</a>가 출산 예정일을 추정하는 데 도움을 줄 수 있습니다.",
         "주기를 추적하는 것은 단순한 편의성 이상의 의미를 갖습니다. 이는 전반적인 건강 상태의 핵심 지표입니다. 규칙적이고 예측 가능한 주기는 종종 신체 호르몬이 제대로 기능하고 있음을 의미합니다."
-      ],
-      "list": [
-        "간단한 입력: 마지막 생리 시작일과 주기 길이를 입력합니다.",
-        "즉각적인 예측: 다음 생리 예정일을 즉시 확인합니다.",
-        "미리 계획: 예측을 사용하여 행사, 휴가를 계획하거나 단순히 대비합니다."
       ]
     },
     {
@@ -310,34 +295,6 @@
   "errorHeight": "유효한 키를 입력하세요 (최소 100cm / 3'3\").",
   "errorWeight": "유효한 체중을 입력하세요 (최소 20kg / 45lbs).",
   "errorAge": "유효한 나이를 입력하세요 (15-80세).",
-  "seoCalorieSections": [
-    {
-      "heading": "일일 칼로리 필요량 이해하기",
-      "paragraphs": [
-        "칼로리는 에너지 단위입니다. 영양학에서 칼로리는 사람들이 섭취하는 음식과 음료에서 얻는 에너지와 신체 활동에서 사용하는 에너지를 의미합니다. 나이(<a href=\"/ko/age-calculator\" class=\"text-blue-500 hover:underline\">나이 계산기</a>로 확인)와 같은 요인에 따라 달라지는 일일 칼로리 필요량을 이해하는 것은 체중 감량, 증가 또는 현재 체중 유지 등 체중 목표를 달성하기 위한 첫 번째 단계입니다.",
-        "저희 계산기는 기초 대사량(BMR)을 결정하는 것으로 시작합니다. 이는 호흡, 순환, 세포 생성과 같은 기본적인 생명 유지 기능을 수행하기 위해 신체가 휴식 상태에서 필요로 하는 칼로리 수입니다. 저희는 이 계산에 널리 인정받는 미플린-세인트 제오 방정식을 사용합니다. 그런 다음 활동 수준을 고려하여 일일 총 에너지 소비량(TDEE)을 계산하는데, 이는 일일 칼로리 소모량의 더 정확한 추정치입니다."
-      ]
-    },
-    {
-      "heading": "목표 설정: 체중 감량, 증가 또는 유지",
-      "paragraphs": [
-        "TDEE(유지 칼로리)를 알게 되면 목표에 맞게 섭취량을 조절할 수 있습니다.",
-        "체중을 감량하려면 TDEE보다 적은 칼로리를 섭취하여 칼로리 부족 상태를 만들어야 합니다. 안전하고 지속 가능한 부족량은 일반적으로 주당 약 1파운드(0.5kg)를 감량하기 위해 하루에 약 500칼로리입니다.",
-        "체중을 늘리려면 TDEE보다 많은 칼로리를 섭취하여 칼로리 잉여 상태를 만들어야 합니다. 최소한의 지방 증가로 꾸준한 근육 증가를 위해서는 하루 300-500칼로리의 잉여가 좋은 출발점입니다.",
-        "체중을 유지하려면 TDEE와 동일한 양의 칼로리를 섭취하는 것을 목표로 해야 합니다."
-      ]
-    },
-    {
-      "heading": "다량 영양소는 어떤가요?",
-      "paragraphs": [
-        "칼로리는 단백질, 탄수화물, 지방의 세 가지 주요 다량 영양소에서 나옵니다. 이러한 '매크로'의 균형을 맞추는 것이 건강한 식단의 핵심입니다.",
-        "단백질은 근육을 포함한 조직을 만들고 복구하는 데 중요합니다.",
-        "탄수화물은 신체의 주요 에너지원입니다.",
-        "지방은 호르몬 생성과 비타민 흡수에 필수적입니다.",
-        "저희 계산기는 인기 있는 식단 계획에 따라 총 일일 칼로리를 단백질, 탄수화물, 지방의 그램 단위로 나누는 데 도움을 줍니다. 이는 건강 및 피트니스 목표에 부합하는 식사를 구성하기 위한 실용적인 틀을 제공합니다."
-      ]
-    }
-  ],
   "seoTimeTitle": "시간 계산기 - 시간 더하기 및 빼기",
   "seoTimeDescription": "시간을 쉽게 더하거나 뺄 수 있는 무료 온라인 도구입니다. 일, 시간, 분, 초를 정확하게 계산합니다. 프로젝트 관리, 시간 추적 및 일상 계산에 이상적입니다.",
   "timeTitle": "시간 계산기",
@@ -370,11 +327,6 @@
         "항공 및 항법: 비행 시간 또는 이동 시간을 기록합니다.",
         "비디오 편집: 클립 길이를 합산하거나 남은 시간을 계산합니다.",
         "개인 시간 추적: 취미, 공부 또는 운동에 소요된 시간을 모니터링합니다."
-      ],
-      "list": [
-        "사용하기 쉬운 인터페이스.",
-        "일, 시간, 분, 초를 처리합니다.",
-        "즉각적이고 정확한 계산을 제공합니다."
       ]
     }
   ],
@@ -437,6 +389,152 @@
         "<strong>의료 약속:</strong> 의료 약속이나 약물 복용 일정을 추적합니다. 약속 후 3개월 후에 후속 조치를 예약해야 하는 경우, 이 도구는 정확한 날짜를 제공합니다.",
         "<strong>재무 계획:</strong> 특정 년 및 월에 걸쳐 있는 대출 또는 투자 계획의 만기일을 계산합니다.",
         "<strong>임신 계획:</strong> 저희 <a href='/ko/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>임신 예정일 계산기</a>가 상세한 예정일 추정치를 제공하지만, 이 도구는 임신 기간 중 특정 날짜에 대한 빠른 계산에 사용할 수 있습니다."
+      ]
+    }
+  ],
+  "navBmiCalculator": "BMI 계산기",
+  "homeBmiCalculatorDescription": "체질량 지수를 계산하여 체중 건강을 알아보세요.",
+  "seoBmiTitle": "체질량 지수(BMI) 계산기 - 체중 건강 확인",
+  "seoBmiDescription": "무료이며 정확한 체질량 지수 계산기를 사용하여 키와 몸무게를 기준으로 체지방을 추정하세요. 건강한 체중인지 확인하세요.",
+  "bmiTitle": "체질량 지수(BMI) 계산기",
+  "bmiSubheading": "BMI를 계산하여 체중 상태를 평가하세요.",
+  "calculateBmiButton": "BMI 계산",
+  "bmiResultLabel": "당신의 BMI는",
+  "bmiCategoryLabel": "당신의 카테고리는:",
+  "underweight": "저체중",
+  "normalWeight": "정상 체중",
+  "overweight": "과체중",
+  "obesity": "비만",
+  "seoBmiSections": [
+    {
+      "heading": "BMI란 무엇이며 어떻게 작동하나요?",
+      "paragraphs": [
+        "체질량 지수(BMI)는 키와 몸무게를 사용하여 체지방을 추정하는 간단한 측정 방법입니다. 이는 개인의 체중이 건강한 범위 내에 있는지 판단하기 위해 널리 사용되는 일반적인 선별 도구입니다. 기본 공식은 체중(kg)을 키(m)의 제곱으로 나눈 값(kg/m²)입니다. 저희 계산기는 이 과정을 자동화하여 빠르고 정확한 결과를 제공합니다.",
+        "자신의 BMI를 이해하는 것은 건강한 체중 관리를 향한 중요한 첫 걸음입니다. 이는 현재 체중을 유지하거나 변경하려는 목표를 현실적으로 설정하는 데 도움이 될 수 있습니다. 체중을 효과적으로 관리하기 위해서는 에너지 필요량을 이해하는 것도 중요하며, 이는 저희 <a href=\"/ko/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">칼로리 계산기</a>를 사용하여 계산할 수 있습니다."
+      ]
+    },
+    {
+      "heading": "BMI 결과 이해하기 (카테고리)",
+      "paragraphs": [
+        "BMI를 계산한 후, 결과는 건강 상태를 이해하는 데 도움이 되도록 특정 카테고리로 분류됩니다. 성인을 위한 표준 카테고리는 다음과 같습니다:",
+        "<strong>18.5 미만:</strong> 저체중. 이는 영양 섭취가 부족하거나 기저 질환의 징후일 수 있음을 나타낼 수 있습니다.",
+        "<strong>18.5 – 24.9:</strong> 정상 체중. 이 범위는 키에 비해 건강한 체중임을 시사하며 만성 질환의 위험을 줄입니다.",
+        "<strong>25.0 – 29.9:</strong> 과체중. 이 카테고리에서는 심장병 및 제2형 당뇨병과 같은 특정 건강 문제가 발생할 위험이 증가할 수 있습니다.",
+        "<strong>30.0 이상:</strong> 비만. 비만은 심각한 건강 문제의 위험을 크게 증가시키며, 생활 습관 변경과 의료 전문가와의 상담을 통한 특별한 주의가 필요합니다."
+      ]
+    }
+  ],
+  "navStopwatch": "스톱워치",
+  "homeStopwatchDescription": "랩 기능과 선명한 디스플레이로 경과 시간을 정확하게 측정하세요.",
+  "seoStopwatchTitle": "랩 기능이 있는 무료 온라인 스톱워치",
+  "seoStopwatchDescription": "랩 기능이 있는 간단하고 정확하며 무료인 온라인 스톱워치. 스포츠, 운동 및 모든 활동 시간 측정에 적합합니다.",
+  "stopwatchTitle": "스톱워치",
+  "stopwatchSubheading": "경과 시간을 정밀하게 측정하세요.",
+  "startButton": "시작",
+  "stopButton": "중지",
+  "lapButton": "랩",
+  "lapColumnHeader": "랩",
+  "timeColumnHeader": "시간",
+  "seoStopwatchSections": [
+    {
+      "heading": "온라인 스톱워치 사용 방법",
+      "paragraphs": [
+        "저희 온라인 스톱워치는 경과 시간을 측정하기 위한 간단하고 정밀한 도구입니다. 단 한 번의 클릭으로 타이머를 시작하고 중지하여 모든 활동을 100분의 1초 정확도로 추적할 수 있습니다. '랩' 기능을 사용하면 주 타이머를 중단하지 않고 스플릿 타임을 기록할 수 있어 여러 구간에 걸쳐 성능을 추적하는 데 적합합니다. 완료되면 '초기화' 버튼이 타이머와 기록된 모든 랩을 지우고 다음 계시 세션을 준비합니다.",
+        "스톱워치는 시작점에서부터의 시간을 측정하는 데 탁월하지만, 특정 시작 시간과 종료 시간 사이의 시간을 계산해야 하는 경우(예: 근무 시간표), 저희 <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">시간 계산기</a>가 그 작업에 완벽한 도구입니다."
+      ]
+    },
+    {
+      "heading": "스톱워치의 실용적인 활용",
+      "paragraphs": [
+        "스톱워치는 일상 생활, 스포츠, 전문적인 환경에서 수많은 활용이 가능한 매우 다재다능한 도구입니다. 기록된 랩 타임으로 계산을 수행해야 하는 경우, 예를 들어 합산하는 경우, 저희 <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">시간 계산기</a>가 해당 작업을 쉽게 처리할 수 있습니다."
+      ],
+      "list": [
+        "<strong>스포츠 및 피트니스:</strong> 달리기, 수영 또는 사이클링의 랩 타임 측정, 운동 세트 간의 휴식 시간 측정.",
+        "<strong>요리 및 제빵:</strong> 차를 우리는 것부터 케이크를 굽는 것까지 레시피 시간을 정확하게 측정.",
+        "<strong>학습 및 생산성:</strong> 스톱워치로 시간을 재는 집중 작업 간격을 포함하는 포모도로 기법과 같은 기술 사용.",
+        "<strong>시험 및 발표:</strong> 연설 연습 또는 시험 시간을 재어 페이스와 성능 향상."
+      ]
+    }
+  ],
+  "navConstructionCalculators": "건축 계산기",
+  "navRoofingCalculator": "지붕 계산기",
+  "homeRoofingCalculatorDescription": "지붕 프로젝트에 필요한 자재와 비용을 계산하세요.",
+  "seoRoofingTitle": "지붕 계산기 - 자재 및 비용 계산",
+  "roofingTitle": "지붕 계산기",
+  "roofingSubheading": "지붕에 필요한 자재와 비용을 계산하세요.",
+  "navConcreteCalculator": "콘크리트 계산기",
+  "homeConcreteCalculatorDescription": "콘크리트 프로젝트에 필요한 부피와 자재를 추정하세요.",
+  "seoConcreteTitle": "전문 콘크리트 계산기 - 부피, 포대 및 비용",
+  "seoConcreteDescription": "슬래브, 기초, 기둥 및 계단의 부피, 시멘트 포대, 모래, 자갈 및 총 비용을 추정하는 온라인 콘크리트 계산기. 미터법 및 영국식 단위를 지원합니다.",
+  "concreteTitle": "전문 콘크리트 계산기",
+  "concreteSubheading": "프로젝트의 부피, 자재 및 비용을 추정하세요.",
+  "shapeLabel": "모양",
+  "slab": "슬래브 / 바닥",
+  "footing": "기초",
+  "column": "기둥 (직사각형)",
+  "circularColumn": "기둥 (원형)",
+  "stairs": "계단",
+  "lengthLabel": "길이",
+  "widthLabel": "너비",
+  "thicknessLabel": "두께",
+  "depthLabel": "깊이",
+  "heightLabel": "높이",
+  "diameterLabel": "직경",
+  "stepsLabel": "계단 수",
+  "riserLabel": "챌면 높이",
+  "treadLabel": "디딤판 깊이",
+  "calculateConcreteButton": "콘크리트 계산",
+  "resultsTitle": "계산 결과",
+  "concreteVolumeResult": "총 콘크리트 부피",
+  "concreteWithWasteResult": "부피 (손실률 포함)",
+  "cementBagsResult": "시멘트 포대",
+  "sandRequiredResult": "필요한 모래",
+  "gravelRequiredResult": "필요한 자갈",
+  "bagSizeLabel": "포대 크기",
+  "kgBag": "kg",
+  "lbsBag": "lbs",
+  "concreteMixRatioLabel": "혼합 비율 (시멘트:모래:자갈)",
+  "bagsUnit": "포대",
+  "costBreakdownTitle": "예상 비용 내역",
+  "pricePerBagLabel": "포대당 가격",
+  "pricePerSandLabel": "모래 {unit}당 가격",
+  "pricePerGravelLabel": "자갈 {unit}당 가격",
+  "cementCostResult": "시멘트 비용",
+  "sandCostResult": "모래 비용",
+  "gravelCostResult": "자갈 비용",
+  "totalCostResult": "총 비용",
+  "concreteResetButton": "초기화",
+  "wasteFactorTooltip": "자재 손실률은 유출 및 거푸집 변형을 고려합니다. 5-10%가 일반적입니다.",
+  "mixRatioTooltip": "부피 기준 시멘트, 모래, 자갈의 비율을 나타냅니다. 1:2:4는 일반용 콘크리트의 일반적인 혼합 비율입니다.",
+  "mixRatioLabel": "혼합 비율",
+  "mixRatio_1_1_5_3": "1:1.5:3 (고강도)",
+  "mixRatio_1_2_4": "1:2:4 (표준)",
+  "mixRatio_1_3_6": "1:3:6 (기초)",
+  "transportationCostLabel": "운송비 (선택 사항)",
+  "currencyLabel": "통화",
+  "printResultsButton": "인쇄 / PDF로 저장",
+  "errorPositiveNumbers": "모든 치수에 대해 유효한 양수를 입력하십시오.",
+  "transportationCostResult": "운송비",
+  "seoConcreteSections": [
+    {
+      "heading": "<h2>온라인 콘크리트 계산기 사용 방법</h2>",
+      "paragraphs": [
+        "저희 <strong>온라인 콘크리트 계산기</strong>는 프로젝트 계획을 단순화합니다. 슬래브, 기초 또는 기둥을 타설하든, 이 도구는 필요한 <strong>콘크리트 양</strong>을 정확하게 계산하는 데 도움이 됩니다. 모양을 선택하고 치수를 입력하기만 하면 계산기가 <strong>시멘트, 모래, 자갈 비율</strong>의 상세 내역을 제공합니다. 이 계산기는 모바일에 최적화되어 있어 현장에서 즉시 자재를 추정할 수 있습니다."
+      ]
+    },
+    {
+      "heading": "<h2>콘크리트 배합 및 자재 이해하기</h2>",
+      "paragraphs": [
+        "<strong>콘크리트 배합비</strong>(시멘트, 모래, 자갈의 비율)는 구조물의 강도를 결정하는 데 중요합니다. 저희 계산기를 사용하면 일반적인 배합비 중에서 선택할 수 있습니다. 아래 표는 입방 미터당 필요한 시멘트 포대 수에 대한 빠른 안내를 보여줍니다.",
+        "<table class='w-full text-left border-collapse mt-4'><thead><tr class='bg-gray-100 dark:bg-gray-700'><th class='p-2 border dark:border-gray-600'>배합비 (시멘트:모래:자갈)</th><th class='p-2 border dark:border-gray-600'>일반적인 용도</th><th class='p-2 border dark:border-gray-600'>m³당 40kg 포대 (약)</th></tr></thead><tbody><tr><td class='p-2 border dark:border-gray-600'>1:1.5:3</td><td class='p-2 border dark:border-gray-600'>고강도</td><td class='p-2 border dark:border-gray-600'>10-11 포대</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:2:4</td><td class='p-2 border dark:border-gray-600'>표준 / 일반용</td><td class='p-2 border dark:border-gray-600'>7-8 포대</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:3:6</td><td class='p-2 border dark:border-gray-600'>기초 / 채우기</td><td class='p-2 border dark:border-gray-600'>5-6 포대</td></tr></tbody></table>"
+      ]
+    },
+    {
+      "heading": "<h2>자주 묻는 질문 (FAQ)</h2>",
+      "paragraphs": [
+        "<strong>Q: 슬래브에 필요한 콘크리트 양을 어떻게 계산하나요?</strong><br>A: 부피를 계산하려면 길이, 너비, 두께를 곱합니다. 예를 들어, 길이 5m, 너비 4m, 두께 10cm인 슬래브의 경우: 5m × 4m × 0.10m = 2 입방 미터. 저희 <strong>콘크리트 양 계산</strong> 도구는 다양한 모양에 대해 이를 자동화합니다.",
+        "<strong>Q: 입방 미터당 시멘트 포대는 몇 개나 필요한가요?</strong><br>A: 이는 배합비에 따라 다릅니다. 표준 1:2:4 배합의 경우, 콘크리트 1 입방 미터당 약 7-8 포대(각 40kg)의 시멘트가 필요합니다. 위 표에서 빠른 안내를 확인할 수 있습니다.",
+        "<strong>Q: 표준 콘크리트 배합비는 무엇인가요?</strong><br>A: 1:2:4 비율은 바닥, 파티오, 기초와 같은 대부분의 주거 프로젝트에 적합한 일반용 콘크리트의 표준 배합으로 간주됩니다."
       ]
     }
   ]

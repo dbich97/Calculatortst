@@ -12,7 +12,7 @@
   "navMenstrualCycleCalculator": "Menstrual Cycle",
   "navCalorieCalculator": "Calorie Calculator",
   "navTimeCalculator": "Time Calculator",
-  "navAbout": "About",
+  "navAbout": "About Us",
   "footerRights": "© {year} Calculator. All rights reserved.",
   "footerPrivacyPolicy": "Privacy Policy",
   "footerContactUs": "Contact Us",
@@ -27,8 +27,8 @@
   "homeCalorieCalculatorDescription": "Calculate your daily calorie needs to meet your fitness goals.",
   "homeTimeCalculatorDescription": "Add or subtract time durations for work, projects, or hobbies.",
   "seoTitle": "Free Online Age Calculator - Calculate Your Age by Date of Birth",
-  "seoDescription": "Easily calculate your age in years, months, and days using our free and accurate online age calculator. Find out more about your birth date, including the day of the week and your next birthday countdown. Supports multiple languages.",
-  "seoKeywords": "age calculator, calculate age, date of birth calculator, how old am i, online age calculator, birthday calculator, free age calculator",
+  "seoDescription": "Easily calculate your age in years, months, and days using our free and accurate online age calculator. Find out more about your birth date, including the day of the week and the countdown to your next birthday. Supports multiple languages.",
+  "seoKeywords": "age calculator, calculate age, date of birth calculator, how old am I, online age calculator, birthday calculator, free age calculator",
   "h1": "Online Age Calculator",
   "h2": "Enter Your Date of Birth",
   "dateOfBirthLabel": "Date of Birth",
@@ -43,12 +43,12 @@
   "years": "Years",
   "months": "Months",
   "moreInfoTitle": "More About Your Birthday",
-  "dayOfWeekLabel": "Day of the week you were born on",
+  "dayOfWeekLabel": "Day of the week you were born",
   "seasonLabel": "Season of your birth (Northern Hemisphere)",
   "nextBirthdayLabel": "Days until your next birthday",
   "shareResultTitle": "Share Your Result",
-  "shareResultText": "I just found out I am {years} years, {months} months, and {days} days old using this cool age calculator!",
-  "copyResultButton": "Copy result text",
+  "shareResultText": "I just found out I'm {years} years, {months} months, and {days} days old using this cool age calculator!",
+  "copyResultButton": "Copy result",
   "resultCopiedTooltip": "Copied!",
   "calendarType": "Calendar Type",
   "gregorian": "Gregorian",
@@ -61,7 +61,7 @@
     {
       "heading": "How Our Age Calculator Works",
       "paragraphs": [
-        "Our Age Calculator computes your age with high precision by comparing your date of birth to the current date. The tool calculates the total elapsed time and breaks it down into years, months, and days. It accounts for leap years to provide an accurate result, making it a reliable tool for anyone asking 'how old am i?'. Simply enter your birthdate, and the calculator instantly displays your chronological age. For other time-related calculations, you can also try our <a href=\"/en/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a>."
+        "Our Age Calculator computes your age with high precision by comparing your date of birth with the current date. The tool calculates the total elapsed time and breaks it down into years, months, and days. It accounts for leap years to provide an accurate result, making it a reliable tool for anyone asking 'how old am I?'. Simply enter your birth date, and the calculator instantly displays your chronological age. For other time-related calculations, you can also try our <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a>."
       ]
     },
     {
@@ -136,25 +136,20 @@
     {
       "heading": "How Our Due Date Calculator Works",
       "paragraphs": [
-        "Our Pregnancy Due Date Calculator estimates your expected delivery date using several methods. The most common method is based on the first day of your last menstrual period (LMP). This approach, known as Naegele's rule, adds 280 days (40 weeks) to your LMP to predict the due date. For more accuracy, especially with irregular cycles, you can use our <a href=\"/en/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstrual Cycle Calculator</a> to track your period. We also offer calculations based on the date of conception, which can be identified with our <a href=\"/en/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulation Calculator</a>, or your IVF transfer date.",
+        "Our Pregnancy Due Date Calculator estimates your expected delivery date using several methods. The most common method is based on the first day of your last menstrual period (LMP). This approach, known as Naegele's rule, adds 280 days (40 weeks) to your LMP to predict the due date. For greater accuracy, especially with irregular cycles, you can use our <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstrual Cycle Calculator</a> to track your period. We also offer calculations based on the conception date, which can be pinpointed with our <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulation Calculator</a>, or your IVF transfer date.",
         "It's important to remember that this date is an estimate. Only about 5% of babies are born on their exact due date. This tool provides a reliable guideline to help you and your healthcare provider plan for your baby's arrival."
-      ],
-      "list": [
-        "LMP Method: The standard calculation based on a 28-day cycle.",
-        "Conception Date Method: More precise if you know the exact date of conception.",
-        "IVF Method: Tailored for IVF pregnancies, based on the embryo transfer date and age."
       ]
     },
     {
       "heading": "Understanding Your Pregnancy Timeline: Trimesters and Milestones",
       "paragraphs": [
         "A full-term pregnancy is divided into three trimesters, each with unique fetal development milestones. Our calculator not only provides a due date but also helps you understand where you are in this journey by calculating your current gestational age.",
-        "The First Trimester (Weeks 1-13) is a critical period of development for your baby's organs. The Second Trimester (Weeks 14-27) is often called the 'golden period' as many early pregnancy symptoms subside, and you may begin to feel your baby move. The Third Trimester (Weeks 28-40+) is focused on rapid growth and weight gain for the baby as they prepare for birth. Regular prenatal care throughout these stages is essential for a healthy pregnancy."
+        "The First Trimester (Weeks 1-13) is a critical period of development for your baby's organs. The Second Trimester (Weeks 14-27) is often called the 'golden period' as many early pregnancy symptoms subside, and you may begin to feel your baby move. The Third Trimester (Weeks 28-40+) is focused on rapid growth and weight gain for the baby as they prepare for birth. Regular prenatal care throughout all these stages is essential for a healthy pregnancy."
       ]
     }
   ],
   "seoOvulationTitle": "Free Ovulation & Fertile Window Calculator",
-  "seoOvulationDescription": "Estimate your ovulation date and most fertile days based on your last menstrual period and cycle length. Plan your pregnancy with our accurate calculator.",
+  "seoOvulationDescription": "Estimate your ovulation date and most fertile days based on your last period and cycle length. Plan your pregnancy with our accurate calculator.",
   "ovulationTitle": "Ovulation Calculator",
   "ovulationSubheading": "Predict your most fertile days for a better chance of conception.",
   "lmpDateLabelOvulation": "First Day of Last Menstrual Period",
@@ -169,13 +164,8 @@
     {
       "heading": "How to Predict Your Most Fertile Days",
       "paragraphs": [
-        "Our Ovulation Calculator is a simple tool designed to help you predict your most fertile days of the month. By entering the first day of your last menstrual period and your average cycle length, which you can track with our <a href=\"/en/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstrual Cycle Calculator</a>, the calculator estimates your probable ovulation date. Ovulation is the release of an egg from your ovary, which typically happens about 14 days before your next period begins.",
-        "Your 'fertile window' includes the day of ovulation and the five days leading up to it. This is because sperm can survive in the female reproductive tract for up to five days. Having intercourse during this window significantly increases your chances of conception. Once pregnant, you can track your journey with our <a href=\"/en/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Due Date Calculator</a>."
-      ],
-      "list": [
-        "Input Your Data: Start with your last period date and cycle length.",
-        "Get Your Estimate: The calculator identifies your key fertile days.",
-        "Plan Accordingly: Use this information to help with your family planning goals."
+        "Our Ovulation Calculator is a simple tool designed to help you predict your most fertile days of the month. By inputting the first day of your last period and your average cycle length, which you can track with our <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstrual Cycle Calculator</a>, the calculator estimates your likely ovulation date. Ovulation is the release of an egg from your ovary, which typically happens about 14 days before your next period begins.",
+        "Your 'fertile window' includes the day of ovulation and the five days leading up to it. This is because sperm can survive in the female reproductive tract for up to five days. Having intercourse during this window significantly increases your chances of conception. Once pregnant, you can track your journey with our <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Due Date Calculator</a>."
       ]
     },
     {
@@ -183,8 +173,8 @@
       "paragraphs": [
         "While an ovulation calculator is a great starting point, your body also provides clues that ovulation is approaching. Combining the calculator's estimate with these physical signs can give you a more accurate picture of your fertile window. These signs include:",
         "Changes in Cervical Mucus: As you approach ovulation, your cervical mucus may become clearer, thinner, and more slippery, resembling the consistency of egg whites.",
-        "Basal Body Temperature (BBT): Tracking your BBT daily can show a slight but sustained temperature increase after ovulation has occurred.",
-        "Ovulation Predictor Kits (OPKs): These over-the-counter kits detect the surge in luteinizing hormone (LH) that happens 24-36 hours before ovulation."
+        "Basal Body Temperature (BBT): Tracking your BBT daily can show a slight but sustained temperature rise after ovulation has occurred.",
+        "Ovulation Predictor Kits (OPKs): These over-the-counter kits detect the surge in luteinizing hormone (LH) that occurs 24-36 hours before ovulation."
       ]
     }
   ],
@@ -200,8 +190,8 @@
     {
       "heading": "How Our Period Calculator Works",
       "paragraphs": [
-        "Our Menstrual Cycle Calculator helps you predict the start date of your next period with just two pieces of information: the first day of your last period and the average length of your menstrual cycle. By adding your average cycle length to your last period's start date, the tool provides an estimated date for your next two periods. Knowing your cycle is also key to identifying fertile windows with our <a href=\"/en/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulation Calculator</a>.",
-        "Tracking your cycle is about more than just convenience; it's a key indicator of your overall health. Regular, predictable cycles often signify that your body's hormones are functioning correctly. This information is invaluable for family planning, and once pregnant, our <a href=\"/en/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Due Date Calculator</a> can help estimate your due date."
+        "Our Menstrual Cycle Calculator helps you predict the start date of your next period with just two pieces of information: the first day of your last period and your average menstrual cycle length. By adding your average cycle length to your last period's start date, the tool provides an estimated date for your next two periods. Knowing your cycle is also key to identifying fertile windows with our <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulation Calculator</a>.",
+        "Tracking your cycle is more than just convenience; it's a key indicator of your overall health. Regular, predictable cycles often mean your body's hormones are functioning correctly. This information is invaluable for family planning, and once pregnant, our <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Due Date Calculator</a> can help estimate your due date."
       ]
     },
     {
@@ -259,10 +249,8 @@
   "mildWeightGain": "Mild weight gain (0.25 kg/week)",
   "weightGain": "Weight gain (0.5 kg/week)",
   "fastWeightGain": "Fast weight gain (1 kg/week)",
-  "calorieResultsTitle": "Your Calorie Needs",
   "caloriesPerDay": "Calories/day",
   "yourBMR": "Basal Metabolic Rate (BMR)",
-  "bmrDescription": "The calories your body needs at rest.",
   "maintenanceCalories": "Maintenance Calories",
   "goalResultText": {
     "maintainWeight": "To maintain your weight",
@@ -271,12 +259,7 @@
     "extremeWeightLoss": "For extreme weight loss",
     "mildWeightGain": "For mild weight gain",
     "weightGain": "For weight gain",
-    "fastWeightGain": "For fast weight gain",
-    "sedentary": "Sedentary: little or no exercise",
-    "lightlyActive": "Lightly active: exercise 1-3 days/week",
-    "moderatelyActive": "Moderately active: exercise 3-5 days/week",
-    "veryActive": "Very active: exercise 6-7 days/week",
-    "extraActive": "Extra active: very hard exercise & physical job"
+    "fastWeightGain": "For fast weight gain"
   },
   "macronutrientPlan": "Choose a Macronutrient Plan",
   "balanced": "Balanced (40% Carbs, 30% Protein, 30% Fat)",
@@ -289,8 +272,8 @@
   "grams": "g",
   "getMealPlan": "Get Sample Meal Plan",
   "generatingMealPlan": "Generating Meal Plan",
-  "mealPlanError": "Sorry, we couldn't generate a meal plan at this time. Please try again later.",
-  "mealPlanTitle": "Your Sample One-Day Meal Plan",
+  "mealPlanError": "Sorry, we could not generate a meal plan at this time. Please try again later.",
+  "mealPlanTitle": "Your One-Day Sample Meal Plan",
   "breakfast": "Breakfast",
   "lunch": "Lunch",
   "dinner": "Dinner",
@@ -301,7 +284,7 @@
   "summaryCalculatedMealPlan": "Calculated Meal Plan",
   "printResults": "Print Results",
   "calorieShareResultTitle": "Share Your Results",
-  "calorieShareResultText": "I just calculated my daily needs! To reach my goal, I need {calories} calories, with {protein}g protein, {carbs}g carbs, and {fat}g fat. Check out this awesome calculator!",
+  "calorieShareResultText": "I just calculated my daily needs! To reach my goal, I need {calories} calories, with {protein}g of protein, {carbs}g of carbs, and {fat}g of fat. Check out this awesome calculator!",
   "errorNumber": "Please enter a valid number.",
   "errorHeight": "Please enter a valid height (min 100cm / 3'3\").",
   "errorWeight": "Please enter a valid weight (min 20kg / 45lbs).",
@@ -310,8 +293,8 @@
     {
       "heading": "Understanding Your Daily Calorie Needs",
       "paragraphs": [
-        "A calorie is a unit of energy. In nutrition, calories refer to the energy people get from the food and drink they consume, and the energy they use in physical activity. Understanding your daily calorie needs, which often depends on factors like your age (find it with our <a href=\"/en/age-calculator\" class=\"text-blue-500 hover:underline\">Age Calculator</a>), is the first step towards achieving your weight goals, whether it's losing, gaining, or maintaining your current weight.",
-        "Our calculator starts by determining your Basal Metabolic Rate (BMR), which is the number of calories your body needs to perform basic life-sustaining functions at rest, such as breathing, circulation, and cell production. We use the widely accepted Mifflin-St Jeor equation for this calculation. Then, we factor in your activity level to calculate your Total Daily Energy Expenditure (TDEE), which is a more accurate estimate of your daily calorie burn."
+        "A calorie is a unit of energy. In nutrition, calories refer to the energy people get from the food and drink they consume, and the energy they use in physical activity. Understanding your daily calorie needs, which often depends on factors like your age (find it with our <a href=\"#/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Age Calculator</a>), is the first step towards achieving your weight goals, whether that's losing, gaining, or maintaining your current weight.",
+        "Our calculator starts by determining your Basal Metabolic Rate (BMR), which is the number of calories your body needs to perform basic life-sustaining functions at rest, such as breathing, circulation, and cell production. We use the widely accepted Mifflin-St Jeor equation for this calculation. Next, we factor in your activity level to calculate your Total Daily Energy Expenditure (TDEE), which is a more accurate estimate of your daily calorie burn."
       ]
     },
     {
@@ -334,7 +317,59 @@
       ]
     }
   ],
-  "seoTimeTitle": "Time Calculator - Add and Subtract Time Durations",
+  "navBmiCalculator": "BMI Calculator",
+  "homeBmiCalculatorDescription": "Calculate your Body Mass Index to understand your weight health.",
+  "seoBmiTitle": "Body Mass Index (BMI) Calculator - Check Your Weight Health",
+  "seoBmiDescription": "Use our free and accurate Body Mass Index calculator to estimate your body fat based on your height and weight. Find out if you are at a healthy weight.",
+  "bmiTitle": "Body Mass Index (BMI) Calculator",
+  "bmiSubheading": "Calculate your BMI to assess your weight status.",
+  "calculateBmiButton": "Calculate BMI",
+  "bmiResultLabel": "Your BMI is",
+  "bmiCategoryLabel": "Your category is:",
+  "underweight": "Underweight",
+  "normalWeight": "Normal weight",
+  "overweight": "Overweight",
+  "obesity": "Obesity",
+  "seoBmiSections": [
+    {
+      "heading": "What is BMI and how does it work?",
+      "paragraphs": [
+        "The Body Mass Index (BMI) is a simple measurement that uses your height and weight to estimate your body fat. It is a widely used and common screening tool to determine if a person's weight falls within a healthy range. The basic formula is weight in kilograms divided by the square of height in meters (kg/m²). Our calculator automates this process to provide you with a quick and accurate result.",
+        "Understanding your BMI is an important first step towards healthy weight management. It can help you set realistic goals, whether you're aiming to maintain or change your current weight. To effectively manage your weight, it's also crucial to understand your energy needs, which you can calculate using our <a href=\"#/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calorie Calculator</a>."
+      ]
+    },
+    {
+      "heading": "Understanding BMI Results (Categories)",
+      "paragraphs": [
+        "After calculating your BMI, the result is classified into specific categories to help you understand your health status. The standard categories for adults are:",
+        "<strong>Under 18.5:</strong> Underweight. This may indicate you're not getting enough nutrients or could be a sign of an underlying health condition.",
+        "<strong>18.5 – 24.9:</strong> Normal weight. This range suggests you have a healthy weight for your height, which lowers your risk of chronic diseases.",
+        "<strong>25.0 – 29.9:</strong> Overweight. In this category, you may be at an increased risk of developing certain health problems like heart disease and type 2 diabetes.",
+        "<strong>30.0 and above:</strong> Obesity. Obesity significantly increases the risk of serious health problems and requires special attention through lifestyle changes and consultation with a healthcare professional."
+      ]
+    },
+    {
+        "heading": "The Importance of Maintaining a Healthy BMI",
+        "paragraphs": [
+            "Maintaining a BMI within the normal range (18.5-24.9) is vital for overall health. Being overweight or obese is linked to an increased risk of numerous chronic diseases, including high blood pressure, heart disease, stroke, type 2 diabetes, and certain types of cancer. On the other hand, being underweight can also lead to health problems such as a weakened immune system, osteoporosis, and fertility issues. Therefore, achieving and maintaining a healthy weight is a key part of a healthy lifestyle."
+        ]
+    },
+    {
+        "heading": "Limitations of BMI",
+        "paragraphs": [
+            "While BMI is a useful screening tool, it's not without its limitations. It does not distinguish between fat mass and muscle mass. This means that very muscular individuals, such as athletes, may have a high BMI and be classified as overweight despite having low body fat.",
+            "Additionally, the interpretation of BMI can be affected by factors like age and sex. For instance, older adults who have lost muscle mass may have a healthy body fat percentage even if their BMI is normal. You can explore how your body changes over time with our <a href=\"#/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Age Calculator</a>. For these reasons, BMI should be used as part of a comprehensive health assessment and not as a sole diagnostic tool."
+        ]
+    },
+    {
+        "heading": "How to Improve Your BMI",
+        "paragraphs": [
+            "If your BMI result falls outside the normal range, there are steps you can take to improve it. This typically involves a combination of a balanced diet and regular physical activity. Setting realistic and gradual goals can help you achieve and maintain a healthy weight. Our <a href=\"#/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calorie Calculator</a> can be a great tool to help you plan your diet.",
+            "It's also important to consider other health conditions. For example, maintaining a healthy BMI is particularly important during pregnancy, and you can track your progress with our <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Calculator</a>. We always recommend consulting a healthcare professional or a registered dietitian to develop a personalized plan that suits your individual needs."
+        ]
+    }
+  ],
+  "seoTimeTitle": "Time Calculator - Add & Subtract Time Durations",
   "seoTimeDescription": "A free online tool to easily add or subtract time durations. Calculate days, hours, minutes, and seconds with precision. Ideal for project management, time tracking, and everyday calculations.",
   "timeTitle": "Time Calculator",
   "timeSubheading": "Add or subtract time durations with ease.",
@@ -354,7 +389,8 @@
     {
       "heading": "How to Use the Time Calculator",
       "paragraphs": [
-        "Our Time Calculator simplifies the process of adding and subtracting time. Whether you're tracking work hours, logging exercise sessions, or planning an event, this tool provides a quick and accurate solution. For calculating the duration between a start and end time, such as for a timesheet, our <a href=\"/en/hours-calculator\" class=\"text-blue-500 hover:underline\">Hours Calculator</a> is also available. Simply input two time durations, select whether to add or subtract them, and get the result instantly."
+        "Our Time Calculator simplifies the process of adding and subtracting time. Whether you're tracking work hours, logging exercise sessions, or planning an event, this tool provides a quick and accurate solution. To calculate the duration between a start and end time, such as for a timesheet, our <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Hours Calculator</a> is also available. Simply input two time durations, select whether to add or subtract them, and get the result instantly.",
+        "The calculator breaks down the time into days, hours, minutes, and seconds. For subtraction, ensure the first time duration is greater than or equal to the second to avoid negative results."
       ]
     },
     {
@@ -362,12 +398,12 @@
       "paragraphs": [
         "This tool is incredibly versatile and can be used in various scenarios:",
         "Project Management: Calculate the total time spent on different tasks.",
-        "Aviation and Navigation: Log flight times or travel durations.",
-        "Video Editing: Sum up clip lengths or calculate remaining time.",
+        "Aviation and Navigation: Log flight times or journey durations.",
+        "Video Editing: Add up clip lengths or calculate remaining time.",
         "Personal Time Tracking: Monitor time spent on hobbies, studying, or exercise."
       ],
       "list": [
-        "Easy to use interface.",
+        "Easy-to-use interface.",
         "Handles days, hours, minutes, and seconds.",
         "Provides instant, precise calculations."
       ]
@@ -392,7 +428,7 @@
     {
       "heading": "How to Use the Hours Calculator",
       "paragraphs": [
-        "Our Hours Calculator is designed to simplify calculating the duration between two points in time. Whether you're figuring out work hours, an event's duration, or time spent on a task, this tool provides a quick and accurate result. For more complex calculations involving adding or subtracting multiple durations, check out our comprehensive <a href=\"/en/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a>. Simply input the start and end times, and the calculator will do the rest, handling cases that cross over midnight."
+        "Our Hours Calculator is designed to simplify the calculation of duration between two points in time. Whether you're figuring out work hours, the length of an event, or time spent on a task, this tool provides a quick and accurate result. For more complex calculations involving adding or subtracting multiple durations, check out our comprehensive <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a>. Simply input the start and end times, and the calculator will do the rest, handling cases that cross midnight."
       ]
     },
     {
@@ -420,8 +456,8 @@
     {
       "heading": "How to Use the Date Calculator",
       "paragraphs": [
-        "Our Date Calculator is designed to simplify adding or subtracting periods of time from a specific date. Whether you're planning a future event, setting a deadline, or looking back at a date in the past, this tool provides quick and accurate calculations. Simply enter a start date, then specify the number of years, months, weeks, and days you want to add or subtract. The calculator accounts for details like leap years and varying month lengths to ensure accuracy.",
-        "This tool complements our other time-based utilities. For instance, you can use our <a href='/en/age-calculator' class='text-blue-500 hover:underline'>Age Calculator</a> to determine someone's age, or our <a href='/en/hours-calculator' class='text-blue-500 hover:underline'>Hours Calculator</a> to find the duration between two times on the same day. For calculations involving multiple time durations, our <a href='/en/time-Calculator' class='text-blue-500 hover:underline'>Time Calculator</a> is the perfect choice."
+        "Our Date Calculator is designed to simplify adding or subtracting periods of time from a specific date. Whether you're planning a future event, setting a deadline, or looking at a date in the past, this tool provides quick and accurate calculations. Simply enter a start date, then specify the number of years, months, weeks, and days you want to add or subtract. The calculator accounts for details like leap years and varying month lengths to ensure accuracy.",
+        "This tool complements our other time-based utilities. For example, you can use our <a href='#/{currentLang}/age-calculator' class='text-blue-500 hover:underline'>Age Calculator</a> to determine someone's age, or our <a href='#/{currentLang}/hours-calculator' class='text-blue-500 hover:underline'>Hours Calculator</a> to find the duration between two times on the same day. For calculations involving multiple time durations, our <a href='#/{currentLang}/time-Calculator' class='text-blue-500 hover:underline'>Time Calculator</a> is the perfect choice."
       ]
     },
     {
@@ -432,7 +468,201 @@
         "<strong>Project Management:</strong> Easily set project deadlines. If a project starts on January 15th and takes 8 weeks and 3 days, you can instantly find the exact end date.",
         "<strong>Health Appointments:</strong> Keep track of medical appointments or medication schedules. If you need to schedule a follow-up 3 months after an appointment, this tool gives you the precise date.",
         "<strong>Financial Planning:</strong> Calculate due dates for loans or investment plans that span a specific number of years and months.",
-        "<strong>Pregnancy Planning:</strong> While our <a href='/en/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Pregnancy Calculator</a> provides detailed due date estimates, this tool can be used for quick calculations about specific dates during the term."
+        "<strong>Pregnancy Planning:</strong> While our <a href='#/{currentLang}/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Pregnancy Calculator</a> provides detailed due date estimates, this tool can be used for quick calculations about specific dates during the term."
+      ]
+    }
+  ],
+  "navStopwatch": "Stopwatch",
+  "homeStopwatchDescription": "Measure elapsed time with precision using laps and a clear display.",
+  "seoStopwatchTitle": "Free Online Stopwatch with Laps",
+  "seoStopwatchDescription": "A simple, accurate, and free online stopwatch with lap functionality. Perfect for sports, workouts, and timing any activity.",
+  "stopwatchTitle": "Stopwatch",
+  "stopwatchSubheading": "Measure elapsed time with precision.",
+  "startButton": "Start",
+  "stopButton": "Stop",
+  "lapButton": "Lap",
+  "lapColumnHeader": "Lap",
+  "timeColumnHeader": "Time",
+  "seoStopwatchSections": [
+    {
+      "heading": "How to Use the Online Stopwatch",
+      "paragraphs": [
+          "Our online stopwatch is a simple and precise tool for measuring elapsed time. With just a click, you can start and stop the timer to track any activity with up to centisecond accuracy. The 'Lap' feature allows you to record split times without interrupting the main timer, which is perfect for tracking performance across multiple intervals. When you're finished, the 'Reset' button clears the timer and all recorded laps, getting you ready for the next timing session.",
+          "While a stopwatch is excellent for measuring duration from a starting point, if you need to calculate the time between a specific start and end time (like for a timesheet), our <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Hours Calculator</a> is the perfect tool for that job."
+      ]
+    },
+    {
+      "heading": "Practical Applications for a Stopwatch",
+      "paragraphs": [
+          "A stopwatch is an incredibly versatile tool with numerous applications in daily life, sports, and professional settings:",
+          "If you need to perform calculations with your recorded lap times, such as adding them together, our <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a> can handle those operations with ease."
+      ],
+      "list": [
+          "<strong>Sports and Fitness:</strong> Timing laps for running, swimming, or cycling, and measuring rest periods between workout sets.",
+          "<strong>Cooking and Baking:</strong> Accurately timing recipes, from steeping tea to baking a cake.",
+          "<strong>Study and Productivity:</strong> Using techniques like the Pomodoro Technique, which involves focused work intervals timed with a stopwatch.",
+          "<strong>Tests and Presentations:</strong> Practicing speeches or timing exams to improve pacing and performance."
+      ]
+    }
+  ],
+  "navConstructionCalculators": "Construction Calculators",
+  "navRoofingCalculator": "Roofing Calculator",
+  "homeRoofingCalculatorDescription": "Calculate the materials and cost for your roofing project.",
+  "seoRoofingTitle": "Roofing Calculator - Calculate Materials & Cost",
+  "seoRoofingDescription": "A free online tool to calculate the required amount of roofing material and the estimated cost for your project based on dimensions and roof pitch.",
+  "roofingTitle": "Roofing Calculator",
+  "roofingSubheading": "Calculate the required materials and cost for your roof.",
+  "totalAreaMethod": "Based on total area",
+  "groundDimensionsMethod": "Based on ground dimensions",
+  "totalAreaLabel": "Total roof area",
+  "buildingLengthLabel": "Building length",
+  "buildingWidthLabel": "Building width",
+  "roofPitchLabel": "Roof pitch",
+  "roofingPitchTooltip": "Enter the roof pitch as a ratio (e.g., 4:12) or in degrees (e.g., 18.4). For a flat roof, use 0.",
+  "wasteFactorLabel": "Waste factor (%)",
+  "pricePerUnitLabel": "Price per unit",
+  "calculateRoofingButton": "Calculate Roofing",
+  "resultsTitle": "Your results",
+  "baseRoofAreaResult": "Base roof area",
+  "totalRoofAreaResult": "Total area (incl. waste)",
+  "materialsNeededResult": "Materials needed",
+  "totalCostResult": "Estimated total cost",
+  "sqmUnit": "m²",
+  "squaresUnit": "squares",
+  "sqftUnit": "sq ft",
+  "roofPitchTypeLabel": "Roof pitch type",
+  "pitchRatio": "Ratio",
+  "pitchDegrees": "Degrees",
+  "roundUpLabel": "Round up to whole units",
+  "errorInvalidPitch": "Invalid roof pitch. Enter a ratio (e.g., 4:12) or degrees (e.g., 18.4).",
+  "materialTypeLabel": "Material type",
+  "shingles": "Shingles (~$140/square)",
+  "epdm": "EPDM (~$190/square)",
+  "roofTiles": "Roof Tiles (~$280/square)",
+  "metal": "Metal (~$235/square)",
+  "customPrice": "Custom Price",
+  "wasteAmountResult": "Allowance for waste",
+  "roofingPitchRatioPlaceholder": "e.g., 4:12",
+  "roofingPitchDegreesPlaceholder": "e.g., 18.4",
+  "seoRoofingSections": [
+    {
+      "heading": "How Our Professional Roofing Calculator Works",
+      "paragraphs": [
+        "Our free <strong>Roofing Calculator</strong> helps you quickly estimate roof area, materials, and costs. This comprehensive <strong>roof estimator</strong> is perfect for both DIY enthusiasts and professional contractors. Just enter your dimensions and pitch—or the total area—and get instant results for your project."
+      ]
+    },
+    {
+      "heading": "Practical Tips for an Accurate Estimate",
+      "paragraphs": [
+        "A successful project starts with a precise plan. Use these tips to ensure your <strong>roof coverage calculation</strong> is accurate:"
+      ],
+      "list": [
+        "<strong>Measure Accurately:</strong> Double-check the length and width of the roof area. A precise measurement is the foundation of any calculation.",
+        "<strong>Choose the Right Waste Factor:</strong> Simple roofs may only need 5-10% extra for waste, but complex roofs with many angles, dormers, or chimneys require a higher factor, often around 15%.",
+        "<strong>Consider Your Material Choice:</strong> Each material (shingles, metal, tiles, EPDM) has a different price and installation complexity. Our tool allows you to compare costs to make an informed decision.",
+        "<strong>Check Local Requirements:</strong> Some areas have specific building codes or requirements. Always consult local guidelines before starting."
+      ]
+    },
+    {
+      "heading": "Frequently Asked Questions (FAQ)",
+      "paragraphs": [
+        "<strong>Q: Does this work as a roof cost calculator?</strong><br>A: Yes! After determining the required material, you can input the price per unit (m² or square) to get an instant cost estimate for your project.",
+        "<strong>Q: How much roofing material do I need for my project?</strong><br>A: The basic formula involves calculating the total surface area of the roof based on its dimensions and pitch, then adding a waste factor (typically 10-15%). Our tool automates this entire process for you.",
+        "<strong>Q: What is a 'roofing square'?</strong><br>A: A 'roofing square' is a common imperial unit used in the United States, equivalent to 100 square feet. Our calculator can provide results in both squares and square meters (m²).",
+        "<strong>Q: Can you give a practical example?</strong><br>A: Certainly! For a 10m × 5m building (approximately 32.8ft × 16.4ft) with a 4:12 pitch, the approximate roof area is 52.7 m² (or 567 sq ft). With a 10% waste factor, you would need about 58 m² of material, which is equivalent to 6.24 roofing squares."
+      ]
+    },
+    {
+      "heading": "Get Your Roofing Estimate Now!",
+      "paragraphs": [
+        "Try our Roofing Calculator now and get an instant roofing estimate! Avoid unnecessary costs and ensure you have the right amount of material to get the job done right."
+      ]
+    }
+  ],
+  "navConcreteCalculator": "Concrete Calculator",
+  "homeConcreteCalculatorDescription": "Estimate the volume and materials needed for your concrete project.",
+  "seoConcreteTitle": "Professional Concrete Calculator - Volume, Bags & Cost",
+  "seoConcreteDescription": "An online concrete calculator to estimate the volume, bags of cement, sand, gravel, and total cost for slabs, footings, columns, and stairs. Supports metric and imperial units.",
+  "concreteTitle": "Professional Concrete Calculator",
+  "concreteSubheading": "Estimate the volume, materials, and cost for your project.",
+  "shapeLabel": "Shape",
+  "slab": "Slab / Floor",
+  "footing": "Footing",
+  "column": "Column (Rectangular)",
+  "circularColumn": "Column (Circular)",
+  "stairs": "Stairs",
+  "lengthLabel": "Length",
+  "widthLabel": "Width",
+  "thicknessLabel": "Thickness",
+  "depthLabel": "Depth",
+  "diameterLabel": "Diameter",
+  "stepsLabel": "Number of Steps",
+  "riserLabel": "Riser Height",
+  "treadLabel": "Tread Depth",
+  "calculateConcreteButton": "Calculate Concrete",
+  "resultsTitle": "Calculation Results",
+  "concreteVolumeResult": "Total Concrete Volume",
+  "concreteWithWasteResult": "Volume (incl. waste)",
+  "cementBagsResult": "Cement Bags",
+  "sandRequiredResult": "Sand Required",
+  "gravelRequiredResult": "Gravel Required",
+  "bagSizeLabel": "Bag Size",
+  "kgBag": "kg",
+  "lbsBag": "lbs",
+  "concreteMixRatioLabel": "Mix Ratio (Cement:Sand:Gravel)",
+  "bagsUnit": "bags",
+  "costBreakdownTitle": "Estimated Cost Breakdown",
+  "pricePerBagLabel": "Price per Bag",
+  "pricePerSandLabel": "Price per {unit} of Sand",
+  "pricePerGravelLabel": "Price per {unit} of Gravel",
+  "cementCostResult": "Cement Cost",
+  "sandCostResult": "Sand Cost",
+  "gravelCostResult": "Gravel Cost",
+  "totalCostResult": "Total Cost",
+  "concreteResetButton": "Reset",
+  "wasteFactorTooltip": "The waste factor accounts for spillage and formwork variations. 5-10% is typical.",
+  "mixRatioTooltip": "Represents the ratio of cement to sand to gravel by volume. 1:2:4 is a common mix for general purpose concrete.",
+  "mixRatioLabel": "Mix Ratio",
+  "mixRatio_1_1_5_3": "1:1.5:3 (High Strength)",
+  "mixRatio_1_2_4": "1:2:4 (Standard)",
+  "mixRatio_1_3_6": "1:3:6 (Foundation)",
+  "transportationCostLabel": "Transportation Cost (Optional)",
+  "currencyLabel": "Currency",
+  "printResultsButton": "Print / Save PDF",
+  "errorPositiveNumbers": "Please enter valid, positive numbers for all dimensions.",
+  "transportationCostResult": "Transportation",
+  "seoConcreteSections": [
+    {
+      "heading": "How to Use the Professional Concrete Calculator",
+      "paragraphs": [
+        "Our <strong>online concrete calculator with cost estimate</strong> makes planning your project simple and accurate. Whether you're pouring a slab, footing, or column, this tool helps you determine the precise volume of concrete needed, including materials like cement, sand, and gravel. Simply select the shape of your pour, enter the dimensions in either metric or imperial units, and our <strong>concrete mix ratio calculator</strong> will provide a detailed breakdown.",
+        "The calculator also accounts for a waste factor and allows you to input material costs to get a complete financial overview of your project. This ensures you buy the right amount of materials, saving you time and money."
+      ]
+    },
+    {
+      "heading": "Understanding Concrete Mixes and Materials",
+      "paragraphs": [
+        "Concrete is made from three basic components: cement, sand (fine aggregate), and gravel (coarse aggregate), mixed with water. The ratio of these components determines the strength and properties of the final concrete. Our calculator allows you to select from common mix ratios:",
+        "For most general-purpose projects, a standard 1:2:4 mix (1 part cement, 2 parts sand, 4 parts gravel) is sufficient. We use industry-standard bulk densities and a dry-to-wet volume conversion factor to accurately estimate the weight of each material required."
+      ],
+      "list": [
+        "<strong>1:1.5:3:</strong> A strong mix used for high-strength concrete applications like suspended slabs or columns.",
+        "<strong>1:2:4:</strong> A standard, all-purpose mix suitable for most slabs, footings, and walls.",
+        "<strong>1:3:6:</strong> A weaker, more economical mix often used for foundations and mass concrete fillings."
+      ]
+    },
+    {
+      "heading": "Frequently Asked Questions (FAQ)",
+      "paragraphs": [
+        "<strong>Q: How do I calculate concrete volume?</strong><br>A: To calculate the volume, you multiply the length, width, and thickness (or depth) of the area you want to fill. For a slab that is 10 feet long, 10 feet wide, and 4 inches thick, the calculation would be: 10 ft × 10 ft × (4/12) ft = 33.3 cubic feet. Our calculator automates this for various shapes.",
+        "<strong>Q: How many cement bags do I need per cubic meter?</strong><br>A: This depends on the mix ratio and the size of the bags. For a standard 1:2:4 mix, you will typically need about 6-7 bags (50 kg each) of cement per cubic meter of concrete. Our calculator provides a precise estimate based on your specific inputs.",
+        "<strong>Q: What is the standard concrete mix ratio?</strong><br>A: A 1:2:4 ratio is widely considered the standard mix for general-purpose concrete, suitable for most residential and commercial projects like floors, patios, and foundations. It provides a good balance of strength and workability."
+      ]
+    },
+    {
+      "heading": "Plan Your Project with Confidence",
+      "paragraphs": [
+        "Use our free professional concrete calculator now to plan your next construction project with confidence. Get an accurate estimate of the materials and costs involved, ensuring a smooth and efficient process from start to finish."
       ]
     }
   ]

@@ -138,11 +138,6 @@
       "paragraphs": [
         "当社の妊娠出産予定日計算機は、いくつかの方法を使用して、予想される出産日を推定します。最も一般的な方法は、最終月経の初日（LMP）に基づいています。ネーゲレの法則として知られるこのアプローチは、LMPに280日（40週）を加えて出産予定日を予測します。特に不規則な周期の場合の精度向上のために、<a href=\"/ja/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">月経周期計算機</a>を使用して月経を追跡できます。また、<a href=\"/ja/ovulation-calculator\" class=\"text-blue-500 hover:underline\">排卵日計算機</a>で特定できる受胎日や、体外受精（IVF）の移植日に基づく計算も提供しています。",
         "この日付は推定値であることを覚えておくことが重要です。赤ちゃんの約5％しか正確な出産予定日に生まれません。このツールは、あなたとあなたの医療提供者が赤ちゃんの到着を計画するのに役立つ信頼できるガイドラインを提供します。"
-      ],
-      "list": [
-        "LMP法：28日周期に基づく標準的な計算。",
-        "受胎日法：受胎の正確な日付を知っている場合、より正確です。",
-        "IVF法：IVF妊娠用に調整され、胚移植日と年齢に基づいています。"
       ]
     },
     {
@@ -170,11 +165,6 @@
       "heading": "最も妊娠しやすい日を予測する方法",
       "paragraphs": [
         "当社の排卵日計算機は、月で最も妊娠しやすい日を予測するのに役立つシンプルなツールです。最終月経の初日と、<a href=\"/ja/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">月経周期計算機</a>で追跡できる平均周期日数を入力することで、計算機はあなたの排卵予定日を推定します。排卵とは、卵巣から卵子が放出されることで、通常は次の月経が始まる約14日前に起こります。あなたの「妊娠可能期間」には、排卵日とその前の5日間が含まれます。これは、精子が女性の生殖管内で最大5日間生存できるためです。この期間中に性交を行うと、妊娠の可能性が大幅に高まります。妊娠したら、<a href=\"/ja/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">妊娠出産予定日計算機</a>で経過を追跡できます。"
-      ],
-      "list": [
-        "データを入力する：最終月経日と周期日数から始めます。",
-        "推定値を取得する：計算機があなたの重要な妊娠可能日を特定します。",
-        "それに応じて計画する：この情報を使用して、家族計画の目標を支援します。"
       ]
     },
     {
@@ -200,11 +190,6 @@
       "heading": "当社の生理日計算機の仕組み",
       "paragraphs": [
         "当社の月経周期計算機は、2つの情報だけで次の生理の開始日を予測するのに役立ちます。最後の生理の初日と月経周期の平均日数です。最後の生理の開始日に平均周期日数を加えることで、ツールは次の2回の生理の推定日を提供します。あなたの周期を知ることは、<a href=\"/ja/ovulation-calculator\" class=\"text-blue-500 hover:underline\">排卵日計算機</a>で妊娠可能期間を特定するための鍵でもあります。妊娠したら、<a href=\"/ja/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">妊娠出産予定日計算機</a>が出産予定日を推定するのに役立ちます。"
-      ],
-      "list": [
-        "簡単な入力：最後の生理の開始日と周期日数を入力します。",
-        "即時予測：次の生理の推定日をすぐに見ることができます。",
-        "事前に計画する：イベント、休暇の計画、または単に準備をするために予測を使用します。"
       ]
     },
     {
@@ -275,10 +260,10 @@
     "weightGain": "増量のため",
     "fastWeightGain": "急激な増量のため",
     "sedentary": "座りがち：ほとんどまたは全く運動しない",
-    "lightlyActive": "軽度に活動的：週に1〜3日運動する",
-    "moderatelyActive": "中程度に活動的：週に3〜5日運動する",
-    "veryActive": "非常に活動的：週に6〜7日運動する",
-    "extraActive": "極度に活動的：非常に激しい運動と肉体労働"
+  "lightlyActive": "軽度に活動的：週に1〜3日運動する",
+  "moderatelyActive": "中程度に活動的：週に3〜5日運動する",
+  "veryActive": "非常に活動的：週に6〜7日運動する",
+  "extraActive": "極度に活動的：非常に激しい運動と肉体労働"
   },
   "macronutrientPlan": "主要栄養素プランを選択",
   "balanced": "バランス型（炭水化物40%、タンパク質30%、脂質30%）",
@@ -405,8 +390,7 @@
         "勤務時間の計算：タイムシートの日次または週次の勤務時間を簡単に計算します。",
         "イベント計画：会議、約束、イベントの所要時間を決定します。",
         "活動記録：趣味、勉強、運動に費やす時間を監視します。"
-      ],
-      "list": []
+      ]
     }
   ],
   "navDateCalculator": "日付計算機",
@@ -437,6 +421,239 @@
         "<strong>健康関連の予定：</strong>医療予約や投薬スケジュールを管理します。予約の3ヶ月後にフォローアップをスケジュールする必要がある場合、このツールは正確な日付を提供します。",
         "<strong>財務計画：</strong>特定の年数と月数にわたるローンや投資計画の期日を計算します。",
         "<strong>妊娠計画：</strong>当社の<a href='/ja/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>妊娠出産予定日計算機</a>は詳細な出産予定日の推定を提供しますが、このツールは妊娠期間中の特定の日付に関する迅速な計算に使用できます。"
+      ]
+    }
+  ],
+  "navBmiCalculator": "BMI計算機",
+  "homeBmiCalculatorDescription": "あなたの体重の健康状態を理解するために、ボディマス指数を計算します。",
+  "seoBmiTitle": "ボディマス指数（BMI）計算機 - あなたの体重の健康状態を確認",
+  "seoBmiDescription": "身長と体重に基づいて体脂肪を推定するために、無料で正確なボディマス指数計算機を使用してください。健康的な体重であるかどうかを確認します。",
+  "bmiTitle": "ボディマス指数（BMI）計算機",
+  "bmiSubheading": "あなたの体重状態を評価するためにBMIを計算します。",
+  "calculateBmiButton": "BMIを計算",
+  "bmiResultLabel": "あなたのBMIは",
+  "bmiCategoryLabel": "あなたのカテゴリーは：",
+  "underweight": "低体重",
+  "normalWeight": "普通体重",
+  "overweight": "過体重",
+  "obesity": "肥満",
+  "seoBmiSections": [
+    {
+      "heading": "BMIとは何か、どのように機能するのか？",
+      "paragraphs": [
+        "ボディマス指数（BMI）は、身長と体重を使用して体脂肪を推定する簡単な測定値です。人の体重が健康的な範囲内にあるかどうかを判断するために広く使用されている一般的なスクリーニングツールです。基本的な計算式は、体重（kg）を身長（m）の2乗で割ったものです（kg/m²）。当社の計算機は、このプロセスを自動化して、迅速かつ正確な結果を提供します。",
+        "BMIを理解することは、健康的な体重管理に向けた重要な第一歩です。現在の体重を維持または変更することを目指しているかどうかにかかわらず、現実的な目標を設定するのに役立ちます。体重を効果的に管理するためには、エネルギー必要量を理解することも重要です。これは、<a href=\"/ja/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">カロリー計算機</a>を使用して計算できます。"
+      ]
+    },
+    {
+      "heading": "BMIの結果を理解する（カテゴリー）",
+      "paragraphs": [
+        "BMIを計算した後、結果は健康状態を理解するのに役立つように特定のカテゴリーに分類されます。成人向けの標準カテゴリーは次のとおりです。",
+        "<strong>18.5未満：</strong>低体重。これは、栄養が不足しているか、基礎疾患の兆候である可能性があります。",
+        "<strong>18.5～24.9：</strong>普通体重。この範囲は、身長に対して健康的な体重であり、慢性疾患のリスクを低減することを示唆しています。",
+        "<strong>25.0～29.9：</strong>過体重。このカテゴリーでは、心臓病や2型糖尿病などの特定の健康問題を発症するリスクが高まる可能性があります。",
+        "<strong>30.0以上：</strong>肥満。肥満は、深刻な健康問題のリスクを大幅に高め、ライフスタイルの変更や医療専門家との相談を通じて特別な注意が必要です。"
+      ]
+    },
+    {
+      "heading": "健康的なBMIを維持することの重要性",
+      "paragraphs": [
+        "正常範囲内（18.5-24.9）のBMIを維持することは、全体的な健康にとって不可欠です。過体重または肥満は、高血圧、心臓病、脳卒中、2型糖尿病、特定のがんなど、多くの慢性疾患のリスク増加と関連しています。一方、低体重も免疫系の低下、骨粗鬆症、不妊の問題などの健康問題につながる可能性があります。したがって、健康的な体重を達成し、維持することは、健康的なライフスタイルの重要な部分です。"
+      ]
+    },
+    {
+      "heading": "BMIの限界",
+      "paragraphs": [
+        "BMIは有用なスクリーニングツールですが、限界がないわけではありません。脂肪量と筋肉量を区別しません。これは、アスリートのような非常に筋肉質の個人が、体脂肪が低いにもかかわらず高いBMIを持ち、過体重として分類される可能性があることを意味します。",
+        "さらに、BMIの解釈は、年齢や性別などの要因によって影響を受ける可能性があります。たとえば、筋肉量が減少した高齢者は、BMIが正常であっても健康的な体脂肪率を持っている可能性があります。時間の経過とともに体がどのように変化するかは、<a href=\"/ja/age-calculator\" class=\"text-blue-500 hover:underline\">年齢計算機</a>で調べることができます。これらの理由から、BMIは包括的な健康評価の一部として使用されるべきであり、単一の診断ツールとして使用されるべきではありません。"
+      ]
+    },
+    {
+      "heading": "BMIを改善する方法",
+      "paragraphs": [
+        "BMIの結果が正常範囲外である場合、それを改善するために取ることができるステップがあります。これには通常、バランスの取れた食事と定期的な身体活動の組み合わせが含まれます。現実的で段階的な目標を設定することで、健康的な体重を達成し、維持することができます。<a href=\"/ja/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">カロリー計算機</a>は、食事の計画を立てるのに役立つ優れたツールになります。",
+        "他の健康状態を考慮することも重要です。たとえば、妊娠中は健康的なBMIを維持することが特に重要であり、<a href=\"/ja/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">妊娠出産予定日計算機</a>で進捗状況を追跡できます。個々のニーズに合ったパーソナライズされたプランを作成するために、医療専門家または登録栄養士に相談することを常にお勧めします。"
+      ]
+    }
+  ],
+  "navStopwatch": "ストップウォッチ",
+  "homeStopwatchDescription": "ラップとクリアな表示で経過時間を正確に測定します。",
+  "seoStopwatchTitle": "ラップ機能付き無料オンラインストップウォッチ",
+  "seoStopwatchDescription": "ラップ機能を備えた、シンプルで正確な無料オンラインストップウォッチ。スポーツ、トレーニング、あらゆる活動の計時に最適です。",
+  "stopwatchTitle": "ストップウォッチ",
+  "stopwatchSubheading": "経過時間を正確に測定します。",
+  "startButton": "スタート",
+  "stopButton": "ストップ",
+  "lapButton": "ラップ",
+  "lapColumnHeader": "ラップ",
+  "timeColumnHeader": "時間",
+  "seoStopwatchSections": [
+    {
+      "heading": "オンラインストップウォッチの使い方",
+      "paragraphs": [
+        "当社のオンラインストップウォッチは、経過時間を測定するためのシンプルで正確なツールです。ワンクリックでタイマーを開始・停止でき、センチ秒単位の精度であらゆる活動を追跡できます。「ラップ」機能を使えば、メインタイマーを中断することなくスプリットタイムを記録でき、複数のインターバルでのパフォーマンス追跡に最適です。終了したら、「リセット」ボタンでタイマーと記録されたすべてのラップがクリアされ、次の計時セッションの準備ができます。特定の開始時刻と終了時刻の間の時間を計算する必要がある場合（タイムシートなど）、<a href=\"/ja/hours-calculator\" class=\"text-blue-500 hover:underline\">時間計算機</a>が最適なツールです。"
+      ]
+    },
+    {
+      "heading": "ストップウォッチの実用的な応用",
+      "paragraphs": [
+        "ストップウォッチは、日常生活、スポーツ、専門的な場面で数多くの用途を持つ非常に多目的なツールです。記録したラップタイムで計算（加算など）を行う必要がある場合、<a href=\"/ja/time-Calculator\" class=\"text-blue-500 hover:underline\">時間計算機</a>がそれらの操作を簡単に処理できます。"
+      ],
+      "list": [
+        "<strong>スポーツとフィットネス：</strong>ランニング、水泳、サイクリングのラップタイム計測、トレーニングセット間の休憩時間の測定。",
+        "<strong>料理とベーキング：</strong>お茶を蒸らす時間からケーキを焼く時間まで、レシピの時間を正確に計る。",
+        "<strong>勉強と生産性：</strong>ポモドーロ・テクニックのように、ストップウォッチで計時された集中作業インターバルを使用するテクニック。",
+        "<strong>テストとプレゼンテーション：</strong>スピーチの練習や試験の時間を計り、ペース配分とパフォーマンスを向上させる。"
+      ]
+    }
+  ],
+  "navConstructionCalculators": "建設計算機",
+  "navRoofingCalculator": "屋根計算機",
+  "homeRoofingCalculatorDescription": "屋根プロジェクトの材料とコストを計算します。",
+  "seoRoofingTitle": "屋根計算機 - 材料とコストを計算",
+  "seoRoofingDescription": "寸法と屋根の勾配に基づいて、プロジェクトに必要な屋根材の量と推定コストを計算する無料のオンラインツール。",
+  "roofingTitle": "屋根計算機",
+  "roofingSubheading": "屋根に必要な材料とコストを計算します。",
+  "calculationMethodLabel": "計算方法",
+  "totalAreaMethod": "総面積に基づく",
+  "groundDimensionsMethod": "地面の寸法に基づく",
+  "totalAreaLabel": "屋根の総面積",
+  "buildingLengthLabel": "建物の長さ",
+  "buildingWidthLabel": "建物の幅",
+  "roofPitchLabel": "屋根の勾配",
+  "roofingPitchTooltip": "屋根の勾配を比率（例：4:12）または度数（例：18.4）で入力してください。陸屋根の場合は0を使用してください。",
+  "wasteFactorLabel": "廃材率（%）",
+  "pricePerUnitLabel": "単価",
+  "calculateRoofingButton": "屋根を計算",
+  "resultsTitle": "計算結果",
+  "baseRoofAreaResult": "屋根の基本面積",
+  "totalRoofAreaResult": "総面積（廃材込み）",
+  "materialsNeededResult": "必要な材料",
+  "totalCostResult": "推定総コスト",
+  "sqmUnit": "m²",
+  "squaresUnit": "スクエア",
+  "sqftUnit": "平方フィート",
+  "roofPitchTypeLabel": "屋根勾配の種類",
+  "pitchRatio": "比率",
+  "pitchDegrees": "度数",
+  "roundUpLabel": "整数単位に切り上げ",
+  "errorInvalidPitch": "無効な屋根勾配です。比率（例：4:12）または度数（例：18.4）で入力してください。",
+  "materialTypeLabel": "材料の種類",
+  "shingles": "シングル（〜¥2,000/m²）",
+  "epdm": "EPDM（〜¥2,500/m²）",
+  "roofTiles": "瓦（〜¥4,000/m²）",
+  "metal": "金属（〜¥3,000/m²）",
+  "customPrice": "カスタム価格",
+  "wasteAmountResult": "廃材の余裕分",
+  "roofingPitchRatioPlaceholder": "例：4:12",
+  "roofingPitchDegreesPlaceholder": "例：18.4",
+  "seoRoofingSections": [
+    {
+      "heading": "屋根計算機の仕組み",
+      "paragraphs": [
+        "当社の無料<strong>屋根計算機</strong>は、屋根の面積、必要な材料、そしてコストを迅速に見積もるのに役立ちます。寸法と勾配、またはすでに分かっている場合は総面積を入力するだけで、<strong>屋根の見積もり</strong>が即座に表示されます。DIY愛好家からプロの業者まで、誰にとっても完璧なツールです。"
+      ]
+    },
+    {
+      "heading": "正確な見積もりのための実践的なヒント",
+      "paragraphs": [
+        "成功するプロジェクトは正確な計画から始まります。<strong>屋根面積の計算</strong>を正しく行うために、以下のヒントを活用してください。"
+      ],
+      "list": [
+        "<strong>正確な測定：</strong>屋根面積の長さと幅を再確認してください。正確な測定は、あらゆる計算の基礎です。",
+        "<strong>適切な廃材率の選択：</strong>単純な屋根では5〜10%の追加で十分かもしれませんが、多くの角度、ドーマー、または煙突を持つ複雑な屋根では、約15%といったより高い率が必要です。",
+        "<strong>材料の選択を考慮する：</strong>各材料（シングル、EPDM、瓦、金属）は、価格と設置の複雑さが異なります。情報に基づいた決定を下すために、当社のツールでコストを比較してください。",
+        "<strong>地域の要件を確認する：</strong>一部の地域には特定の建築基準や要件があります。開始する前に、必ず地域のガイドラインを確認してください。"
+      ]
+    },
+    {
+      "heading": "よくある質問（FAQ）",
+      "paragraphs": [
+        "<strong>Q: これは屋根工事の費用計算機でもありますか？</strong><br>A: はい！必要な材料を計算した後、単価（m²またはスクエアあたり）を入力して、プロジェクトの即時コスト見積もりを取得できます。",
+        "<strong>Q: プロジェクトに必要な屋根材はどれくらいですか？</strong><br>A: 基本的な計算式には、屋根の寸法と勾配に基づいて総表面積を計算し、次に廃材率（通常10〜15%）を追加することが含まれます。当社のツールは、このプロセス全体を自動化します。",
+        "<strong>Q: 「ルーフィングスクエア」とは何ですか？</strong><br>A: 「ルーフィングスクエア」は、米国で一般的に使用されるインペリアル単位で、100平方フィートに相当します。当社の計算機は、スクエアと平方メートル（m²）の両方で結果を提供できます。"
+      ]
+    },
+    {
+      "heading": "屋根の見積もりを今すぐ入手！",
+      "paragraphs": [
+        "今すぐ当社の屋根計算機を試して、即時の屋根見積もりを入手してください！不要なコストを避け、仕事を正しく行うために適切な量の材料があることを確認してください。"
+      ]
+    }
+  ],
+  "navConcreteCalculator": "コンクリート計算機",
+  "homeConcreteCalculatorDescription": "コンクリートプロジェクトに必要な体積と材料を見積もります。",
+  "seoConcreteTitle": "プロフェッショナルコンクリート計算機 - 体積、袋、コスト",
+  "seoConcreteDescription": "スラブ、フーチング、柱、階段の体積、セメント袋、砂、砂利、総コストを見積もるオンラインコンクリート計算機。メートル法とヤード・ポンド法をサポートします。",
+  "concreteTitle": "プロフェッショナルコンクリート計算機",
+  "concreteSubheading": "プロジェクトの体積、材料、コストを見積もります。",
+  "shapeLabel": "形状",
+  "slab": "スラブ / 床",
+  "footing": "フーチング",
+  "column": "柱（長方形）",
+  "circularColumn": "柱（円形）",
+  "stairs": "階段",
+  "lengthLabel": "長さ",
+  "widthLabel": "幅",
+  "thicknessLabel": "厚さ",
+  "depthLabel": "深さ",
+  "heightLabel": "高さ",
+  "diameterLabel": "直径",
+  "stepsLabel": "段数",
+  "riserLabel": "蹴上げ",
+  "treadLabel": "踏み面",
+  "calculateConcreteButton": "コンクリートを計算",
+  "resultsTitle": "計算結果",
+  "concreteVolumeResult": "総コンクリート体積",
+  "concreteWithWasteResult": "体積（廃材込み）",
+  "cementBagsResult": "セメント袋",
+  "sandRequiredResult": "必要な砂",
+  "gravelRequiredResult": "必要な砂利",
+  "bagSizeLabel": "袋のサイズ",
+  "kgBag": "kg",
+  "lbsBag": "ポンド",
+  "concreteMixRatioLabel": "混合比（セメント：砂：砂利）",
+  "bagsUnit": "袋",
+  "costBreakdownTitle": "推定コスト内訳",
+  "pricePerBagLabel": "袋あたりの価格",
+  "pricePerSandLabel": "砂{unit}あたりの価格",
+  "pricePerGravelLabel": "砂利{unit}あたりの価格",
+  "cementCostResult": "セメントコスト",
+  "sandCostResult": "砂コスト",
+  "gravelCostResult": "砂利コスト",
+  "totalCostResult": "総コスト",
+  "concreteResetButton": "リセット",
+  "wasteFactorTooltip": "廃材率は、こぼれや型枠のばらつきを考慮します。通常は5〜10%です。",
+  "mixRatioTooltip": "セメント、砂、砂利の体積比を表します。1:2:4は、汎用コンクリートの一般的な混合比です。",
+  "mixRatioLabel": "混合比",
+  "mixRatio_1_1_5_3": "1:1.5:3（高強度）",
+  "mixRatio_1_2_4": "1:2:4（標準）",
+  "mixRatio_1_3_6": "1:3:6（基礎）",
+  "transportationCostLabel": "輸送費（オプション）",
+  "currencyLabel": "通貨",
+  "printResultsButton": "印刷 / PDF保存",
+  "errorPositiveNumbers": "すべての寸法に有効な正の数値を入力してください。",
+  "transportationCostResult": "輸送費",
+  "seoConcreteSections": [
+    {
+      "heading": "<h2>オンラインコンクリート計算機の使い方</h2>",
+      "paragraphs": [
+        "当社の<strong>オンラインコンクリート計算機</strong>は、プロジェクトの計画を簡素化します。スラブ、フーチング、柱のいずれを打設する場合でも、このツールは必要な<strong>コンクリート体積</strong>を正確に判断するのに役立ちます。形状を選択し、寸法を入力するだけで、計算機が<strong>コンクリートの配合</strong>の詳細な内訳を提供します。この計算機はモバイル向けに最適化されており、現場で即座に材料を見積もることができます。"
+      ]
+    },
+    {
+      "heading": "<h2>コンクリートの配合と材料を理解する</h2>",
+      "paragraphs": [
+        "<strong>コンクリートの配合</strong>（セメント、砂、砂利の比率）は、構造物の強度を決定します。当社の計算機では、一般的な配合から選択できます。以下の表は、1立方メートルあたりに必要なセメント袋の数の目安を示しています。",
+        "<table class='w-full text-left border-collapse mt-4'><thead><tr class='bg-gray-100 dark:bg-gray-700'><th class='p-2 border dark:border-gray-600'>配合（セメント：砂：砂利）</th><th class='p-2 border dark:border-gray-600'>一般的な用途</th><th class='p-2 border dark:border-gray-600'>m³あたりの25kg袋（約）</th></tr></thead><tbody><tr><td class='p-2 border dark:border-gray-600'>1:1.5:3</td><td class='p-2 border dark:border-gray-600'>高強度</td><td class='p-2 border dark:border-gray-600'>16-18袋</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:2:4</td><td class='p-2 border dark:border-gray-600'>標準/汎用</td><td class='p-2 border dark:border-gray-600'>12-14袋</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:3:6</td><td class='p-2 border dark:border-gray-600'>基礎/充填</td><td class='p-2 border dark:border-gray-600'>8-10袋</td></tr></tbody></table>"
+      ]
+    },
+    {
+      "heading": "<h2>よくある質問（FAQ）</h2>",
+      "paragraphs": [
+        "<strong>Q: スラブに必要なコンクリートの量を計算するにはどうすればよいですか？</strong><br>A: 体積を計算するには、長さ、幅、厚さを掛け合わせます。たとえば、長さ5m、幅4m、厚さ10cmのスラブの場合：5m × 4m × 0.10m = 2立方メートル。当社の<strong>コンクリート計算</strong>ツールは、さまざまな形状でこれを自動化します。",
+        "<strong>Q: 1立方メートルあたり何袋のセメントが必要ですか？</strong><br>A: これは配合比によって異なります。標準的な1:2:4の配合の場合、1立方メートルのコンクリートあたり約12〜14袋（各25kg）のセメントが必要です。上の表に目安が記載されています。",
+        "<strong>Q: 標準的なコンクリートの配合比は何ですか？</strong><br>A: 1:2:4の比率は、床、パティオ、基礎などのほとんどの住宅プロジェクトに適した汎用コンクリートの標準的な配合と見なされています。"
       ]
     }
   ]

@@ -61,32 +61,9 @@ export const languagesWithStopwatch: LangEnum[] = [
   LangEnum.TH,
   LangEnum.TR,
   LangEnum.VI,
-  LangEnum.AR,
 ];
 
 export const languagesWithConstructionCalculators: LangEnum[] = [
-  LangEnum.NL,
-  LangEnum.EN,
-  LangEnum.ES,
-  LangEnum.FR,
-  LangEnum.DE,
-  LangEnum.PT,
-  LangEnum.IT,
-  LangEnum.HI,
-  LangEnum.RU,
-  LangEnum.JA,
-  LangEnum.ZH,
-  LangEnum.PL,
-  LangEnum.FA,
-  LangEnum.KO,
-  LangEnum.TH,
-  LangEnum.TR,
-  LangEnum.VI,
-  LangEnum.AR,
-];
-
-// FIX: Add missing export for languagesWithConcreteCalculator.
-export const languagesWithConcreteCalculator: LangEnum[] = [
   LangEnum.NL,
   LangEnum.EN,
   LangEnum.ES,
