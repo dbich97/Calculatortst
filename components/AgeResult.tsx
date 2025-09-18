@@ -28,7 +28,7 @@ const InfoRow: React.FC<{ icon: React.ReactNode; label: string; value: string | 
 const AgeResult: React.FC<AgeResultProps> = ({ age, additionalInfo, t }) => {
     const [isCopied, setIsCopied] = useState(false);
 
-    const shareText = t.shareResultText
+    const shareText = (t.shareResultText || '')
       .replace('{years}', age.years.toString())
       .replace('{months}', age.months.toString())
       .replace('{days}', age.days.toString());

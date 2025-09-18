@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect, useRef } from 'react';
 import { useParams, useNavigate, Outlet, NavLink, Link, useLocation } from 'react-router-dom';
 import { LanguageCode, type Translation } from '../types';
@@ -146,7 +147,7 @@ const Layout: React.FC = () => {
         </>
     );
     
-    const footerRightsText = t.footerRights.replace('{year}', new Date().getFullYear().toString());
+    const footerRightsText = (t.footerRights || '').replace('{year}', new Date().getFullYear().toString());
 
     return (
         <div className="min-h-screen bg-gray-100 dark:bg-gray-900 text-gray-900 dark:text-gray-100 flex flex-col">

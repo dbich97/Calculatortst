@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import { useOutletContext } from 'react-router-dom';
 import type { Translation, LanguageCode } from '../types';
@@ -119,3 +120,4 @@ const MenstrualCycleCalculatorPage: React.FC = () => {
 };
 
 export default MenstrualCycleCalculatorPage;
+    

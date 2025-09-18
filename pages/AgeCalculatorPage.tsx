@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react';
 import { useOutletContext } from 'react-router-dom';
 import type { Translation, LanguageCode, Age, AdditionalInfo } from '../types';
@@ -158,3 +159,4 @@ const AgeCalculatorPage: React.FC = () => {
 };
 
 export default AgeCalculatorPage;
+    

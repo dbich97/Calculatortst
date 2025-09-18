@@ -1,6 +1,7 @@
+
 import React from 'react';
 import { useOutletContext } from 'react-router-dom';
-import type { Translation, LanguageCode } from '../types';
+import type { Translation, LanguageCode, PrivacySection } from '../types';
 import { usePageMetadata } from '../lib/hooks';
 
 interface PageContext {
@@ -13,6 +14,8 @@ const PrivacyPolicyPage: React.FC = () => {
 
   usePageMetadata(t.privacyTitle);
 
+  const { privacyContent } = t;
+
   return (
     <main className="w-full max-w-3xl mx-auto px-4 py-8 md:py-12">
       <article className="bg-white dark:bg-gray-800 rounded-2xl shadow-xl p-6 md:p-10">
@@ -21,13 +24,15 @@ const PrivacyPolicyPage: React.FC = () => {
         </h1>
         <div className="prose prose-lg dark:prose-invert max-w-none text-gray-700 dark:text-gray-300">
           <p className="lead text-center mb-8">{t.privacyHeading}</p>
-          {t.privacyContent.map((section, index) => (
-            <section key={index} className="mb-6">
-              <h2 className="text-2xl font-semibold">{section.heading}</h2>
-              {section.paragraphs.map((paragraph, pIndex) => (
-                 <p key={pIndex}>{paragraph}</p>
-              ))}
-            </section>
+          {Array.isArray(privacyContent) && privacyContent.map((section: PrivacySection, index: number) => (
+            section && (
+              <section key={index} className="mb-6">
+                <h2 className="text-2xl font-semibold">{section.heading}</h2>
+                {Array.isArray(section.paragraphs) && section.paragraphs.map((paragraph: string, pIndex: number) => (
+                   <p key={pIndex}>{paragraph}</p>
+                ))}
+              </section>
+            )
           ))}
         </div>
       </article>
@@ -36,3 +41,4 @@ const PrivacyPolicyPage: React.FC = () => {
 };
 
 export default PrivacyPolicyPage;
+    

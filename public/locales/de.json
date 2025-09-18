@@ -62,7 +62,7 @@
     {
       "heading": "Wie unser Altersrechner funktioniert",
       "paragraphs": [
-        "Unser Altersrechner berechnet Ihr Alter mit hoher Präzision, indem er Ihr Geburtsdatum mit dem aktuellen Datum vergleicht. Das Tool berechnet die gesamte vergangene Zeit und unterteilt sie in Jahre, Monate und Tage. Es berücksichtigt Schaltjahre, um ein genaues Ergebnis zu liefern, was es zu einem zuverlässigen Werkzeug für jeden macht, der sich fragt: 'Wie alt bin ich?'. Geben Sie einfach Ihr Geburtsdatum ein, und der Rechner zeigt sofort Ihr chronologisches Alter an. Für andere zeitbezogene Berechnungen können Sie auch unseren <a href=\"/de/time-Calculator\" class=\"text-blue-500 hover:underline\">Zeitrechner</a> ausprobieren."
+        "Unser Altersrechner berechnet Ihr Alter mit hoher Präzision, indem er Ihr Geburtsdatum mit dem aktuellen Datum vergleicht. Das Tool berechnet die gesamte vergangene Zeit und unterteilt sie in Jahre, Monate und Tage. Es berücksichtigt Schaltjahre, um ein genaues Ergebnis zu liefern, was es zu einem zuverlässigen Werkzeug für jeden macht, der sich fragt: 'Wie alt bin ich?'. Geben Sie einfach Ihr Geburtsdatum ein, und der Rechner zeigt sofort Ihr chronologisches Alter an. Für andere zeitbezogene Berechnungen können Sie auch unseren <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Zeitrechner</a> ausprobieren."
       ]
     },
     {
@@ -137,7 +137,7 @@
     {
       "heading": "Wie unser Geburtsterminrechner funktioniert",
       "paragraphs": [
-        "Unser Schwangerschafts-Geburtsterminrechner schätzt Ihren voraussichtlichen Entbindungstermin mit verschiedenen Methoden. Die gebräuchlichste Methode basiert auf dem ersten Tag Ihrer letzten Menstruation (LMP). Dieser Ansatz, bekannt als Naegele-Regel, addiert 280 Tage (40 Wochen) zu Ihrer LMP, um den Geburtstermin vorherzusagen. Für eine höhere Genauigkeit, insbesondere bei unregelmäßigen Zyklen, können Sie unseren <a href=\"/de/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstruationszyklus-Rechner</a> verwenden, um Ihre Periode zu verfolgen. Wir bieten auch Berechnungen basierend auf dem Empfängnisdatum an, das mit unserem <a href=\"/de/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Eisprungrechner</a> identifiziert werden kann, oder Ihrem IVF-Transferdatum. Es ist wichtig zu bedenken, dass dieses Datum eine Schätzung ist. Nur etwa 5% der Babys werden an ihrem genauen Geburtstermin geboren. Dieses Tool bietet eine zuverlässige Richtlinie, um Ihnen und Ihrem Gesundheitsdienstleister bei der Planung der Ankunft Ihres Babys zu helfen."
+        "Unser Schwangerschafts-Geburtsterminrechner schätzt Ihren voraussichtlichen Entbindungstermin mit verschiedenen Methoden. Die gebräuchlichste Methode basiert auf dem ersten Tag Ihrer letzten Menstruation (LMP). Dieser Ansatz, bekannt als Naegele-Regel, addiert 280 Tage (40 Wochen) zu Ihrer LMP, um den Geburtstermin vorherzusagen. Für eine höhere Genauigkeit, insbesondere bei unregelmäßigen Zyklen, können Sie unseren <a href=\"/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstruationszyklus-Rechner</a> verwenden, um Ihre Periode zu verfolgen. Wir bieten auch Berechnungen basierend auf dem Empfängnisdatum an, das mit unserem <a href=\"/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Eisprungrechner</a> identifiziert werden kann, oder Ihrem IVF-Transferdatum. Es ist wichtig zu bedenken, dass dieses Datum eine Schätzung ist. Nur etwa 5% der Babys werden an ihrem genauen Geburtstermin geboren. Dieses Tool bietet eine zuverlässige Richtlinie, um Ihnen und Ihrem Gesundheitsdienstleister bei der Planung der Ankunft Ihres Babys zu helfen."
       ]
     },
     {
@@ -163,7 +163,7 @@
     {
       "heading": "Wie Sie Ihre fruchtbarsten Tage vorhersagen",
       "paragraphs": [
-        "Unser Eisprungrechner ist ein einfaches Werkzeug, das Ihnen hilft, Ihre fruchtbarsten Tage des Monats vorherzusagen. Durch Eingabe des ersten Tages Ihrer letzten Menstruation und Ihrer durchschnittlichen Zykluslänge, die Sie mit unserem <a href=\"/de/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstruationszyklus-Rechner</a> verfolgen können, schätzt der Rechner Ihr wahrscheinliches Eisprungdatum. Der Eisprung ist die Freisetzung einer Eizelle aus Ihrem Eierstock, was normalerweise etwa 14 Tage vor Beginn Ihrer nächsten Periode geschieht. Ihr 'fruchtbares Fenster' umfasst den Tag des Eisprungs und die fünf Tage davor. Dies liegt daran, dass Spermien bis zu fünf Tage im weiblichen Fortpflanzungstrakt überleben können. Geschlechtsverkehr während dieses Fensters erhöht Ihre Chancen auf eine Empfängnis erheblich. Sobald Sie schwanger sind, können Sie Ihre Reise mit unserem <a href=\"/de/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Schwangerschafts-Geburtsterminrechner</a> verfolgen."
+        "Unser Eisprungrechner ist ein einfaches Werkzeug, das Ihnen hilft, Ihre fruchtbarsten Tage des Monats vorherzusagen. Durch Eingabe des ersten Tages Ihrer letzten Menstruation und Ihrer durchschnittlichen Zykluslänge, die Sie mit unserem <a href=\"/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstruationszyklus-Rechner</a> verfolgen können, schätzt der Rechner Ihr wahrscheinliches Eisprungdatum. Der Eisprung ist die Freisetzung einer Eizelle aus Ihrem Eierstock, was normalerweise etwa 14 Tage vor Beginn Ihrer nächsten Periode geschieht. Ihr 'fruchtbares Fenster' umfasst den Tag des Eisprungs und die fünf Tage davor. Dies liegt daran, dass Spermien bis zu fünf Tage im weiblichen Fortpflanzungstrakt überleben können. Geschlechtsverkehr während dieses Fensters erhöht Ihre Chancen auf eine Empfängnis erheblich. Sobald Sie schwanger sind, können Sie Ihre Reise mit unserem <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Schwangerschafts-Geburtsterminrechner</a> verfolgen."
       ]
     },
     {
@@ -185,7 +185,7 @@
     {
       "heading": "Wie unser Periodenrechner funktioniert",
       "paragraphs": [
-        "Unser Menstruationszyklus-Rechner hilft Ihnen, das Startdatum Ihrer nächsten Periode mit nur zwei Informationen vorherzusagen: dem ersten Tag Ihrer letzten Periode und der durchschnittlichen Länge Ihres Menstruationszyklus. Indem Sie Ihre durchschnittliche Zykluslänge zum Startdatum Ihrer letzten Periode addieren, liefert das Tool ein geschätztes Datum für Ihre nächsten beiden Perioden. Das Wissen um Ihren Zyklus ist auch der Schlüssel zur Identifizierung der fruchtbaren Fenster mit unserem <a href=\"/de/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Eisprungrechner</a>. Das Verfolgen Ihres Zyklus ist mehr als nur Bequemlichkeit; es ist ein wichtiger Indikator für Ihre allgemeine Gesundheit. Regelmäßige, vorhersagbare Zyklen deuten oft darauf hin, dass die Hormone Ihres Körpers korrekt funktionieren. Sobald Sie schwanger sind, kann unser <a href=\"/de/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Schwangerschafts-Geburtsterminrechner</a> helfen, Ihren Geburtstermin zu schätzen."
+        "Unser Menstruationszyklus-Rechner hilft Ihnen, das Startdatum Ihrer nächsten Periode mit nur zwei Informationen vorherzusagen: dem ersten Tag Ihrer letzten Periode und der durchschnittlichen Länge Ihres Menstruationszyklus. Indem Sie Ihre durchschnittliche Zykluslänge zum Startdatum Ihrer letzten Periode addieren, liefert das Tool ein geschätztes Datum für Ihre nächsten beiden Perioden. Das Wissen um Ihren Zyklus ist auch der Schlüssel zur Identifizierung der fruchtbaren Fenster mit unserem <a href=\"/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Eisprungrechner</a>. Das Verfolgen Ihres Zyklus ist mehr als nur Bequemlichkeit; es ist ein wichtiger Indikator für Ihre allgemeine Gesundheit. Regelmäßige, vorhersagbare Zyklen deuten oft darauf hin, dass die Hormone Ihres Körpers korrekt funktionieren. Sobald Sie schwanger sind, kann unser <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Schwangerschafts-Geburtsterminrechner</a> helfen, Ihren Geburtstermin zu schätzen."
       ]
     },
     {
@@ -293,7 +293,7 @@
     {
       "heading": "Ihren täglichen Kalorienbedarf verstehen",
       "paragraphs": [
-        "Eine Kalorie ist eine Energieeinheit. In der Ernährung beziehen sich Kalorien auf die Energie, die Menschen aus den von ihnen konsumierten Lebensmitteln und Getränken erhalten, und die Energie, die sie bei körperlicher Aktivität verbrauchen. Das Verständnis Ihres täglichen Kalorienbedarfs, der oft von Faktoren wie Ihrem Alter abhängt (finden Sie es mit unserem <a href=\"/de/age-calculator\" class=\"text-blue-500 hover:underline\">Altersrechner</a>), ist der erste Schritt zur Erreichung Ihrer Gewichtsziele, sei es Abnehmen, Zunehmen oder Halten Ihres aktuellen Gewichts.",
+        "Eine Kalorie ist eine Energieeinheit. In der Ernährung beziehen sich Kalorien auf die Energie, die Menschen aus den von ihnen konsumierten Lebensmitteln und Getränken erhalten, und die Energie, die sie bei körperlicher Aktivität verbrauchen. Das Verständnis Ihres täglichen Kalorienbedarfs, der oft von Faktoren wie Ihrem Alter abhängt (finden Sie es mit unserem <a href=\"/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Altersrechner</a>), ist der erste Schritt zur Erreichung Ihrer Gewichtsziele, sei es Abnehmen, Zunehmen oder Halten Ihres aktuellen Gewichts.",
         "Unser Rechner beginnt mit der Bestimmung Ihres Grundumsatzes (BMR), d. h. der Anzahl der Kalorien, die Ihr Körper benötigt, um grundlegende lebenserhaltende Funktionen im Ruhezustand auszuführen, wie z. B. Atmung, Kreislauf und Zellproduktion. Wir verwenden für diese Berechnung die weithin anerkannte Mifflin-St-Jeor-Gleichung. Anschließend berücksichtigen wir Ihr Aktivitätsniveau, um Ihren täglichen Gesamtenergieverbrauch (TDEE) zu berechnen, der eine genauere Schätzung Ihres täglichen Kalorienverbrauchs darstellt."
       ]
     },
@@ -337,7 +337,7 @@
     {
       "heading": "Wie man den Zeitrechner benutzt",
       "paragraphs": [
-        "Unser Zeitrechner vereinfacht das Addieren und Subtrahieren von Zeit. Egal, ob Sie Arbeitsstunden verfolgen, Trainingseinheiten protokollieren oder eine Veranstaltung planen, dieses Tool bietet eine schnelle und genaue Lösung. Um die Dauer zwischen einer Start- und Endzeit zu berechnen, z. B. für einen Stundenzettel, steht Ihnen auch unser <a href=\"/de/hours-calculator\" class=\"text-blue-500 hover:underline\">Stundenrechner</a> zur Verfügung. Geben Sie einfach zwei Zeitdauern ein, wählen Sie, ob Sie sie addieren oder subtrahieren möchten, und erhalten Sie das Ergebnis sofort."
+        "Unser Zeitrechner vereinfacht das Addieren und Subtrahieren von Zeit. Egal, ob Sie Arbeitsstunden verfolgen, Trainingseinheiten protokollieren oder eine Veranstaltung planen, dieses Tool bietet eine schnelle und genaue Lösung. Um die Dauer zwischen einer Start- und Endzeit zu berechnen, z. B. für einen Stundenzettel, steht Ihnen auch unser <a href=\"/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Stundenrechner</a> zur Verfügung. Geben Sie einfach zwei Zeitdauern ein, wählen Sie, ob Sie sie addieren oder subtrahieren möchten, und erhalten Sie das Ergebnis sofort."
       ]
     },
     {
@@ -375,7 +375,7 @@
     {
       "heading": "Wie man den Stundenrechner benutzt",
       "paragraphs": [
-        "Unser Stundenrechner wurde entwickelt, um die Berechnung der Dauer zwischen zwei Zeitpunkten zu vereinfachen. Egal, ob Sie Arbeitszeiten, die Dauer einer Veranstaltung oder die für eine Aufgabe aufgewendete Zeit ermitteln, dieses Tool liefert ein schnelles und genaues Ergebnis. Für komplexere Berechnungen, die das Addieren oder Subtrahieren mehrerer Dauern beinhalten, schauen Sie sich unseren umfassenden <a href=\"/de/time-Calculator\" class=\"text-blue-500 hover:underline\">Zeitrechner</a> an. Geben Sie einfach die Start- und Endzeiten ein, und der Rechner erledigt den Rest, auch bei Fällen, die über Mitternacht hinausgehen."
+        "Unser Stundenrechner wurde entwickelt, um die Berechnung der Dauer zwischen zwei Zeitpunkten zu vereinfachen. Egal, ob Sie Arbeitszeiten, die Dauer einer Veranstaltung oder die für eine Aufgabe aufgewendete Zeit ermitteln, dieses Tool liefert ein schnelles und genaues Ergebnis. Für komplexere Berechnungen, die das Addieren oder Subtrahieren mehrerer Dauern beinhalten, schauen Sie sich unseren umfassenden <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Zeitrechner</a> an. Geben Sie einfach die Start- und Endzeiten ein, und der Rechner erledigt den Rest, auch bei Fällen, die über Mitternacht hinausgehen."
       ]
     },
     {
@@ -404,7 +404,7 @@
       "heading": "Wie man den Datumsrechner benutzt",
       "paragraphs": [
         "Unser Datumsrechner wurde entwickelt, um das Hinzufügen oder Subtrahieren von Zeiträumen von einem bestimmten Datum zu vereinfachen. Egal, ob Sie eine zukünftige Veranstaltung planen, einen Termin festlegen oder auf ein Datum in der Vergangenheit zurückblicken, dieses Tool liefert schnelle und genaue Berechnungen. Geben Sie einfach ein Startdatum ein und geben Sie dann die Anzahl der Jahre, Monate, Wochen und Tage an, die Sie hinzufügen oder abziehen möchten. Der Rechner berücksichtigt Details wie Schaltjahre und unterschiedliche Monatslängen, um die Genauigkeit zu gewährleisten.",
-        "Dieses Tool ergänzt unsere anderen zeitbasierten Dienstprogramme. Zum Beispiel können Sie unseren <a href='/de/age-calculator' class='text-blue-500 hover:underline'>Altersrechner</a> verwenden, um das Alter von jemandem zu bestimmen, oder unseren <a href='/de/hours-calculator' class='text-blue-500 hover:underline'>Stundenrechner</a>, um die Dauer zwischen zwei Uhrzeiten am selben Tag zu ermitteln. Für Berechnungen, die mehrere Zeitdauern umfassen, ist unser <a href='/de/time-Calculator' class='text-blue-500 hover:underline'>Zeitrechner</a> die perfekte Wahl."
+        "Dieses Tool ergänzt unsere anderen zeitbasierten Dienstprogramme. Zum Beispiel können Sie unseren <a href='/{currentLang}/age-calculator' class='text-blue-500 hover:underline'>Altersrechner</a> verwenden, um das Alter von jemandem zu bestimmen, oder unseren <a href='/{currentLang}/hours-calculator' class='text-blue-500 hover:underline'>Stundenrechner</a>, um die Dauer zwischen zwei Uhrzeiten am selben Tag zu ermitteln. Für Berechnungen, die mehrere Zeitdauern umfassen, ist unser <a href='/{currentLang}/time-Calculator' class='text-blue-500 hover:underline'>Zeitrechner</a> die perfekte Wahl."
       ]
     },
     {
@@ -415,7 +415,7 @@
         "<strong>Projektmanagement:</strong> Legen Sie einfach Projekttermine fest. Wenn ein Projekt am 15. Januar beginnt und 8 Wochen und 3 Tage dauert, können Sie sofort das genaue Enddatum finden.",
         "<strong>Gesundheitstermine:</strong> Behalten Sie den Überblick über Arzttermine oder Medikamentenpläne. Wenn Sie einen Folgetermin 3 Monate nach einem Termin vereinbaren müssen, gibt Ihnen dieses Tool das genaue Datum.",
         "<strong>Finanzplanung:</strong> Berechnen Sie Fälligkeitstermine für Kredite oder Investitionspläne, die sich über eine bestimmte Anzahl von Jahren und Monaten erstrecken.",
-        "<strong>Schwangerschaftsplanung:</strong> Während unser <a href='/de/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Schwangerschaftsrechner</a> detaillierte Geburtstermin-Schätzungen liefert, kann dieses Tool für schnelle Berechnungen zu bestimmten Terminen während der Schwangerschaft verwendet werden."
+        "<strong>Schwangerschaftsplanung:</strong> Während unser <a href='/{currentLang}/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Schwangerschaftsrechner</a> detaillierte Geburtstermin-Schätzungen liefert, kann dieses Tool für schnelle Berechnungen zu bestimmten Terminen während der Schwangerschaft verwendet werden."
       ]
     }
   ],
@@ -437,7 +437,7 @@
       "heading": "Was ist der BMI und wie funktioniert er?",
       "paragraphs": [
         "Der Body-Mass-Index (BMI) ist eine einfache Messung, die Ihre Größe und Ihr Gewicht verwendet, um Ihr Körperfett zu schätzen. Es ist ein weit verbreitetes und gängiges Screening-Tool, um festzustellen, ob das Gewicht einer Person in einem gesunden Bereich liegt. Die Grundformel lautet Gewicht in Kilogramm geteilt durch das Quadrat der Größe in Metern (kg/m²). Unser Rechner automatisiert diesen Prozess, um Ihnen ein schnelles und genaues Ergebnis zu liefern.",
-        "Das Verständnis Ihres BMI ist ein wichtiger erster Schritt zu einem gesunden Gewichtsmanagement. Es kann Ihnen helfen, realistische Ziele zu setzen, egal ob Sie Ihr aktuelles Gewicht halten oder ändern möchten. Um Ihr Gewicht effektiv zu managen, ist es auch entscheidend, Ihren Energiebedarf zu verstehen, den Sie mit unserem <a href=\"/de/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Kalorienrechner</a> berechnen können."
+        "Das Verständnis Ihres BMI ist ein wichtiger erster Schritt zu einem gesunden Gewichtsmanagement. Es kann Ihnen helfen, realistische Ziele zu setzen, egal ob Sie Ihr aktuelles Gewicht halten oder ändern möchten. Um Ihr Gewicht effektiv zu managen, ist es auch entscheidend, Ihren Energiebedarf zu verstehen, den Sie mit unserem <a href=\"/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Kalorienrechner</a> berechnen können."
       ]
     },
     {
@@ -460,14 +460,14 @@
       "heading": "Einschränkungen des BMI",
       "paragraphs": [
         "Obwohl der BMI ein nützliches Screening-Tool ist, hat er seine Grenzen. Er unterscheidet nicht zwischen Fett- und Muskelmasse. Dies bedeutet, dass sehr muskulöse Personen wie Sportler einen hohen BMI haben und als übergewichtig eingestuft werden können, obwohl sie wenig Körperfett haben.",
-        "Darüber hinaus kann die Interpretation des BMI von Faktoren wie Alter und Geschlecht beeinflusst werden. Zum Beispiel können ältere Erwachsene, die Muskelmasse verloren haben, einen gesunden Körperfettanteil haben, auch wenn ihr BMI normal ist. Sie können mit unserem <a href=\"/de/age-calculator\" class=\"text-blue-500 hover:underline\">Altersrechner</a> untersuchen, wie sich Ihr Körper im Laufe der Zeit verändert. Aus diesen Gründen sollte der BMI als Teil einer umfassenden Gesundheitsbewertung und nicht als alleiniges Diagnoseinstrument verwendet werden."
+        "Darüber hinaus kann die Interpretation des BMI von Faktoren wie Alter und Geschlecht beeinflusst werden. Zum Beispiel können ältere Erwachsene, die Muskelmasse verloren haben, einen gesunden Körperfettanteil haben, auch wenn ihr BMI normal ist. Sie können mit unserem <a href=\"/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Altersrechner</a> untersuchen, wie sich Ihr Körper im Laufe der Zeit verändert. Aus diesen Gründen sollte der BMI als Teil einer umfassenden Gesundheitsbewertung und nicht als alleiniges Diagnoseinstrument verwendet werden."
       ]
     },
     {
       "heading": "Wie Sie Ihren BMI verbessern können",
       "paragraphs": [
-        "Wenn Ihr BMI-Ergebnis außerhalb des Normalbereichs liegt, gibt es Schritte, die Sie unternehmen können, um es zu verbessern. Dies beinhaltet typischerweise eine Kombination aus einer ausgewogenen Ernährung und regelmäßiger körperlicher Aktivität. Das Setzen realistischer und schrittweiser Ziele kann Ihnen helfen, ein gesundes Gewicht zu erreichen und zu halten. Unser <a href=\"/de/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Kalorienrechner</a> kann ein großartiges Werkzeug sein, um Ihnen bei der Planung Ihrer Ernährung zu helfen.",
-        "Es ist auch wichtig, andere Gesundheitszustände zu berücksichtigen. Zum Beispiel ist die Aufrechterhaltung eines gesunden BMI während der Schwangerschaft besonders wichtig, und Sie können Ihren Fortschritt mit unserem <a href=\"/de/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Schwangerschaftsrechner</a> verfolgen. Wir empfehlen immer, einen Arzt oder einen registrierten Ernährungsberater zu konsultieren, um einen personalisierten Plan zu entwickeln, der Ihren individuellen Bedürfnissen entspricht."
+        "Wenn Ihr BMI-Ergebnis außerhalb des Normalbereichs liegt, gibt es Schritte, die Sie unternehmen können, um es zu verbessern. Dies beinhaltet typischerweise eine Kombination aus einer ausgewogenen Ernährung und regelmäßiger körperlicher Aktivität. Das Setzen realistischer und schrittweiser Ziele kann Ihnen helfen, ein gesundes Gewicht zu erreichen und zu halten. Unser <a href=\"/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Kalorienrechner</a> kann ein großartiges Werkzeug sein, um Ihnen bei der Planung Ihrer Ernährung zu helfen.",
+        "Es ist auch wichtig, andere Gesundheitszustände zu berücksichtigen. Zum Beispiel ist die Aufrechterhaltung eines gesunden BMI während der Schwangerschaft besonders wichtig, und Sie können Ihren Fortschritt mit unserem <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Schwangerschaftsrechner</a> verfolgen. Wir empfehlen immer, einen Arzt oder einen registrierten Ernährungsberater zu konsultieren, um einen personalisierten Plan zu entwickeln, der Ihren individuellen Bedürfnissen entspricht."
       ]
     }
   ],
@@ -487,14 +487,14 @@
       "heading": "Wie man die Online-Stoppuhr benutzt",
       "paragraphs": [
         "Unsere Online-Stoppuhr ist ein einfaches und präzises Werkzeug zum Messen der verstrichenen Zeit. Mit nur einem Klick können Sie den Timer starten und stoppen, um jede Aktivität mit einer Genauigkeit von bis zu einer Hundertstelsekunde zu verfolgen. Die 'Runden'-Funktion ermöglicht es Ihnen, Zwischenzeiten aufzuzeichnen, ohne den Haupttimer zu unterbrechen, was perfekt ist, um die Leistung über mehrere Intervalle zu verfolgen. Wenn Sie fertig sind, löscht die 'Zurücksetzen'-Taste den Timer und alle aufgezeichneten Runden und bereitet Sie auf die nächste Zeitmessung vor.",
-        "Während eine Stoppuhr hervorragend geeignet ist, um die Dauer von einem Startpunkt aus zu messen, ist unser <a href=\"/de/hours-calculator\" class=\"text-blue-500 hover:underline\">Stundenrechner</a> das perfekte Werkzeug, wenn Sie die Zeit zwischen einer bestimmten Start- und Endzeit berechnen müssen (wie bei einem Stundenzettel)."
+        "Während eine Stoppuhr hervorragend geeignet ist, um die Dauer von einem Startpunkt aus zu messen, ist unser <a href=\"/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Stundenrechner</a> das perfekte Werkzeug, wenn Sie die Zeit zwischen einer bestimmten Start- und Endzeit berechnen müssen (wie bei einem Stundenzettel)."
       ]
     },
     {
       "heading": "Praktische Anwendungen für eine Stoppuhr",
       "paragraphs": [
         "Eine Stoppuhr ist ein unglaublich vielseitiges Werkzeug mit zahlreichen Anwendungen im Alltag, im Sport und im beruflichen Umfeld:",
-        "Wenn Sie Berechnungen mit Ihren aufgezeichneten Rundenzeiten durchführen müssen, wie z. B. das Addieren, kann unser <a href=\"/de/time-Calculator\" class=\"text-blue-500 hover:underline\">Zeitrechner</a> diese Operationen problemlos bewältigen."
+        "Wenn Sie Berechnungen mit Ihren aufgezeichneten Rundenzeiten durchführen müssen, wie z. B. das Addieren, kann unser <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Zeitrechner</a> diese Operationen problemlos bewältigen."
       ],
       "list": [
         "<strong>Sport und Fitness:</strong> Rundenzeiten für Laufen, Schwimmen oder Radfahren messen und Ruhezeiten zwischen den Trainingssätzen messen.",

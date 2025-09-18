@@ -25,17 +25,18 @@ const StopwatchPage: React.FC = () => {
   useEffect(() => {
     if (isRunning) {
       const startTime = Date.now() - time;
-      timerRef.current = setInterval(() => {
+      // FIX: Use window.setInterval to ensure the browser's implementation is used, which returns a number. This resolves the TypeScript error where setInterval was inferred as returning a NodeJS.Timeout object.
+      timerRef.current = window.setInterval(() => {
         setTime(Date.now() - startTime);
       }, 10); // Update every 10ms for centiseconds
     } else {
       if (timerRef.current) {
-        clearInterval(timerRef.current);
+        window.clearInterval(timerRef.current);
       }
     }
     
     return () => {
-      if (timerRef.current) clearInterval(timerRef.current);
+      if (timerRef.current) window.clearInterval(timerRef.current);
     };
   }, [isRunning]);
 

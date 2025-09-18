@@ -1,3 +1,4 @@
+
 {
   "title": "Calcolatrice",
   "selectLanguage": "Seleziona Lingua",
@@ -61,7 +62,7 @@
     {
       "heading": "Come Funziona il Nostro Calcolatore di Età",
       "paragraphs": [
-        "Il nostro Calcolatore di Età calcola la tua età con alta precisione confrontando la tua data di nascita con la data corrente. Lo strumento calcola il tempo totale trascorso e lo scompone in anni, mesi e giorni. Tiene conto degli anni bisestili per fornire un risultato accurato, rendendolo uno strumento affidabile per chiunque si chieda 'quanti anni ho?'. Basta inserire la tua data di nascita e il calcolatore visualizzerà istantaneamente la tua età anagrafica. Per altri calcoli relativi al tempo, puoi anche provare il nostro <a href=\"/it/time-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Tempo</a>."
+        "Il nostro Calcolatore di Età calcola la tua età con alta precisione confrontando la tua data di nascita con la data corrente. Lo strumento calcola il tempo totale trascorso e lo scompone in anni, mesi e giorni. Tiene conto degli anni bisestili per fornire un risultato accurato, rendendolo uno strumento affidabile per chiunque si chieda 'quanti anni ho?'. Basta inserire la tua data di nascita e il calcolatore visualizzerà istantaneamente la tua età anagrafica. Per altri calcoli relativi al tempo, puoi anche provare il nostro <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Tempo</a>."
       ]
     },
     {
@@ -136,7 +137,7 @@
     {
       "heading": "Come Funziona il Nostro Calcolatore della Data del Parto",
       "paragraphs": [
-        "Il nostro Calcolatore della Data Presunta del Parto stima la tua data di parto prevista utilizzando diversi metodi. Il metodo più comune si basa sul primo giorno della tua ultima mestruazione (UM). Questo approccio, noto come regola di Naegele, aggiunge 280 giorni (40 settimane) alla tua UM per prevedere la data del parto. Per una maggiore precisione, specialmente con cicli irregolari, puoi usare il nostro <a href=\"/it/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore del Ciclo Mestruale</a> per tenere traccia del tuo ciclo. Offriamo anche calcoli basati sulla data del concepimento, che può essere identificata con il nostro <a href=\"/it/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Ovulazione</a>, o sulla data del trasferimento FIVET.",
+        "Il nostro Calcolatore della Data Presunta del Parto stima la tua data di parto prevista utilizzando diversi metodi. Il metodo più comune si basa sul primo giorno della tua ultima mestruazione (UM). Questo approccio, noto come regola di Naegele, aggiunge 280 giorni (40 settimane) alla tua UM per prevedere la data del parto. Per una maggiore precisione, specialmente con cicli irregolari, puoi usare il nostro <a href=\"/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore del Ciclo Mestruale</a> per tenere traccia del tuo ciclo. Offriamo anche calcoli basati sulla data del concepimento, che può essere identificata con il nostro <a href=\"/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Ovulazione</a>, o sulla data del trasferimento FIVET.",
         "È importante ricordare che questa data è una stima. Solo circa il 5% dei bambini nasce nella data esatta del parto. Questo strumento fornisce una linea guida affidabile per aiutare te e il tuo medico a pianificare l'arrivo del tuo bambino."
       ],
       "list": [
@@ -169,7 +170,7 @@
     {
       "heading": "Come Prevedere i Tuoi Giorni Più Fertili",
       "paragraphs": [
-        "Il nostro Calcolatore di Ovulazione è uno strumento semplice progettato per aiutarti a prevedere i tuoi giorni più fertili del mese. Inserendo il primo giorno della tua ultima mestruazione e la durata media del tuo ciclo, che puoi monitorare con il nostro <a href=\"/it/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore del Ciclo Mestruale</a>, il calcolatore stima la tua probabile data di ovulazione. L'ovulazione è il rilascio di un ovulo dal tuo ovaio, che di solito avviene circa 14 giorni prima dell'inizio del tuo prossimo ciclo. La tua 'finestra fertile' include il giorno dell'ovulazione e i cinque giorni precedenti. Questo perché lo sperma può sopravvivere nel tratto riproduttivo femminile fino a cinque giorni. Avere rapporti durante questa finestra aumenta significativamente le tue possibilità di concepimento. Una volta incinta, puoi seguire il tuo percorso con il nostro <a href=\"/it/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore della Data del Parto</a>."
+        "Il nostro Calcolatore di Ovulazione è uno strumento semplice progettato per aiutarti a prevedere i tuoi giorni più fertili del mese. Inserendo il primo giorno della tua ultima mestruazione e la durata media del tuo ciclo, che puoi monitorare con il nostro <a href=\"/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore del Ciclo Mestruale</a>, il calcolatore stima la tua probabile data di ovulazione. L'ovulazione è il rilascio di un ovulo dal tuo ovaio, che di solito avviene circa 14 giorni prima dell'inizio del tuo prossimo ciclo. La tua 'finestra fertile' include il giorno dell'ovulazione e i cinque giorni precedenti. Questo perché lo sperma può sopravvivere nel tratto riproduttivo femminile fino a cinque giorni. Avere rapporti durante questa finestra aumenta significativamente le tue possibilità di concepimento. Una volta incinta, puoi seguire il tuo percorso con il nostro <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore della Data del Parto</a>."
       ],
       "list": [
         "Inserisci i Tuoi Dati: Inizia con la data della tua ultima mestruazione e la durata del ciclo.",
@@ -199,8 +200,8 @@
     {
       "heading": "Come Funziona il Nostro Calcolatore del Periodo",
       "paragraphs": [
-        "Il nostro Calcolatore del Ciclo Mestruale ti aiuta a prevedere la data di inizio del tuo prossimo periodo con solo due informazioni: il primo giorno del tuo ultimo periodo e la durata media del tuo ciclo mestruale. Aggiungendo la durata media del tuo ciclo alla data di inizio del tuo ultimo periodo, lo strumento fornisce una data stimata per i tuoi prossimi due periodi. Conoscere il tuo ciclo è anche fondamentale per identificare le finestre fertili con il nostro <a href=\"/it/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Ovulazione</a>.",
-        "Tenere traccia del tuo ciclo è più di una semplice comodità; è un indicatore chiave della tua salute generale. Cicli regolari e prevedibili spesso indicano che gli ormoni del tuo corpo funzionano correttamente. Una volta incinta, il nostro <a href=\"/it/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore della Data del Parto</a> può aiutarti a stimare la data del parto."
+        "Il nostro Calcolatore del Ciclo Mestruale ti aiuta a prevedere la data di inizio del tuo prossimo periodo con solo due informazioni: il primo giorno del tuo ultimo periodo e la durata media del tuo ciclo mestruale. Aggiungendo la durata media del tuo ciclo alla data di inizio del tuo ultimo periodo, lo strumento fornisce una data stimata per i tuoi prossimi due periodi. Conoscere il tuo ciclo è anche fondamentale per identificare le finestre fertili con il nostro <a href=\"/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Ovulazione</a>.",
+        "Tenere traccia del tuo ciclo è più di una semplice comodità; è un indicatore chiave della tua salute generale. Cicli regolari e prevedibili spesso indicano che gli ormoni del tuo corpo funzionano correttamente. Una volta incinta, il nostro <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore della Data del Parto</a> può aiutarti a stimare la data del parto."
       ]
     },
     {
@@ -309,7 +310,7 @@
     {
       "heading": "Comprendere il Fabbisogno Calorico Giornaliero",
       "paragraphs": [
-        "Una caloria è un'unità di energia. In nutrizione, le calorie si riferiscono all'energia che le persone ottengono dal cibo e dalle bevande che consumano e all'energia che utilizzano nell'attività fisica. Comprendere il proprio fabbisogno calorico giornaliero, che spesso dipende da fattori come la tua età (trovala con il nostro <a href=\"/it/age-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Età</a>), è il primo passo per raggiungere i propri obiettivi di peso, che si tratti di perdere, aumentare o mantenere il peso attuale.",
+        "Una caloria è un'unità di energia. In nutrizione, le calorie si riferiscono all'energia che le persone ottengono dal cibo e dalle bevande che consumano e all'energia che utilizzano nell'attività fisica. Comprendere il proprio fabbisogno calorico giornaliero, che spesso dipende da fattori come la tua età (trovala con il nostro <a href=\"/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Età</a>), è il primo passo per raggiungere i propri obiettivi di peso, che si tratti di perdere, aumentare o mantenere il peso attuale.",
         "Il nostro calcolatore inizia determinando il tuo Metabolismo Basale (BMR), che è il numero di calorie di cui il tuo corpo ha bisogno per svolgere le funzioni vitali di base a riposo, come la respirazione, la circolazione e la produzione cellulare. Utilizziamo l'equazione di Mifflin-St Jeor, ampiamente accettata, per questo calcolo. Quindi, consideriamo il tuo livello di attività per calcolare il tuo Dispendio Energetico Giornaliero Totale (TDEE), che è una stima più accurata del tuo consumo calorico giornaliero."
       ]
     },
@@ -351,7 +352,7 @@
       "heading": "Cos'è l'IMC e come funziona?",
       "paragraphs": [
         "L'Indice di Massa Corporea (IMC) è una semplice misurazione che utilizza la tua altezza e il tuo peso per stimare il tuo grasso corporeo. È uno strumento di screening ampiamente utilizzato per determinare se il peso di una persona rientra in un intervallo sano. La formula di base è il peso in chilogrammi diviso per il quadrato dell'altezza in metri (kg/m²). Il nostro calcolatore automatizza questo processo per fornirti un risultato rapido e preciso.",
-        "Comprendere il tuo IMC è un primo passo importante verso una gestione sana del peso. Può aiutarti a fissare obiettivi realistici, sia che tu stia mirando a mantenere o a modificare il tuo peso attuale. Per gestire efficacemente il tuo peso, è anche fondamentale comprendere il tuo fabbisogno energetico, che puoi calcolare utilizzando il nostro <a href=\"/it/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Calorie</a>."
+        "Comprendere il tuo IMC è un primo passo importante verso una gestione sana del peso. Può aiutarti a fissare obiettivi realistici, sia che tu stia mirando a mantenere o a modificare il tuo peso attuale. Per gestire efficacemente il tuo peso, è anche fondamentale comprendere il tuo fabbisogno energetico, che puoi calcolare utilizzando il nostro <a href=\"/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Calorie</a>."
       ]
     },
     {
@@ -367,21 +368,21 @@
     {
       "heading": "L'importanza di mantenere un IMC sano",
       "paragraphs": [
-        "Mantenere un IMC nell'intervallo normale (18.5-24.9) è vitale per la salute generale. Essere in sovrappeso o obesi è legato a un aumentato rischio di numerose malattie croniche, tra cui ipertensione, malattie cardiache, ictus, diabete di tipo 2 e alcuni tipi di cancro. D'altra parte, essere sottopeso può anche portare a problemi di salute come un sistema immunitario indebolito, osteoporoesi e problemi di fertilità. Pertanto, raggiungere e mantenere un peso sano è una parte fondamentale di uno stile di vita sano."
+        "Mantenere un IMC nell'intervallo normale (18.5-24.9) è vitale per la salute generale. Essere in sovrappeso o obesi è legato a un aumentato rischio di numerose malattie croniche, tra cui ipertensione, malattie cardiache, ictus, diabete di tipo 2 e alcuni tipi di cancro. D'altra parte, essere sottopeso può anche portare a problemi di salute come un sistema immunitario indebolito, osteoporosi e problemi di fertilità. Pertanto, raggiungere e mantenere un peso sano è una parte fondamentale di uno stile di vita sano."
       ]
     },
     {
       "heading": "Limiti dell'IMC",
       "paragraphs": [
         "Sebbene l'IMC sia un utile strumento di screening, non è privo di limiti. Non distingue tra massa grassa e massa muscolare. Ciò significa che individui molto muscolosi, come gli atleti, possono avere un IMC elevato ed essere classificati come sovrappeso nonostante abbiano un basso livello di grasso corporeo.",
-        "Inoltre, l'interpretazione dell'IMC può essere influenzata da fattori come l'età e il sesso. Ad esempio, gli anziani che hanno perso massa muscolare possono avere una percentuale di grasso corporeo sana anche se il loro IMC è normale. Puoi esplorare come cambia il tuo corpo nel tempo con il nostro <a href=\"/it/age-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Età</a>. Per questi motivi, l'IMC dovrebbe essere utilizzato come parte di una valutazione sanitaria completa e non come unico strumento diagnostico."
+        "Inoltre, l'interpretazione dell'IMC può essere influenzata da fattori come l'età e il sesso. Ad esempio, gli anziani che hanno perso massa muscolare possono avere una percentuale di grasso corporeo sana anche se il loro IMC è normale. Puoi esplorare come cambia il tuo corpo nel tempo con il nostro <a href=\"/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Età</a>. Per questi motivi, l'IMC dovrebbe essere utilizzato come parte di una valutazione sanitaria completa e non come unico strumento diagnostico."
       ]
     },
     {
       "heading": "Come migliorare il tuo IMC",
       "paragraphs": [
-        "Se il risultato del tuo IMC non rientra nell'intervallo normale, ci sono dei passi che puoi intraprendere per migliorarlo. Questo di solito comporta una combinazione di una dieta equilibrata e un'attività fisica regolare. Fissare obiettivi realistici e graduali può aiutarti a raggiungere e mantenere un peso sano. Il nostro <a href=\"/it/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Calorie</a> può essere un ottimo strumento per aiutarti a pianificare la tua dieta.",
-        "È anche importante considerare altre condizioni di salute. Ad esempio, mantenere un IMC sano è particolarmente importante durante la gravidanza e puoi monitorare i tuoi progressi con il nostro <a href=\"/it/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Gravidanza</a>. Raccomandiamo sempre di consultare un professionista sanitario o un dietologo registrato per sviluppare un piano personalizzato adatto alle tue esigenze individuali."
+        "Se il risultato del tuo IMC non rientra nell'intervallo normale, ci sono dei passi che puoi intraprendere per migliorarlo. Questo di solito comporta una combinazione di una dieta equilibrata e un'attività fisica regolare. Fissare obiettivi realistici e graduali può aiutarti a raggiungere e mantenere un peso sano. Il nostro <a href=\"/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Calorie</a> può essere un ottimo strumento per aiutarti a pianificare la tua dieta.",
+        "È anche importante considerare altre condizioni di salute. Ad esempio, mantenere un IMC sano è particolarmente importante durante la gravidanza e puoi monitorare i tuoi progressi con il nostro <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Gravidanza</a>. Raccomandiamo sempre di consultare un professionista sanitario o un dietologo registrato per sviluppare un piano personalizzato adatto alle tue esigenze individuali."
       ]
     }
   ],
@@ -405,7 +406,7 @@
     {
       "heading": "Come usare il Calcolatore di Tempo",
       "paragraphs": [
-        "Il nostro Calcolatore di Tempo semplifica il processo di addizione e sottrazione di tempo. Che tu stia monitorando le ore di lavoro, registrando sessioni di allenamento o pianificando un evento, questo strumento fornisce una soluzione rapida e precisa. Per calcolare la durata tra un orario di inizio e di fine, come per un foglio presenze, è disponibile anche il nostro <a href=\"/it/hours-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Ore</a>. Basta inserire due durate, selezionare se sommarle o sottrarle e ottenere immediatamente il risultato.",
+        "Il nostro Calcolatore di Tempo semplifica il processo di addizione e sottrazione di tempo. Che tu stia monitorando le ore di lavoro, registrando sessioni di allenamento o pianificando un evento, questo strumento fornisce una soluzione rapida e precisa. Per calcolare la durata tra un orario di inizio e di fine, come per un foglio presenze, è disponibile anche il nostro <a href=\"/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Ore</a>. Basta inserire due durate, selezionare se sommarle o sottrarle e ottenere immediatamente il risultato.",
         "Il calcolatore scompone il tempo in giorni, ore, minuti e secondi. Per la sottrazione, assicurati che la prima durata sia maggiore o uguale alla seconda per evitare risultati negativi."
       ]
     },
@@ -440,20 +441,51 @@
   "resultInMinutes": "in minuti totali",
   "resultHours": "ore",
   "resultMinutes": "minuti",
-  "seoTimeSections": [
+  "seoHoursSections": [
     {
-      "heading": "Come Usare il Calcolatore di Ore",
+      "heading": "Calcolatore di Ore – Calcola la durata tra due orari",
       "paragraphs": [
-        "Il nostro Calcolatore di Ore è progettato per semplificare il calcolo della durata tra due momenti nel tempo. Che tu stia calcolando le ore di lavoro, la durata di un evento o il tempo trascorso su un'attività, questo strumento fornisce un risultato rapido e preciso. Per calcoli più complessi che comportano l'addizione o la sottrazione di più durate, consulta il nostro completo <a href=\"/it/time-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Tempo</a>. Basta inserire gli orari di inizio e di fine e il calcolatore farà il resto, gestendo anche i casi che superano la mezzanotte."
+          "Il nostro **Calcolatore di Ore** online è uno strumento semplice e preciso progettato per aiutarti a **calcolare la durata** tra un orario di inizio e uno di fine. Che tu debba monitorare le ore di lavoro, registrare il tempo di studio o pianificare le tue attività quotidiane, questo strumento ti fornisce un risultato immediato."
       ]
     },
     {
-      "heading": "Applicazioni Pratiche",
+      "heading": "Come funziona il nostro strumento di calcolo ore online",
       "paragraphs": [
-        "Questo strumento è estremamente utile in vari scenari:",
-        "Calcolo delle Ore di Lavoro: Calcola facilmente le ore di lavoro giornaliere o settimanali per i fogli presenze.",
-        "Pianificazione di Eventi: Determina la durata di riunioni, appuntamenti ed eventi.",
-        "Monitoraggio delle Attività: Controlla il tempo che dedichi a hobby, studi o esercizio fisico."
+        "Usare il nostro **calcolatore di ore** è estremamente facile. Segui questi semplici passaggi per ottenere il **tempo trascorso** in pochi secondi:",
+        "Il nostro calcolatore è intelligente e gestisce automaticamente i calcoli che superano la mezzanotte. Se l'orario di fine è precedente a quello di inizio, lo strumento presuppone che l'attività si sia conclusa il giorno successivo."
+      ],
+      "list": [
+        "<strong>Inserisci l'ora di inizio:</strong> Seleziona l'ora e i minuti in cui è iniziata l'attività.",
+        "<strong>Inserisci l'ora di fine:</strong> Seleziona l'ora e i minuti in cui l'attività è terminata.",
+        "<strong>Clicca su \"Calcola Durata\":</strong> Lo strumento calcolerà istantaneamente la durata totale, espressa in ore e minuti."
+      ]
+    },
+    {
+      "heading": "Esempi pratici di utilizzo",
+      "paragraphs": [
+        "Questo strumento di **calcolo ore online** è perfetto per una vasta gamma di situazioni quotidiane:"
+      ],
+      "list": [
+        "<strong>Calcolare le ore lavorative:</strong> Se il tuo turno di lavoro va dalle 9:00 alle 17:30, il calcolatore ti mostrerà rapidamente che hai lavorato per 8 ore e 30 minuti.",
+        "<strong>Monitorare il tempo di studio o allenamento:</strong> Hai studiato dalle 15:15 alle 17:45? Scopri immediatamente il tempo totale dedicato.",
+        "<strong>Calcolare la durata di un evento:</strong> Pianifica la durata di una riunione, di una festa o di un turno di lavoro notturno (es. dalle 22:00 alle 6:00 del mattino successivo) con precisione."
+      ]
+    },
+    {
+      "heading": "Vantaggi dell'uso del Calcolatore di Ore",
+      "paragraphs": [],
+      "list": [
+        "<strong>Precisione:</strong> Dimentica gli errori di calcolo manuale. Il nostro strumento garantisce un risultato accurato ogni volta.",
+        "<strong>Risparmio di tempo:</strong> Ottieni la risposta di cui hai bisogno in pochi istanti, senza dover fare calcoli complessi.",
+        "<strong>Pianificazione e Organizzazione:</strong> Conoscere la durata esatta delle tue attività ti aiuta a gestire meglio il tuo tempo e a essere più produttivo."
+      ]
+    },
+    {
+      "heading": "Domande Frequenti (FAQ)",
+      "paragraphs": [
+          "<strong>D: Come faccio a calcolare le ore lavorative con le pause?</strong><br>R: Calcola prima la durata totale del tuo turno di lavoro, poi sottrai manualmente la durata della pausa. Ad esempio, per un turno di 8 ore con una pausa di 30 minuti, il tempo di lavoro effettivo è di 7 ore e 30 minuti.",
+          "<strong>D: Posso calcolare durate che superano le 24 ore?</strong><br>R: Questo strumento è ottimizzato per calcolare la differenza tra due orari, anche a cavallo della mezzanotte. Per calcolare durate più lunghe che includono giorni, ti consigliamo di usare il nostro <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Tempo</a>.",
+          "<strong>D: È possibile usare il calcolatore su dispositivi mobili?</strong><br>R: Assolutamente sì. Il nostro sito è completamente ottimizzato per smartphone e tablet, permettendoti di effettuare il **calcolo ore online** ovunque tu sia."
       ]
     }
   ],
@@ -473,7 +505,7 @@
       "heading": "Come Usare il Calcolatore di Date",
       "paragraphs": [
         "Il nostro Calcolatore di Date è progettato per semplificare l'aggiunta o la sottrazione di periodi di tempo da una data specifica. Che tu stia pianificando un evento futuro, fissando una scadenza o guardando una data nel passato, questo strumento fornisce calcoli rapidi e precisi. Basta inserire una data di inizio, quindi specificare il numero di anni, mesi, settimane e giorni che si desidera aggiungere o sottrarre. Il calcolatore tiene conto di dettagli come gli anni bisestili e le diverse lunghezze dei mesi per garantire l'accuratezza.",
-        "Questo strumento integra le nostre altre utilità basate sul tempo. Ad esempio, puoi utilizzare il nostro <a href='/it/age-calculator' class='text-blue-500 hover:underline'>Calcolatore di Età</a> per determinare l'età di qualcuno, o il nostro <a href='/it/hours-calculator' class='text-blue-500 hover:underline'>Calcolatore di Ore</a> per trovare la durata tra due orari nello stesso giorno. Per calcoli che coinvolgono più durate, il nostro <a href='/it/time-Calculator' class='text-blue-500 hover:underline'>Calcolatore di Tempo</a> è la scelta perfetta."
+        "Questo strumento integra le nostre altre utilità basate sul tempo. Ad esempio, puoi utilizzare il nostro <a href='/{currentLang}/age-calculator' class='text-blue-500 hover:underline'>Calcolatore di Età</a> per determinare l'età di qualcuno, o il nostro <a href='/{currentLang}/hours-calculator' class='text-blue-500 hover:underline'>Calcolatore di Ore</a> per trovare la durata tra due orari nello stesso giorno. Per calcoli che coinvolgono più durate, il nostro <a href='/{currentLang}/time-Calculator' class='text-blue-500 hover:underline'>Calcolatore di Tempo</a> è la scelta perfetta."
       ]
     },
     {
@@ -484,7 +516,7 @@
         "<strong>Gestione di Progetti:</strong> Imposta facilmente le scadenze dei progetti. Se un progetto inizia il 15 gennaio e dura 8 settimane e 3 giorni, puoi trovare istantaneamente la data di fine esatta.",
         "<strong>Appuntamenti Medici:</strong> Tieni traccia degli appuntamenti medici o degli orari dei farmaci. Se devi programmare un controllo 3 mesi dopo un appuntamento, questo strumento ti dà la data precisa.",
         "<strong>Pianificazione Finanziaria:</strong> Calcola le date di scadenza per prestiti o piani di investimento che si estendono per un numero specifico di anni e mesi.",
-        "<strong>Pianificazione della Gravidanza:</strong> Mentre il nostro <a href='/it/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Calcolatore di Gravidanza</a> fornisce stime dettagliate della data presunta del parto, questo strumento può essere utilizzato per calcoli rapidi su date specifiche durante il periodo."
+        "<strong>Pianificazione della Gravidanza:</strong> Mentre il nostro <a href='/{currentLang}/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Calcolatore di Gravidanza</a> fornisce stime dettagliate della data presunta del parto, questo strumento può essere utilizzato per calcoli rapidi su date specifiche durante il periodo."
       ]
     }
   ],
@@ -505,14 +537,14 @@
       "heading": "Come Usare il Cronometro Online",
       "paragraphs": [
         "Il nostro cronometro online è uno strumento semplice e preciso per misurare il tempo trascorso. Con un solo clic, puoi avviare e fermare il timer per tracciare qualsiasi attività con una precisione al centesimo di secondo. La funzione 'Giro' ti permette di registrare i tempi parziali senza interrompere il timer principale, il che è perfetto per monitorare le prestazioni su più intervalli. Quando hai finito, il pulsante 'Azzera' cancella il timer e tutti i giri registrati, preparandoti per la prossima sessione di cronometraggio.",
-        "Mentre un cronometro è eccellente per misurare la durata da un punto di partenza, se hai bisogno di calcolare il tempo tra un orario di inizio e di fine specifico (come per un foglio presenze), il nostro <a href=\"/it/hours-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Ore</a> è lo strumento perfetto per questo lavoro."
+        "Mentre un cronometro è eccellente per misurare la durata da un punto di partenza, se hai bisogno di calcolare il tempo tra un orario di inizio e di fine specifico (come per un foglio presenze), il nostro <a href=\"/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Ore</a> è lo strumento perfetto per questo lavoro."
       ]
     },
     {
       "heading": "Applicazioni Pratiche per un Cronometro",
       "paragraphs": [
         "Un cronometro è uno strumento incredibilmente versatile con numerose applicazioni nella vita quotidiana, nello sport e in ambito professionale:",
-        "Se hai bisogno di eseguire calcoli con i tempi dei tuoi giri registrati, come sommarli, il nostro <a href=\"/it/time-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Tempo</a> può gestire queste operazioni con facilità."
+        "Se hai bisogno di eseguire calcoli con i tempi dei tuoi giri registrati, come sommarli, il nostro <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calcolatore di Tempo</a> può gestire queste operazioni con facilità."
       ],
       "list": [
         "<strong>Sport e Fitness:</strong> Cronometrare i giri per la corsa, il nuoto o il ciclismo, e misurare i periodi di riposo tra le serie di allenamento.",
@@ -659,7 +691,7 @@
     {
       "heading": "Comprendere il Dosaggio del Calcestruzzo",
       "paragraphs": [
-        "Il <strong>dosaggio del calcestruzzo</strong> - il rapporto tra cemento, sabbia e ghiaia - è cruciale per garantire la resistenza e la durabilità della tua struttura. Il nostro calcolatore ti permette di selezionare tra i rapporti più comuni per soddisfare le esigenze del tuo progetto.",
+        "Il <strong>dosaggio del calcestruzzo</strong> - il rapporto tra cemento, sabbia e ghiaia - è cruciale per garantire la resistenza e la durabilità della tua struttura. Il nostro calcolatore ti permette di scegliere tra i rapporti più comuni per soddisfare le esigenze del tuo progetto.",
         "<table class='w-full text-left border-collapse mt-4'><thead><tr class='bg-gray-100 dark:bg-gray-700'><th class='p-2 border dark:border-gray-600'>Dosaggio (C:S:G)</th><th class='p-2 border dark:border-gray-600'>Uso Comune</th><th class='p-2 border dark:border-gray-600'>Sacchi da 25kg per m³ (Circa)</th></tr></thead><tbody><tr><td class='p-2 border dark:border-gray-600'>1:1.5:3</td><td class='p-2 border dark:border-gray-600'>Alta Resistenza</td><td class='p-2 border dark:border-gray-600'>16-18 sacchi</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:2:4</td><td class='p-2 border dark:border-gray-600'>Standard / Multiuso</td><td class='p-2 border dark:border-gray-600'>12-14 sacchi</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:3:6</td><td class='p-2 border dark:border-gray-600'>Fondazioni / Riempimenti</td><td class='p-2 border dark:border-gray-600'>8-10 sacchi</td></tr></tbody></table>"
       ]
     },

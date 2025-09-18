@@ -62,7 +62,7 @@
     {
       "heading": "Comment Fonctionne Notre Calculateur d'Âge",
       "paragraphs": [
-        "Notre Calculateur d'Âge calcule votre âge avec une grande précision en comparant votre date de naissance à la date actuelle. L'outil calcule le temps total écoulé et le décompose en années, mois et jours. Il tient compte des années bissextiles pour fournir un resultado preciso, ce qui en fait un outil fiable pour quiconque se demande 'quel âge ai-je ?'. Entrez simplemente votre date de naissance, et le calculateur affiche instantanément votre âge chronologique. Pour d'autres calculs liés au temps, vous pouvez également essayer notre <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a>."
+        "Notre Calculateur d'Âge calcule votre âge avec une grande précision en comparant votre date de naissance à la date actuelle. L'outil calcule le temps total écoulé et le décompose en années, mois et jours. Il tient compte des années bissextiles pour fournir un resultado preciso, ce qui en fait un outil fiable pour quiconque se demande 'quel âge ai-je ?'. Entrez simplemente votre date de naissance, et le calculateur affiche instantanément votre âge chronologique. Pour d'autres calculs liés au temps, vous pouvez également essayer notre <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a>."
       ]
     },
     {
@@ -137,7 +137,7 @@
     {
       "heading": "Comment fonctionne notre calculateur de date d'accouchement",
       "paragraphs": [
-        "Notre calculateur de date d'accouchement estime votre date de naissance prévue en utilisant plusieurs méthodes. La méthode la plus courante est basée sur le premier jour de vos dernières règles (DDR). Cette approche, connue sous le nom de règle de Naegele, ajoute 280 jours (40 semaines) à votre DDR pour prédire la date d'accouchement. Pour plus de précision, surtout avec des cycles irréguliers, vous pouvez utiliser notre <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Cycle Menstruel</a> pour suivre vos règles. Nous proposons également des calculs basés sur la date de conception, qui peut être identifiée avec notre <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Ovulation</a>, ou la date de votre transfert de FIV.",
+        "Notre calculateur de date d'accouchement estime votre date de naissance prévue en utilisant plusieurs méthodes. La méthode la plus courante est basée sur le premier jour de vos dernières règles (DDR). Cette approche, connue sous le nom de règle de Naegele, ajoute 280 jours (40 semaines) à votre DDR pour prédire la date d'accouchement. Pour plus de précision, surtout avec des cycles irréguliers, vous pouvez utiliser notre <a href=\"/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Cycle Menstruel</a> pour suivre vos règles. Nous proposons également des calculs basés sur la date de conception, qui peut être identifiée avec notre <a href=\"/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Ovulation</a>, ou la date de votre transfert de FIV.",
         "Il est important de se souvenir que cette date est une estimation. Seulement environ 5% des bébés naissent à leur date d'accouchement exacte. Cet outil fournit une ligne directrice fiable pour vous aider, vous et votre professionnel de la santé, à planifier l'arrivée de votre bébé."
       ]
     },
@@ -165,8 +165,8 @@
     {
       "heading": "Comment prédire vos jours les plus fertiles",
       "paragraphs": [
-        "Notre Calculateur d'Ovulation est un outil simple conçu pour vous aider à prédire vos jours les plus fertiles du mois. En saisissant le premier jour de vos dernières règles et la durée moyenne de votre cycle, que vous pouvez suivre avec notre <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Cycle Menstruel</a>, le calculateur estime votre date d'ovulation probable. L'ovulation est la libération d'un ovule par votre ovaire, ce qui se produit généralement environ 14 jours avant le début de vos prochaines règles.",
-        "Votre 'fenêtre de fertilité' comprend le jour de l'ovulation et les cinq jours qui la précèdent. C'est parce que les spermatozoïdes pueden survivre dans l'appareil reproducteur féminin jusqu'à cinq jours. Avoir des rapports sexuels pendant cette fenêtre augmente considérablement vos chances de conception. Une fois enceinte, vous pouvez suivre votre parcours avec notre <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Date d'Accouchement</a>."
+        "Notre Calculateur d'Ovulation est un outil simple conçu pour vous aider à prédire vos jours les plus fertiles du mois. En saisissant le premier jour de vos dernières règles et la durée moyenne de votre cycle, que vous pouvez suivre avec notre <a href=\"/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Cycle Menstruel</a>, le calculateur estime votre date d'ovulation probable. L'ovulation est la libération d'un ovule par votre ovaire, ce qui se produit généralement environ 14 jours avant le début de vos prochaines règles.",
+        "Votre 'fenêtre de fertilité' comprend le jour de l'ovulation et les cinq jours qui la précèdent. C'est parce que les spermatozoïdes pueden survivre dans l'appareil reproducteur féminin jusqu'à cinq jours. Avoir des rapports sexuels pendant cette fenêtre augmente considérablement vos chances de conception. Une fois enceinte, vous pouvez suivre votre parcours avec notre <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Date d'Accouchement</a>."
       ]
     },
     {
@@ -191,8 +191,8 @@
     {
       "heading": "Comment fonctionne notre calculateur de règles",
       "paragraphs": [
-        "Notre Calculateur de Cycle Menstruel vous aide à prédire la date de début de vos prochaines règles avec seulement deux informations : le premier jour de vos dernières règles et la durée moyenne de votre cycle menstruel. En ajoutant la durée moyenne de votre cycle à la date de début de vos dernières règles, l'outil fournit une date estimée pour vos deux prochaines périodes. Connaître votre cycle est également essentiel pour identifier les fenêtres de fertilité avec notre <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Ovulation</a>.",
-        "Le suivi de votre cycle est plus qu'une simple commodité ; c'est un indicateur clé de votre santé globale. Des cycles réguliers et prévisibles signifient souvent que les hormones de votre corps fonctionnent correctement. Une fois enceinte, notre <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Date d'Accouchement</a> peut aider à estimer votre date d'accouchement."
+        "Notre Calculateur de Cycle Menstruel vous aide à prédire la date de début de vos prochaines règles avec seulement deux informations : le premier jour de vos dernières règles et la durée moyenne de votre cycle menstruel. En ajoutant la durée moyenne de votre cycle à la date de début de vos dernières règles, l'outil fournit une date estimée pour vos deux prochaines périodes. Connaître votre cycle est également essentiel pour identifier les fenêtres de fertilité avec notre <a href=\"/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Ovulation</a>.",
+        "Le suivi de votre cycle est plus qu'une simple commodité ; c'est un indicateur clé de votre santé globale. Des cycles réguliers et prévisibles signifient souvent que les hormones de votre corps fonctionnent correctement. Une fois enceinte, notre <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Date d'Accouchement</a> peut aider à estimer votre date d'accouchement."
       ]
     },
     {
@@ -301,7 +301,7 @@
     {
       "heading": "Comprendre vos besoins caloriques quotidiens",
       "paragraphs": [
-        "Une calorie est une unité d'énergie. En nutrition, les calories désignent l'énergie que les gens tirent des aliments et des boissons qu'ils consomment, et l'énergie qu'ils dépensent lors d'une activité physique. Comprendre vos besoins caloriques quotidiens, qui dépendent souvent de facteurs comme votre âge (trouvez-le avec notre <a href=\"#/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Âge</a>), est la première étape pour atteindre vos objectifs de poids, qu'il s'agisse de perdre, de prendre ou de maintenir votre poids actuel.",
+        "Une calorie est une unité d'énergie. En nutrition, les calories désignent l'énergie que les gens tirent des aliments et des boissons qu'ils consomment, et l'énergie qu'ils dépensent lors d'une activité physique. Comprendre vos besoins caloriques quotidiens, qui dépendent souvent de facteurs comme votre âge (trouvez-le avec notre <a href=\"/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Âge</a>), est la première étape pour atteindre vos objectifs de poids, qu'il s'agisse de perdre, de prendre ou de maintenir votre poids actuel.",
         "Notre calculateur commence par déterminer votre Taux Métabolique de Base (TMB), qui est le nombre de calories dont votre corps a besoin pour accomplir les fonctions vitales de base au repos, telles que la respiration, la circulation et la production cellulaire. Nous utilisons l'équation de Mifflin-St Jeor, largement acceptée, pour ce calcul. Ensuite, nous prenons en compte votre niveau d'activité pour calculer votre Dépense Énergétique Journalière Totale (DEJT), qui est une estimation plus précise de votre dépense calorique quotidienne."
       ]
     },
@@ -345,7 +345,7 @@
     {
       "heading": "Comment utiliser le Calculateur de Temps",
       "paragraphs": [
-        "Notre Calculateur de Temps simplifie le processus d'addition et de soustraction de temps. Que vous suiviez des heures de travail, enregistriez des sessions d'exercice ou planifiez un événement, cet outil offre une solution rapide et précise. Pour calculer la durée entre une heure de début et de fin, par exemple pour une feuille de temps, notre <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Heures</a> est également disponible. Saisissez simplemente deux durées, sélectionnez si vous souhaitez les additionner ou les soustraire, et obtenez le résultat instantanément.",
+        "Notre Calculateur de Temps simplifie le processus d'addition et de soustraction de temps. Que vous suiviez des heures de travail, enregistriez des sessions d'exercice ou planifiez un événement, cet outil offre une solution rapide et précise. Pour calculer la durée entre une heure de début et de fin, par exemple pour une feuille de temps, notre <a href=\"/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Heures</a> est également disponible. Saisissez simplemente deux durées, sélectionnez si vous souhaitez les additionner ou les soustraire, et obtenez le résultat instantanément.",
         "Le calculateur décompose le temps en jours, heures, minutes et secondes. Pour la soustraction, assurez-vous que la première durée est supérieure ou égale à la seconde pour éviter les résultats négatifs."
       ]
     },
@@ -384,7 +384,7 @@
     {
       "heading": "Comment Utiliser le Calculateur d'Heures",
       "paragraphs": [
-        "Notre Calculateur d'Heures est conçu pour simplifier le calcul de la durée entre deux moments. Que vous calculiez des heures de travail, la durée d'un événement ou le temps passé sur une tâche, cet outil fournit un résultat rapide et précis. Pour des calculs plus complexes impliquant l'addition ou la soustraction de plusieurs durées, consultez notre <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a> complet. Entrez simplemente les heures de début et de fin, et le calculateur s'occupera du reste, gérant les cas qui dépassent minuit."
+        "Notre Calculateur d'Heures est conçu pour simplifier le calcul de la durée entre deux moments. Que vous calculiez des heures de travail, la durée d'un événement ou le temps passé sur une tâche, cet outil fournit un résultat rapide et précis. Pour des calculs plus complexes impliquant l'addition ou la soustraction de plusieurs durées, consultez notre <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a> complet. Entrez simplemente les heures de début et de fin, et le calculateur s'occupera du reste, gérant les cas qui dépassent minuit."
       ]
     },
     {
@@ -413,7 +413,7 @@
       "heading": "Comment utiliser le Calculateur de Dates",
       "paragraphs": [
         "Notre Calculateur de Dates est conçu pour simplifier l'ajout ou la soustraction de périodes de temps à une date spécifique. Que vous planifiez un événement futur, fixiez une échéance ou regardiez une date dans le passé, cet outil fournit des calculs rapides et précis. Entrez simplement une date de début, puis spécifiez le nombre d'années, de mois, de semaines et de jours que vous souhaitez ajouter ou soustraire. Le calculateur tient compte de détails comme les années bissextiles et les longueurs de mois variables pour garantir l'exactitude.",
-        "Cet outil complète nos autres utilitaires basés sur le temps. Par exemple, vous pouvez utiliser notre <a href='#/{currentLang}/age-calculator' class='text-blue-500 hover:underline'>Calculateur d'Âge</a> pour déterminer l'âge de quelqu'un, ou notre <a href='#/{currentLang}/hours-calculator' class='text-blue-500 hover:underline'>Calculateur d'Heures</a> pour trouver la durée entre deux heures le même jour. Pour les calculs impliquant plusieurs durées, notre <a href='#/{currentLang}/time-Calculator' class='text-blue-500 hover:underline'>Calculateur de Temps</a> est le choix parfait."
+        "Cet outil complète nos autres utilitaires basés sur le temps. Par exemple, vous pouvez utiliser notre <a href='/{currentLang}/age-calculator' class='text-blue-500 hover:underline'>Calculateur d'Âge</a> pour déterminer l'âge de quelqu'un, ou notre <a href='/{currentLang}/hours-calculator' class='text-blue-500 hover:underline'>Calculateur d'Heures</a> pour trouver la durée entre deux heures le même jour. Pour les calculs impliquant plusieurs durées, notre <a href='/{currentLang}/time-Calculator' class='text-blue-500 hover:underline'>Calculateur de Temps</a> est le choix parfait."
       ]
     },
     {
@@ -424,7 +424,7 @@
         "<strong>Gestion de Projet :</strong> Fixez facilement des échéances de projet. Si un projet commence le 15 janvier et dure 8 semaines et 3 jours, vous pouvez trouver instantanément la date de fin exacte.",
         "<strong>Rendez-vous Médicaux :</strong> Suivez les rendez-vous médicaux ou les horaires de médication. Si vous devez planifier un suivi 3 mois après un rendez-vous, cet outil vous donne la date précise.",
         "<strong>Planification Financière :</strong> Calculez les dates d'échéance pour les prêts ou les plans d'investissement qui s'étendent sur un nombre spécifique d'années et de mois.",
-        "<strong>Planification de Grossesse :</strong> Bien que notre <a href='#/{currentLang}/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Calculateur de Date d'Accouchement</a> fournisse des estimations détaillées de la date d'échéance, cet outil peut être utilisé pour des calculs rapides sur des dates spécifiques pendant la grossesse."
+        "<strong>Planification de Grossesse :</strong> Bien que notre <a href='/{currentLang}/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Calculateur de Date d'Accouchement</a> fournisse des estimations détaillées de la date d'échéance, cet outil peut être utilisé pour des calculs rapides sur des dates spécifiques pendant la grossesse."
       ]
     }
   ],
@@ -446,7 +446,7 @@
       "heading": "Qu'est-ce que l'IMC et comment fonctionne-t-il ?",
       "paragraphs": [
         "L'Indice de Masse Corporelle (IMC) est une mesure simple qui utilise votre taille et votre poids pour estimer votre graisse corporelle. C'est un outil de dépistage largement utilisé pour déterminer si le poids d'une personne se situe dans une fourchette saine. La formule de base est le poids en kilogrammes divisé par le carré de la taille en mètres (kg/m²). Notre calculateur automatise ce processus pour vous fournir un résultat rapide et précis.",
-        "Comprendre votre IMC est une première étape importante vers une gestion saine du poids. Cela peut vous aider à fixer des objectifs réalistes, que vous visiez à maintenir ou à modifier votre poids actuel. Pour gérer efficacement votre poids, il est également crucial de comprendre vos besoins énergétiques, que vous pouvez calculer à l'aide de notre <a href=\"#/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Calories</a>."
+        "Comprendre votre IMC est une première étape importante vers une gestion saine du poids. Cela peut vous aider à fixer des objectifs réalistes, que vous visiez à maintenir ou à modifier votre poids actuel. Pour gérer efficacement votre poids, il est également crucial de comprendre vos besoins énergétiques, que vous pouvez calculer à l'aide de notre <a href=\"/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Calories</a>."
       ]
     },
     {
@@ -469,14 +469,14 @@
       "heading": "Les limites de l'IMC",
       "paragraphs": [
         "Bien que l'IMC soit un outil de dépistage utile, il n'est pas sans limites. Il ne fait pas la distinction entre la masse grasse et la masse musculaire. Cela signifie que les personnes très musclées, comme les athlètes, peuvent avoir un IMC élevé et être classées en surpoids malgré un faible taux de graisse corporelle.",
-        "De plus, l'interprétation de l'IMC peut être affectée par des facteurs tels que l'âge et le sexe. Par exemple, les personnes âgées qui ont perdu de la masse musculaire peuvent avoir un pourcentage de graisse corporelle sain même si leur IMC est normal. Vous pouvez explorer comment votre corps change au fil du temps avec notre <a href=\"#/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Âge</a>. Pour ces raisons, l'IMC doit être utilisé dans le cadre d'une évaluation de santé complète et non comme un outil de diagnostic unique."
+        "De plus, l'interprétation de l'IMC peut être affectée par des facteurs tels que l'âge et le sexe. Par exemple, les personnes âgées qui ont perdu de la masse musculaire peuvent avoir un pourcentage de graisse corporelle sain même si leur IMC est normal. Vous pouvez explorer comment votre corps change au fil du temps avec notre <a href=\"/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Âge</a>. Pour ces raisons, l'IMC doit être utilisé dans le cadre d'une évaluation de santé complète et non comme un outil de diagnostic unique."
       ]
     },
     {
       "heading": "Comment améliorer votre IMC",
       "paragraphs": [
-        "Si le résultat de votre IMC se situe en dehors de la plage normale, il existe des mesures que vous pouvez prendre pour l'améliorer. Cela implique généralement une combinaison d'une alimentation équilibrée et d'une activité physique régulière. Se fixer des objectifs réalistes et progressifs peut vous aider à atteindre et à maintenir un poids santé. Notre <a href=\"#/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Calories</a> peut être un excellent outil pour vous aider à planifier votre alimentation.",
-        "Il est également important de prendre en compte d'autres conditions de santé. Par exemple, maintenir un IMC sain est particulièrement important pendant la grossesse, et vous pouvez suivre vos progrès avec notre <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Grossesse</a>. Nous recommandons toujours de consulter un professionnel de la santé ou un diététicien agréé pour élaborer un plan personnalisé adapté à vos besoins individuels."
+        "Si le résultat de votre IMC se situe en dehors de la plage normale, il existe des mesures que vous pouvez prendre pour l'améliorer. Cela implique généralement une combinaison d'une alimentation équilibrée et d'une activité physique régulière. Se fixer des objectifs réalistes et progressifs peut vous aider à atteindre et à maintenir un poids santé. Notre <a href=\"/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Calories</a> peut être un excellent outil pour vous aider à planifier votre alimentation.",
+        "Il est également important de prendre en compte d'autres conditions de santé. Par exemple, maintenir un IMC sain est particulièrement important pendant la grossesse, et vous pouvez suivre vos progrès avec notre <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Grossesse</a>. Nous recommandons toujours de consulter un professionnel de la santé ou un diététicien agréé pour élaborer un plan personnalisé adapté à vos besoins individuels."
       ]
     }
   ],
@@ -497,20 +497,20 @@
       "heading": "Comment Utiliser le Chronomètre en Ligne",
       "paragraphs": [
         "Notre chronomètre en ligne est un outil simple et précis pour mesurer le temps écoulé. D'un simple clic, vous pouvez démarrer et arrêter le minuteur pour suivre n'importe quelle activité avec une précision au centième de seconde. La fonction 'Tour' vous permet d'enregistrer des temps intermédiaires sans interrompre le minuteur principal, ce qui est parfait pour suivre les performances sur plusieurs intervalles. Lorsque vous avez terminé, le bouton 'Réinitialiser' efface le minuteur et tous les tours enregistrés, vous préparant pour la prochaine session de chronométrage.",
-        "Alors qu'un chronomètre est excellent pour mesurer la durée à partir d'un point de départ, si vous devez calculer le temps entre une heure de début et de fin spécifique (comme pour une feuille de temps), notre <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Heures</a> est l'outil parfait pour ce travail."
+        "Alors qu'un chronomètre est excellent pour mesurer la durée à partir d'un point de départ, si vous devez calculer le temps entre une heure de début et de fin spécifique (comme pour une feuille de temps), notre <a href=\"/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Calculateur d'Heures</a> est l'outil parfait pour ce travail."
       ]
     },
     {
       "heading": "Applications Pratiques d'un Chronomètre",
       "paragraphs": [
         "Un chronomètre est un outil incroyablement polyvalent avec de nombreuses applications dans la vie quotidienne, le sport et les contextes professionnels :",
-        "Si vous devez effectuer des calculs avec vos temps de tour enregistrés, comme les additionner, notre <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a> peut gérer ces opérations avec facilité."
+        "Si vous devez effectuer des calculs avec vos temps de tour enregistrés, comme les additionner, notre <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Calculateur de Temps</a> peut gérer ces opérations avec facilité."
       ],
       "list": [
-        "<strong>Sports et Fitness :</strong> Chronométrage des tours pour la course, la natation ou le cyclisme, et mesure des périodes de repos entre les séries d'entraînement.",
-        "<strong>Cuisine et Pâtisserie :</strong> Chronométrage précis des recettes, de l'infusion du thé à la cuisson d'un gâteau.",
-        "<strong>Études et Productivité :</strong> Utilisation de techniques comme la Technique Pomodoro, qui implique des intervalles de travail ciblés chronométrés avec un chronomètre.",
-        "<strong>Tests et Présentations :</strong> Pratiquer des discours ou chronométrer des examens pour améliorer le rythme et la performance."
+          "Sports et Fitness : Chronométrage des tours pour la course, la natation ou le cyclisme, et mesure des périodes de repos entre les séries d'exercices.",
+          "Cuisine et Pâtisserie : Chronométrage précis des recettes, de l'infusion du thé à la cuisson d'un gâteau.",
+          "Étude et Productivité : Utilisation de techniques comme la Technique Pomodoro, qui implique des intervalles de travail ciblés chronométrés.",
+          "Examens et Présentations : Répétition de discours ou chronométrage d'examens pour améliorer le rythme et la performance."
       ]
     }
   ],

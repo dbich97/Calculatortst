@@ -1,3 +1,4 @@
+
 import React, { useState, useEffect } from 'react';
 import { useOutletContext } from 'react-router-dom';
 import type { Translation, LanguageCode } from '../types';
@@ -311,10 +312,10 @@ const CalorieCalculatorPage: React.FC = () => {
                                     <div className="p-4 bg-gray-50 dark:bg-gray-700/50 rounded-lg">
                                         <h4 className="text-xl font-semibold mb-2">{t.mealPlanTitle}</h4>
                                         <div className="space-y-4">
-                                            <div><strong>{t.breakfast}:</strong><ul>{mealPlan.breakfast.map((item:string, i:number) => <li key={i}>- {item}</li>)}</ul></div>
-                                            <div><strong>{t.lunch}:</strong><ul>{mealPlan.lunch.map((item:string, i:number) => <li key={i}>- {item}</li>)}</ul></div>
-                                            <div><strong>{t.dinner}:</strong><ul>{mealPlan.dinner.map((item:string, i:number) => <li key={i}>- {item}</li>)}</ul></div>
-                                            <div><strong>{t.snacks}:</strong><ul>{mealPlan.snacks.map((item:string, i:number) => <li key={i}>- {item}</li>)}</ul></div>
+                                            <div><strong>{t.breakfast}:</strong><ul>{(mealPlan.breakfast || []).map((item:string, i:number) => <li key={i}>- {item}</li>)}</ul></div>
+                                            <div><strong>{t.lunch}:</strong><ul>{(mealPlan.lunch || []).map((item:string, i:number) => <li key={i}>- {item}</li>)}</ul></div>
+                                            <div><strong>{t.dinner}:</strong><ul>{(mealPlan.dinner || []).map((item:string, i:number) => <li key={i}>- {item}</li>)}</ul></div>
+                                            <div><strong>{t.snacks}:</strong><ul>{(mealPlan.snacks || []).map((item:string, i:number) => <li key={i}>- {item}</li>)}</ul></div>
                                         </div>
                                     </div>
                                 </div>
@@ -356,7 +357,7 @@ const CalorieCalculatorPage: React.FC = () => {
                     </div>
                 </div>
                 <AdComponent />
-                <ShareButtons url={window.location.href} title={t.calorieShareResultTitle.replace('{calories}', goalCalories.toString())} t={t} />
+                <ShareButtons url={window.location.href} title={(t.calorieShareResultTitle || '').replace('{calories}', goalCalories.toString())} t={t} />
             </main>
             <SeoContent sections={t.seoCalorieSections} lang={currentLang} />
             <style>{`

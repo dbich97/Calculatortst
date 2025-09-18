@@ -85,7 +85,6 @@ export const languagesWithConstructionCalculators: LangEnum[] = [
   LangEnum.AR,
 ];
 
-// FIX: Add missing export for languagesWithConcreteCalculator.
 export const languagesWithConcreteCalculator: LangEnum[] = [
   LangEnum.NL,
   LangEnum.EN,

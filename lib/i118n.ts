@@ -61,6 +61,7 @@ export const languagesWithStopwatch: LangEnum[] = [
   LangEnum.TH,
   LangEnum.TR,
   LangEnum.VI,
+  LangEnum.AR,
 ];
 
 export const languagesWithConstructionCalculators: LangEnum[] = [

@@ -61,7 +61,7 @@
     {
       "heading": "Jak Działa Nasz Kalkulator Wieku",
       "paragraphs": [
-        "Nasz Kalkulator Wieku oblicza Twój wiek z dużą precyzją, porównując Twoją datę urodzenia z bieżącą datą. Narzędzie oblicza całkowity upływający czas i dzieli go na lata, miesiące i dni. Uwzględnia lata przestępne, aby zapewnić dokładny wynik, co czyni go niezawodnym narzędziem dla każdego, kto pyta 'ile mam lat?'. Wystarczy wpisać datę urodzenia, a kalkulator natychmiast wyświetli Twój wiek chronologiczny. Do innych obliczeń związanych z czasem możesz również wypróbować nasz <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulator Czasu</a>."
+        "Nasz Kalkulator Wieku oblicza Twój wiek z dużą precyzją, porównując Twoją datę urodzenia z bieżącą datą. Narzędzie oblicza całkowity upływający czas i dzieli go na lata, miesiące i dni. Uwzględnia lata przestępne, aby zapewnić dokładny wynik, co czyni go niezawodnym narzędziem dla każdego, kto pyta 'ile mam lat?'. Wystarczy wpisać datę urodzenia, a kalkulator natychmiast wyświetli Twój wiek chronologiczny. Do innych obliczeń związanych z czasem możesz również wypróbować nasz <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulator Czasu</a>."
       ]
     },
     {
@@ -136,7 +136,7 @@
     {
       "heading": "Jak Działa Nasz Kalkulator Terminu Porodu",
       "paragraphs": [
-        "Nasz Kalkulator Terminu Porodu szacuje przewidywaną datę porodu przy użyciu kilku metod. Najpopularniejsza metoda opiera się na pierwszym dniu ostatniej miesiączki (OM). To podejście, znane jako reguła Naegelego, dodaje 280 dni (40 tygodni) do daty OM w celu przewidzenia terminu porodu. Dla większej dokładności, zwłaszcza przy nieregularnych cyklach, możesz użyć naszego <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulatora Cyklu Miesiączkowego</a> do śledzenia miesiączki. Oferujemy również obliczenia na podstawie daty poczęcia, którą można określić za pomocą naszego <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Kalkulatora Owulacji</a>, lub daty transferu zarodka w ramach IVF. Ważne jest, aby pamiętać, że ta data jest szacunkowa. Tylko około 5% dzieci rodzi się dokładnie w przewidywanym terminie. To narzędzie stanowi wiarygodną wskazówkę, która pomoże Tobie i Twojemu lekarzowi zaplanować przyjście na świat dziecka."
+        "Nasz Kalkulator Terminu Porodu szacuje przewidywaną datę porodu przy użyciu kilku metod. Najpopularniejsza metoda opiera się na pierwszym dniu ostatniej miesiączki (OM). To podejście, znane jako reguła Naegelego, dodaje 280 dni (40 tygodni) do daty OM w celu przewidzenia terminu porodu. Dla większej dokładności, zwłaszcza przy nieregularnych cyklach, możesz użyć naszego <a href=\"/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulatora Cyklu Miesiączkowego</a> do śledzenia miesiączki. Oferujemy również obliczenia na podstawie daty poczęcia, którą można określić za pomocą naszego <a href=\"/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Kalkulatora Owulacji</a>, lub daty transferu zarodka w ramach IVF. Ważne jest, aby pamiętać, że ta data jest szacunkowa. Tylko około 5% dzieci rodzi się dokładnie w przewidywanym terminie. To narzędzie stanowi wiarygodną wskazówkę, która pomoże Tobie i Twojemu lekarzowi zaplanować przyjście na świat dziecka."
       ]
     },
     {
@@ -163,7 +163,7 @@
     {
       "heading": "Jak przewidzieć swoje najbardziej płodne dni",
       "paragraphs": [
-        "Nasz Kalkulator Owulacji to proste narzędzie zaprojektowane, aby pomóc Ci przewidzieć najbardziej płodne dni w miesiącu. Wprowadzając pierwszy dzień ostatniej miesiączki i średnią długość cyklu, którą możesz śledzić za pomocą naszego <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulatora Cyklu Miesiączkowego</a>, kalkulator szacuje prawdopodobną datę owulacji. Owulacja to uwolnienie komórki jajowej z jajnika, co zwykle dzieje się około 14 dni przed rozpoczęciem następnej miesiączki. Twoje „okno płodności” obejmuje dzień owulacji i pięć dni poprzedzających ją. Dzieje się tak, ponieważ plemniki mogą przetrwać w żeńskim układzie rozrodczym do pięciu dni. Stosunek w tym oknie znacznie zwiększa szanse na poczęcie. Gdy zajdziesz w ciążę, możesz śledzić swoją podróż z naszym <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulatorem Terminu Porodu</a>."
+        "Nasz Kalkulator Owulacji to proste narzędzie zaprojektowane, aby pomóc Ci przewidzieć najbardziej płodne dni w miesiącu. Wprowadzając pierwszy dzień ostatniej miesiączki i średnią długość cyklu, którą możesz śledzić za pomocą naszego <a href=\"/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulatora Cyklu Miesiączkowego</a>, kalkulator szacuje prawdopodobną datę owulacji. Owulacja to uwolnienie komórki jajowej z jajnika, co zwykle dzieje się około 14 dni przed rozpoczęciem następnej miesiączki. Twoje „okno płodności” obejmuje dzień owulacji i pięć dni poprzedzających ją. Dzieje się tak, ponieważ plemniki mogą przetrwać w żeńskim układzie rozrodczym do pięciu dni. Stosunek w tym oknie znacznie zwiększa szanse na poczęcie. Gdy zajdziesz w ciążę, możesz śledzić swoją podróż z naszym <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulatorem Terminu Porodu</a>."
       ]
     },
     {
@@ -188,7 +188,7 @@
     {
       "heading": "Jak działa nasz kalkulator okresu",
       "paragraphs": [
-        "Nasz Kalkulator Cyklu Miesiączkowego pomaga przewidzieć datę rozpoczęcia następnego okresu na podstawie tylko dwóch informacji: pierwszego dnia ostatniego okresu i średniej długości cyklu miesiączkowego. Dodając średnią długość cyklu do daty rozpoczęcia ostatniego okresu, narzędzie podaje szacunkową datę dwóch następnych okresów. Znajomość swojego cyklu jest również kluczowa do identyfikacji okien płodności za pomocą naszego <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Kalkulatora Owulacji</a>. Śledzenie cyklu to coś więcej niż tylko wygoda; to kluczowy wskaźnik ogólnego stanu zdrowia. Regularne, przewidywalne cykle często oznaczają, że hormony w Twoim ciele działają prawidłowo. Po zajściu w ciążę, nasz <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulator Terminu Porodu</a> może pomóc oszacować termin porodu."
+        "Nasz Kalkulator Cyklu Miesiączkowego pomaga przewidzieć datę rozpoczęcia następnego okresu na podstawie tylko dwóch informacji: pierwszego dnia ostatniego okresu i średniej długości cyklu miesiączkowego. Dodając średnią długość cyklu do daty rozpoczęcia ostatniego okresu, narzędzie podaje szacunkową datę dwóch następnych okresów. Znajomość swojego cyklu jest również kluczowa do identyfikacji okien płodności za pomocą naszego <a href=\"/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Kalkulatora Owulacji</a>. Śledzenie cyklu to coś więcej niż tylko wygoda; to kluczowy wskaźnik ogólnego stanu zdrowia. Regularne, przewidywalne cykle często oznaczają, że hormony w Twoim ciele działają prawidłowo. Po zajściu w ciążę, nasz <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulator Terminu Porodu</a> może pomóc oszacować termin porodu."
       ]
     },
     {
@@ -246,7 +246,6 @@
   "mildWeightGain": "Łagodny przyrost wagi (0,25 kg/tydzień)",
   "weightGain": "Przyrost wagi (0,5 kg/tydzień)",
   "fastWeightGain": "Szybki przyrost wagi (1 kg/tydzień)",
-  "calorieResultsTitle": "Twoje Zapotrzebowanie Kaloryczne",
   "caloriesPerDay": "Kalorii/dzień",
   "yourBMR": "Podstawowa Przemiana Materii (BMR)",
   "maintenanceCalories": "Kalorie Utrzymania",
@@ -257,12 +256,7 @@
     "extremeWeightLoss": "Dla ekstremalnej utraty wagi",
     "mildWeightGain": "Dla łagodnego przyrostu wagi",
     "weightGain": "Dla przyrostu wagi",
-    "fastWeightGain": "Dla szybkiego przyrostu wagi",
-    "sedentary": "Siedzący tryb życia: mało lub brak ćwiczeń",
-    "lightlyActive": "Lekko aktywny: ćwiczenia 1-3 dni/tydzień",
-    "moderatelyActive": "Umiarkowanie aktywny: ćwiczenia 3-5 dni/tydzień",
-    "veryActive": "Bardzo aktywny: ćwiczenia 6-7 dni/tydzień",
-    "extraActive": "Ekstra aktywny: bardzo ciężkie ćwiczenia i praca fizyczna"
+    "fastWeightGain": "Dla szybkiego przyrostu wagi"
   },
   "macronutrientPlan": "Wybierz Plan Makroskładników",
   "balanced": "Zbilansowany (40% Węglowodany, 30% Białko, 30% Tłuszcze)",
@@ -292,6 +286,34 @@
   "errorHeight": "Proszę wprowadzić prawidłowy wzrost (min 100cm / 3'3\").",
   "errorWeight": "Proszę wprowadzić prawidłową wagę (min 20kg / 45lbs).",
   "errorAge": "Proszę wprowadzić prawidłowy wiek (15-80).",
+  "seoCalorieSections": [
+    {
+      "heading": "Zrozumienie Twojego Dziennego Zapotrzebowania na Kalorie",
+      "paragraphs": [
+        "Kaloria to jednostka energii. W dietetyce kalorie odnoszą się do energii, którą ludzie czerpią z jedzenia i napojów, oraz energii, którą zużywają podczas aktywności fizycznej. Zrozumienie Twojego dziennego zapotrzebowania na kalorie, które często zależy od czynników takich jak wiek (sprawdź go za pomocą naszego <a href=\"/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Kalkulatora Wieku</a>), jest pierwszym krokiem do osiągnięcia Twoich celów wagowych, czy to utraty, przyrostu czy utrzymania obecnej wagi.",
+        "Nasz kalkulator zaczyna od określenia Twojej Podstawowej Przemiany Materii (BMR), czyli liczby kalorii, których Twój organizm potrzebuje do wykonywania podstawowych funkcji życiowych w spoczynku, takich jak oddychanie, krążenie i produkcja komórek. Używamy do tego powszechnie akceptowanego wzoru Mifflina-St Jeora. Następnie uwzględniamy Twój poziom aktywności, aby obliczyć Twoje Całkowite Dzienne Zapotrzebowanie Energetyczne (TDEE), które jest dokładniejszym oszacowaniem dziennego spalania kalorii."
+      ]
+    },
+    {
+      "heading": "Ustalanie Celów: Utrata, Przyrost lub Utrzymanie Wagi",
+      "paragraphs": [
+        "Gdy już znasz swoje TDEE (kalorie na utrzymanie wagi), możesz dostosować spożycie, aby osiągnąć swoje cele:",
+        "Aby schudnąć, musisz spożywać mniej kalorii niż Twoje TDEE, tworząc deficyt kaloryczny. Bezpieczny i zrównoważony deficyt to zazwyczaj około 500 kalorii dziennie, aby stracić około 0,5 kg tygodniowo.",
+        "Aby przytyć, musisz spożywać więcej kalorii niż Twoje TDEE, tworząc nadwyżkę kaloryczną. Nadwyżka 300-500 kalorii dziennie to dobry punkt wyjścia do stałego przyrostu masy mięśniowej przy minimalnym przyroście tkanki tłuszczowej.",
+        "Aby utrzymać wagę, powinieneś dążyć do spożywania liczby kalorii równej Twojemu TDEE."
+      ]
+    },
+    {
+      "heading": "A Co z Makroskładnikami?",
+      "paragraphs": [
+        "Kalorie pochodzą z trzech głównych makroskładników: białka, węglowodanów i tłuszczów. Zrównoważenie tych 'makr' jest kluczem do zdrowej diety.",
+        "Białko jest kluczowe do budowy i naprawy tkanek, w tym mięśni.",
+        "Węglowodany są głównym źródłem energii dla Twojego organizmu.",
+        "Tłuszcze są niezbędne do produkcji hormonów i wchłaniania witamin.",
+        "Nasz kalkulator pomaga podzielić Twoje całkowite dzienne kalorie na gramy białka, węglowodanów i tłuszczów na podstawie popularnych planów dietetycznych. Daje to praktyczne ramy do budowania posiłków, które są zgodne z Twoimi celami zdrowotnymi i fitnessowymi."
+      ]
+    }
+  ],
   "seoTimeTitle": "Kalkulator Czasu - Dodawaj i Odejmuj Okresy Czasu",
   "seoTimeDescription": "Darmowe narzędzie online do łatwego dodawania lub odejmowania okresów czasu. Obliczaj dni, godziny, minuty i sekundy z precyzją. Idealny do zarządzania projektami, śledzenia czasu i codziennych obliczeń.",
   "timeTitle": "Kalkulator Czasu",
@@ -312,7 +334,7 @@
     {
       "heading": "Jak używać kalkulatora czasu",
       "paragraphs": [
-        "Nasz kalkulator czasu upraszcza proces dodawania i odejmowania czasu. Niezależnie od tego, czy śledzisz godziny pracy, rejestrujesz sesje treningowe, czy planujesz wydarzenie, to narzędzie zapewnia szybkie i dokładne rozwiązanie. Do obliczania czasu trwania między godziną początkową a końcową, na przykład do karty czasu pracy, dostępny jest również nasz <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Kalkulator Godzin</a>. Wystarczy wprowadzić dwa okresy czasu, wybrać, czy chcesz je dodać, czy odjąć, i natychmiast uzyskać wynik. Kalkulator dzieli czas na dni, godziny, minuty i sekundy. W przypadku odejmowania upewnij się, że pierwszy okres czasu jest większy lub równy drugiemu, aby uniknąć wyników ujemnych."
+        "Nasz kalkulator czasu upraszcza proces dodawania i odejmowania czasu. Niezależnie od tego, czy śledzisz godziny pracy, rejestrujesz sesje treningowe, czy planujesz wydarzenie, to narzędzie zapewnia szybkie i dokładne rozwiązanie. Do obliczania czasu trwania między godziną początkową a końcową, na przykład do karty czasu pracy, dostępny jest również nasz <a href=\"/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Kalkulator Godzin</a>. Wystarczy wprowadzić dwa okresy czasu, wybrać, czy chcesz je dodać, czy odjąć, i natychmiast uzyskać wynik. Kalkulator dzieli czas na dni, godziny, minuty i sekundy. W przypadku odejmowania upewnij się, że pierwszy okres czasu jest większy lub równy drugiemu, aby uniknąć wyników ujemnych."
       ]
     },
     {
@@ -341,6 +363,25 @@
   "resultInMinutes": "w sumie minut",
   "resultHours": "godzin",
   "resultMinutes": "minut",
+  "seoHoursSections": [
+    {
+      "heading": "Jak Używać Kalkulatora Godzin",
+      "paragraphs": [
+        "Nasz Kalkulator Godzin został zaprojektowany, aby uprościć obliczanie czasu trwania między dwoma punktami w czasie. Niezależnie od tego, czy obliczasz godziny pracy, długość wydarzenia, czy czas spędzony na zadaniu, to narzędzie dostarcza szybki i dokładny wynik. W przypadku bardziej złożonych obliczeń, obejmujących dodawanie lub odejmowanie wielu okresów, sprawdź nasz kompleksowy <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulator Czasu</a>. Wystarczy wprowadzić czas początkowy i końcowy, a kalkulator zajmie się resztą, obsługując przypadki przekraczające północ."
+      ]
+    },
+    {
+      "heading": "Praktyczne Zastosowania",
+      "paragraphs": [
+        "To narzędzie jest niezwykle przydatne w różnych scenariuszach:",
+        "Obliczanie Godzin Pracy: Łatwo oblicz dzienne lub tygodniowe godziny pracy do kart czasu pracy.",
+        "Planowanie Wydarzeń: Określ czas trwania spotkań, wizyt i wydarzeń.",
+        "Śledzenie Aktywności: Monitoruj czas spędzany na hobby, nauce lub ćwiczeniach."
+      ]
+    }
+  ],
+  "navDateCalculator": "Kalkulator Dat",
+  "homeDateCalculatorDescription": "Dodaj lub odejmij dni, tygodnie, miesiące i lata od określonej daty.",
   "seoDateTitle": "Kalkulator Dat - Dodawaj i Odejmuj od Dat",
   "seoDateDescription": "Darmowe narzędzie online do dodawania lub odejmowania lat, miesięcy, tygodni i dni od daty początkowej. Idealne do planowania wydarzeń i terminów.",
   "dateTitle": "Kalkulator Dat",
@@ -350,6 +391,25 @@
   "subtractDurationLabel": "Odejmij Okres Czasu",
   "calculateDateButton": "Oblicz Datę",
   "resultDateLabel": "Data Wynikowa",
+  "seoDateSections": [
+    {
+      "heading": "Jak korzystać z Kalkulatora Dat",
+      "paragraphs": [
+        "Nasz Kalkulator Dat został zaprojektowany w celu uproszczenia dodawania lub odejmowania okresów czasu od określonej daty. Niezależnie od tego, czy planujesz przyszłe wydarzenie, ustalasz termin, czy patrzysz na datę w przeszłości, to narzędzie zapewnia szybkie i dokładne obliczenia. Wystarczy wprowadzić datę początkową, a następnie określić liczbę lat, miesięcy, tygodni i dni, które chcesz dodać lub odjąć. Kalkulator uwzględnia takie szczegóły, jak lata przestępne i różna długość miesięcy, aby zapewnić dokładność. To narzędzie uzupełnia nasze inne narzędzia oparte na czasie. Na przykład możesz użyć naszego <a href='/{currentLang}/age-calculator' class='text-blue-500 hover:underline'>Kalkulatora Wieku</a> do określenia czyjegoś wieku lub naszego <a href='/{currentLang}/hours-calculator' class='text-blue-500 hover:underline'>Kalkulatora Godzin</a>, aby znaleźć czas trwania między dwiema godzinami tego samego dnia. W przypadku obliczeń obejmujących wiele okresów czasu nasz <a href='/{currentLang}/time-Calculator' class='text-blue-500 hover:underline'>Kalkulator Czasu</a> jest idealnym wyborem."
+      ]
+    },
+    {
+      "heading": "Praktyczne zastosowania i przykłady",
+      "paragraphs": [
+        "Kalkulator Dat jest niezwykle przydatny w różnych scenariuszach codziennych, osobistych i zawodowych:",
+        "<strong>Planowanie osobiste:</strong> Zastanawiasz się, jaka będzie data za 90 dni na wakacje? A może chcesz wiedzieć, kiedy minęło 6 miesięcy od rocznicy.",
+        "<strong>Zarządzanie projektami:</strong> Łatwo ustalaj terminy projektów. Jeśli projekt rozpoczyna się 15 stycznia i trwa 8 tygodni i 3 dni, możesz natychmiast znaleźć dokładną datę zakończenia.",
+        "<strong>Wizyty lekarskie:</strong> Śledź wizyty lekarskie lub harmonogramy leków. Jeśli musisz zaplanować wizytę kontrolną 3 miesiące po wizycie, to narzędzie poda ci dokładną datę.",
+        "<strong>Planowanie finansowe:</strong> Obliczaj terminy spłaty pożyczek lub planów inwestycyjnych, które obejmują określoną liczbę lat i miesięcy.",
+        "<strong>Planowanie ciąży:</strong> Chociaż nasz <a href='/{currentLang}/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Kalkulator Ciąży</a> dostarcza szczegółowych szacunków terminu porodu, to narzędzie może być używane do szybkich obliczeń dotyczących określonych dat w trakcie ciąży."
+      ]
+    }
+  ],
   "navBmiCalculator": "Kalkulator BMI",
   "homeBmiCalculatorDescription": "Oblicz swój wskaźnik masy ciała (BMI), aby zrozumieć stan swojego zdrowia wagowego.",
   "seoBmiTitle": "Kalkulator Wskaźnika Masy Ciała (BMI) - Sprawdź Swoje Zdrowie Wagowe",
@@ -363,6 +423,45 @@
   "normalWeight": "Waga prawidłowa",
   "overweight": "Nadwaga",
   "obesity": "Otyłość",
+  "seoBmiSections": [
+    {
+      "heading": "Czym jest BMI i jak działa?",
+      "paragraphs": [
+        "Wskaźnik Masy Ciała (BMI) to prosty pomiar wykorzystujący wzrost i wagę do oszacowania tkanki tłuszczowej. Jest to szeroko stosowane narzędzie przesiewowe do określania, czy waga danej osoby mieści się w zdrowym zakresie. Podstawowy wzór to waga w kilogramach podzielona przez kwadrat wzrostu w metrach (kg/m²). Nasz kalkulator automatyzuje ten proces, aby zapewnić szybki i dokładny wynik.",
+        "Zrozumienie swojego BMI to ważny pierwszy krok w kierunku zdrowego zarządzania wagą. Może pomóc w ustaleniu realistycznych celów, niezależnie od tego, czy chcesz utrzymać, czy zmienić swoją obecną wagę. Aby skutecznie zarządzać wagą, kluczowe jest również zrozumienie swojego zapotrzebowania energetycznego, które można obliczyć za pomocą naszego <a href=\"/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulatora Kalorii</a>."
+      ]
+    },
+    {
+      "heading": "Zrozumienie wyników BMI (Kategorie)",
+      "paragraphs": [
+        "Po obliczeniu BMI wynik jest klasyfikowany do określonych kategorii, aby pomóc w zrozumieniu stanu zdrowia. Standardowe kategorie dla dorosłych to:",
+        "<strong>Poniżej 18.5:</strong> Niedowaga. Może to wskazywać na niedobór składników odżywczych lub być oznaką choroby.",
+        "<strong>18.5 – 24.9:</strong> Waga prawidłowa. Ten zakres sugeruje, że masz zdrową wagę w stosunku do wzrostu, co zmniejsza ryzyko chorób przewlekłych.",
+        "<strong>25.0 – 29.9:</strong> Nadwaga. W tej kategorii możesz być narażony na zwiększone ryzyko rozwoju problemów zdrowotnych, takich jak choroby serca i cukrzyca typu 2.",
+        "<strong>30.0 i powyżej:</strong> Otyłość. Otyłość znacznie zwiększa ryzyko poważnych problemów zdrowotnych i wymaga szczególnej uwagi poprzez zmiany stylu życia i konsultację z lekarzem."
+      ]
+    },
+    {
+      "heading": "Jak ważne jest utrzymanie prawidłowego BMI",
+      "paragraphs": [
+        "Utrzymanie BMI w normalnym zakresie (18,5-24,9) ma kluczowe znaczenie dla ogólnego stanu zdrowia. Nadwaga lub otyłość wiążą się ze zwiększonym ryzykiem licznych chorób przewlekłych, w tym nadciśnienia tętniczego, chorób serca, udaru mózgu, cukrzycy typu 2 i niektórych rodzajów raka. Z drugiej strony, niedowaga może również prowadzić do problemów zdrowotnych, takich jak osłabiony układ odpornościowy, osteoporoza i problemy z płodnością. Dlatego osiągnięcie i utrzymanie prawidłowej wagi jest kluczowym elementem zdrowego stylu życia."
+      ]
+    },
+    {
+      "heading": "Ograniczenia BMI",
+      "paragraphs": [
+        "Chociaż BMI jest użytecznym narzędziem przesiewowym, nie jest pozbawione ograniczeń. Nie rozróżnia masy tłuszczowej od masy mięśniowej. Oznacza to, że osoby bardzo umięśnione, takie jak sportowcy, mogą mieć wysokie BMI i być sklasyfikowane jako osoby z nadwagą, mimo niskiej zawartości tkanki tłuszczowej.",
+        "Dodatkowo, interpretacja BMI może być zależna od czynników takich jak wiek i płeć. Na przykład, starsze osoby dorosłe, które straciły masę mięśniową, mogą mieć zdrowy procent tkanki tłuszczowej, nawet jeśli ich BMI jest w normie. Możesz zbadać, jak Twoje ciało zmienia się z wiekiem za pomocą naszego <a href=\"/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Kalkulatora Wieku</a>. Z tych powodów, BMI powinno być stosowane jako część kompleksowej oceny zdrowia, a nie jako jedyne narzędzie diagnostyczne."
+      ]
+    },
+    {
+      "heading": "Jak poprawić swoje BMI",
+      "paragraphs": [
+        "Jeśli wynik Twojego BMI wykracza poza normalny zakres, istnieją kroki, które możesz podjąć, aby go poprawić. Zazwyczaj obejmuje to połączenie zbilansowanej diety i regularnej aktywności fizycznej. Ustalanie realistycznych i stopniowych celów może pomóc w osiągnięciu i utrzymaniu prawidłowej wagi. Nasz <a href=\"/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulator Kalorii</a> może być doskonałym narzędziem do planowania diety.",
+        "Ważne jest również uwzględnienie innych schorzeń. Na przykład, utrzymanie prawidłowego BMI jest szczególnie ważne podczas ciąży, a postępy można śledzić za pomocą naszego <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulatora Ciąży</a>. Zawsze zalecamy konsultację z pracownikiem służby zdrowia lub zarejestrowanym dietetykiem w celu opracowania spersonalizowanego planu, który odpowiada Twoim indywidualnym potrzebom."
+      ]
+    }
+  ],
   "navStopwatch": "Stoper",
   "homeStopwatchDescription": "Mierz upływający czas z precyzją, używając okrążeń i czytelnego wyświetlacza.",
   "seoStopwatchTitle": "Darmowy Stoper Online z Okrążeniami",
@@ -379,14 +478,14 @@
       "heading": "Jak korzystać ze stopera online",
       "paragraphs": [
         "Nasz stoper online to proste i precyzyjne narzędzie do mierzenia upływającego czasu. Jednym kliknięciem możesz uruchomić i zatrzymać stoper, aby śledzić każdą aktywność z dokładnością do setnych części sekundy. Funkcja 'Okrążenie' pozwala na rejestrowanie czasów pośrednich bez przerywania głównego timera, co jest idealne do śledzenia wyników na wielu interwałach. Po zakończeniu przycisk 'Resetuj' zeruje stoper i wszystkie zarejestrowane okrążenia, przygotowując Cię do następnego pomiaru.",
-        "Stoper jest doskonały do mierzenia czasu trwania od punktu początkowego, ale jeśli potrzebujesz obliczyć czas między konkretną godziną początkową a końcową (na przykład do karty czasu pracy), nasz <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Kalkulator Godzin</a> jest do tego idealnym narzędziem."
+        "Stoper jest doskonały do mierzenia czasu trwania od punktu początkowego, ale jeśli potrzebujesz obliczyć czas między konkretną godziną początkową a końcową (na przykład do karty czasu pracy), nasz <a href=\"/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Kalkulator Godzin</a> jest do tego idealnym narzędziem."
       ]
     },
     {
       "heading": "Praktyczne zastosowania stopera",
       "paragraphs": [
         "Stoper to niezwykle wszechstronne narzędzie z licznymi zastosowaniami w życiu codziennym, sporcie i w pracy zawodowej:",
-        "Jeśli potrzebujesz wykonać obliczenia na zarejestrowanych czasach okrążeń, na przykład je zsumować, nasz <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulator Czasu</a> z łatwością sobie z tym poradzi."
+        "Jeśli potrzebujesz wykonać obliczenia na zarejestrowanych czasach okrążeń, na przykład je zsumować, nasz <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Kalkulator Czasu</a> z łatwością sobie z tym poradzi."
       ],
       "list": [
         "<strong>Sport i fitness:</strong> Mierzenie czasu okrążeń podczas biegania, pływania lub jazdy na rowerze oraz mierzenie przerw między seriami ćwiczeń.",
@@ -402,6 +501,72 @@
   "seoRoofingTitle": "Kalkulator Dachu - Oblicz Materiały i Koszty",
   "roofingTitle": "Kalkulator Dachu",
   "roofingSubheading": "Oblicz wymagane materiały i koszty dla swojego dachu.",
+  "totalAreaMethod": "Na podstawie całkowitej powierzchni",
+  "groundDimensionsMethod": "Na podstawie wymiarów gruntu",
+  "totalAreaLabel": "Całkowita powierzchnia dachu",
+  "buildingLengthLabel": "Długość budynku",
+  "buildingWidthLabel": "Szerokość budynku",
+  "roofPitchLabel": "Spadek dachu",
+  "roofingPitchTooltip": "Wprowadź spadek dachu jako stosunek (np. 4:12) lub w stopniach (np. 18.4). Dla dachu płaskiego użyj 0.",
+  "wasteFactorLabel": "Współczynnik strat (%)",
+  "pricePerUnitLabel": "Cena za jednostkę",
+  "calculateRoofingButton": "Oblicz Dach",
+  "resultsTitle": "Twoje wyniki",
+  "baseRoofAreaResult": "Podstawowa powierzchnia dachu",
+  "totalRoofAreaResult": "Całkowita powierzchnia dachu (wraz ze stratami)",
+  "materialsNeededResult": "Potrzebne materiały",
+  "totalCostResult": "Szacowany koszt całkowity",
+  "sqmUnit": "m²",
+  "squaresUnit": "squares",
+  "sqftUnit": "stopy kw.",
+  "roofPitchTypeLabel": "Typ spadku dachu",
+  "pitchRatio": "Stosunek",
+  "pitchDegrees": "Stopnie",
+  "roundUpLabel": "Zaokrąglij w górę do pełnych jednostek",
+  "errorInvalidPitch": "Nieprawidłowy spadek dachu. Wprowadź stosunek (np. 4:12) lub stopnie (np. 18.4).",
+  "materialTypeLabel": "Rodzaj materiału",
+  "shingles": "Gonty (~60 zł/m²)",
+  "epdm": "EPDM (~80 zł/m²)",
+  "roofTiles": "Dachówki (~120 zł/m²)",
+  "metal": "Blacha (~100 zł/m²)",
+  "customPrice": "Cena niestandardowa",
+  "wasteAmountResult": "Naddatek na straty",
+  "roofingPitchRatioPlaceholder": "np. 4:12",
+  "roofingPitchDegreesPlaceholder": "np. 18.4",
+  "seoRoofingSections": [
+    {
+      "heading": "Jak Działa Nasz Kalkulator Dachu Online",
+      "paragraphs": [
+        "Nasz darmowy <strong>kalkulator dachu</strong> pomaga szybko oszacować powierzchnię dachu, potrzebne materiały i koszty. Wystarczy, że wpiszesz wymiary i nachylenie – lub całkowitą powierzchnię, jeśli już ją znasz – a nasz <strong>estymator dachu</strong> natychmiast poda wyniki. To idealne narzędzie zarówno dla majsterkowiczów, jak i profesjonalistów."
+      ]
+    },
+    {
+      "heading": "Praktyczne Wskazówki do Dokładnych Obliczeń",
+      "paragraphs": [
+        "Udany projekt zaczyna się od precyzyjnego planu. Skorzystaj z tych wskazówek, aby Twoje <strong>obliczenia pokrycia dachowego</strong> były poprawne:"
+      ],
+      "list": [
+        "<strong>Dokładnie Zmierz:</strong> Sprawdź dwukrotnie długość i szerokość powierzchni dachu. Precyzyjny pomiar to podstawa każdego obliczenia.",
+        "<strong>Wybierz Odpowiedni Współczynnik Strat:</strong> Proste dachy mogą potrzebować tylko 5-10% dodatkowego materiału na straty, ale skomplikowane dachy z wieloma kątami, lukarnami czy kominami wymagają wyższego współczynnika, często około 15%.",
+        "<strong>Rozważ Wybór Materiału:</strong> Każdy materiał (gonty, papa, dachówki, blacha) ma inną cenę i stopień skomplikowania montażu. Nasze narzędzie pozwala porównać koszty, aby podjąć świadomą decyzję.",
+        "<strong>Sprawdź Lokalne Wymagania:</strong> Niektóre regiony mają specyficzne przepisy budowlane. Zawsze sprawdzaj lokalne wytyczne przed rozpoczęciem prac."
+      ]
+    },
+    {
+      "heading": "Często Zadawane Pytania (FAQ)",
+      "paragraphs": [
+        "<strong>P: Czy to narzędzie działa również jako kalkulator kosztów dachu?</strong><br>O: Tak! Po obliczeniu potrzebnego materiału możesz wpisać cenę za jednostkę (m² lub 'square'), aby uzyskać natychmiastowe oszacowanie kosztów Twojego projektu.",
+        "<strong>P: Ile materiału dachowego potrzebuję do mojego projektu?</strong><br>O: Podstawowa formuła obejmuje obliczenie całkowitej powierzchni dachu na podstawie jego wymiarów i nachylenia, a następnie dodanie współczynnika strat (zazwyczaj 10-15%). Nasze narzędzie automatyzuje cały ten proces za Ciebie.",
+        "<strong>P: Co to jest 'square' w dekarstwie?</strong><br>O: 'Square' to powszechna jednostka imperialna używana w Stanach Zjednoczonych, równa 100 stopom kwadratowym. Nasz kalkulator może podawać wyniki zarówno w 'square'ach', jak i w metrach kwadratowych (m²)."
+      ]
+    },
+    {
+      "heading": "Rozpocznij Planowanie Swojego Dachu Już Dziś!",
+      "paragraphs": [
+        "Wypróbuj nasz Kalkulator Dachu już teraz i uzyskaj natychmiastowe oszacowanie! Uniknij niepotrzebnych kosztów i upewnij się, że masz odpowiednią ilość materiału, aby wykonać pracę prawidłowo."
+      ]
+    }
+  ],
   "navConcreteCalculator": "Kalkulator Betonu",
   "homeConcreteCalculatorDescription": "Oblicz objętość i materiały potrzebne do Twojego projektu betonowego.",
   "seoConcreteTitle": "Profesjonalny Kalkulator Betonu - Objętość, Worki i Koszt",

@@ -1,4 +1,3 @@
-
 {
   "title": "Rekenmachine",
   "selectLanguage": "Selecteer Taal",
@@ -63,7 +62,7 @@
     {
       "heading": "Hoe Onze Leeftijdscalculator Werkt",
       "paragraphs": [
-        "Onze Leeftijdscalculator berekent uw leeftijd met hoge precisie door uw geboortedatum te vergelijken met de huidige datum. De tool berekent de totale verstreken tijd en splitst deze op in jaren, maanden en dagen. Het houdt rekening met schrikkeljaren om een nauwkeurig resultaat te geven, waardoor het een betrouwbaar hulpmiddel is voor iedereen die zich afvraagt 'hoe oud ben ik?'. Voer gewoon uw geboortedatum in en de calculator toont onmiddellijk uw chronologische leeftijd. Voor andere tijdgerelateerde berekeningen kunt u ook onze <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Tijdcalculator</a> proberen."
+        "Onze Leeftijdscalculator berekent uw leeftijd met hoge precisie door uw geboortedatum te vergelijken met de huidige datum. De tool berekent de totale verstreken tijd en splitst deze op in jaren, maanden en dagen. Het houdt rekening met schrikkeljaren om een nauwkeurig resultaat te geven, waardoor het een betrouwbaar hulpmiddel is voor iedereen die zich afvraagt 'hoe oud ben ik?'. Voer gewoon uw geboortedatum in en de calculator toont onmiddellijk uw chronologische leeftijd. Voor andere tijdgerelateerde berekeningen kunt u ook onze <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Tijdcalculator</a> proberen."
       ]
     },
     {
@@ -138,7 +137,7 @@
     {
       "heading": "Hoe onze Uitgerekende Datum Calculator Werkt",
       "paragraphs": [
-        "Onze Zwangerschapsuitgerekende Datum Calculator schat uw verwachte bevallingsdatum met behulp van verschillende methoden. De meest voorkomende methode is gebaseerd op de eerste dag van uw laatste menstruatie (LMP). Deze aanpak, bekend als de regel van Naegele, voegt 280 dagen (40 weken) toe aan uw LMP om de uitgerekende datum te voorspellen. Voor grotere nauwkeurigheid, vooral bij onregelmatige cycli, kunt u onze <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstruatiecyclus Calculator</a> gebruiken om uw menstruatie bij te houden. We bieden ook berekeningen op basis van de conceptiedatum, die kan worden geïdentificeerd met onze <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulatiecalculator</a>, of uw IVF-transferdatum.",
+        "Onze Zwangerschapsuitgerekende Datum Calculator schat uw verwachte bevallingsdatum met behulp van verschillende methoden. De meest voorkomende methode is gebaseerd op de eerste dag van uw laatste menstruatie (LMP). Deze aanpak, bekend als de regel van Naegele, voegt 280 dagen (40 weken) toe aan uw LMP om de uitgerekende datum te voorspellen. Voor grotere nauwkeurigheid, vooral bij onregelmatige cycli, kunt u onze <a href=\"/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstruatiecyclus Calculator</a> gebruiken om uw menstruatie bij te houden. We bieden ook berekeningen op basis van de conceptiedatum, die kan worden geïdentificeerd met onze <a href=\"/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulatiecalculator</a>, of uw IVF-transferdatum.",
         "Het is belangrijk te onthouden dat deze datum een schatting is. Slechts ongeveer 5% van de baby's wordt op hun exacte uitgerekende datum geboren. Deze tool biedt een betrouwbare richtlijn om u en uw zorgverlener te helpen bij het plannen van de komst van uw baby."
       ]
     },
@@ -166,8 +165,8 @@
     {
       "heading": "Hoe u uw meest vruchtbare dagen kunt voorspellen",
       "paragraphs": [
-        "Onze Ovulatiecalculator is een eenvoudig hulpmiddel dat is ontworpen om u te helpen uw meest vruchtbare dagen van de maand te voorspellen. Door de eerste dag van uw laatste menstruatie en uw gemiddelde cycluslengte in te voeren, die u kunt bijhouden met onze <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstruatiecyclus Calculator</a>, schat de calculator uw waarschijnlijke ovulatiedatum. Ovulatie is het vrijkomen van een eicel uit uw eierstok, wat meestal ongeveer 14 dagen voor het begin van uw volgende menstruatie gebeurt.",
-        "Uw 'vruchtbare periode' omvat de dag van de ovulatie en de vijf dagen ervoor. Dit komt omdat sperma tot vijf dagen in het vrouwelijke voortplantingsstelsel kan overleven. Geslachtsgemeenschap tijdens deze periode verhoogt uw kansen op conceptie aanzienlijk. Zodra u zwanger bent, kunt u uw reis volgen met onze <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Zwangerschapsuitgerekende Datum Calculator</a>."
+        "Onze Ovulatiecalculator is een eenvoudig hulpmiddel dat is ontworpen om u te helpen uw meest vruchtbare dagen van de maand te voorspellen. Door de eerste dag van uw laatste menstruatie en uw gemiddelde cycluslengte in te voeren, die u kunt bijhouden met onze <a href=\"/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstruatiecyclus Calculator</a>, schat de calculator uw waarschijnlijke ovulatiedatum. Ovulatie is het vrijkomen van een eicel uit uw eierstok, wat meestal ongeveer 14 dagen voor het begin van uw volgende menstruatie gebeurt.",
+        "Uw 'vruchtbare periode' omvat de dag van de ovulatie en de vijf dagen ervoor. Dit komt omdat sperma tot vijf dagen in het vrouwelijke voortplantingsstelsel kan overleven. Geslachtsgemeenschap tijdens deze periode verhoogt uw kansen op conceptie aanzienlijk. Zodra u zwanger bent, kunt u uw reis volgen met onze <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Zwangerschapsuitgerekende Datum Calculator</a>."
       ]
     },
     {
@@ -192,8 +191,8 @@
     {
       "heading": "Hoe onze menstruatiecalculator werkt",
       "paragraphs": [
-        "Onze Menstruatiecyclus Calculator helpt u de startdatum van uw volgende menstruatie te voorspellen met slechts twee gegevens: de eerste dag van uw laatste menstruatie en de gemiddelde lengte van uw menstruatiecyclus. Door uw gemiddelde cycluslengte op te tellen bij de startdatum van uw laatste menstruatie, geeft de tool een geschatte datum voor uw volgende twee menstruaties. Het kennen van uw cyclus is ook essentieel voor het identificeren van vruchtbare periodes met onze <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulatiecalculator</a>.",
-        "Het bijhouden van uw cyclus is meer dan alleen gemak; het is een belangrijke indicator van uw algehele gezondheid. Regelmatige, voorspelbare cycli duiden er vaak op dat de hormonen van uw lichaam correct functioneren. Deze informatie is van onschatbare waarde voor gezinsplanning, en eenmaal zwanger, kan onze <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Zwangerschapsuitgerekende Datum Calculator</a> helpen bij het schatten van uw uitgerekende datum."
+        "Onze Menstruatiecyclus Calculator helpt u de startdatum van uw volgende menstruatie te voorspellen met slechts twee gegevens: de eerste dag van uw laatste menstruatie en de gemiddelde lengte van uw menstruatiecyclus. Door uw gemiddelde cycluslengte op te tellen bij de startdatum van uw laatste menstruatie, geeft de tool een geschatte datum voor uw volgende twee menstruaties. Het kennen van uw cyclus is ook essentieel voor het identificeren van vruchtbare periodes met onze <a href=\"/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulatiecalculator</a>.",
+        "Het bijhouden van uw cyclus is meer dan alleen gemak; het is een belangrijke indicator van uw algehele gezondheid. Regelmatige, voorspelbare cycli duiden er vaak op dat de hormonen van uw lichaam correct functioneren. Deze informatie is van onschatbare waarde voor gezinsplanning, en eenmaal zwanger, kan onze <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Zwangerschapsuitgerekende Datum Calculator</a> helpen bij het schatten van uw uitgerekende datum."
       ]
     },
     {
@@ -251,7 +250,6 @@
   "mildWeightGain": "Lichte gewichtstoename (0.25 kg/week)",
   "weightGain": "Gewichtstoename (0.5 kg/week)",
   "fastWeightGain": "Snelle gewichtstoename (1 kg/week)",
-  "calorieResultsTitle": "Jouw Caloriebehoefte",
   "caloriesPerDay": "Calorieën/dag",
   "yourBMR": "Basaal Metabolisme (BMR)",
   "maintenanceCalories": "Onderhoudscalorieën",
@@ -262,12 +260,7 @@
     "extremeWeightLoss": "Voor extreem gewichtsverlies",
     "mildWeightGain": "Voor lichte gewichtstoename",
     "weightGain": "Voor gewichtstoename",
-    "fastWeightGain": "Voor snelle gewichtstoename",
-    "sedentary": "Zittend: weinig of geen lichaamsbeweging",
-    "lightlyActive": "Licht actief: 1-3 dagen/week lichaamsbeweging",
-    "moderatelyActive": "Matig actief: 3-5 dagen/week lichaamsbeweging",
-    "veryActive": "Zeer actief: 6-7 dagen/week lichaamsbeweging",
-    "extraActive": "Extra actief: zeer zware lichaamsbeweging & fysieke baan"
+    "fastWeightGain": "Voor snelle gewichtstoename"
   },
   "macronutrientPlan": "Kies een Macronutriëntenplan",
   "balanced": "Gebalanceerd (40% Koolhydraten, 30% Eiwitten, 30% Vetten)",
@@ -297,6 +290,34 @@
   "errorHeight": "Voer een geldige lengte in (min 100cm / 3'3\").",
   "errorWeight": "Voer een geldig gewicht in (min 20kg / 45lbs).",
   "errorAge": "Voer een geldige leeftijd in (15-80).",
+  "seoCalorieSections": [
+    {
+      "heading": "Uw dagelijkse caloriebehoefte begrijpen",
+      "paragraphs": [
+        "Een calorie is een eenheid van energie. In voeding verwijzen calorieën naar de energie die mensen halen uit het voedsel en de dranken die ze consumeren, en de energie die ze gebruiken bij lichamelijke activiteit. Het begrijpen van uw dagelijkse caloriebehoefte, die vaak afhangt van factoren zoals uw leeftijd (vind deze met onze <a href=\"/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Leeftijdscalculator</a>), is de eerste stap naar het bereiken van uw gewichtsdoelen, of dat nu afvallen, aankomen of uw huidige gewicht behouden is.",
+        "Onze calculator begint met het bepalen van uw basaal metabolisme (BMR), het aantal calorieën dat uw lichaam nodig heeft om basale levensondersteunende functies in rust uit te voeren, zoals ademhaling, bloedsomloop en celproductie. We gebruiken de algemeen aanvaarde Mifflin-St Jeor-vergelijking voor deze berekening. Vervolgens houden we rekening met uw activiteitsniveau om uw totale dagelijkse energieverbruik (TDEE) te berekenen, wat een nauwkeurigere schatting is van uw dagelijkse calorieverbranding."
+      ]
+    },
+    {
+      "heading": "Doelen stellen: gewichtsverlies, -toename of -behoud",
+      "paragraphs": [
+        "Zodra u uw TDEE (onderhoudscalorieën) kent, kunt u uw inname aanpassen om uw doelen te bereiken:",
+        "Om af te vallen, moet u minder calorieën consumeren dan uw TDEE, waardoor een calorietekort ontstaat. Een veilig en duurzaam tekort is doorgaans ongeveer 500 calorieën per dag om ongeveer 1 pond (0,5 kg) per week te verliezen.",
+        "Om aan te komen, moet u meer calorieën consumeren dan uw TDEE, waardoor een calorieoverschot ontstaat. Een overschot van 300-500 calorieën per dag is een goed uitgangspunt voor een gestage spiergroei met minimale vettoename.",
+        "Om uw gewicht te behouden, moet u streven naar een calorie-inname die gelijk is aan uw TDEE."
+      ]
+    },
+    {
+      "heading": "Hoe zit het met macronutriënten?",
+      "paragraphs": [
+        "Calorieën komen uit drie belangrijke macronutriënten: eiwitten, koolhydraten en vetten. Het balanceren van deze 'macro's' is de sleutel tot een gezond dieet.",
+        "Eiwit is cruciaal voor het opbouwen en herstellen van weefsels, inclusief spieren.",
+        "Koolhydraten zijn de primaire energiebron van uw lichaam.",
+        "Vetten zijn essentieel voor de hormoonproductie en het opnemen van vitaminen.",
+        "Onze calculator helpt u uw totale dagelijkse calorieën op te splitsen in grammen eiwit, koolhydraten en vet op basis van populaire dieetplannen. Dit geeft u een praktisch kader voor het samenstellen van maaltijden die aansluiten bij uw gezondheids- en fitnessdoelstellingen."
+      ]
+    }
+  ],
   "seoTimeTitle": "Tijdcalculator - Tijdsduren optellen en aftrekken",
   "seoTimeDescription": "Een gratis online tool om eenvoudig tijdsduren op te tellen of af te trekken. Bereken dagen, uren, minuten en seconden met precisie. Ideaal voor projectmanagement, tijdregistratie en dagelijkse berekeningen.",
   "timeTitle": "Tijdcalculator",
@@ -317,7 +338,7 @@
     {
       "heading": "Hoe de Tijdcalculator te gebruiken",
       "paragraphs": [
-        "Onze Tijdcalculator vereenvoudigt het proces van het optellen en aftrekken van tijd. Of u nu werkuren bijhoudt, trainingssessies registreert of een evenement plant, deze tool biedt een snelle en nauwkeurige oplossing. Voor het berekenen van de duur tussen een start- en eindtijd, zoals voor een urenstaat, is onze <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Urencalculator</a> ook beschikbaar. Voer eenvoudig twee tijdsduren in, selecteer of u ze wilt optellen of aftrekken en krijg direct het resultaat.",
+        "Onze Tijdcalculator vereenvoudigt het proces van het optellen en aftrekken van tijd. Of u nu werkuren bijhoudt, trainingssessies registreert of een evenement plant, deze tool biedt een snelle en nauwkeurige oplossing. Voor het berekenen van de duur tussen een start- en eindtijd, zoals voor een urenstaat, is onze <a href=\"/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Urencalculator</a> ook beschikbaar. Voer eenvoudig twee tijdsduren in, selecteer of u ze wilt optellen of aftrekken en krijg direct het resultaat.",
         "De calculator splitst de tijd op in dagen, uren, minuten en seconden. Zorg er bij het aftrekken voor dat de eerste tijdsduur groter is dan of gelijk is aan de tweede om negatieve resultaten te voorkomen."
       ]
     },
@@ -344,161 +365,46 @@
   "minuteLabel": "Minuut",
   "calculateHoursButton": "Bereken Duur",
   "resultDurationLabel": "Berekende Duur",
-  "resultInMinutes": "in totaal minuten",
-  "resultHours": "uren",
+  "resultInHours": "in totaal aantal uren",
+  "resultInMinutes": "in totaal aantal minuten",
+  "resultHours": "uur",
   "resultMinutes": "minuten",
   "seoHoursSections": [
     {
-      "heading": "Hoe de Urencalculator te gebruiken",
+      "heading": "Hoe de Urencalculator te Gebruiken",
       "paragraphs": [
-        "Onze Urencalculator is ontworpen om het berekenen van de duur tussen twee tijdstippen te vereenvoudigen. Of u nu werkuren berekent, de duur van een evenement, of de tijd die aan een taak is besteed, deze tool biedt een snel en nauwkeurig resultaat. Voor complexere berekeningen die het optellen of aftrekken van meerdere duren inhouden, bekijk onze uitgebreide <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Tijdcalculator</a>. Voer eenvoudig de start- en eindtijden in, en de calculator doet de rest, en behandelt ook gevallen die over middernacht gaan."
+        "Onze Urencalculator is ontworpen om de berekening van de duur tussen twee tijdstippen te vereenvoudigen. Of u nu werkuren berekent, de lengte van een evenement, of de tijd die aan een taak is besteed, deze tool biedt een snel en nauwkeurig resultaat. Voor complexere berekeningen met het optellen of aftrekken van meerdere tijdsduren, bekijk onze uitgebreide <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Tijdcalculator</a>. Voer eenvoudig de start- en eindtijden in, en de calculator doet de rest, inclusief het afhandelen van gevallen die middernacht overschrijden."
       ]
     },
     {
-      "heading": "Praktische toepassingen",
+      "heading": "Praktische Toepassingen",
       "paragraphs": [
-        "Deze tool is uiterst nuttig in verschillende scenario's:",
+        "Deze tool is uiterst nuttig in diverse scenario's:",
         "Berekenen van Werkuren: Bereken eenvoudig dagelijkse of wekelijkse werkuren voor urenstaten.",
         "Evenementenplanning: Bepaal de duur van vergaderingen, afspraken en evenementen.",
-        "Activiteiten volgen: Monitor de tijd die u besteedt aan hobby's, studies of lichaamsbeweging."
+        "Activiteiten-tracking: Monitor de tijd die u besteedt aan hobby's, studies of lichaamsbeweging."
       ]
     }
   ],
-  "navDateCalculator": "Datumcalculator",
-  "homeDateCalculatorDescription": "Voeg dagen, weken, maanden en jaren toe aan of trek ze af van een specifieke datum.",
-  "seoDateTitle": "Datumcalculator - Optellen en aftrekken van datums",
-  "seoDateDescription": "Een gratis online tool om jaren, maanden, weken en dagen op te tellen bij of af te trekken van een startdatum. Perfect voor het plannen van evenementen en deadlines.",
-  "dateTitle": "Datumcalculator",
-  "dateSubheading": "Voeg een duur toe aan of trek deze af van een specifieke datum.",
-  "startDateLabel": "Startdatum",
-  "addDurationLabel": "Duur toevoegen",
-  "subtractDurationLabel": "Duur aftrekken",
-  "calculateDateButton": "Bereken Datum",
-  "resultDateLabel": "Resulterende Datum",
-  "seoDateSections": [
-    {
-      "heading": "Hoe de Datumcalculator te gebruiken",
-      "paragraphs": [
-        "Onze Datumcalculator is ontworpen om het optellen of aftrekken van tijdsperioden van een specifieke datum te vereenvoudigen. Of u nu een toekomstig evenement plant, een deadline stelt, of terugkijkt op een datum in het verleden, deze tool biedt snelle en nauwkeurige berekeningen. Voer eenvoudig een startdatum in en geef vervolgens het aantal jaren, maanden, weken en dagen op dat u wilt optellen of aftrekken. De calculator houdt rekening met details zoals schrikkeljaren en verschillende maandlengtes om nauwkeurigheid te garanderen.",
-        "Deze tool vult onze andere op tijd gebaseerde hulpprogramma's aan. U kunt bijvoorbeeld onze <a href='#/{currentLang}/age-calculator' class='text-blue-500 hover:underline'>Leeftijdscalculator</a> gebruiken om iemands leeftijd te bepalen, of onze <a href='#/{currentLang}/hours-calculator' class='text-blue-500 hover:underline'>Urencalculator</a> om de duur tussen twee tijdstippen op dezelfde dag te vinden. Voor berekeningen met meerdere tijdsduren is onze <a href='#/{currentLang}/time-Calculator' class='text-blue-500 hover:underline'>Tijdcalculator</a> de perfecte keuze."
-      ]
-    },
-    {
-      "heading": "Praktische toepassingen en voorbeelden",
-      "paragraphs": [
-        "De Datumcalculator is ongelooflijk nuttig in een verscheidenheid aan dagelijkse, persoonlijke en professionele scenario's:",
-        "<strong>Persoonlijke planning:</strong> Vraagt u zich af welke datum het over 90 dagen is voor uw vakantie? Of misschien wilt u weten wanneer er 6 maanden zijn verstreken sinds een jubileum.",
-        "<strong>Projectmanagement:</strong> Stel eenvoudig projectdeadlines in. Als een project op 15 januari begint en 8 weken en 3 dagen duurt, kunt u direct de exacte einddatum vinden.",
-        "<strong>Gezondheidsafspraken:</strong> Houd medische afspraken of medicatieschema's bij. Als u 3 maanden na een afspraak een vervolgafspraak moet plannen, geeft deze tool u de precieze datum.",
-        "<strong>Financiële planning:</strong> Bereken vervaldata voor leningen of investeringsplannen die een specifiek aantal jaren en maanden beslaan.",
-        "<strong>Zwangerschapsplanning:</strong> Hoewel onze <a href='#/{currentLang}/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Zwangerschapscalculator</a> gedetailleerde schattingen van de uitgerekende datum geeft, kan deze tool worden gebruikt voor snelle berekeningen over specifieke data tijdens de zwangerschap."
-      ]
-    }
-  ],
-  "navBmiCalculator": "BMI Calculator",
-  "homeBmiCalculatorDescription": "Bereken uw Body Mass Index om uw gewichtsgezondheid te begrijpen.",
-  "seoBmiTitle": "Body Mass Index (BMI) Calculator - Controleer uw Gewichtsgezondheid",
-  "seoBmiDescription": "Gebruik onze gratis en nauwkeurige Body Mass Index calculator om uw lichaamsvet te schatten op basis van uw lengte en gewicht. Ontdek of u een gezond gewicht heeft.",
-  "bmiTitle": "Body Mass Index (BMI) Calculator",
-  "bmiSubheading": "Bereken uw BMI om uw gewichtsstatus te beoordelen.",
-  "calculateBmiButton": "Bereken BMI",
-  "bmiResultLabel": "Uw BMI is",
-  "bmiCategoryLabel": "Uw categorie is:",
-  "underweight": "Ondergewicht",
-  "normalWeight": "Normaal gewicht",
-  "overweight": "Overgewicht",
-  "obesity": "Obesitas",
-  "seoBmiSections": [
-    {
-      "heading": "Wat is BMI en hoe werkt het?",
-      "paragraphs": [
-        "De Body Mass Index (BMI) is een eenvoudige meting die uw lengte en gewicht gebruikt om uw lichaamsvet te schatten. Het is een veelgebruikt en gangbaar screeningsinstrument om te bepalen of iemands gewicht binnen een gezond bereik valt. De basisformule is gewicht in kilogram gedeeld door het kwadraat van de lengte in meters (kg/m²). Onze calculator automatiseert dit proces om u een snel en nauwkeurig resultaat te geven.",
-        "Het begrijpen van uw BMI is een belangrijke eerste stap naar een gezond gewichtsbeheer. Het kan u helpen realistische doelen te stellen, of u nu uw huidige gewicht wilt behouden of veranderen. Om uw gewicht effectief te beheren, is het ook cruciaal om uw energiebehoefte te begrijpen, die u kunt berekenen met onze <a href=\"#/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Caloriecalculator</a>."
-      ]
-    },
-    {
-      "heading": "BMI-resultaten begrijpen (categorieën)",
-      "paragraphs": [
-        "Nadat u uw BMI heeft berekend, wordt het resultaat ingedeeld in specifieke categorieën om u te helpen uw gezondheidsstatus te begrijpen. De standaardcategorieën voor volwassenen zijn:",
-        "<strong>Onder 18.5:</strong> Ondergewicht. Dit kan erop wijzen dat u niet genoeg voedingsstoffen binnenkrijgt of een teken kan zijn van een onderliggende gezondheidstoestand.",
-        "<strong>18.5 – 24.9:</strong> Normaal gewicht. Dit bereik suggereert dat u een gezond gewicht heeft voor uw lengte, wat het risico op chronische ziekten vermindert.",
-        "<strong>25.0 – 29.9:</strong> Overgewicht. In deze categorie kunt u een verhoogd risico hebben op het ontwikkelen van bepaalde gezondheidsproblemen zoals hartaandoeningen en diabetes type 2.",
-        "<strong>30.0 en hoger:</strong> Obesitas. Obesitas verhoogt het risico op ernstige gezondheidsproblemen aanzienlijk en vereist speciale aandacht door middel van levensstijlveranderingen en overleg met een zorgverlener."
-      ]
-    },
-    {
-      "heading": "Het belang van het behouden van een gezonde BMI",
-      "paragraphs": [
-        "Het behouden van een BMI binnen het normale bereik (18.5-24.9) is van vitaal belang voor de algehele gezondheid. Overgewicht of obesitas is gekoppeld aan een verhoogd risico op tal van chronische ziekten, waaronder hoge bloeddruk, hartaandoeningen, beroertes, diabetes type 2 en bepaalde vormen van kanker. Aan de andere kant kan ondergewicht ook leiden tot gezondheidsproblemen zoals een verzwakt immuunsysteem, osteoporose en vruchtbaarheidsproblemen. Daarom is het bereiken en behouden van een gezond gewicht een belangrijk onderdeel van een gezonde levensstijl."
-      ]
-    },
-    {
-      "heading": "Beperkingen van BMI",
-      "paragraphs": [
-        "Hoewel BMI een nuttig screeningsinstrument is, is het niet zonder beperkingen. Het maakt geen onderscheid tussen vetmassa en spiermassa. Dit betekent dat zeer gespierde personen, zoals atleten, een hoge BMI kunnen hebben en als overgewicht kunnen worden geclassificeerd ondanks een laag lichaamsvetpercentage.",
-        "Bovendien kan de interpretatie van BMI worden beïnvloed door factoren als leeftijd en geslacht. Bijvoorbeeld, oudere volwassenen die spiermassa hebben verloren, kunnen een gezond lichaamsvetpercentage hebben, zelfs als hun BMI normaal is. U kunt ontdekken hoe uw lichaam in de loop van de tijd verandert met onze <a href=\"#/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Leeftijdscalculator</a>. Om deze redenen moet BMI worden gebruikt als onderdeel van een uitgebreide gezondheidsbeoordeling en niet als een op zichzelf staand diagnostisch hulpmiddel."
-      ]
-    },
-    {
-      "heading": "Hoe u uw BMI kunt verbeteren",
-      "paragraphs": [
-        "Als uw BMI-resultaat buiten het normale bereik valt, zijn er stappen die u kunt nemen om het te verbeteren. Dit omvat meestal een combinatie van een uitgebalanceerd dieet en regelmatige lichaamsbeweging. Het stellen van realistische en geleidelijke doelen kan u helpen een gezond gewicht te bereiken en te behouden. Onze <a href=\"#/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Caloriecalculator</a> kan een geweldig hulpmiddel zijn om u te helpen uw dieet te plannen.",
-        "Het is ook belangrijk om andere gezondheidsproblemen in overweging te nemen. Bijvoorbeeld, het behouden van een gezonde BMI is bijzonder belangrijk tijdens de zwangerschap, en u kunt uw voortgang volgen met onze <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Zwangerschapscalculator</a>. We raden altijd aan om een zorgverlener of een geregistreerde diëtist te raadplegen om een persoonlijk plan te ontwikkelen dat past bij uw individuele behoeften."
-      ]
-    }
-  ],
-  "navStopwatch": "Stopwatch",
-  "homeStopwatchDescription": "Meet de verstreken tijd met precisie met behulp van rondes en een duidelijk display.",
-  "seoStopwatchTitle": "Gratis Online Stopwatch met Rondes",
-  "seoStopwatchDescription": "Een eenvoudige, nauwkeurige en gratis online stopwatch met ronde-functionaliteit. Perfect voor sport, trainingen en het timen van elke activiteit.",
-  "stopwatchTitle": "Stopwatch",
-  "stopwatchSubheading": "Meet de verstreken tijd met precisie.",
-  "startButton": "Start",
-  "stopButton": "Stop",
-  "lapButton": "Ronde",
-  "lapColumnHeader": "Ronde",
-  "timeColumnHeader": "Tijd",
-  "seoStopwatchSections": [
-    {
-      "heading": "Hoe de Online Stopwatch te gebruiken",
-      "paragraphs": [
-        "Onze online stopwatch is een eenvoudig en nauwkeurig hulpmiddel voor het meten van de verstreken tijd. Met slechts één klik kunt u de timer starten en stoppen om elke activiteit te volgen met een nauwkeurigheid tot op de honderdste van een seconde. De 'Ronde'-functie stelt u in staat om tussentijden op te nemen zonder de hoofdtimer te onderbreken, wat perfect is voor het bijhouden van prestaties over meerdere intervallen. Als u klaar bent, wist de 'Reset'-knop de timer en alle opgenomen rondes, zodat u klaar bent voor de volgende timingsessie.",
-        "Hoewel een stopwatch uitstekend is voor het meten van de duur vanaf een startpunt, is onze <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Urencalculator</a> het perfecte hulpmiddel als u de tijd tussen een specifieke start- en eindtijd moet berekenen (zoals voor een urenstaat)."
-      ]
-    },
-    {
-      "heading": "Praktische toepassingen voor een Stopwatch",
-      "paragraphs": [
-        "Een stopwatch is een ongelooflijk veelzijdig hulpmiddel met tal van toepassingen in het dagelijks leven, sport en professionele omgevingen:",
-        "Als u berekeningen moet uitvoeren met uw opgenomen rondetijden, zoals het optellen ervan, kan onze <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Tijdcalculator</a> die bewerkingen met gemak aan."
-      ],
-      "list": [
-        "<strong>Sport en Fitness:</strong> Rondetijden timen voor hardlopen, zwemmen of fietsen, en rustperiodes meten tussen trainingssets.",
-        "<strong>Koken en Bakken:</strong> Recepten nauwkeurig timen, van het trekken van thee tot het bakken van een cake.",
-        "<strong>Studeren en Productiviteit:</strong> Technieken zoals de Pomodoro Techniek gebruiken, die gerichte werkintervallen omvat die met een stopwatch worden getimed.",
-        "<strong>Tests en Presentaties:</strong> Toespraken oefenen of examens timen om het tempo en de prestaties te verbeteren."
-      ]
-    }
-  ],
-  "navRoofingCalculator": "Dakbedekking Calculator",
-  "homeRoofingCalculatorDescription": "Bereken de benodigde materialen en kosten voor uw dakproject.",
-  "seoRoofingTitle": "Dakbedekking Calculator - Bereken Materialen & Kosten",
+  "navRoofingCalculator": "Dakcalculator",
+  "homeRoofingCalculatorDescription": "Bereken de materialen en kosten voor uw dakproject.",
+  "seoRoofingTitle": "Dakcalculator - Bereken Materiaal & Kosten",
   "seoRoofingDescription": "Een gratis online tool om de benodigde hoeveelheid dakbedekking en de geschatte kosten voor uw project te berekenen op basis van afmetingen en dakhelling.",
-  "roofingTitle": "Dakbedekking Calculator",
+  "roofingTitle": "Dakcalculator",
   "roofingSubheading": "Bereken de benodigde materialen en kosten voor uw dak.",
   "totalAreaMethod": "Op basis van totale oppervlakte",
   "groundDimensionsMethod": "Op basis van grondafmetingen",
   "totalAreaLabel": "Totale dakoppervlakte",
-  "buildingLengthLabel": "Lengte gebouw",
-  "buildingWidthLabel": "Breedte gebouw",
+  "buildingLengthLabel": "Gebouwlengte",
+  "buildingWidthLabel": "Gebouwbreedte",
   "roofPitchLabel": "Dakhelling",
-  "roofingPitchTooltip": "Voer de dakhelling in als een verhouding (bv. 4:12) of in graden (bv. 18.4). Voor een plat dak, gebruik 0.",
-  "wasteFactorLabel": "Verliesfactor (%)",
+  "roofingPitchTooltip": "Voer de dakhelling in als een verhouding (bijv. 4:12) of in graden (bijv. 18.4). Voor een plat dak, gebruik 0.",
+  "wasteFactorLabel": "Snijverlies (%)",
   "pricePerUnitLabel": "Prijs per eenheid",
   "calculateRoofingButton": "Bereken Dakbedekking",
   "resultsTitle": "Uw resultaten",
-  "baseRoofAreaResult": "Basisoppervlakte dak",
-  "totalRoofAreaResult": "Totaal dakoppervlak (incl. verlies)",
+  "baseRoofAreaResult": "Basis dakoppervlakte",
+  "totalRoofAreaResult": "Totaal oppervlak (incl. snijverlies)",
   "materialsNeededResult": "Benodigde materialen",
   "totalCostResult": "Geschatte totale kosten",
   "sqmUnit": "m²",
@@ -507,55 +413,56 @@
   "roofPitchTypeLabel": "Type dakhelling",
   "pitchRatio": "Verhouding",
   "pitchDegrees": "Graden",
-  "roundUpLabel": "Afronden naar boven (hele eenheden)",
-  "errorInvalidPitch": "Ongeldige dakhelling. Voer een verhouding in (bv. 4:12) of graden (bv. 18.4).",
+  "roundUpLabel": "Afronden naar hele eenheden",
+  "errorInvalidPitch": "Ongeldige dakhelling. Voer een verhouding (bijv. 4:12) of graden (bijv. 18.4) in.",
   "materialTypeLabel": "Materiaaltype",
   "shingles": "Shingles (~€15/m²)",
   "epdm": "EPDM (~€20/m²)",
   "roofTiles": "Dakpannen (~€30/m²)",
   "metal": "Metaal (~€25/m²)",
   "customPrice": "Aangepaste prijs",
-  "wasteAmountResult": "Toeslag voor verlies",
+  "wasteAmountResult": "Toeslag voor snijverlies",
   "roofingPitchRatioPlaceholder": "bijv. 4:12",
-  "roofingPitchDegreesPlaceholder": "bijv. 30",
+  "roofingPitchDegreesPlaceholder": "bijv. 18.4",
   "seoRoofingSections": [
     {
-      "heading": "Hoe werkt de Dakbedekking Calculator?",
+      "heading": "Hoe Onze Professionele Dakcalculator Werkt",
       "paragraphs": [
-        "Vraagt u zich af: 'hoeveel dakbedekking heb ik nodig?' Onze gratis online tool helpt u snel en nauwkeurig de benodigde materialen en kosten te schatten. Of u nu een professional bent die een offerte voorbereidt of een doe-het-zelver die een project plant, het correct <strong>dakmateriaal berekenen</strong> is essentieel. Voer simpelweg de afmetingen van uw gebouw en de dakhelling in, of de totale dakoppervlakte als u die al weet. De calculator doet de rest."
+        "Onze gratis <strong>Dakcalculator</strong> helpt u snel de dakoppervlakte, materialen en kosten te schatten. Deze uitgebreide <strong>dakschatter</strong> is perfect voor zowel doe-het-zelvers als professionele aannemers. Voer gewoon uw afmetingen en helling in—of de totale oppervlakte—en krijg direct resultaten voor uw project."
       ]
     },
     {
-      "heading": "Praktische tips voor een nauwkeurige schatting",
+      "heading": "Praktische Tips voor een Nauwkeurige Schatting",
       "paragraphs": [
-        "Een goede voorbereiding is het halve werk. Gebruik deze tips om uw <strong>dakoppervlakte uit te rekenen</strong> en uw project succesvol te maken:"
+        "Een succesvol project begint met een nauwkeurig plan. Gebruik deze tips om ervoor te zorgen dat uw <strong>berekening van de dakbedekking</strong> nauwkeurig is:"
       ],
       "list": [
-        "<strong>Meet nauwkeurig:</strong> Zorg ervoor dat u de exacte lengte en breedte van het dak hebt. Een correcte <strong>dakoppervlakte meten</strong> is de basis voor elke berekening.",
-        "<strong>Kies de juiste verspillingsfactor:</strong> Complexe daken met veel hoeken, dakkapellen of schoorstenen hebben een hogere verspillingsfactor nodig. Reken voor de zekerheid op 10-15% extra materiaal.",
-        "<strong>Denk aan materiaalkeuze:</strong> Elk materiaal heeft een andere prijs en levensduur. Lees meer over de verschillende <a href='#' class='text-blue-500 hover:underline'>soorten dakbedekking</a> en vergelijk de <a href='#' class='text-blue-500 hover:underline'>prijzen voor dakmaterialen</a> voordat u een definitieve keuze maakt.",
-        "<strong>Controleer de installatievereisten:</strong> Sommige materialen vereisen specifieke technieken. Raadpleeg een <a href='#' class='text-blue-500 hover:underline'>installatiegids</a> om verrassingen te voorkomen."
+        "<strong>Meet Nauwkeurig:</strong> Controleer de lengte en breedte van het dakoppervlak dubbel. Een nauwkeurige meting is de basis van elke berekening.",
+        "<strong>Kies de Juiste Snijverliesfactor:</strong> Eenvoudige daken hebben mogelijk slechts 5-10% extra nodig voor snijverlies, maar complexe daken met veel hoeken, dakkapellen of schoorstenen vereisen een hogere factor, vaak rond de 15%.",
+        "<strong>Overweeg uw Materiaalkeuze:</strong> Elk materiaal (shingles, metaal, pannen, EPDM) heeft een andere prijs en installatiecomplexiteit. Onze tool stelt u in staat om kosten te vergelijken om een weloverwogen beslissing te nemen.",
+        "<strong>Controleer Lokale Vereisten:</strong> Sommige gebieden hebben specifieke bouwvoorschriften of vereisten. Raadpleeg altijd de lokale richtlijnen voordat u begint."
       ]
     },
     {
       "heading": "Veelgestelde Vragen (FAQ)",
       "paragraphs": [
-        "<strong>Vraag: Hoe bereken ik hoeveel dakbedekking ik nodig heb?</strong><br>Antwoord: De basisformule is de lengte maal de breedte van het dakoppervlak, aangepast voor de helling, plus een verspillingsfactor (meestal 10-15%). Onze tool automatiseert dit proces voor u.",
-        "<strong>Vraag: Wat is een goede verspillingfactor voor een schuin dak?</strong><br>Antwoord: Voor een eenvoudig zadeldak is 10% vaak voldoende. Voor complexere daken met hoeken of dakkapellen, is het veiliger om 15% aan te houden.",
-        "<strong>Vraag: In welke eenheden wordt dakbedekking berekend?</strong><br>Antwoord: In Europa wordt meestal gerekend in vierkante meters (m²). In de Verenigde Staten is de 'square' (100 vierkante voet) een veelgebruikte eenheid. Onze calculator ondersteunt zowel metrische als imperiale eenheden."
+        "<strong>V: Werkt dit als een dak kostencalculator?</strong><br>A: Ja! Nadat u het benodigde materiaal hebt bepaald, kunt u de prijs per eenheid (m² of square) invoeren om een directe kostenraming voor uw project te krijgen.",
+        "<strong>V: Hoeveel dakbedekking heb ik nodig voor mijn project?</strong><br>A: De basisformule omvat het berekenen van de totale oppervlakte van het dak op basis van de afmetingen en helling, en vervolgens het toevoegen van een snijverliesfactor (meestal 10-15%). Onze tool automatiseert dit hele proces voor u.",
+        "<strong>V: Wat is een 'roofing square'?</strong><br>A: Een 'roofing square' is een veelgebruikte imperiale eenheid in de Verenigde Staten, gelijk aan 100 vierkante voet. Onze calculator kan resultaten geven in zowel squares als vierkante meters (m²).",
+        "<strong>V: Kunt u een praktisch voorbeeld geven?</strong><br>A: Zeker! Voor een gebouw van 10m × 5m (ongeveer 32.8ft × 16.4ft) met een 4:12 helling, is de geschatte dakoppervlakte 52.7 m² (of 567 sq ft). Met een snijverliesfactor van 10% heeft u ongeveer 58 m² materiaal nodig, wat overeenkomt met 6.24 roofing squares."
       ]
     },
     {
-      "heading": "Begin Vandaag Nog met Plannen",
+      "heading": "Krijg nu uw dakschatting!",
       "paragraphs": [
-        "Bereken vandaag nog uw dakoppervlak met onze gratis tool en vermijd onnodige kosten. Een nauwkeurige schatting helpt u om binnen uw budget te blijven en zorgt ervoor dat u voldoende materiaal heeft om de klus te klaren."
+        "Probeer onze Dakcalculator nu en krijg een directe dakschatting! Vermijd onnodige kosten en zorg ervoor dat u de juiste hoeveelheid materiaal heeft om de klus goed te klaren."
       ]
     }
   ],
   "navConcreteCalculator": "Betoncalculator",
-  "homeConcreteCalculatorDescription": "Bereken het volume en de benodigde materialen voor uw betonproject.",
+  "homeConcreteCalculatorDescription": "Schat de benodigde hoeveelheid en materialen voor uw betonproject.",
   "seoConcreteTitle": "Professionele Betoncalculator - Volume, Zakken & Kosten",
-  "seoConcreteDescription": "Een online betoncalculator om het volume, zakken cement, zand, grind en de totale kosten te schatten voor platen, funderingen, kolommen en trappen. Ondersteunt metrische en imperiale eenheden.",
+  "seoConcreteDescription": "Een online betoncalculator om het volume, de zakken cement, zand, grind en de totale kosten voor platen, funderingen, kolommen en trappen te schatten. Ondersteunt metrische en imperiale eenheden.",
   "concreteTitle": "Professionele Betoncalculator",
   "concreteSubheading": "Schat het volume, de materialen en de kosten voor uw project.",
   "shapeLabel": "Vorm",
@@ -570,17 +477,16 @@
   "depthLabel": "Diepte",
   "heightLabel": "Hoogte",
   "diameterLabel": "Diameter",
-  "stepsLabel": "Aantal treden",
+  "stepsLabel": "Aantal Treden",
   "riserLabel": "Optrede",
   "treadLabel": "Aantrede",
   "calculateConcreteButton": "Bereken Beton",
-  "resultsTitle": "Berekeningsresultaten",
   "concreteVolumeResult": "Totaal Betonvolume",
   "concreteWithWasteResult": "Volume (incl. verlies)",
-  "cementBagsResult": "Zakken Cement",
+  "cementBagsResult": "Cementzakken",
   "sandRequiredResult": "Benodigd Zand",
   "gravelRequiredResult": "Benodigd Grind",
-  "bagSizeLabel": "Grootte Zak",
+  "bagSizeLabel": "Zakgrootte",
   "kgBag": "kg",
   "lbsBag": "lbs",
   "concreteMixRatioLabel": "Mengverhouding (Cement:Zand:Grind)",
@@ -589,13 +495,13 @@
   "pricePerBagLabel": "Prijs per Zak",
   "pricePerSandLabel": "Prijs per {unit} Zand",
   "pricePerGravelLabel": "Prijs per {unit} Grind",
-  "cementCostResult": "Kosten Cement",
-  "sandCostResult": "Kosten Zand",
-  "gravelCostResult": "Kosten Grind",
+  "cementCostResult": "Cementkosten",
+  "sandCostResult": "Zandkosten",
+  "gravelCostResult": "Grindkosten",
   "totalCostResult": "Totale Kosten",
   "concreteResetButton": "Reset",
   "wasteFactorTooltip": "De verliesfactor houdt rekening met morsen en bekistingsvariaties. 5-10% is gebruikelijk.",
-  "mixRatioTooltip": "Geeft de volumeverhouding van cement, zand en grind weer. 1:2:4 is een veelgebruikte mix voor algemeen beton.",
+  "mixRatioTooltip": "Geeft de volumeverhouding van cement tot zand tot grind weer. 1:2:4 is een gebruikelijke mix voor algemeen beton.",
   "mixRatioLabel": "Mengverhouding",
   "mixRatio_1_1_5_3": "1:1.5:3 (Hoge Sterkte)",
   "mixRatio_1_2_4": "1:2:4 (Standaard)",
@@ -607,24 +513,36 @@
   "transportationCostResult": "Transport",
   "seoConcreteSections": [
     {
-      "heading": "Hoe werkt onze online betoncalculator?",
+      "heading": "Hoe Onze Professionele Betoncalculator te Gebruiken",
       "paragraphs": [
-        "Onze <strong>online betoncalculator</strong> maakt het plannen van uw project eenvoudig. Of u nu een plaat, fundering of kolom stort, deze tool helpt u de exacte <strong>hoeveelheid beton te berekenen</strong> die nodig is. Selecteer eenvoudig de vorm, voer de afmetingen in en onze calculator geeft een gedetailleerde uitsplitsing van de <strong>cement-, zand- en grindverhouding</strong>. Deze calculator is geoptimaliseerd voor mobiel gebruik, zodat u direct op de bouwplaats materialen kunt schatten."
+        "Onze <strong>online betoncalculator met kostenschatting</strong> maakt het plannen van uw project eenvoudig en nauwkeurig. Of u nu een plaat, fundering of kolom stort, deze tool helpt u het precieze benodigde betonvolume te bepalen, inclusief materialen zoals cement, zand en grind. Selecteer eenvoudig de vorm van uw stort, voer de afmetingen in metrische of imperiale eenheden in, en onze <strong>betonmengverhoudingcalculator</strong> geeft een gedetailleerde uitsplitsing.",
+        "De calculator houdt ook rekening met een verliesfactor en stelt u in staat materiaalkosten in te voeren om een volledig financieel overzicht van uw project te krijgen. Dit zorgt ervoor dat u de juiste hoeveelheid materialen koopt, wat u tijd en geld bespaart."
       ]
     },
     {
-      "heading": "Betonmengsels en materialen begrijpen",
+      "heading": "Betonmengsels en Materialen Begrijpen",
       "paragraphs": [
-        "De <strong>verhouding</strong> van de componenten bepaalt de sterkte van het beton. Onze calculator stelt u in staat om uit gebruikelijke verhoudingen te kiezen. De onderstaande tabel geeft een snelle gids voor het aantal zakken cement per kubieke meter:",
-        "<table class='w-full text-left border-collapse mt-4'><thead><tr class='bg-gray-100 dark:bg-gray-700'><th class='p-2 border dark:border-gray-600'>Verhouding (C:Z:G)</th><th class='p-2 border dark:border-gray-600'>Gebruik</th><th class='p-2 border dark:border-gray-600'>Zakken van 25kg per m³ (ong.)</th></tr></thead><tbody><tr><td class='p-2 border dark:border-gray-600'>1:1.5:3</td><td class='p-2 border dark:border-gray-600'>Hoge Sterkte</td><td class='p-2 border dark:border-gray-600'>16-18 zakken</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:2:4</td><td class='p-2 border dark:border-gray-600'>Standaard / Algemeen</td><td class='p-2 border dark:border-gray-600'>12-14 zakken</td></tr><tr><td class='p-2 border dark:border-gray-600'>1:3:6</td><td class='p-2 border dark:border-gray-600'>Funderingen / Vullingen</td><td class='p-2 border dark:border-gray-600'>8-10 zakken</td></tr></tbody></table>"
+        "Beton wordt gemaakt van drie basiscomponenten: cement, zand (fijn aggregaat) en grind (grof aggregaat), gemengd met water. De verhouding van deze componenten bepaalt de sterkte en eigenschappen van het uiteindelijke beton. Onze calculator stelt u in staat om te kiezen uit gebruikelijke mengverhoudingen:",
+        "Voor de meeste algemene projecten is een standaard 1:2:4 mix (1 deel cement, 2 delen zand, 4 delen grind) voldoende. We gebruiken industriestandaard bulkdichtheden en een conversiefactor van droog naar nat volume om het gewicht van elk benodigd materiaal nauwkeurig te schatten."
+      ],
+      "list": [
+        "<strong>1:1.5:3:</strong> Een sterke mix die wordt gebruikt voor toepassingen met hoge sterkte beton, zoals hangende platen of kolommen.",
+        "<strong>1:2:4:</strong> Een standaard, multifunctionele mix die geschikt is voor de meeste platen, funderingen en muren.",
+        "<strong>1:3:6:</strong> Een zwakkere, meer economische mix die vaak wordt gebruikt voor funderingen en massale betonvullingen."
       ]
     },
     {
       "heading": "Veelgestelde Vragen (FAQ)",
       "paragraphs": [
-        "<strong>V: Hoeveel beton heb ik nodig voor een vloer?</strong><br>A: Om het volume te berekenen, vermenigvuldigt u de lengte, breedte en dikte. Voor een vloer van 5m x 4m met een dikte van 10cm: 5m × 4m × 0.10m = 2 kubieke meter. Ons hulpmiddel voor <strong>beton berekenen</strong> automatiseert dit voor verschillende vormen.",
-        "<strong>V: Hoeveel zakken cement zijn er nodig per kubieke meter?</strong><br>A: Dit hangt af van de mengverhouding. Voor een standaardmengsel van 1:2:4 heeft u ongeveer 12-14 zakken (elk 25 kg) cement nodig per kubieke meter beton. De bovenstaande tabel geeft een snelle indicatie.",
-        "<strong>V: Wat is de standaard betonmengverhouding?</strong><br>A: Een verhouding van 1:2:4 wordt beschouwd als de standaardmix voor beton voor algemeen gebruik, geschikt voor de meeste residentiële projecten zoals vloeren, patio's en funderingen."
+        "<strong>V: Hoe bereken ik het betonvolume?</strong><br>A: Om het volume te berekenen, vermenigvuldigt u de lengte, breedte en dikte (of diepte) van het gebied dat u wilt vullen. Voor een plaat van 10 voet lang, 10 voet breed en 4 inch dik, zou de berekening zijn: 10 ft × 10 ft × (4/12) ft = 33.3 kubieke voet. Onze calculator automatiseert dit voor verschillende vormen.",
+        "<strong>V: Hoeveel cementzakken heb ik nodig per kubieke meter?</strong><br>A: Dit hangt af van de mengverhouding en de grootte van de zakken. Voor een standaard 1:2:4 mix heeft u doorgaans ongeveer 6-7 zakken (elk 50 kg) cement per kubieke meter beton nodig. Onze calculator geeft een precieze schatting op basis van uw specifieke invoer.",
+        "<strong>V: Wat is de standaard betonmengverhouding?</strong><br>A: Een 1:2:4 verhouding wordt algemeen beschouwd als de standaard mix voor algemeen beton, geschikt voor de meeste residentiële en commerciële projecten zoals vloeren, patio's en funderingen. Het biedt een goede balans tussen sterkte en verwerkbaarheid."
+      ]
+    },
+    {
+      "heading": "Plan Uw Project met Vertrouwen",
+      "paragraphs": [
+        "Gebruik nu onze gratis professionele betoncalculator om uw volgende bouwproject met vertrouwen te plannen. Krijg een nauwkeurige schatting van de benodigde materialen en kosten, wat een soepel en efficiënt proces van begin tot eind garandeert."
       ]
     }
   ]

@@ -61,7 +61,7 @@
     {
       "heading": "How Our Age Calculator Works",
       "paragraphs": [
-        "Our Age Calculator computes your age with high precision by comparing your date of birth with the current date. The tool calculates the total elapsed time and breaks it down into years, months, and days. It accounts for leap years to provide an accurate result, making it a reliable tool for anyone asking 'how old am I?'. Simply enter your birth date, and the calculator instantly displays your chronological age. For other time-related calculations, you can also try our <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a>."
+        "Our Age Calculator computes your age with high precision by comparing your date of birth with the current date. The tool calculates the total elapsed time and breaks it down into years, months, and days. It accounts for leap years to provide an accurate result, making it a reliable tool for anyone asking 'how old am I?'. Simply enter your birth date, and the calculator instantly displays your chronological age. For other time-related calculations, you can also try our <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a>."
       ]
     },
     {
@@ -136,7 +136,7 @@
     {
       "heading": "How Our Due Date Calculator Works",
       "paragraphs": [
-        "Our Pregnancy Due Date Calculator estimates your expected delivery date using several methods. The most common method is based on the first day of your last menstrual period (LMP). This approach, known as Naegele's rule, adds 280 days (40 weeks) to your LMP to predict the due date. For greater accuracy, especially with irregular cycles, you can use our <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstrual Cycle Calculator</a> to track your period. We also offer calculations based on the conception date, which can be pinpointed with our <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulation Calculator</a>, or your IVF transfer date.",
+        "Our Pregnancy Due Date Calculator estimates your expected delivery date using several methods. The most common method is based on the first day of your last menstrual period (LMP). This approach, known as Naegele's rule, adds 280 days (40 weeks) to your LMP to predict the due date. For greater accuracy, especially with irregular cycles, you can use our <a href=\"/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstrual Cycle Calculator</a> to track your period. We also offer calculations based on the conception date, which can be pinpointed with our <a href=\"/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulation Calculator</a>, or your IVF transfer date.",
         "It's important to remember that this date is an estimate. Only about 5% of babies are born on their exact due date. This tool provides a reliable guideline to help you and your healthcare provider plan for your baby's arrival."
       ]
     },
@@ -164,8 +164,8 @@
     {
       "heading": "How to Predict Your Most Fertile Days",
       "paragraphs": [
-        "Our Ovulation Calculator is a simple tool designed to help you predict your most fertile days of the month. By inputting the first day of your last period and your average cycle length, which you can track with our <a href=\"#/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstrual Cycle Calculator</a>, the calculator estimates your likely ovulation date. Ovulation is the release of an egg from your ovary, which typically happens about 14 days before your next period begins.",
-        "Your 'fertile window' includes the day of ovulation and the five days leading up to it. This is because sperm can survive in the female reproductive tract for up to five days. Having intercourse during this window significantly increases your chances of conception. Once pregnant, you can track your journey with our <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Due Date Calculator</a>."
+        "Our Ovulation Calculator is a simple tool designed to help you predict your most fertile days of the month. By inputting the first day of your last period and your average cycle length, which you can track with our <a href=\"/{currentLang}/Menstrual-Cycle-Calculator\" class=\"text-blue-500 hover:underline\">Menstrual Cycle Calculator</a>, the calculator estimates your likely ovulation date. Ovulation is the release of an egg from your ovary, which typically happens about 14 days before your next period begins.",
+        "Your 'fertile window' includes the day of ovulation and the five days leading up to it. This is because sperm can survive in the female reproductive tract for up to five days. Having intercourse during this window significantly increases your chances of conception. Once pregnant, you can track your journey with our <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Due Date Calculator</a>."
       ]
     },
     {
@@ -190,8 +190,8 @@
     {
       "heading": "How Our Period Calculator Works",
       "paragraphs": [
-        "Our Menstrual Cycle Calculator helps you predict the start date of your next period with just two pieces of information: the first day of your last period and your average menstrual cycle length. By adding your average cycle length to your last period's start date, the tool provides an estimated date for your next two periods. Knowing your cycle is also key to identifying fertile windows with our <a href=\"#/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulation Calculator</a>.",
-        "Tracking your cycle is more than just convenience; it's a key indicator of your overall health. Regular, predictable cycles often mean your body's hormones are functioning correctly. This information is invaluable for family planning, and once pregnant, our <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Due Date Calculator</a> can help estimate your due date."
+        "Our Menstrual Cycle Calculator helps you predict the start date of your next period with just two pieces of information: the first day of your last period and your average menstrual cycle length. By adding your average cycle length to your last period's start date, the tool provides an estimated date for your next two periods. Knowing your cycle is also key to identifying fertile windows with our <a href=\"/{currentLang}/ovulation-calculator\" class=\"text-blue-500 hover:underline\">Ovulation Calculator</a>.",
+        "Tracking your cycle is more than just convenience; it's a key indicator of your overall health. Regular, predictable cycles often mean your body's hormones are functioning correctly. This information is invaluable for family planning, and once pregnant, our <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Due Date Calculator</a> can help estimate your due date."
       ]
     },
     {
@@ -293,7 +293,7 @@
     {
       "heading": "Understanding Your Daily Calorie Needs",
       "paragraphs": [
-        "A calorie is a unit of energy. In nutrition, calories refer to the energy people get from the food and drink they consume, and the energy they use in physical activity. Understanding your daily calorie needs, which often depends on factors like your age (find it with our <a href=\"#/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Age Calculator</a>), is the first step towards achieving your weight goals, whether that's losing, gaining, or maintaining your current weight.",
+        "A calorie is a unit of energy. In nutrition, calories refer to the energy people get from the food and drink they consume, and the energy they use in physical activity. Understanding your daily calorie needs, which often depends on factors like your age (find it with our <a href=\"/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Age Calculator</a>), is the first step towards achieving your weight goals, whether that's losing, gaining, or maintaining your current weight.",
         "Our calculator starts by determining your Basal Metabolic Rate (BMR), which is the number of calories your body needs to perform basic life-sustaining functions at rest, such as breathing, circulation, and cell production. We use the widely accepted Mifflin-St Jeor equation for this calculation. Next, we factor in your activity level to calculate your Total Daily Energy Expenditure (TDEE), which is a more accurate estimate of your daily calorie burn."
       ]
     },
@@ -335,7 +335,7 @@
       "heading": "What is BMI and how does it work?",
       "paragraphs": [
         "The Body Mass Index (BMI) is a simple measurement that uses your height and weight to estimate your body fat. It is a widely used and common screening tool to determine if a person's weight falls within a healthy range. The basic formula is weight in kilograms divided by the square of height in meters (kg/m²). Our calculator automates this process to provide you with a quick and accurate result.",
-        "Understanding your BMI is an important first step towards healthy weight management. It can help you set realistic goals, whether you're aiming to maintain or change your current weight. To effectively manage your weight, it's also crucial to understand your energy needs, which you can calculate using our <a href=\"#/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calorie Calculator</a>."
+        "Understanding your BMI is an important first step towards healthy weight management. It can help you set realistic goals, whether you're aiming to maintain or change your current weight. To effectively manage your weight, it's also crucial to understand your energy needs, which you can calculate using our <a href=\"/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calorie Calculator</a>."
       ]
     },
     {
@@ -358,14 +358,14 @@
         "heading": "Limitations of BMI",
         "paragraphs": [
             "While BMI is a useful screening tool, it's not without its limitations. It does not distinguish between fat mass and muscle mass. This means that very muscular individuals, such as athletes, may have a high BMI and be classified as overweight despite having low body fat.",
-            "Additionally, the interpretation of BMI can be affected by factors like age and sex. For instance, older adults who have lost muscle mass may have a healthy body fat percentage even if their BMI is normal. You can explore how your body changes over time with our <a href=\"#/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Age Calculator</a>. For these reasons, BMI should be used as part of a comprehensive health assessment and not as a sole diagnostic tool."
+            "Additionally, the interpretation of BMI can be affected by factors like age and sex. For instance, older adults who have lost muscle mass may have a healthy body fat percentage even if their BMI is normal. You can explore how your body changes over time with our <a href=\"/{currentLang}/age-calculator\" class=\"text-blue-500 hover:underline\">Age Calculator</a>. For these reasons, BMI should be used as part of a comprehensive health assessment and not as a sole diagnostic tool."
         ]
     },
     {
         "heading": "How to Improve Your BMI",
         "paragraphs": [
-            "If your BMI result falls outside the normal range, there are steps you can take to improve it. This typically involves a combination of a balanced diet and regular physical activity. Setting realistic and gradual goals can help you achieve and maintain a healthy weight. Our <a href=\"#/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calorie Calculator</a> can be a great tool to help you plan your diet.",
-            "It's also important to consider other health conditions. For example, maintaining a healthy BMI is particularly important during pregnancy, and you can track your progress with our <a href=\"#/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Calculator</a>. We always recommend consulting a healthcare professional or a registered dietitian to develop a personalized plan that suits your individual needs."
+            "If your BMI result falls outside the normal range, there are steps you can take to improve it. This typically involves a combination of a balanced diet and regular physical activity. Setting realistic and gradual goals can help you achieve and maintain a healthy weight. Our <a href=\"/{currentLang}/Calorie-Calculator\" class=\"text-blue-500 hover:underline\">Calorie Calculator</a> can be a great tool to help you plan your diet.",
+            "It's also important to consider other health conditions. For example, maintaining a healthy BMI is particularly important during pregnancy, and you can track your progress with our <a href=\"/{currentLang}/Pregnancy-Due-Date-Calculator\" class=\"text-blue-500 hover:underline\">Pregnancy Calculator</a>. We always recommend consulting a healthcare professional or a registered dietitian to develop a personalized plan that suits your individual needs."
         ]
     }
   ],
@@ -389,7 +389,7 @@
     {
       "heading": "How to Use the Time Calculator",
       "paragraphs": [
-        "Our Time Calculator simplifies the process of adding and subtracting time. Whether you're tracking work hours, logging exercise sessions, or planning an event, this tool provides a quick and accurate solution. To calculate the duration between a start and end time, such as for a timesheet, our <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Hours Calculator</a> is also available. Simply input two time durations, select whether to add or subtract them, and get the result instantly.",
+        "Our Time Calculator simplifies the process of adding and subtracting time. Whether you're tracking work hours, logging exercise sessions, or planning an event, this tool provides a quick and accurate solution. To calculate the duration between a start and end time, such as for a timesheet, our <a href=\"/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Hours Calculator</a> is also available. Simply input two time durations, select whether to add or subtract them, and get the result instantly.",
         "The calculator breaks down the time into days, hours, minutes, and seconds. For subtraction, ensure the first time duration is greater than or equal to the second to avoid negative results."
       ]
     },
@@ -428,7 +428,7 @@
     {
       "heading": "How to Use the Hours Calculator",
       "paragraphs": [
-        "Our Hours Calculator is designed to simplify the calculation of duration between two points in time. Whether you're figuring out work hours, the length of an event, or time spent on a task, this tool provides a quick and accurate result. For more complex calculations involving adding or subtracting multiple durations, check out our comprehensive <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a>. Simply input the start and end times, and the calculator will do the rest, handling cases that cross midnight."
+        "Our Hours Calculator is designed to simplify the calculation of duration between two points in time. Whether you're figuring out work hours, the length of an event, or time spent on a task, this tool provides a quick and accurate result. For more complex calculations involving adding or subtracting multiple durations, check out our comprehensive <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a>. Simply input the start and end times, and the calculator will do the rest, handling cases that cross midnight."
       ]
     },
     {
@@ -457,7 +457,7 @@
       "heading": "How to Use the Date Calculator",
       "paragraphs": [
         "Our Date Calculator is designed to simplify adding or subtracting periods of time from a specific date. Whether you're planning a future event, setting a deadline, or looking at a date in the past, this tool provides quick and accurate calculations. Simply enter a start date, then specify the number of years, months, weeks, and days you want to add or subtract. The calculator accounts for details like leap years and varying month lengths to ensure accuracy.",
-        "This tool complements our other time-based utilities. For example, you can use our <a href='#/{currentLang}/age-calculator' class='text-blue-500 hover:underline'>Age Calculator</a> to determine someone's age, or our <a href='#/{currentLang}/hours-calculator' class='text-blue-500 hover:underline'>Hours Calculator</a> to find the duration between two times on the same day. For calculations involving multiple time durations, our <a href='#/{currentLang}/time-Calculator' class='text-blue-500 hover:underline'>Time Calculator</a> is the perfect choice."
+        "This tool complements our other time-based utilities. For example, you can use our <a href='/{currentLang}/age-calculator' class='text-blue-500 hover:underline'>Age Calculator</a> to determine someone's age, or our <a href='/{currentLang}/hours-calculator' class='text-blue-500 hover:underline'>Hours Calculator</a> to find the duration between two times on the same day. For calculations involving multiple time durations, our <a href='/{currentLang}/time-Calculator' class='text-blue-500 hover:underline'>Time Calculator</a> is the perfect choice."
       ]
     },
     {
@@ -468,7 +468,7 @@
         "<strong>Project Management:</strong> Easily set project deadlines. If a project starts on January 15th and takes 8 weeks and 3 days, you can instantly find the exact end date.",
         "<strong>Health Appointments:</strong> Keep track of medical appointments or medication schedules. If you need to schedule a follow-up 3 months after an appointment, this tool gives you the precise date.",
         "<strong>Financial Planning:</strong> Calculate due dates for loans or investment plans that span a specific number of years and months.",
-        "<strong>Pregnancy Planning:</strong> While our <a href='#/{currentLang}/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Pregnancy Calculator</a> provides detailed due date estimates, this tool can be used for quick calculations about specific dates during the term."
+        "<strong>Pregnancy Planning:</strong> While our <a href='/{currentLang}/Pregnancy-Due-Date-Calculator' class='text-blue-500 hover:underline'>Pregnancy Calculator</a> provides detailed due date estimates, this tool can be used for quick calculations about specific dates during the term."
       ]
     }
   ],
@@ -488,14 +488,14 @@
       "heading": "How to Use the Online Stopwatch",
       "paragraphs": [
           "Our online stopwatch is a simple and precise tool for measuring elapsed time. With just a click, you can start and stop the timer to track any activity with up to centisecond accuracy. The 'Lap' feature allows you to record split times without interrupting the main timer, which is perfect for tracking performance across multiple intervals. When you're finished, the 'Reset' button clears the timer and all recorded laps, getting you ready for the next timing session.",
-          "While a stopwatch is excellent for measuring duration from a starting point, if you need to calculate the time between a specific start and end time (like for a timesheet), our <a href=\"#/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Hours Calculator</a> is the perfect tool for that job."
+          "While a stopwatch is excellent for measuring duration from a starting point, if you need to calculate the time between a specific start and end time (like for a timesheet), our <a href=\"/{currentLang}/hours-calculator\" class=\"text-blue-500 hover:underline\">Hours Calculator</a> is the perfect tool for that job."
       ]
     },
     {
       "heading": "Practical Applications for a Stopwatch",
       "paragraphs": [
           "A stopwatch is an incredibly versatile tool with numerous applications in daily life, sports, and professional settings:",
-          "If you need to perform calculations with your recorded lap times, such as adding them together, our <a href=\"#/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a> can handle those operations with ease."
+          "If you need to perform calculations with your recorded lap times, such as adding them together, our <a href=\"/{currentLang}/time-Calculator\" class=\"text-blue-500 hover:underline\">Time Calculator</a> can handle those operations with ease."
       ],
       "list": [
           "<strong>Sports and Fitness:</strong> Timing laps for running, swimming, or cycling, and measuring rest periods between workout sets.",
@@ -595,6 +595,7 @@
   "widthLabel": "Width",
   "thicknessLabel": "Thickness",
   "depthLabel": "Depth",
+  "heightLabel": "Height",
   "diameterLabel": "Diameter",
   "stepsLabel": "Number of Steps",
   "riserLabel": "Riser Height",
